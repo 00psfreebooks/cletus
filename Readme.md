@@ -5,7 +5,7 @@ To-do:
 	- [x] get links from html
 	- [x] basic parsing check
 	- [ ] availability check (response code)
-	- [ ] blacklist check
+	- [x] blacklist check
 	- [ ] history check
 - [ ] make website
 	- [x] categories

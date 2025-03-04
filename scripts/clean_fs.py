@@ -1,7 +1,7 @@
 import os
 import shutil
 
-def delete_paths():
+def clean_fs():
     # Directories and file to remove
     paths_to_remove = ["tmp_html", "tmp_json", "__pycache__", "public", "resources"]
     file_to_remove = ".hugo_build.lock"
@@ -11,14 +11,14 @@ def delete_paths():
         for d in paths_to_remove:
             dir_path = os.path.join(root, d)
             if os.path.isdir(dir_path):
-                print(f"Deleting directory: {dir_path}")
+                #print(f"Deleting directory: {dir_path}")
                 shutil.rmtree(dir_path, ignore_errors=True)
         
         # Remove matching file
         file_path = os.path.join(root, file_to_remove)
         if os.path.isfile(file_path):
-            print(f"Deleting file: {file_path}")
+            #print(f"Deleting file: {file_path}")
             os.remove(file_path)
 
 if __name__ == "__main__":
-    delete_paths()
+    clean_fs()

@@ -1,4 +1,4 @@
-name: build and deploy hugo site
+name: Build and Deploy Hugo Site
 
 on:
   push:
@@ -13,44 +13,57 @@ jobs:
 
     steps:
 
-      - name: Git checkout
+      - name: Git Checkout
         uses: actions/checkout@v4
 
-      - name: Update theme
+      - name: Update Theme
         run: git submodule update --init --recursive
 
-      - name: Set up Python
+      - name: Set Up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Use a specific version of Python if needed
+          python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt  # Path to requirements.txt inside the scripts folder
 
       - name: Run get_links.py
-        run: python scripts/get_links.py  # Run your script
+        run: python scripts/get_links.py
 
-        # cleanup tmp folders for now until more effective history functions are made
-      - name: Remove tmp_json and tmp_html folders
-        run: |
-          rm -rf tmp_json tmp_html
-
-      - name: Setup hugo
+      - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build Hugo site
+      - name: Build Hugo Site
         run: hugo --minify
 
-      - name: Deploy
+      - name: Deploy Hugo Site to Published Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.BUILD_TOKEN }}
           external_repository: 00psfreebooks/cletus
           publish_dir: ./public
           publish_branch: published
-        #   cname: example.com
+
+      - name: Checkout Links History Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git fetch origin links_history || git branch links_history
+          git checkout links_history
+
+      - name: Copy JSON Files to Links History Branch
+        run: |
+          mkdir -p json_temp
+          cp tmp_json/*.json . 2>/dev/null || echo "No JSON files found."
+          git add *.json
+          git commit -m "Update JSON files in links_history" || echo "No changes to commit"
+          git push origin links_history
+
+      - name: Cleanup Temporary Folders
+        run: |
+          rm -rf tmp_json tmp_html

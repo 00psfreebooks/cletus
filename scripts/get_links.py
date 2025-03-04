@@ -1,12 +1,12 @@
 import requests
 import random
 import json
+import re
+import os
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-import os
 from links_dicts import link_dictionaries  # Importing link dictionaries from links_dict.py
 from gen_md import generate_markdown_from_json
-import re
 from handle_blacklists import is_blacklisted, clean_blacklists
 
 USER_AGENTS = [
@@ -109,7 +109,6 @@ def extract_hyperlinks(filename, base_url, links, blacklists_dir):
     
     return links_data
 
-
 def load_existing_links(filename):
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as file:
@@ -159,8 +158,7 @@ def save_links(links_data, category_name):
 skipped_sources = []
 
 def main():
-
-    print("Cleaning cleaing blacklists...")
+    print("Cleaning blacklists...")
     clean_blacklists
     print("Blacklist cleaned...")
 

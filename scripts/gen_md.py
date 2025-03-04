@@ -1,6 +1,7 @@
 import os
 import json
 import urllib.parse
+from urllib.parse import urlparse
 from datetime import datetime
 
 # Define the function to generate markdown files from json data
@@ -49,7 +50,10 @@ def generate_markdown_from_json(json_dir, output_dir):
                 if headline and link:
                     # Prepend the 12ft proxy URL
                     proxied_link = f"https://12ft.io/{link}"
-                    google_search_link = f"https://www.google.com/search?q={urllib.parse.quote_plus(headline)}"
+                    
+                    search_q = urlparse(link).netloc + " " + headline
+                    google_search_link = f"https://www.google.com/search?q={urllib.parse.quote_plus(search_q)}"
+
                     markdown_content += f"\n{index} - <a href='{google_search_link}' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='{proxied_link}' target='_blank' rel='noopener noreferrer'>{headline}</a>\n"
 
             markdown_content += f"\n</details>\n\n"
