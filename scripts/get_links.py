@@ -7,6 +7,7 @@ import os
 from links_dicts import link_dictionaries  # Importing link dictionaries from links_dict.py
 from gen_md import generate_markdown_from_json
 import re
+from handle_blacklists import is_blacklisted, clean_blacklists
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -16,7 +17,6 @@ USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/91.0.864.59 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36"
 ]
-
 
 def fetch_page(url):
     # Pick a random header from the list
@@ -63,11 +63,7 @@ def clean_text(text):
     # This function can be customized to clean text if necessary
     return text.strip()
 
-import re
-from bs4 import BeautifulSoup
-from datetime import datetime
-
-def extract_hyperlinks(filename, base_url, links):
+def extract_hyperlinks(filename, base_url, links, blacklists_dir):
     with open(filename, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
     
@@ -76,16 +72,19 @@ def extract_hyperlinks(filename, base_url, links):
     for a_tag in soup.find_all("a", href=True):
         text = clean_text(a_tag.get_text(strip=True))
         href = a_tag["href"]
-
-        # Reject URLs with double slashes after https://
-        if re.search(r"https:///{2,}", href):  
-            continue  # Skip this link
         
+        if href == base_url:  # reject the website itself without blacklisting
+            continue
+
         # Check if the link matches any of the pre-defined websites
         for name, base_url in links.items():
             if href.startswith(base_url) or href.startswith("/"):
                 if href.startswith("/"):  # Handle relative URLs
                     href = base_url.rstrip("/") + href
+
+                # Reject URLs with double slashes after https://
+                if re.search(r"https://[^/]+//", href):
+                    continue  # Skip this link
                 
                 # Only store links with at least 5 words in text
                 if len(text.split()) >= 5:
@@ -96,6 +95,10 @@ def extract_hyperlinks(filename, base_url, links):
                     if any(entry["headline"] == text or entry["link"] == href for entry in links_data[name]):
                         continue  # Skip if duplicate
                     
+                    # Check if the link is blacklisted
+                    if is_blacklisted(href, blacklists_dir):  # Check if the link is in the blacklist
+                        continue  # Skip blacklisted links
+
                     # Add the link
                     links_data[name].append({
                         "date": datetime.now().strftime("%Y-%m-%d"),
@@ -156,6 +159,11 @@ def save_links(links_data, category_name):
 skipped_sources = []
 
 def main():
+
+    print("Cleaning cleaing blacklists...")
+    clean_blacklists
+    print("Blacklist cleaned...")
+
     os.makedirs('tmp_json', exist_ok=True)
     # Loop through the link dictionaries imported from links_dict.py
     for category_name, links in link_dictionaries.items():
@@ -172,7 +180,7 @@ def main():
             save_html(html, website)  # Save HTML as <website>_tmp.html inside tmp_html/
             
             # Extract hyperlinks from the saved HTML file
-            links_data = extract_hyperlinks(f"tmp_html/{website}_tmp.html", base_url, links)
+            links_data = extract_hyperlinks(f"tmp_html/{website}_tmp.html", base_url, links, blacklists_dir="blacklists/")
             
             # Save the extracted links to a JSON file
             save_links(links_data, category_name)
