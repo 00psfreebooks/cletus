@@ -54,21 +54,22 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          
-          git fetch origin links_history || git checkout -b links_history  # Ensure branch exists
+
+          # Ensure branch exists
+          git fetch origin links_history || git checkout -b links_history
           git checkout links_history
-          
-          # Move generated JSON files to the links_history branch
+
+          # Copy generated JSON files
           mkdir -p json_temp
           cp tmp_json/*.json . 2>/dev/null || echo "No JSON files found."
-          
+
           # Force add JSON files even if ignored
           git add -f *.json
           git commit -m "Update JSON files in links_history" || echo "No changes to commit"
 
-          # Authenticate using the secret token and push changes
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/00psfreebooks/cletus.git links_history
-
+          # Set remote to use token authentication
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/00psfreebooks/cletus.git
+          git push origin links_history
 
       - name: Cleanup Temporary Folders
         run: rm -rf tmp_json tmp_html
