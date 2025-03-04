@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '45 5,17 * * *'  # 5:45 AM and 5:45 PM UTC every day
+    - cron: '45 9,21 * * *'  # 9:45 AM and 9:45 PM UTC every day (5:45am and pm EST)
 
 jobs:
   deploy:

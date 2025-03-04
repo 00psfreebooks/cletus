@@ -1,7 +1,7 @@
 +++ 
 author = "cletus"
-title = "General - 2025-03-01"
-date = "2025-03-01"
+title = "General - 2025-03-03"
+date = "2025-03-03"
 description = "General news for today"
 tags = [
     "General",
@@ -14,1749 +14,1572 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.](https://12ft.io/https://apnews.com/newsletters?id=AP+News+Alerts)
+1 - <a href='https://www.google.com/search?q=Trump+says+25%25+tariffs+on+Mexican+and+Canadian+imports+will+start+Tuesday%2C+with+%27no+room%27+for+delay' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-tariffs-mexico-canada-b19e004dddb579c373b247037e04424b' target='_blank' rel='noopener noreferrer'>Trump says 25% tariffs on Mexican and Canadian imports will start Tuesday, with 'no room' for delay</a>
 
-[The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.](https://12ft.io/https://apnews.com/newsletters?id=Morning+Wire+Subscribers)
+2 - <a href='https://www.google.com/search?q=Hegseth+orders+suspension+of+Pentagon%27s+offensive+cyberoperations+against+Russia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/cyber-command-russia-putin-trump-hegseth-c46ef1396e3980071cab81c27e0c0236' target='_blank' rel='noopener noreferrer'>Hegseth orders suspension of Pentagon's offensive cyberoperations against Russia</a>
 
-[Ground GameExclusive insights and key stories from the world of politics.](https://12ft.io/https://apnews.com/newsletters?id=Ground_Game)
+3 - <a href='https://www.google.com/search?q=Trump+slams+Zelenskyy+for+saying+the+end+of+the+Russia+war+%E2%80%98is+still+very%2C+very+far+away%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-zelenskyy-russia-ukraine-a15a459c9a3a393d040478ebbe250a9e' target='_blank' rel='noopener noreferrer'>Trump slams Zelenskyy for saying the end of the Russia war ‘is still very, very far away’</a>
 
-[Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://12ft.io/https://apnews.com/newsletters?id=Beyond+the+Story)
+4 - <a href='https://www.google.com/search?q=The+Morning+WireOur+flagship+newsletter+breaks+down+the+biggest+headlines+of+the+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=Morning+Wire+Subscribers' target='_blank' rel='noopener noreferrer'>The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.</a>
 
-[AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.](https://12ft.io/https://apnews.com/newsletters?id=AP+Entertainment+Wire)
+5 - <a href='https://www.google.com/search?q=The+Afternoon+WireGet+caught+up+on+what+you+may+have+missed+throughout+the+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=Afternoon+Wire' target='_blank' rel='noopener noreferrer'>The Afternoon WireGet caught up on what you may have missed throughout the day.</a>
 
-[AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.](https://12ft.io/https://apnews.com/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts)
+6 - <a href='https://www.google.com/search?q=Storms%2C+possible+twisters+to+threaten+the+South+just+as+New+Orleans+celebrates+Mardi+Gras' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/mardis-gras-tornadoes-weather-new-orleans-4621123690ea15aca03d974c3d0f15a1' target='_blank' rel='noopener noreferrer'>Storms, possible twisters to threaten the South just as New Orleans celebrates Mardi Gras</a>
 
-[$75 million was awarded to plant trees in places that badly need them. In anti-DEI push, that's over](https://12ft.io/https://apnews.com/article/trees-arbor-day-grants-cut-trump-heat-shade-environmental-justice-5909d4f102ac0de9cc5be313b4fbd399)
+7 - <a href='https://www.google.com/search?q=Senate+confirms+McMahon+to+lead+Education+Department+as+Trump+pushes+to+shut+it+down' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/mcmahon-senate-confirmation-education-trump-01b8ff1ea2dac16e3dbeafa7d1014dc3' target='_blank' rel='noopener noreferrer'>Senate confirms McMahon to lead Education Department as Trump pushes to shut it down</a>
 
-[Midwest winters are changing. So is the ancient sport of falconry](https://12ft.io/https://apnews.com/article/climate-change-falconry-hawks-raptors-snowshoe-hares-midwest-winters-8a5bc9f61e4d360ec95ec82c636f1be6)
+8 - <a href='https://www.google.com/search?q=Man%C2%A0pleads+guilty+to+murder+and+attempted+murder%C2%A0in+shooting+at+suburban+Chicago+July+4+parade' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/highland-park-july-fourth-shooting-trial-f0c8cb10dc26c9c741be6a519b409a9f' target='_blank' rel='noopener noreferrer'>Man pleads guilty to murder and attempted murder in shooting at suburban Chicago July 4 parade</a>
 
-[New stove that plugs into a normal wall outlet could be major gain for health and the climate](https://12ft.io/https://apnews.com/article/climate-energy-gas-methane-pollution-emissions-stove-3facc7cc5390b97129dba4cd051206cc)
+9 - <a href='https://www.google.com/search?q=Test+Your+News+I.Q.+%E2%80%94+take+today%E2%80%99s+quiz' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/quizzes' target='_blank' rel='noopener noreferrer'>Test Your News I.Q. — take today’s quiz</a>
 
-[Renowned geneticist Francis Collins retires from NIH, urging 'respect' for embattled workers](https://12ft.io/https://apnews.com/article/nih-francis-collins-retires-research-embattled-workers-34c362b608e21ff2fb5477b4b108532a)
+10 - <a href='https://www.google.com/search?q=Ground+GameExclusive+insights+and+key+stories+from+the+world+of+politics.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=Ground_Game' target='_blank' rel='noopener noreferrer'>Ground GameExclusive insights and key stories from the world of politics.</a>
 
-[Pope had coughing fit, inhaled vomit and now requires assisted ventilation, Vatican says](https://12ft.io/https://apnews.com/article/vatican-pope-pneumonia-conclave-70907cdf66ec28e276133002987303de)
+11 - <a href='https://www.google.com/search?q=Jimmy+Johnson+retires+from+Fox+Sports+after+being+a+face+of+NFL+coverage+for+most+of+3+decades' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/jimmy-johnson-fox-nfl-retires-f4b6943415d3037e210becc9b098b311' target='_blank' rel='noopener noreferrer'>Jimmy Johnson retires from Fox Sports after being a face of NFL coverage for most of 3 decades</a>
 
-[Harsh flu season has health officials worried about brain complications in children](https://12ft.io/https://apnews.com/article/flu-vaccine-shots-kids-brain-complication-af4d9e28952f89f260fb0848ebe80626)
+12 - <a href='https://www.google.com/search?q=Serena+Williams+joins+ownership+group+of+Toronto+Tempo%2C+the+WNBA%27s+1st+Canadian+franchise' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/wnba-toronto-serena-williams-owner-b9b9527ea0ee3a292bd953a41dc70c05' target='_blank' rel='noopener noreferrer'>Serena Williams joins ownership group of Toronto Tempo, the WNBA's 1st Canadian franchise</a>
 
-[How to practice healthy fasting during Ramadan](https://12ft.io/https://apnews.com/article/ramadan-healthy-fasting-9e38d48bf8818591c1549805899f031a)
+13 - <a href='https://www.google.com/search?q=Aaron+Rodgers%27+next+destination+and+Myles+Garrett%27s+future+headlined+the+buzz+from+the+NFL+combine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/nfl-combine-qbs-42f709d2ba4e3d143b7ecc4c04746dfe' target='_blank' rel='noopener noreferrer'>Aaron Rodgers' next destination and Myles Garrett's future headlined the buzz from the NFL combine</a>
 
-[Does lip balm help chapped lips? Here's what to know](https://12ft.io/https://apnews.com/article/does-lip-balm-work-on-dry-lips-b3ef710f505df335a790ccc86df09eb0)
+14 - <a href='https://www.google.com/search?q=AP+Top+25+Poll+AlertsGet+email+alerts+for+every+college+football+Top+25+Poll+release.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=AP_CFB_Top_25_Poll_Alerts' target='_blank' rel='noopener noreferrer'>AP Top 25 Poll AlertsGet email alerts for every college football Top 25 Poll release.</a>
 
-[More adults are wondering if they have autism. Here are tips to seek a diagnosis](https://12ft.io/https://apnews.com/article/adult-autism-diagnosis-spectrum-4babb9b0eea3335dddc93c35f7fcd913)
+15 - <a href='https://www.google.com/search?q=The+Sports+WireYour+home+base+for+in-depth+reporting+from+the+world+of+sports.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=Sports+HQ' target='_blank' rel='noopener noreferrer'>The Sports WireYour home base for in-depth reporting from the world of sports.</a>
 
-[Microsoft shutting down Skype in May](https://12ft.io/https://apnews.com/article/microsoft-closing-skype-7ac4e86f55acb40098476e01d8d4a473)
+16 - <a href='https://www.google.com/search?q=%27Anora%27+Oscar+win+carries+Academy+Awards+into+a+new+era' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/anora-oscars-win-sean-baker-mikey-madison-4c633cc6db3c935c1b672ec2fc51fb77' target='_blank' rel='noopener noreferrer'>'Anora' Oscar win carries Academy Awards into a new era</a>
 
-[Thousands report outage affecting Microsoft services like Outlook](https://12ft.io/https://apnews.com/article/microsoft-365-outage-outlook-down-11d3aa95f77169be7bb2be3d0cf763c9)
+17 - <a href='https://www.google.com/search?q=Key+Oscar+moments%2C+from+Zoe+Salda%C3%B1a%27s+emotional+win+and+%27Oz%27+opening+to+Kieran+Culkin%27s+baby+wish' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/2025-oscars-highlights-0a655880c08035348b028bf0b2651b0e' target='_blank' rel='noopener noreferrer'>Key Oscar moments, from Zoe Saldaña's emotional win and 'Oz' opening to Kieran Culkin's baby wish</a>
 
-[DOGE access to US intelligence secrets poses a national security threat, Democrats say](https://12ft.io/https://apnews.com/article/doge-musk-trump-democrats-intelligence-russia-threat-ffee435b1e65a0ac1d34889c89c30d10)
+18 - <a href='https://www.google.com/search?q=They+were+there%2C+but+barely%3A+Celebs+embrace+naked+fashion+trend+at+Oscar+after-parties' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/oscars-2025-naked-fashion-afterparties-316a4f75d7f4165ade70d742e15d9c61' target='_blank' rel='noopener noreferrer'>They were there, but barely: Celebs embrace naked fashion trend at Oscar after-parties</a>
 
-[Ferragamo pops red with a Milan collection inspired by the world of dance](https://12ft.io/https://apnews.com/article/milan-fashion-week-ferragamo-maximilian-davis-497cb047f890298e20c8958ba0227efd)
+19 - <a href='https://www.google.com/search?q=AP+Entertainment+WireGet+AP%27s+first+personalized+newsletter+delivering+you+entertainment+news+twice+a+week.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=AP+Entertainment+Wire' target='_blank' rel='noopener noreferrer'>AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.</a>
 
-[Rocker Victoria De Angelis spins a DJ set as Dolce & Gabbana's Milan show spills onto the streets](https://12ft.io/https://apnews.com/article/milan-fashion-week-dolce-gabbana-6b219db5a2e8e6b6b9f2b668a343c13e)
+20 - <a href='https://www.google.com/search?q=Melania+Trump+says+it%27s+%27heartbreaking%27+to+watch+teens+grapple+with+the+fallout+from+revenge+porn' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/melania-trump-safety-bill-online-cruz-capitol-920f171e0eeb559ed2e77700ec77c413' target='_blank' rel='noopener noreferrer'>Melania Trump says it's 'heartbreaking' to watch teens grapple with the fallout from revenge porn</a>
 
-[Eating the wrong foods can keep you up at night. A new cookbook offers a better plan](https://12ft.io/https://apnews.com/article/foods-that-help-you-sleep-cookbook-95e0061b85936b8a72eb10377ec9c2c0)
+21 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+tariff+tactics+carry+higher+economic+risks+than+during+his+first+term' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-tariff-mexico-canada-inflation-1123ada61916502324ca830347ed8d14' target='_blank' rel='noopener noreferrer'>Trump’s tariff tactics carry higher economic risks than during his first term</a>
 
-[Syrians begin fasting during first Ramadan without Assad family rule in decades](https://12ft.io/https://apnews.com/article/ramadan-syria-assad-fasting-alsharaa-27be52ec156bf5f2f449dda332d0cd89)
+22 - <a href='https://www.google.com/search?q=Here%27s+a+look+at+moon+landing+hits+and+misses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/moon-landings-failures-successes-545ea2f3ffa5a15893054b6f43bdbb98' target='_blank' rel='noopener noreferrer'>Here's a look at moon landing hits and misses</a>
 
-[Israel supports a US proposal to extend Gaza ceasefire's first phase. But Hamas wants Phase 2](https://12ft.io/https://apnews.com/article/israel-palestinians-hamas-war-news-03-01-2025-943564ec594b1246c7690d2560a65498)
+23 - <a href='https://www.google.com/search?q=Private+lunar+lander+Blue+Ghost+aces+moon+touchdown+with+a+special+delivery+for+NASA' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/nasa-firefly-aerospace-blue-ghost-moon-landing-07b00840da07441e1e24b48509458f3f' target='_blank' rel='noopener noreferrer'>Private lunar lander Blue Ghost aces moon touchdown with a special delivery for NASA</a>
 
-[Thousands of mourners attend funeral of Taliban-linked cleric killed in Pakistan suicide blast](https://12ft.io/https://apnews.com/article/pakistan-funeral-seminary-suicide-attack-09717e7568015051f0f5886fa651b75c)
+24 - <a href='https://www.google.com/search?q=Katy+Perry+and+Gayle+King+will+join+Jeff+Bezos%27+fiancee+Lauren+Sanchez+on+Blue+Origin+spaceflight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/bezos-katy-perry-blue-origin-launch-4a074e534baa664abfa6538159c12987' target='_blank' rel='noopener noreferrer'>Katy Perry and Gayle King will join Jeff Bezos' fiancee Lauren Sanchez on Blue Origin spaceflight</a>
 
-[World of FaithtestComprehensive global coverage of how religion shapes our world.](https://12ft.io/https://apnews.com/newsletters?id=World+of+Faith)
+25 - <a href='https://www.google.com/search?q=Trump+says+Ukraine+started+the+war+that%27s+killing+its+citizens.+What+are+the+facts%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/ukraine-russia-trump-war-zelenskyy-putin-7fe8c0c80b4e93e3bc079c621a44e8bb' target='_blank' rel='noopener noreferrer'>Trump says Ukraine started the war that's killing its citizens. What are the facts?</a>
 
-[Bronca de Trump a Zelenskyy muestra límites de aliados occidentales para influir en el líder de EEUU](https://12ft.io/https://apnews.com/article/trump-zelenskyy-despacho-oval-ucrania-rusia-choque-2dc24ac70813c9476746d28c14e4cfa9)
+26 - <a href='https://www.google.com/search?q=Tens+of+millions+of+dead+people+aren%27t+getting+Social+Security+checks%2C+despite+Trump+and+Musk+claims' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/social-security-payments-deceased-false-claims-doge-ed2885f5769f368853ac3615b4852cf7' target='_blank' rel='noopener noreferrer'>Tens of millions of dead people aren't getting Social Security checks, despite Trump and Musk claims</a>
 
-[Hamás dice que no hay avances en negociación sobre segunda fase de tregua con Israel](https://12ft.io/https://apnews.com/article/palestinos-israel-hamas-guerra-gaza-rehenes-138d63b046e9e4949f3a7004fc801f10)
+27 - <a href='https://www.google.com/search?q=FACT+FOCUS%3A+No+foul+play+suspected+in+ICE+van+fire+in+Philadelphia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/fact-check-ice-van-fire-philadelphia-democrats-4c2900be05af7c4bb8e707d16d5cb753' target='_blank' rel='noopener noreferrer'>FACT FOCUS: No foul play suspected in ICE van fire in Philadelphia</a>
 
-[El papa Francisco se encuentra estable un día después de crisis respiratoria, dice el Vaticano](https://12ft.io/https://apnews.com/article/papa-vaticano-salud-neumonia-c9450b3deb94fe7f32ccee86a0ff7b77)
+28 - <a href='https://www.google.com/search?q=Cold-water+swimmers+in+the+Czech+Republic+set+a+new+world+record+for+the+largest+polar+bear+dip' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/czech-record-polar-bear-dip-3015c17bf2efad8567a9bfeb35efb2aa' target='_blank' rel='noopener noreferrer'>Cold-water swimmers in the Czech Republic set a new world record for the largest polar bear dip</a>
 
-[Trump firma decreto que designa el inglés como idioma oficial de EEUU](https://12ft.io/https://apnews.com/article/eeuu-trump-ingles-idioma-oficial-50d4410a5076c702f7fa351690c6a001)
+29 - <a href='https://www.google.com/search?q=Florida+Man+Games+return+for+Round+2+as+teams+vie+to+be+the+world%E2%80%99s+worst+superhero' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/florida-man-games-alligator-nascar-5bb91b72b20f8ada13b87bdb5e6c5401' target='_blank' rel='noopener noreferrer'>Florida Man Games return for Round 2 as teams vie to be the world’s worst superhero</a>
 
-[Protestas contra DOGE en tiendas de Tesla apuntan a las ganancias de Elon Musk](https://12ft.io/https://apnews.com/article/elon-musk-tiendas-tesla-protestas-doge-712f8566d256798a0504cc12835e4b57)
+30 - <a href='https://www.google.com/search?q=Best+mullet%3F+Best+use+of+Taylor+Swift%3F+AP+hands+out+its+own+movie+awards+ahead+of+the+Oscars' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/oscars-movies-ap-awards-superlatives-b86ef03fa49647fc5422f9795e319688' target='_blank' rel='noopener noreferrer'>Best mullet? Best use of Taylor Swift? AP hands out its own movie awards ahead of the Oscars</a>
 
-[AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.](https://12ft.io/https://apnews.com/newsletters?id=AP+News+Alerts)
+31 - <a href='https://www.google.com/search?q=A+Florida+Gator+took+on+a+Florida+gator.+Billy+Horschel+prevailed+in+the+matchup+at+PGA+National' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/billy-horschel-gator-golf-pga-tour-0b258d19581353bf0eac9081443c9e49' target='_blank' rel='noopener noreferrer'>A Florida Gator took on a Florida gator. Billy Horschel prevailed in the matchup at PGA National</a>
 
-[The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.](https://12ft.io/https://apnews.com/newsletters?id=Morning+Wire+Subscribers)
+32 - <a href='https://www.google.com/search?q=Dramatic+rescue+saves+horse+from+icy+pond+in+New+York' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/horse-ice-pond-saved-upstate-new-york-ebbd2869254ffbbe853da01e3fd38c7b' target='_blank' rel='noopener noreferrer'>Dramatic rescue saves horse from icy pond in New York</a>
 
-[Ground GameExclusive insights and key stories from the world of politics.](https://12ft.io/https://apnews.com/newsletters?id=Ground_Game)
+33 - <a href='https://www.google.com/search?q=Baby+white+rhino+Nova+makes+her+public+debut+at+Belgium%27s+Pairi+Daiza+zoo' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/belgium-zoo-baby-white-rhino-a645c8cfe2e333cd389f56220144cc87' target='_blank' rel='noopener noreferrer'>Baby white rhino Nova makes her public debut at Belgium's Pairi Daiza zoo</a>
 
-[Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://12ft.io/https://apnews.com/newsletters?id=Beyond+the+Story)
+34 - <a href='https://www.google.com/search?q=How+daylight+saving+time+could+affect+your+health' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/daylight-saving-health-heart-attack-stroke-06088a66e5e7a86e9df4843742377d89' target='_blank' rel='noopener noreferrer'>How daylight saving time could affect your health</a>
 
-[AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.](https://12ft.io/https://apnews.com/newsletters?id=AP+Entertainment+Wire)
+35 - <a href='https://www.google.com/search?q=New+stove+that+plugs+into+a+normal+wall+outlet+could+be+major+gain+for+health+and+the+climate' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/climate-energy-gas-methane-pollution-emissions-stove-3facc7cc5390b97129dba4cd051206cc' target='_blank' rel='noopener noreferrer'>New stove that plugs into a normal wall outlet could be major gain for health and the climate</a>
 
-[AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.](https://12ft.io/https://apnews.com/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts)
+36 - <a href='https://www.google.com/search?q=Eating+the+wrong+foods+can+keep+you+up+at+night.+A+new+cookbook+offers+a+better+plan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/foods-that-help-you-sleep-cookbook-95e0061b85936b8a72eb10377ec9c2c0' target='_blank' rel='noopener noreferrer'>Eating the wrong foods can keep you up at night. A new cookbook offers a better plan</a>
 
-[$75 million was awarded to plant trees in places that badly need them. In anti-DEI push, that's over](https://12ft.io/https://apnews.com/article/trees-arbor-day-grants-cut-trump-heat-shade-environmental-justice-5909d4f102ac0de9cc5be313b4fbd399)
+37 - <a href='https://www.google.com/search?q=How+setting+boundaries+can+improve+your+health+at+work' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/work-life-balance-setting-boundaries-b33ef0e904f9be67e06591bcd3d74b80' target='_blank' rel='noopener noreferrer'>How setting boundaries can improve your health at work</a>
 
-[Midwest winters are changing. So is the ancient sport of falconry](https://12ft.io/https://apnews.com/article/climate-change-falconry-hawks-raptors-snowshoe-hares-midwest-winters-8a5bc9f61e4d360ec95ec82c636f1be6)
+38 - <a href='https://www.google.com/search?q=Screen+fatigue+is+real.+Experts+share+tips+to+find+relief' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/computer-screens-eye-health-e0c99719204526ed5f08423f1b15f557' target='_blank' rel='noopener noreferrer'>Screen fatigue is real. Experts share tips to find relief</a>
 
-[New stove that plugs into a normal wall outlet could be major gain for health and the climate](https://12ft.io/https://apnews.com/article/climate-energy-gas-methane-pollution-emissions-stove-3facc7cc5390b97129dba4cd051206cc)
+39 - <a href='https://www.google.com/search?q=Working+Well%3A+Returning+to+the+office+can+disrupt+life.+Here+are+some+tips+to+navigate+the+changes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/remote-work-return-to-office-mandate-commute-7ab9bb7e9b658f430167f2a613b49008' target='_blank' rel='noopener noreferrer'>Working Well: Returning to the office can disrupt life. Here are some tips to navigate the changes</a>
 
-[Renowned geneticist Francis Collins retires from NIH, urging 'respect' for embattled workers](https://12ft.io/https://apnews.com/article/nih-francis-collins-retires-research-embattled-workers-34c362b608e21ff2fb5477b4b108532a)
+40 - <a href='https://www.google.com/search?q=AP+News+AlertsKeep+your+pulse+on+the+news+with+breaking+news+alerts+from+The+AP.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=AP+News+Alerts' target='_blank' rel='noopener noreferrer'>AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.</a>
 
-[Pope had coughing fit, inhaled vomit and now requires assisted ventilation, Vatican says](https://12ft.io/https://apnews.com/article/vatican-pope-pneumonia-conclave-70907cdf66ec28e276133002987303de)
+41 - <a href='https://www.google.com/search?q=Beyond+the+StoryExecutive+Editor+Julie+Pace+brings+you+behind+the+scenes+of+the+AP+newsroom.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=Beyond+the+Story' target='_blank' rel='noopener noreferrer'>Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.</a>
 
-[Harsh flu season has health officials worried about brain complications in children](https://12ft.io/https://apnews.com/article/flu-vaccine-shots-kids-brain-complication-af4d9e28952f89f260fb0848ebe80626)
+42 - <a href='https://www.google.com/search?q=AP+Top+25+Women%27s+Basketball+Poll+AlertsWomen%27s+college+basketball+poll+alerts+and+updates.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts' target='_blank' rel='noopener noreferrer'>AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.</a>
 
-[How to practice healthy fasting during Ramadan](https://12ft.io/https://apnews.com/article/ramadan-healthy-fasting-9e38d48bf8818591c1549805899f031a)
+43 - <a href='https://www.google.com/search?q=Muslims+in+the+Middle+East+observe+Ramadan+amid+political+upheavals+and+postwar+turmoil' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/ramadan-islam-syria-gaza-turkey-pakistan-d3a87d0aa3b71a9e2ee4abaf1149769c' target='_blank' rel='noopener noreferrer'>Muslims in the Middle East observe Ramadan amid political upheavals and postwar turmoil</a>
 
-[Does lip balm help chapped lips? Here's what to know](https://12ft.io/https://apnews.com/article/does-lip-balm-work-on-dry-lips-b3ef710f505df335a790ccc86df09eb0)
+44 - <a href='https://www.google.com/search?q=Mud-covered+Carnival+revelers+are+a+strange+sight+in+sleepy+Brazilian+town' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/brazil-carnival-mud-paraty-12553a5cec35ff6c460939267845af46' target='_blank' rel='noopener noreferrer'>Mud-covered Carnival revelers are a strange sight in sleepy Brazilian town</a>
 
-[More adults are wondering if they have autism. Here are tips to seek a diagnosis](https://12ft.io/https://apnews.com/article/adult-autism-diagnosis-spectrum-4babb9b0eea3335dddc93c35f7fcd913)
+45 - <a href='https://www.google.com/search?q=In+northeast+India%2C+a+border+fence+could+cut+through+villages%2C+houses+and+lives' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/india-myanmar-border-village-b3cc91d2febcee465b866cd32127318c' target='_blank' rel='noopener noreferrer'>In northeast India, a border fence could cut through villages, houses and lives</a>
 
-[Microsoft shutting down Skype in May](https://12ft.io/https://apnews.com/article/microsoft-closing-skype-7ac4e86f55acb40098476e01d8d4a473)
+46 - <a href='https://www.google.com/search?q=The+World+in+PicturesGet+The+AP%E2%80%99s+most+compelling+photographs+sent+directly+to+your+inbox.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=Photo+Gallery' target='_blank' rel='noopener noreferrer'>The World in PicturesGet The AP’s most compelling photographs sent directly to your inbox.</a>
 
-[Thousands report outage affecting Microsoft services like Outlook](https://12ft.io/https://apnews.com/article/microsoft-365-outage-outlook-down-11d3aa95f77169be7bb2be3d0cf763c9)
+47 - <a href='https://www.google.com/search?q=As+warming+climate+hammers+coffee+crops%2C+this+rare+bean+may+someday+be+your+brew' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/south-sudan-coffee-robusta-arabica-excelsa-climate-change-b6efff83f2ff89ccc63033dcec071783' target='_blank' rel='noopener noreferrer'>As warming climate hammers coffee crops, this rare bean may someday be your brew</a>
 
-[DOGE access to US intelligence secrets poses a national security threat, Democrats say](https://12ft.io/https://apnews.com/article/doge-musk-trump-democrats-intelligence-russia-threat-ffee435b1e65a0ac1d34889c89c30d10)
+48 - <a href='https://www.google.com/search?q=%2475+million+was+awarded+to+plant+trees+in+places+that+badly+need+them.+In+anti-DEI+push%2C+that%27s+over' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trees-arbor-day-grants-cut-trump-heat-shade-environmental-justice-5909d4f102ac0de9cc5be313b4fbd399' target='_blank' rel='noopener noreferrer'>$75 million was awarded to plant trees in places that badly need them. In anti-DEI push, that's over</a>
 
-[Ferragamo pops red with a Milan collection inspired by the world of dance](https://12ft.io/https://apnews.com/article/milan-fashion-week-ferragamo-maximilian-davis-497cb047f890298e20c8958ba0227efd)
+49 - <a href='https://www.google.com/search?q=Midwest+winters+are+changing.+So+is+the+ancient+sport+of+falconry' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/climate-change-falconry-hawks-raptors-snowshoe-hares-midwest-winters-8a5bc9f61e4d360ec95ec82c636f1be6' target='_blank' rel='noopener noreferrer'>Midwest winters are changing. So is the ancient sport of falconry</a>
 
-[Rocker Victoria De Angelis spins a DJ set as Dolce & Gabbana's Milan show spills onto the streets](https://12ft.io/https://apnews.com/article/milan-fashion-week-dolce-gabbana-6b219db5a2e8e6b6b9f2b668a343c13e)
+50 - <a href='https://www.google.com/search?q=How+springing+forward+to+daylight+saving+time+could+affect+your+health+--+and+how+to+prepare' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/daylight-saving-time-spring-forward-sleep-health-5d7b96c3bc1ed243dd6e41b17ec8ee25' target='_blank' rel='noopener noreferrer'>How springing forward to daylight saving time could affect your health -- and how to prepare</a>
 
-[Eating the wrong foods can keep you up at night. A new cookbook offers a better plan](https://12ft.io/https://apnews.com/article/foods-that-help-you-sleep-cookbook-95e0061b85936b8a72eb10377ec9c2c0)
+51 - <a href='https://www.google.com/search?q=Renowned+geneticist+Francis+Collins+retires+from+NIH%2C+urging+%27respect%27+for+embattled+workers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/nih-francis-collins-retires-research-embattled-workers-34c362b608e21ff2fb5477b4b108532a' target='_blank' rel='noopener noreferrer'>Renowned geneticist Francis Collins retires from NIH, urging 'respect' for embattled workers</a>
 
-[Syrians begin fasting during first Ramadan without Assad family rule in decades](https://12ft.io/https://apnews.com/article/ramadan-syria-assad-fasting-alsharaa-27be52ec156bf5f2f449dda332d0cd89)
+52 - <a href='https://www.google.com/search?q=Pope+had+coughing+fit%2C+inhaled+vomit+and+now+requires+assisted+ventilation%2C+Vatican+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/vatican-pope-pneumonia-conclave-70907cdf66ec28e276133002987303de' target='_blank' rel='noopener noreferrer'>Pope had coughing fit, inhaled vomit and now requires assisted ventilation, Vatican says</a>
 
-[Israel supports a US proposal to extend Gaza ceasefire's first phase. But Hamas wants Phase 2](https://12ft.io/https://apnews.com/article/israel-palestinians-hamas-war-news-03-01-2025-943564ec594b1246c7690d2560a65498)
+53 - <a href='https://www.google.com/search?q=How+to+practice+healthy+fasting+during+Ramadan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/ramadan-healthy-fasting-9e38d48bf8818591c1549805899f031a' target='_blank' rel='noopener noreferrer'>How to practice healthy fasting during Ramadan</a>
 
-[Thousands of mourners attend funeral of Taliban-linked cleric killed in Pakistan suicide blast](https://12ft.io/https://apnews.com/article/pakistan-funeral-seminary-suicide-attack-09717e7568015051f0f5886fa651b75c)
+54 - <a href='https://www.google.com/search?q=Does+lip+balm+help+chapped+lips%3F+Here%27s+what+to+know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/does-lip-balm-work-on-dry-lips-b3ef710f505df335a790ccc86df09eb0' target='_blank' rel='noopener noreferrer'>Does lip balm help chapped lips? Here's what to know</a>
 
-[World of FaithtestComprehensive global coverage of how religion shapes our world.](https://12ft.io/https://apnews.com/newsletters?id=World+of+Faith)
+55 - <a href='https://www.google.com/search?q=New+Hampshire+man+is+second+person+known+to+be+living+with+a+pig+kidney' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/video/man-is-believed-to-be-second-person-in-the-world-currently-living-with-a-pig-kidney-04d3d819ae604aea962e1af8c4f6f7b9' target='_blank' rel='noopener noreferrer'>New Hampshire man is second person known to be living with a pig kidney</a>
 
-[Bronca de Trump a Zelenskyy muestra límites de aliados occidentales para influir en el líder de EEUU](https://12ft.io/https://apnews.com/article/trump-zelenskyy-despacho-oval-ucrania-rusia-choque-2dc24ac70813c9476746d28c14e4cfa9)
+56 - <a href='https://www.google.com/search?q=Giant+chipmaker+TSMC+to+spend+%24100B+to+expand+chip+manufacturing+in+US%2C+Trump+announces' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-tsmc-chip-manufacturing-tariffs-42980704ffca62e823182422ee4b7b83' target='_blank' rel='noopener noreferrer'>Giant chipmaker TSMC to spend $100B to expand chip manufacturing in US, Trump announces</a>
 
-[Hamás dice que no hay avances en negociación sobre segunda fase de tregua con Israel](https://12ft.io/https://apnews.com/article/palestinos-israel-hamas-guerra-gaza-rehenes-138d63b046e9e4949f3a7004fc801f10)
+57 - <a href='https://www.google.com/search?q=Zoe+Salda%C3%B1a%E2%80%99s+Oscar+reminds+Dominicans+of+the+first+time+they+won+Miss+Universe' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/zoe-saldana-oscars-reaction-e57b450362957bc260a117b2d36cf5de' target='_blank' rel='noopener noreferrer'>Zoe Saldaña’s Oscar reminds Dominicans of the first time they won Miss Universe</a>
 
-[El papa Francisco se encuentra estable un día después de crisis respiratoria, dice el Vaticano](https://12ft.io/https://apnews.com/article/papa-vaticano-salud-neumonia-c9450b3deb94fe7f32ccee86a0ff7b77)
+58 - <a href='https://www.google.com/search?q=Families+and+revelers+party+side-by-side+in+a+traditional+Carnival+in+Sao+Paulo%27s+countryside' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/brazil-carnival-sao-luiz-do-paraitinga-4de857a1a14f8e88ae7d1e8e49f9784e' target='_blank' rel='noopener noreferrer'>Families and revelers party side-by-side in a traditional Carnival in Sao Paulo's countryside</a>
 
-[Trump firma decreto que designa el inglés como idioma oficial de EEUU](https://12ft.io/https://apnews.com/article/eeuu-trump-ingles-idioma-oficial-50d4410a5076c702f7fa351690c6a001)
+59 - <a href='https://www.google.com/search?q=Animal+skins%2C+bells%2C+ritual+chaos%3A+Ancient+burnout+remedy+is+still+at+the+heart+of+Greece%E2%80%99s+carnival' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/greece-carnival-distomo-ancient-party-b411de513d6b242303d181287b281649' target='_blank' rel='noopener noreferrer'>Animal skins, bells, ritual chaos: Ancient burnout remedy is still at the heart of Greece’s carnival</a>
 
-[Protestas contra DOGE en tiendas de Tesla apuntan a las ganancias de Elon Musk](https://12ft.io/https://apnews.com/article/elon-musk-tiendas-tesla-protestas-doge-712f8566d256798a0504cc12835e4b57)
+60 - <a href='https://www.google.com/search?q=With+the+Gaza+ceasefire+in+limbo%2C+Israel+tries+to+impose+an+alternative+plan+on+Hamas' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/israel-palestinians-hamas-war-ceasefire-hostages-witkoff-plan-46a639d66772915ba1ed0b43cd2728d8' target='_blank' rel='noopener noreferrer'>With the Gaza ceasefire in limbo, Israel tries to impose an alternative plan on Hamas</a>
 
-[Sen. Lindsey Graham, R-S.C., speaks to reporters outside the West Wing of the White House, Friday, Feb. 28, 2025, in Washington. (AP Photo/Evan Vucci)](https://12ft.io/https://apnews.com/article/republicans-trump-zelenskyy-meeting-64ec4a67fce4f04a2d189a1e0204b023)
+61 - <a href='https://www.google.com/search?q=World+of+FaithComprehensive+global+coverage+of+how+religion+shapes+our+world.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/newsletters?id=World+of+Faith' target='_blank' rel='noopener noreferrer'>World of FaithComprehensive global coverage of how religion shapes our world.</a>
 
-[What US lawmakers are saying about the White House clash between Trump and Zelenskyy](https://12ft.io/https://apnews.com/article/republicans-trump-zelenskyy-meeting-64ec4a67fce4f04a2d189a1e0204b023)
+62 - <a href='https://www.google.com/search?q=Sheinbaum+conf%C3%ADa+en+evitar+aranceles+y+volver+a+hablar+con+Trump%2C+que+insiste+en+sus+planes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/mexico-eeuu-aranceles-sheinbaum-trump-e416b175da00a6064e583f93f6c9ba19' target='_blank' rel='noopener noreferrer'>Sheinbaum confía en evitar aranceles y volver a hablar con Trump, que insiste en sus planes</a>
 
-[Key Republicans and Democrats have been stalwart supporters of Ukrainian President Volodymyr Zelenskyy.](https://12ft.io/https://apnews.com/article/republicans-trump-zelenskyy-meeting-64ec4a67fce4f04a2d189a1e0204b023)
+63 - <a href='https://www.google.com/search?q=Vaticano%3A+Papa+Francisco+sufre+nuevas+crisis+respiratorias%3B+de+nuevo+con+ventilaci%C3%B3n+no+invasiva' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/vaticano-papa-francisco-neumonia-f76d2c8c0807ba6716b099b9d1f7717d' target='_blank' rel='noopener noreferrer'>Vaticano: Papa Francisco sufre nuevas crisis respiratorias; de nuevo con ventilación no invasiva</a>
 
-[European leaders back Zelenskyy as he joins crisis talks in London](https://12ft.io/https://apnews.com/article/russia-ukraine-war-zelenskyy-london-bf158d8f9e10a7c049ea90f8fd917ab6)
+64 - <a href='https://www.google.com/search?q=Rusia+se+regocija+de+distanciamiento+entre+EEUU+y+Ucrania' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/rusia-eeuu-trump-zelenskyy-putin-ucrania-guerra-b850255715338c3244a65fcef1d0eeed' target='_blank' rel='noopener noreferrer'>Rusia se regocija de distanciamiento entre EEUU y Ucrania</a>
 
-[Trump’s Oval Office thrashing of Zelenskyy shows limits of Western allies’ ability to sway US leader](https://12ft.io/https://apnews.com/article/trump-zelenskyy-oval-office-ukraine-russia-blowup-8aa63e55c859e8fea963911478c376ee)
+65 - <a href='https://www.google.com/search?q=Melania+Trump+acude+al+Capitolio+a+apoyar+ley+contra+la+violencia+en+internet' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/melania-trump-seguridad-online-7794705018043cae7d191e1e9ff79594' target='_blank' rel='noopener noreferrer'>Melania Trump acude al Capitolio a apoyar ley contra la violencia en internet</a>
 
-[What they said: Trump, Zelenskyy and Vance’s heated argument](https://12ft.io/https://apnews.com/article/trump-zelenskyy-vance-transcript-oval-office-80685f5727628c64065da81525f8f0cf)
+66 - <a href='https://www.google.com/search?q=Trump%3A+Los+aranceles+del+25%25+a+las+importaciones+de+M%C3%A9xico+y+Canad%C3%A1+comenzar%C3%A1n+el+martes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-aranceles-mexico-eeuu-c29b20aa865342e5d1cbf79e025bb962' target='_blank' rel='noopener noreferrer'>Trump: Los aranceles del 25% a las importaciones de México y Canadá comenzarán el martes</a>
 
-[Zelenskyy embraced by British prime minister a day after White House clash](https://12ft.io/https://apnews.com/article/zelenskyy-starmer-uk-british-white-house-trump-a05e6ec1c37aabdbb5067d8ce87d6d1e)
+67 - <a href='https://www.google.com/search?q=Dow+drops+nearly+650+as+worries+build+about+the+economy+following+Trump%E2%80%99s+latest+tariff+announcement' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/live/donald-trump-news-updates-3-3-2025#00000195-5de1-d9ec-a795-ddf52b410000' target='_blank' rel='noopener noreferrer'>Dow drops nearly 650 as worries build about the economy following Trump’s latest tariff announcement</a>
 
-[People protest as part of the “No Kings Day” protest on Presidents Day in Washington, in support of federal workers and against recent actions by President Donald Trump and Elon Musk, Monday, Feb. 17, 2025, by the Capitol in Washington. The protest was organized by the 50501 Movement, which stands for 50 Protests 50 States 1 Movement. (AP Photo/Jacquelyn Martin)](https://12ft.io/https://apnews.com/article/trump-democracy-autocrats-authoritarian-constitution-threat-542ac437a58880e81c052f8f2df1643f)
+68 - <a href='https://www.google.com/search?q=Trump+sends+crypto+prices+on+a+short-lived+surge+after+announcement+of+strategic+government+reserve' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-crypto-bitcoin-digital-assets-reserve-2f4246434a657f248cd85296f14382f9' target='_blank' rel='noopener noreferrer'>Trump sends crypto prices on a short-lived surge after announcement of strategic government reserve</a>
 
-[Trump first weeks in office are raising alarms that US democracy is under threat](https://12ft.io/https://apnews.com/article/trump-democracy-autocrats-authoritarian-constitution-threat-542ac437a58880e81c052f8f2df1643f)
+69 - <a href='https://www.google.com/search?q=France%E2%80%99s+prime+minister+tears+into+Trump%E2%80%99s+attack+on+Zelenskyy+as+a+staggering+show+of+%E2%80%98brutality%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-zelenskyy-france-bayrou-ukraine-oval-office-1b12c5024d0aad34bd4336ef931e51f0' target='_blank' rel='noopener noreferrer'>France’s prime minister tears into Trump’s attack on Zelenskyy as a staggering show of ‘brutality’</a>
 
-[During his first six weeks in office, President Donald Trump has worked to tear down the federal government and attack long-standing institutions.](https://12ft.io/https://apnews.com/article/trump-democracy-autocrats-authoritarian-constitution-threat-542ac437a58880e81c052f8f2df1643f)
+70 - <a href='https://www.google.com/search?q=Live+updates%3A+Trump+and+TSMC+CEO+announce+%24100B+chip+manufacturing+expansion+in+US' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/live/donald-trump-news-updates-3-3-2025' target='_blank' rel='noopener noreferrer'>Live updates: Trump and TSMC CEO announce $100B chip manufacturing expansion in US</a>
 
-[The Pentagon is sending about 3,000 more active-duty troops to the US-Mexico border](https://12ft.io/https://apnews.com/article/pentagon-military-active-duty-troops-mexico-border-c03873cd543a42b493c62741ad2c3977)
+71 - <a href='https://www.google.com/search?q=How+Trump%E2%80%99s+history+with+Russia+and+Ukraine+set+the+stage+for+a+blowup+with+Zelenskyy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-russia-ukraine-fbi-mueller-ff6d60923de68632f2671e275083b54b' target='_blank' rel='noopener noreferrer'>How Trump’s history with Russia and Ukraine set the stage for a blowup with Zelenskyy</a>
 
-[Attorneys are suing to keep 10 migrants out of Guantanamo Bay as others say they were abused there](https://12ft.io/https://apnews.com/article/guantanamo-aclu-trump-migrants-2949f003ddfcc26bfacab9fd009be4e1)
+72 - <a href='https://www.google.com/search?q=Polish+democracy+hero+Wa%C5%82%C4%99sa+says+Trump%E2%80%99s+treatment+of+Zelenskyy+filled+him+with+%E2%80%98horror%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/poland-trump-walesa-ukraine-russia-eab6a26169183760c844580f7742fd78' target='_blank' rel='noopener noreferrer'>Polish democracy hero Wałęsa says Trump’s treatment of Zelenskyy filled him with ‘horror’</a>
 
-[What Trump’s order making English the official language in the US could mean](https://12ft.io/https://apnews.com/article/trump-declare-english-official-language-5b24f6ac1172803f615cea69e13f8724)
+73 - <a href='https://www.google.com/search?q=Head+of+FBI+New+York+office+says+he%E2%80%99s+retired+from+the+bureau+after+being+ordered+to+do+so' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/fbi-new-york-trump-patel-dennehy-9841ba3a5a17735fea4f8bcb6dc5eb52' target='_blank' rel='noopener noreferrer'>Head of FBI New York office says he’s retired from the bureau after being ordered to do so</a>
 
-[Trump says in social media post he plans to pardon the late Pete Rose](https://12ft.io/https://apnews.com/article/trump-pete-rose-pardon-sports-betting-fcc47b902e21c3a659618bb9fa20ce53)
+74 - <a href='https://www.google.com/search?q=Pentagon+changes+name+of+Georgia+Army+base+back+to+Fort+Benning%2C+dumping+Fort+Moore' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/benning-bragg-confederate-names-bases-military-a117d5152fdedeb8852770276f5acdab' target='_blank' rel='noopener noreferrer'>Pentagon changes name of Georgia Army base back to Fort Benning, dumping Fort Moore</a>
 
-[Anti-DOGE protests at Tesla stores target Elon Musk’s bottom line](https://12ft.io/https://apnews.com/article/elon-musk-tesla-protests-doge-3b3eba9313074ccf8e959a92486d900f)
+75 - <a href='https://www.google.com/search?q=Killer+whales+amaze+Seattle+onlookers+with+a+rarely+seen+bird+hunt' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/orcas-seattle-6f84d396b8f1495eb16861995fac59db' target='_blank' rel='noopener noreferrer'>Killer whales amaze Seattle onlookers with a rarely seen bird hunt</a>
 
-[Trump takes actions to increase lumber supplies and curb wood imports](https://12ft.io/https://apnews.com/article/trump-lumber-tariffs-wood-timber-c411b82c425649dbbf5b3bae5f874f56)
+76 - <a href='https://www.google.com/search?q=Here+are+some+goods+in+the+crosshairs+of+Trump%E2%80%99s+tariffs+on+Mexico%2C+Canada+and+China' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-tariffs-mexico-china-canada-cars-oil-2bb4853d6c68d8d3b11d9a061c895aff' target='_blank' rel='noopener noreferrer'>Here are some goods in the crosshairs of Trump’s tariffs on Mexico, Canada and China</a>
 
-[Israel supports a US proposal to extend Gaza ceasefire’s first phase. But Hamas wants Phase 2](https://12ft.io/https://apnews.com/article/israel-palestinians-hamas-war-news-03-01-2025-943564ec594b1246c7690d2560a65498)
+77 - <a href='https://www.google.com/search?q=Kroger+Chairman+and+CEO+resigns+following+investigation+into+personal+conduct' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/kroger-mcmullen-resignation-ohio-da4088a0b626d56b55e2fe75f4520476' target='_blank' rel='noopener noreferrer'>Kroger Chairman and CEO resigns following investigation into personal conduct</a>
 
-[For Gene Hackman, Santa Fe was a refuge from the limelight](https://12ft.io/https://apnews.com/article/gene-hackman-santa-fe-new-mexico-1ad28385c861861f289516767410267f)
+78 - <a href='https://www.google.com/search?q=California+Highway+Patrol+blames+drug+use%2C+speeding+for+fiery+Cybertruck+crash+that+killed+3' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/deadly-tesla-cybertruck-crash-piedmont-california-96667bb577109b82606ae72cda66e35e' target='_blank' rel='noopener noreferrer'>California Highway Patrol blames drug use, speeding for fiery Cybertruck crash that killed 3</a>
 
-[Pope Francis stable a day after respiratory crisis, spent ‘long periods’ off noninvasive ventilator](https://12ft.io/https://apnews.com/article/pope-vatican-pneumonia-e9c1fda0c5db42ac6e4eda47e9bb2fc3)
+79 - <a href='https://www.google.com/search?q=Lobster+fishermen+can+sue+environmental+group+for+defamation%2C+judge+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/maine-lobster-lawsuit-whales-monterey-bay-aquarium-f93103f0e35009730b4f94b2f87c6553' target='_blank' rel='noopener noreferrer'>Lobster fishermen can sue environmental group for defamation, judge says</a>
 
-[Former Gov. Andrew Cuomo launches political comeback with a run for New York City mayor](https://12ft.io/https://apnews.com/article/cuomo-mayor-new-york-city-mayor-1ed3ebb2c60acd53bb49bb5ee9921890)
+80 - <a href='https://www.google.com/search?q=Lawsuit+accuses+Atlanta+police+of+illegally+targeting+%E2%80%98Stop+Cop+City%E2%80%99+protesters' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/atlanta-cop-city-lawsuit-training-center-marsicano-6f5f66dc0bb46ec86736a66bc2762d11' target='_blank' rel='noopener noreferrer'>Lawsuit accuses Atlanta police of illegally targeting ‘Stop Cop City’ protesters</a>
 
-[Here’s what to know about the Oscars on Sunday, from presenters to performers](https://12ft.io/https://apnews.com/article/oscars-academy-awards-2025-what-to-know-54e7e352c7e2b81d3468744965fa0299)
+81 - <a href='https://www.google.com/search?q=Judge+denies+Alberto+Osuna%E2%80%99s+bid+for+injunction+as+he+attempts+to+play+baseball+for+Tennessee' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/tennessee-baseball-osuna-9e6639763182ba4cb78425fd205769bc' target='_blank' rel='noopener noreferrer'>Judge denies Alberto Osuna’s bid for injunction as he attempts to play baseball for Tennessee</a>
 
-[Grammy-nominated R&B singer Angie Stone dies in car crash](https://12ft.io/https://apnews.com/article/angie-stone-car-crash-singer-41a7094f6d3aaa224902497f17e0204d)
+82 - <a href='https://www.google.com/search?q=Youngkin+grants+clemency+to+a+fired+Virginia+police+sergeant+who+shot+and+killed+an+unarmed+man' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/virginia-police-shooting-youngkin-clemency-4afe8b89f591159a12f7e12601120c82' target='_blank' rel='noopener noreferrer'>Youngkin grants clemency to a fired Virginia police sergeant who shot and killed an unarmed man</a>
 
-[Thousands report outage affecting Microsoft services like Outlook](https://12ft.io/https://apnews.com/article/microsoft-365-outage-outlook-down-11d3aa95f77169be7bb2be3d0cf763c9)
+83 - <a href='https://www.google.com/search?q=Inside+the+Oscars%3A+What+you+didn%E2%80%99t+see+on+the+broadcast' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/inside-2025-oscars-1ba6d0fdfccac21c74de24db3781c2a3' target='_blank' rel='noopener noreferrer'>Inside the Oscars: What you didn’t see on the broadcast</a>
 
-[Mud-covered Carnival revelers are a strange sight in sleepy Brazilian town](https://12ft.io/https://apnews.com/article/brazil-carnival-mud-paraty-12553a5cec35ff6c460939267845af46)
+84 - <a href='https://www.google.com/search?q=They+weren%E2%80%99t+considered+fully+human+when+they+died.+Now+they%E2%80%99re+being+reburied+with+equal+rights' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/graves-sharecroppers-enslaved-oak-hill-virginia-50f649a31bef41c5f650b07d31cf7aa7' target='_blank' rel='noopener noreferrer'>They weren’t considered fully human when they died. Now they’re being reburied with equal rights</a>
 
-[Pennsylvania Republicans who narrowly won their House seats feel the heat of early votes back home](https://12ft.io/https://apnews.com/article/congress-trump-pennsylvania-medicaid-tariffs-republicans-2026-7fa86e06996ea2d9632f766a3215f54d)
+85 - <a href='https://www.google.com/search?q=No.+2+USC+has+best+ranking+in+AP+Top+25+in+39+years+after+beating+UCLA%3B+Texas+still+No.+1' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/college-basketball-rankings-usc-6b4ec072bf7f809046e6ced87a9bef57' target='_blank' rel='noopener noreferrer'>No. 2 USC has best ranking in AP Top 25 in 39 years after beating UCLA; Texas still No. 1</a>
 
-[$75 million was awarded to plant trees in places that badly need them. In anti-DEI push, that’s over](https://12ft.io/https://apnews.com/article/trees-arbor-day-grants-cut-trump-heat-shade-environmental-justice-5909d4f102ac0de9cc5be313b4fbd399)
+86 - <a href='https://www.google.com/search?q=Lighter+winds+help+crews+fighting+wildfires+in+South+and+North+Carolina' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/myrtle-beach-wildfires-north-south-carolina-0992aa4a7fa0a9ef76229dad2d47bdcd' target='_blank' rel='noopener noreferrer'>Lighter winds help crews fighting wildfires in South and North Carolina</a>
 
-[The Iditarod pits musher and dog vs. the worst Alaska can throw at them. It’s even harder this year](https://12ft.io/https://apnews.com/article/iditarod-sled-dog-race-alaska-2025-9da0f472620a8fcf9d9a380273a2bdba)
+87 - <a href='https://www.google.com/search?q=1991%3A+Rodney+King+beaten+by+Los+Angeles+police' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/today-in-history/march-3' target='_blank' rel='noopener noreferrer'>1991: Rodney King beaten by Los Angeles police</a>
 
-[David Johansen, singer from the seminal punk band the New York Dolls, dies at 75](https://12ft.io/https://apnews.com/article/david-johansen-dies-new-york-dolls-e9e6b36dbcd4e413dc166fe802d914d0)
+88 - <a href='https://www.google.com/search?q=Caught+on+camera%3A+Killer+whale+catches+bird' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/video/caught-on-camera-killer-whale-catches-bird-3683c7d3ee1045398e6cd4fafe78844b' target='_blank' rel='noopener noreferrer'>Caught on camera: Killer whale catches bird</a>
 
-[They weren’t considered fully human when they died. Now they’re being reburied with equal rights](https://12ft.io/https://apnews.com/article/graves-sharecroppers-enslaved-oak-hill-virginia-50f649a31bef41c5f650b07d31cf7aa7)
+89 - <a href='https://www.google.com/search?q=Trump+suggests+Zelenskyy+%E2%80%98won%E2%80%99t+be+around+very+long%E2%80%99+if+he+doesn%E2%80%99t+make+deal+with+Russia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/video/trump-suggests-zelenskyy-wont-be-around-very-long-if-he-doesnt-make-deal-with-russia-e850a192893a4886a7fb576eece87429' target='_blank' rel='noopener noreferrer'>Trump suggests Zelenskyy ‘won’t be around very long’ if he doesn’t make deal with Russia</a>
 
-[Photographers say historic photos of prisoners laboring in fields show how little has changed](https://12ft.io/https://apnews.com/article/prison-labor-punishment-angola-louisiana-a6530d8e65ae90841a70f7c173519b44)
+90 - <a href='https://www.google.com/search?q=Trump+says+%E2%80%98no+room+left%E2%80%99+for+Mexico+and+Canada+to+avoid+25%25+tariffs+which+start+Tuesday' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/video/trump-says-no-room-left-for-mexico-and-canada-to-avoid-25-tariffs-which-start-tuesday-6b78147e7e9b4ca5b0327d870e5c0f77' target='_blank' rel='noopener noreferrer'>Trump says ‘no room left’ for Mexico and Canada to avoid 25% tariffs which start Tuesday</a>
 
-[Eating the wrong foods can keep you up at night. A new cookbook offers a better plan](https://12ft.io/https://apnews.com/article/foods-that-help-you-sleep-cookbook-95e0061b85936b8a72eb10377ec9c2c0)
+91 - <a href='https://www.google.com/search?q=Crowds+protest+near+Vermont+ski+resort+where+JD+Vance+planned+vacation+with+family' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/video/crowds-protest-near-vermont-ski-resort-where-jd-vance-planned-vacation-with-family-60835e17b318406693625ec79947d164' target='_blank' rel='noopener noreferrer'>Crowds protest near Vermont ski resort where JD Vance planned vacation with family</a>
 
-[Yellowstone becomes first national park](https://12ft.io/https://apnews.com/today-in-history/march-1)
+92 - <a href='https://www.google.com/search?q=Rocker+Victoria+De+Angelis+spins+a+DJ+set+as+Dolce+%26+Gabbana%E2%80%99s+Milan+show+spills+onto+the+streets' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/milan-fashion-week-dolce-gabbana-6b219db5a2e8e6b6b9f2b668a343c13e' target='_blank' rel='noopener noreferrer'>Rocker Victoria De Angelis spins a DJ set as Dolce & Gabbana’s Milan show spills onto the streets</a>
 
-[Ukrainians reflect on contentious Oval Office meeting between Trump, Vance and Zelenskyy](https://12ft.io/https://apnews.com/video/ukrainians-reflect-on-contentious-oval-office-meeting-between-trump-vance-and-zelenskyy-b222454ddf064078994a7fd9c5b84788)
+93 - <a href='https://www.google.com/search?q=The+Rio+Carnival+street+party+where+dogs+parade+as+superheroes+and+cartoon+characters' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/dog-street-party-rio-carnival-brazil-9a13d88df074443e3af4d9ee1125480c' target='_blank' rel='noopener noreferrer'>The Rio Carnival street party where dogs parade as superheroes and cartoon characters</a>
 
-[Ukrainians reacted on Friday evening to the contentious Oval Office meeting between U.S. President Donald Trump, Vice President JD Vance and Ukrainian President Volodymyr Zelenskyy.](https://12ft.io/https://apnews.com/video/ukrainians-reflect-on-contentious-oval-office-meeting-between-trump-vance-and-zelenskyy-b222454ddf064078994a7fd9c5b84788)
+94 - <a href='https://www.google.com/search?q=Wrathful+deities+are+invoked+in+a+Tibetan+Buddhist+dance+in+a+monastery+in+north+India' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/tibet-cham-ritual-dance-buddhism-d2bd5ea419184f543daafbd10e901d25' target='_blank' rel='noopener noreferrer'>Wrathful deities are invoked in a Tibetan Buddhist dance in a monastery in north India</a>
 
-[911 call reveals moments after workers discovered bodies of Gene Hackman and his wife](https://12ft.io/https://apnews.com/video/911-call-reveals-moments-after-workers-discovered-bodies-of-gene-hackman-and-his-wife-3e5d377bf93f4d2eb1ad77c949548feb)
+95 - <a href='https://www.google.com/search?q=Losing+a+pet+can+cut+deeper+than+many+people+realize.+Here%E2%80%99s+how+friends+can+help' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/wellness-grief-pets-dogs-cats-a63d5b3a3fd3b8d303aca3cec50c032c' target='_blank' rel='noopener noreferrer'>Losing a pet can cut deeper than many people realize. Here’s how friends can help</a>
 
-[Trump says he trusts Putin will ‘keep his word’ on a deal to end the war in Ukraine](https://12ft.io/https://apnews.com/video/trump-says-he-trusts-putin-will-keep-his-word-on-a-deal-to-end-the-war-in-ukraine-8a721acfee26474099196191635db35e)
+96 - <a href='https://www.google.com/search?q=Get+motivated+to+exercise+regularly+like+these+gym+rats+in+their+70s+and+80s' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/motivation-exercise-training-b4ae0c4902fd527b2a342476d796a356' target='_blank' rel='noopener noreferrer'>Get motivated to exercise regularly like these gym rats in their 70s and 80s</a>
 
-[Endangered Florida panther faces dual threats of urban sprawl and increased traffic](https://12ft.io/https://apnews.com/video/endangered-florida-panther-faces-dual-threats-of-urban-sprawl-and-increased-traffic-5f9f2b565d264c228dfff143f01ee46d)
+97 - <a href='https://www.google.com/search?q=Patients+struggle+with+lack+of+consistent+coverage+for+popular+weight-loss+drugs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/wegovy-zepbound-patchy-insurance-coverage-4d2be2052f1df71dbded96628028159b' target='_blank' rel='noopener noreferrer'>Patients struggle with lack of consistent coverage for popular weight-loss drugs</a>
 
-[Wrathful deities are invoked in a Tibetan Buddhist dance in a monastery in north India](https://12ft.io/https://apnews.com/article/tibet-cham-ritual-dance-buddhism-d2bd5ea419184f543daafbd10e901d25)
+98 - <a href='https://www.google.com/search?q=%E2%80%98Wildlife+corridors%E2%80%99+are+encouraged+to+support+Kenya%E2%80%99s+recovering+animal+populations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/kenya-wildlife-corridors-lewa-conservancy-0887bee524258ce5fa96b5875b106b24' target='_blank' rel='noopener noreferrer'>‘Wildlife corridors’ are encouraged to support Kenya’s recovering animal populations</a>
 
-[BAIJNATH, India (AP) — Wearing colorful robes and fearsome masks, the monks high stepped and spun around around the sandstone courtyard to the sound of drums, cymbals and long horns.](https://12ft.io/https://apnews.com/article/tibet-cham-ritual-dance-buddhism-d2bd5ea419184f543daafbd10e901d25)
+99 - <a href='https://www.google.com/search?q=Oscar+fever+for+Brazil%E2%80%99s+Fernanda+Torres+has+made+her+this+year%E2%80%99s+Carnival+muse' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/brazil-carnival-oscars-torres-im-still-here-b27be36361ddae640c0a4280856d52c2' target='_blank' rel='noopener noreferrer'>Oscar fever for Brazil’s Fernanda Torres has made her this year’s Carnival muse</a>
 
-[Meet Bernd das Brot, a depressed German loaf of bread that’s spent 25 years as a TV cult classic](https://12ft.io/https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d)
+100 - <a href='https://www.google.com/search?q=Crews+battle+wildfires+in+North+and+South+Carolina+amid+dry+conditions+and+gusty+winds' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/north-south-carolina-wildfires-152a5ce8a08f3e011194addeecea99f5' target='_blank' rel='noopener noreferrer'>Crews battle wildfires in North and South Carolina amid dry conditions and gusty winds</a>
 
-[Hiker rescues pup from abandoned coal pit after frigid weeklong search in Pennsylvania](https://12ft.io/https://apnews.com/article/missing-dog-found-pennsylvania-coal-pit-5d55099d4eb48fad7b5d49f48a4fa56a)
+101 - <a href='https://www.google.com/search?q=Lethal+injection%2C+electrocution+and+now+firing+squads.+A+look+at+US+execution+methods' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/death-penalty-execution-methods-119353060147943efbad4d2e7c82c42f' target='_blank' rel='noopener noreferrer'>Lethal injection, electrocution and now firing squads. A look at US execution methods</a>
 
-[How to practice healthy fasting during Ramadan](https://12ft.io/https://apnews.com/article/ramadan-healthy-fasting-9e38d48bf8818591c1549805899f031a)
+102 - <a href='https://www.google.com/search?q=Without+US+help%2C+Zelenskyy+has+few+options+except+to+repair+his+relationship+with+the+White+House' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-meeting-30be085063f4f6f3df242553402234f1' target='_blank' rel='noopener noreferrer'>Without US help, Zelenskyy has few options except to repair his relationship with the White House</a>
 
-[Mexico’s Supreme Court orders a zoo to improve conditions for Ely the elephant](https://12ft.io/https://apnews.com/article/mexico-elephant-ely-zoo-8abb9b5abefaa557d323cafc92be09b1)
+103 - <a href='https://www.google.com/search?q=Federal+workers+face+second+Musk+deadline+to+explain+their+work+last+week' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/elon-musk-doge-emails-a3e7e9ab82f45bb15ef22bddab01f25e' target='_blank' rel='noopener noreferrer'>Federal workers face second Musk deadline to explain their work last week</a>
 
-[John Lithgow, from left, Ralph Fiennes, Sergio Castellitto, and Isabella Rossellini accepts the award for outstanding performance by a cast in a motion picture for “Conclave” during the 31st annual Screen Actors Guild Awards on Sunday, Feb. 23, 2025, at the Shrine Auditorium in Los Angeles. (AP Photo/Chris Pizzello)](https://12ft.io/https://apnews.com/article/oscars-conclave-robert-harris-interview-d348b2c46bfc436fbce42db89eb168c0)
+104 - <a href='https://www.google.com/search?q=Book+Review%3A+%E2%80%98The+Art+of+the+SNL+Portrait%E2%80%99+gives+a+rare+inside+look+at+Mary+Ellen+Matthews%E2%80%99+work' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/book-review-snl-mary-ellen-matthews-a5b66a16ba1bb1ce3d4ca4143eddfdd6' target='_blank' rel='noopener noreferrer'>Book Review: ‘The Art of the SNL Portrait’ gives a rare inside look at Mary Ellen Matthews’ work</a>
 
-[Author Robert Harris on ‘Conclave’ success ahead of Sunday’s Oscars](https://12ft.io/https://apnews.com/article/oscars-conclave-robert-harris-interview-d348b2c46bfc436fbce42db89eb168c0)
+105 - <a href='https://www.google.com/search?q=San+Diego+FC+will+take+steps+to+stop+the+homophobic+chant+that+marred+its+inaugural+home+match' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/san-diego-mls-homophobic-chant-a39cf41762246356b9b581d62339243e' target='_blank' rel='noopener noreferrer'>San Diego FC will take steps to stop the homophobic chant that marred its inaugural home match</a>
 
-[“Conclave” author Robert Harris isn’t staying up to watch the Oscars. The British writer of the papal thriller, which the movie with eight Academy Award nominations is based on, will be in a different time zone.](https://12ft.io/https://apnews.com/article/oscars-conclave-robert-harris-interview-d348b2c46bfc436fbce42db89eb168c0)
+106 - <a href='https://www.google.com/search?q=Prices+rose+along+border+ahead+of+Trump%E2%80%99s+tariffs+%E2%80%94+now+disruption+looms' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/tariffs-impact-latino-businesses-0b7ccff363e647a49feb2fcc852cf8c5' target='_blank' rel='noopener noreferrer'>Prices rose along border ahead of Trump’s tariffs — now disruption looms</a>
 
-[‘Chicken Shop Date’ creator Amelia Dimoldenberg brings flirty awkwardness to the Oscars red carpet](https://12ft.io/https://apnews.com/article/amelia-dimoldenberg-oscars-chicken-shop-date-79d9d4d6730dea4e7425b3f3eafbda2a)
+107 - <a href='https://www.google.com/search?q=Dow+drops+nearly+650+points+on+worries+that+Trump%E2%80%99s+latest+tariffs+will+slow+the+economy+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/stocks-markets-china-rates-inflation-72339ddf1ecb65d7815f4bb5272197d7' target='_blank' rel='noopener noreferrer'>Dow drops nearly 650 points on worries that Trump’s latest tariffs will slow the economy more</a>
 
-[Author behind Oscar-nominated film finds praise and ire for his rebuke of Brazil’s dictatorship](https://12ft.io/https://apnews.com/article/brazil-im-still-here-oscars-rubens-paiva-movie-book-bb1e9db4a1df239cc14b0d8523e3ce63)
+108 - <a href='https://www.google.com/search?q=Asteroid+2024+YR4+is+no+longer+a+threat+to+Earth%2C+scientists+say' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/asteroid-2024-yr4-nasa-esa-cce39c01ab94ac1edae00024dc35169c' target='_blank' rel='noopener noreferrer'>Asteroid 2024 YR4 is no longer a threat to Earth, scientists say</a>
 
-[Oscar nominees gather for a chummy night of cocktails, dinner and the annual class picture](https://12ft.io/https://apnews.com/article/oscars-nominees-academy-awards-ed063a84beae0a62e3b13d4f4233321a)
+109 - <a href='https://www.google.com/search?q=Salty+pancetta+and+fermented+pepper+paste+lend+deep+umami+to+this+meaty+pasta+dish' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/tomato-pancetta-pasta-recipe-zuppa-forte-b1ff811ef95f727ef4312d3f8f76b79d' target='_blank' rel='noopener noreferrer'>Salty pancetta and fermented pepper paste lend deep umami to this meaty pasta dish</a>
 
-[From ‘The Brutalist’ to ‘Wicked,’ where to watch this year’s Oscar-nominated movies](https://12ft.io/https://apnews.com/article/where-to-watch-2025-top-movies-nominees-da4415ab55e4eb86ce5bdfafc8d76914)
+110 - <a href='https://www.google.com/search?q=Ariana+Grande+goes+full+Glinda%2C+%E2%80%98Wicked%E2%80%99+bestie+Erivo+does+Elphaba+proud+in+green+on+Oscars+carpet' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/2025-oscars-red-carpet-fashion-analysis-a60de12632359f40a71f5ccb209d1263' target='_blank' rel='noopener noreferrer'>Ariana Grande goes full Glinda, ‘Wicked’ bestie Erivo does Elphaba proud in green on Oscars carpet</a>
 
-[‘Conclave’ triumphs at SAG Awards and Timothée Chalamet wins best actor, upending Oscar predictions](https://12ft.io/https://apnews.com/article/sag-awards-2025-winners-nominees-c29178ae9ca9a27ff6a50bb405c9d3fa)
+111 - <a href='https://www.google.com/search?q=Book+Review%3A+A+memoir+of+rescuing+a+baby+hare+shows+how+to+live+gently+with+the+wildlife+around+us' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/book-review-raising-hare-dalton-nature-d2fd2746013183fe5b098cd3e4ce1f57' target='_blank' rel='noopener noreferrer'>Book Review: A memoir of rescuing a baby hare shows how to live gently with the wildlife around us</a>
 
-[What will win at a nailbiter Oscars? AP’s film writers make their predictions](https://12ft.io/https://apnews.com/article/oscars-predictions-2025-academy-awards-9ba38dfedf3bca3fe68aaaf0bc6ae6b1)
+112 - <a href='https://www.google.com/search?q=Hulu+viewers+miss+Oscars+climax+in+latest+mishap+for+streaming+platforms%E2%80%99+live+programming' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/hulu-oscars-cut-off-livestream-4293fa5b0f604fc89df70f668b008890' target='_blank' rel='noopener noreferrer'>Hulu viewers miss Oscars climax in latest mishap for streaming platforms’ live programming</a>
 
-[The Oscars are more international than ever. So why is the international film category broken?](https://12ft.io/https://apnews.com/article/oscars-international-film-category-criticism-b2087eb877ddf972af7c85676dbbd475)
+113 - <a href='https://www.google.com/search?q=Why+Asian+logistics+operators+are+leasing+more+US+warehouses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trade-warehouse-china-online-shopping-eba5283b0762fa958ab90fb731370117' target='_blank' rel='noopener noreferrer'>Why Asian logistics operators are leasing more US warehouses</a>
 
-[Not known for political coverage, Wired takes a leading role in tracking Elon Musk’s team](https://12ft.io/https://apnews.com/article/elon-musk-wired-doge-trump-1f3988a459d39f39e7be6c598aa3d710)
+114 - <a href='https://www.google.com/search?q=UK+data+protection+watchdog+investigating+how+TikTok+uses+children%E2%80%99s+personal+data' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/tiktok-children-data-protection-uk-investigation-cbb967830539d83b8bb60772a4c2ccb5' target='_blank' rel='noopener noreferrer'>UK data protection watchdog investigating how TikTok uses children’s personal data</a>
 
-[To her, Hurricane Helene debris isn’t trash. It is full of memories — and she’s returning them](https://12ft.io/https://apnews.com/article/hurricane-helene-north-carolina-lost-things-b3b1e190202a3ad97546be7c01a52c88)
+115 - <a href='https://www.google.com/search?q=Musk%E2%80%99s+embrace+of+right-wing+politics+risks+turning+off+car+buyers+and+sinking+Tesla%E2%80%99s+stock' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/elon-musk-doge-tesla-boycott-showrooms-stock-european-sales-e6459a0207f1318a1110e3d15e89956c' target='_blank' rel='noopener noreferrer'>Musk’s embrace of right-wing politics risks turning off car buyers and sinking Tesla’s stock</a>
 
-[They told her women shouldn’t box. Now she’s Ghana’s first female world champion](https://12ft.io/https://apnews.com/article/ghana-boxing-quartey-women-boxers-8a9a0887f95f414f3e7132ba9a2b7fb0)
+116 - <a href='https://www.google.com/search?q=UN+food+program+closes+its+southern+Africa+office+in+the+wake+of+Trump+administration+aid+cuts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/un-food-program-trump-aid-africa-9eda0a4309af8c5950231c9cd2f4365b' target='_blank' rel='noopener noreferrer'>UN food program closes its southern Africa office in the wake of Trump administration aid cuts</a>
 
-[Long champions of social justice, Black athletes say their voices are needed now more than ever](https://12ft.io/https://apnews.com/article/black-history-month-sports-activism-dei-wnba-aa998e9afdb4bf38fea9b78b80f803bd)
+117 - <a href='https://www.google.com/search?q=A+child+dies+of+Ebola+in+Uganda%2C+raising+concern+over+disease+surveillance+in+outbreak' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/uganda-ebola-child-death-d32b71756797d2ed549e997af24f61fa' target='_blank' rel='noopener noreferrer'>A child dies of Ebola in Uganda, raising concern over disease surveillance in outbreak</a>
 
-[They dig, they pee, they trample. How to garden when you love both dogs and plants](https://12ft.io/https://apnews.com/article/gardening-dogs-digging-fences-toxic-8cf69f7813fe8d00617a0b413dedabf5)
+118 - <a href='https://www.google.com/search?q=Judge+blocks+Trump+order+threatening+funding+for+institutions+that+offer+care+for+transgender+youth' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/trump-transgender-gender-affirming-care-14ff427c42ac52e37305ae51fd5a66bb' target='_blank' rel='noopener noreferrer'>Judge blocks Trump order threatening funding for institutions that offer care for transgender youth</a>
 
-[How to practice healthy fasting during Ramadan](https://12ft.io/https://apnews.com/article/ramadan-healthy-fasting-9e38d48bf8818591c1549805899f031a)
+119 - <a href='https://www.google.com/search?q=Firings+at+US+weather+and+oceans+agency+risk+lives+and+economy%2C+former+agency+heads+warn' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/noaa-doge-federal-cuts-musk-weather-danger-6f60e7c511989aeff8930ae87c9a5ee8' target='_blank' rel='noopener noreferrer'>Firings at US weather and oceans agency risk lives and economy, former agency heads warn</a>
 
-[Want to be prescribed a new hospital drama? These TV doctors are ready to treat you](https://12ft.io/https://apnews.com/article/new-tv-medical-dramas-what-to-watch-77c1a8ea5a01d3922480155e017651a4)
+120 - <a href='https://www.google.com/search?q=UN+talks+end+in+Rome+with+nations+backing+%24200+billion+a+year+plan+to+protect+nature' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/climate-cop16-cali-biodiversity-dd270a78e667caa989883f11cf306e55' target='_blank' rel='noopener noreferrer'>UN talks end in Rome with nations backing $200 billion a year plan to protect nature</a>
 
-[Meet Bernd das Brot, a depressed German loaf of bread that’s spent 25 years as a TV cult classic](https://12ft.io/https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d)
+121 - <a href='https://www.google.com/search?q=FACT+FOCUS%3A+FEMA+funding+to+New+York+City+to+assist+migrants+is+misrepresented' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/fema-migrants-nyc-funding-luxury-hotels-doge-c7d2c0b029bc653293a478b4bf5d59b1' target='_blank' rel='noopener noreferrer'>FACT FOCUS: FEMA funding to New York City to assist migrants is misrepresented</a>
 
-[Losing a pet can cut deeper than many people realize. Here’s how friends can help](https://12ft.io/https://apnews.com/article/wellness-grief-pets-dogs-cats-a63d5b3a3fd3b8d303aca3cec50c032c)
+122 - <a href='https://www.google.com/search?q=Another+journalist+killed+in+Mexico.+Here%E2%80%99s+how+the+deaths+are+counted' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/mexico-journalists-homicides-35de0a2c68a2c075519a0fecc6e5ef6b' target='_blank' rel='noopener noreferrer'>Another journalist killed in Mexico. Here’s how the deaths are counted</a>
 
-[Does lip balm help chapped lips? Here’s what to know](https://12ft.io/https://apnews.com/article/does-lip-balm-work-on-dry-lips-b3ef710f505df335a790ccc86df09eb0)
+123 - <a href='https://www.google.com/search?q=Percival+Everett%E2%80%99s+%E2%80%98James%E2%80%99+is+a+finalist+for+the+PEN%2FFaulkner+prize+for+fiction' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/percival-everett-james-penfaulkner-award-88e826cfab427543ecdc20307e9a1d30' target='_blank' rel='noopener noreferrer'>Percival Everett’s ‘James’ is a finalist for the PEN/Faulkner prize for fiction</a>
 
-[Get motivated to exercise regularly like these gym rats in their 70s and 80s](https://12ft.io/https://apnews.com/article/motivation-exercise-training-b4ae0c4902fd527b2a342476d796a356)
+124 - <a href='https://www.google.com/search?q=A+baby+seal+rescued+from+a+Connecticut+street+dies+at+an+aquarium' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/baby-seal-rescue-connecticut-0b74456ffc14e62ce61aa0d03fd03d13' target='_blank' rel='noopener noreferrer'>A baby seal rescued from a Connecticut street dies at an aquarium</a>
 
-[Patients struggle with lack of consistent coverage for popular weight-loss drugs](https://12ft.io/https://apnews.com/article/wegovy-zepbound-patchy-insurance-coverage-4d2be2052f1df71dbded96628028159b)
+125 - <a href='https://www.google.com/search?q=Rebels+in+eastern+Congo+abducted+130+hospital+patients%2C+UN+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/congo-rebels-hospital-abduction-71aa5f927c0930c9a2879e3999220550' target='_blank' rel='noopener noreferrer'>Rebels in eastern Congo abducted 130 hospital patients, UN says</a>
 
-[‘No pain, no gain’ mentality is out, the current buzzword in fitness is ‘recovery’](https://12ft.io/https://apnews.com/article/exercise-recovery-injury-workout-rest-2ffce1799725037b0142657db62d9e8d)
+126 - <a href='https://www.google.com/search?q=Owner+of+NYC+day+care+where+toddler+fatally+ingested+fentanyl+gets+45+years+in+prison' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/day-care-fentanyl-death-new-york-bronx-d0c4d1d3e922ffd443f1cae7c9fe504d' target='_blank' rel='noopener noreferrer'>Owner of NYC day care where toddler fatally ingested fentanyl gets 45 years in prison</a>
 
-[More adults are wondering if they have autism. Here are tips to seek a diagnosis](https://12ft.io/https://apnews.com/article/adult-autism-diagnosis-spectrum-4babb9b0eea3335dddc93c35f7fcd913)
+127 - <a href='https://www.google.com/search?q=Former+US+Rep.+Lincoln+Diaz-Balart%2C+a+champion+of+democracy+in+Cuba%2C+dies+at+70' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/congressman-lincoln-diaz-balart-dead-2bab7f82d13f734b7914ea23b55ceecc' target='_blank' rel='noopener noreferrer'>Former US Rep. Lincoln Diaz-Balart, a champion of democracy in Cuba, dies at 70</a>
 
-[Red dye No. 3 has been banned, but what about other artificial food dyes?](https://12ft.io/https://apnews.com/article/synthetic-dyes-red-3-artificial-colors-ef5af10b3aca66d0033d3f239546f1aa)
+128 - <a href='https://www.google.com/search?q=LA+Kings+apologize+for+selling+scarves+made+in+Turkey+on+Armenian+Night' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/armenia-turkey-nhl-kings-scarves-5f93bdcc59dbd3d045cb5304fb4ddc53' target='_blank' rel='noopener noreferrer'>LA Kings apologize for selling scarves made in Turkey on Armenian Night</a>
 
-[FDA says decongestant in many cold medicines doesn’t work. So what does?](https://12ft.io/https://apnews.com/article/sudafed-decongestants-phenylephrine-fda-cold-medicines-a326c503685c0f4e6bae70eb16579798)
+129 - <a href='https://www.google.com/search?q=How+major+US+stock+indexes+fared+Monday%2C+3%2F3%2F2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/wall-street-stocks-dow-nasdaq-43c6b4a3c9fa522d3cf267645a15de66' target='_blank' rel='noopener noreferrer'>How major US stock indexes fared Monday, 3/3/2025</a>
 
-[Nearly 40% of contracts canceled by Musk’s DOGE are expected to produce no savings](https://12ft.io/https://apnews.com/article/doge-federal-contracts-canceled-musk-trump-cuts-a65976a725412934ad686389889db0df)
+130 - <a href='https://www.google.com/search?q=Palestinians+hope+%E2%80%98No+Other+Land%E2%80%99+Oscar+win+brings+help+as+they+face+possible+Israeli+expulsion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/no-other-land-oscar-win-palestinians-3c70e4ea1e7b213849f192dab5620a4c' target='_blank' rel='noopener noreferrer'>Palestinians hope ‘No Other Land’ Oscar win brings help as they face possible Israeli expulsion</a>
 
-[Nearly 40% of the federal contracts that President Donald Trump’s administration claims to have canceled as part of its signature cost-cutting program aren’t expected to save the government any money, the administration’s data shows.](https://12ft.io/https://apnews.com/article/doge-federal-contracts-canceled-musk-trump-cuts-a65976a725412934ad686389889db0df)
+131 - <a href='https://www.google.com/search?q=2+leaders+of+a+group+suspected+of+smuggling+20%2C000+immigrants+are+arrested+in+Los+Angeles' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/human-smuggling-ring-arrests-los-angeles-b2d4154cf9e8d9a17b931405625a25ee' target='_blank' rel='noopener noreferrer'>2 leaders of a group suspected of smuggling 20,000 immigrants are arrested in Los Angeles</a>
 
-[One Extraordinary Photo: The magic of a Uruguayan carnival parade](https://12ft.io/https://apnews.com/article/2025-uruguay-carnival-corsos-parade-extraordinary-photo)
+132 - <a href='https://www.google.com/search?q=Brazil+rejoices+over+first+Oscar+win.+%E2%80%98I%E2%80%99m+Still+Here%E2%80%99+house+to+be+transformed+into+a+film+museum' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/brazil-rejoices-oscar-still-here-3991da03c04ac1379df6c8396957fe04' target='_blank' rel='noopener noreferrer'>Brazil rejoices over first Oscar win. ‘I’m Still Here’ house to be transformed into a film museum</a>
 
-[One Tech Tip: Getting a lot of unwanted phone calls? Here are ways to stop them](https://12ft.io/https://apnews.com/article/spam-robocalls-4f83e94443149d2ab0c4796c15ce5dcd)
+133 - <a href='https://www.google.com/search?q=New+York+City+mayoral+race+heats+up+as+Adams+takes+early+shot+at+Cuomo%2C+but+also+pulls+some+punches' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/cuomo-nyc-adams-new-york-b9fbc0b0c8244a6b493bacb367d193b8' target='_blank' rel='noopener noreferrer'>New York City mayoral race heats up as Adams takes early shot at Cuomo, but also pulls some punches</a>
 
-[Samsul Anwar participates in a torch parade ahead of the holy fasting month of Ramadan, in Tangerang, Indonesia, Thursday, Feb. 27, 2025. (AP Photo/Tatan Syuflana)](https://12ft.io/https://apnews.com/article/ramadan-indonesia-muslim-fasting-mosque-tarhib-islam-d3abc6b4ea2fd7b004b6926588f2783c)
+134 - <a href='https://www.google.com/search?q=Mushers+begin+rugged+Iditarod+race+after+lack+of+snow+forces+major+changes+to+iconic+Alaska+event' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/iditarod-alaska-musher-dog-sled-race-anchorage-809fba21d0357ce45d6f61429d5bc844' target='_blank' rel='noopener noreferrer'>Mushers begin rugged Iditarod race after lack of snow forces major changes to iconic Alaska event</a>
 
-[Muslims in Indonesia welcome the holy month of Ramadan](https://12ft.io/https://apnews.com/article/ramadan-indonesia-muslim-fasting-mosque-tarhib-islam-d3abc6b4ea2fd7b004b6926588f2783c)
+135 - <a href='https://www.google.com/search?q=Andrew+Tate+expresses+disappointment+in+Florida+Gov.+Ron+DeSantis+for+caving+to+media+pressure' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/andrew-tate-podcast-a583e1717257c3e541a5d0e19673bdaa' target='_blank' rel='noopener noreferrer'>Andrew Tate expresses disappointment in Florida Gov. Ron DeSantis for caving to media pressure</a>
 
-[TANGERANG, Indonesia (AP) — Ramadan is a time of togetherness for Muslims, as they fill mosques for hours of prayer and share large, lavish meals with family, friends and neighbors after days of dawn-to-dusk fasting.](https://12ft.io/https://apnews.com/article/ramadan-indonesia-muslim-fasting-mosque-tarhib-islam-d3abc6b4ea2fd7b004b6926588f2783c)
+136 - <a href='https://www.google.com/search?q=Figure+skating+event+in+Washington+benefiting+victims+of+the+DC+plane+crash+raises+%241.2+million' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/dc-helicopter-jet-crash-figure-skaters-b5098aa44dc91e0e4d45812b6d6b5879' target='_blank' rel='noopener noreferrer'>Figure skating event in Washington benefiting victims of the DC plane crash raises $1.2 million</a>
 
-[Leonard Peltier remains defiant in AP interview, maintaining innocence and vowing continued activism](https://12ft.io/https://apnews.com/article/leonard-peltier-native-american-rights-fbi-prison-release-ff3fd1d8cb47f3ee193d1291b6b3f8cf)
+137 - <a href='https://www.google.com/search?q=Lawmakers+in+Ghana+reintroduce+an+anti-LGBTQ%2B+bill+that+sparked+criticism' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/ghana-lgbtq-bill-575687cbb869223fc36b779d0a0c7fe2' target='_blank' rel='noopener noreferrer'>Lawmakers in Ghana reintroduce an anti-LGBTQ+ bill that sparked criticism</a>
 
-[A look at Louisiana’s Mardi Gras festivities through the years](https://12ft.io/https://apnews.com/article/louisiana-mardi-gras-carnival-new-orleans-4573864f5804e8d88db53c738b29b9d5)
+138 - <a href='https://www.google.com/search?q=Book+Review%3A+Chimamanda+Ngozi+Adichie%E2%80%99s+latest+novel+marks+a+vibrant+return' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/ngozi-adichie-dream-count-book-review-043e6f3e6510f12f91de0e3a645d9423' target='_blank' rel='noopener noreferrer'>Book Review: Chimamanda Ngozi Adichie’s latest novel marks a vibrant return</a>
 
-[Mud-covered Carnival revelers are a strange sight in sleepy Brazilian town](https://12ft.io/https://apnews.com/article/brazil-carnival-mud-paraty-12553a5cec35ff6c460939267845af46)
+139 - <a href='https://www.google.com/search?q=Book+Review%3A+%E2%80%98Eternal+Flame%E2%80%99+recounts+The+Bangles%E2%80%99+turbulent+run+as+all-female+%E2%80%9880s+pop+sensations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/book-review-eternal-flame-bangles-b867d32bfdb46a12df777d49e21baca2' target='_blank' rel='noopener noreferrer'>Book Review: ‘Eternal Flame’ recounts The Bangles’ turbulent run as all-female ‘80s pop sensations</a>
 
-[Photographers say historic photos of prisoners laboring in fields show how little has changed](https://12ft.io/https://apnews.com/article/prison-labor-punishment-angola-louisiana-a6530d8e65ae90841a70f7c173519b44)
+140 - <a href='https://www.google.com/search?q=Starmer+and+Macron+step+up+to+shape+European+security+as+Trump+roils+relations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/starmer-macron-uk-france-ukraine-peace-trump-3d9e7cd2f85f37d8644a78d8a2ec36ae' target='_blank' rel='noopener noreferrer'>Starmer and Macron step up to shape European security as Trump roils relations</a>
 
-[AP Top Photos of the Month February 2025.](https://12ft.io/https://apnews.com/world-news/general-news-domestic-news-ac902b1ad1ad11024c7b9bd34da01bc2)
+141 - <a href='https://www.google.com/search?q=Gabon%E2%80%99s+military+leader+announces+he+will+run+in+April+presidential+election' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/gabon-presidential-election-nguema-candidate-5a1d3364e6fcffa23424287d48d5a61c' target='_blank' rel='noopener noreferrer'>Gabon’s military leader announces he will run in April presidential election</a>
 
-[Trump cutoff of humanitarian parole for immigrants from Ukraine, 6 other countries challenged](https://12ft.io/https://apnews.com/article/immigration-humanitarian-parole-trump-lawsuit-ukraine-551604bda702699598d15ad2c57fdc4b)
+142 - <a href='https://www.google.com/search?q=A+%E2%80%98super-aged%E2%80%99+population+poses+major+challenges+for+Hawaii' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us-news/hawaii-seniors-government-programs-general-news-de9068f43bd07aef6900e4042cb4744e' target='_blank' rel='noopener noreferrer'>A ‘super-aged’ population poses major challenges for Hawaii</a>
 
-[Renowned geneticist Francis Collins retires from NIH, urging ‘respect’ for embattled workers](https://12ft.io/https://apnews.com/article/nih-francis-collins-retires-research-embattled-workers-34c362b608e21ff2fb5477b4b108532a)
+143 - <a href='https://www.google.com/search?q=Some+New+York+prison+guards+are+fired+for+ignoring+a+deal+to+end+their+illegal+strike' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/new-york-prison-strike-halt-act-settlement-64f0c7cc0bb4805d70799835e9c1fbb6' target='_blank' rel='noopener noreferrer'>Some New York prison guards are fired for ignoring a deal to end their illegal strike</a>
 
-[Judge blocks Trump order threatening funding for institutions that offer care for transgender youth](https://12ft.io/https://apnews.com/article/trump-transgender-gender-affirming-care-14ff427c42ac52e37305ae51fd5a66bb)
+144 - <a href='https://www.google.com/search?q=A+federal+inmate+transferred+to+Oklahoma+to+be+put+to+death' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/oklahoma-execution-death-row-hanson-23de2056f227fac4b834455cf520aa8a' target='_blank' rel='noopener noreferrer'>A federal inmate transferred to Oklahoma to be put to death</a>
 
-[See the moment a FedEx cargo plane made an emergency landing after a bird strike caused an engine fire](https://12ft.io/https://apnews.com/article/newark-plane-explosion-fire-fedex-4c293bdcfc33c6f08c093f355bc88a1d)
+145 - <a href='https://www.google.com/search?q=A+surge+in+bee+deaths+is+hurting+Texas+beekeepers+%E2%80%94+and+could+affect+the+price+of+produce' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us-news/animals-texas-bees-general-news-444482ca49943a2c1e0244d838b8c4e0' target='_blank' rel='noopener noreferrer'>A surge in bee deaths is hurting Texas beekeepers — and could affect the price of produce</a>
 
-[Syrians begin fasting during first Ramadan without Assad family rule in decades](https://12ft.io/https://apnews.com/article/ramadan-syria-assad-fasting-alsharaa-27be52ec156bf5f2f449dda332d0cd89)
+146 - <a href='https://www.google.com/search?q=CIA+to+offer+tips+on+%E2%80%98creative+problem+solving%E2%80%99+at+SXSW+festival' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/cia-sxsw-south-by-southwest-spies-474a3b2ab4e6b3adbed70823d8aa9ee3' target='_blank' rel='noopener noreferrer'>CIA to offer tips on ‘creative problem solving’ at SXSW festival</a>
 
-[Israel’s military is told to prepare to defend a Druze community outside Syria’s capital](https://12ft.io/https://apnews.com/article/israel-syria-druze-military-clashes-e1d6da3cc97d121de161699d1aca61e3)
+147 - <a href='https://www.google.com/search?q=Russia+relishes+Trump-Zelenskyy+spat+and+accuses+Ukraine+and+European+allies+of+warmongering' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/russia-us-trump-zelenskyy-putin-ukraine-war-d718060c5eb315e84f054bb8bf703b10' target='_blank' rel='noopener noreferrer'>Russia relishes Trump-Zelenskyy spat and accuses Ukraine and European allies of warmongering</a>
 
-[Uruguay’s new leftist president takes office, facing a financial balancing act](https://12ft.io/https://apnews.com/article/uruguay-president-inauguration-congress-elections-rightwing-leftist-a5d37022c0bbb9615c5bc8f18eaecb29)
+148 - <a href='https://www.google.com/search?q=ACC%2C+FSU%2C+Clemson+reach+proposed+settlement+to+end+legal+fight%2C+change+money+distribution%3A+AP+source' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/acc-clemson-fsu-settlement-42113cefdaec061c458d02de74a95988' target='_blank' rel='noopener noreferrer'>ACC, FSU, Clemson reach proposed settlement to end legal fight, change money distribution: AP source</a>
 
-[Kurdish PKK militants declare a ceasefire in 40-year insurgency in Turkey](https://12ft.io/https://apnews.com/article/pkk-turkey-kurdish-militants-ceasefire-66bae6dd7d08c8144b683f92042fbfc9)
+149 - <a href='https://www.google.com/search?q=Wisconsin+audit+of+Trump+win+finds+not+a+single+voting+machine+error' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/wisconsin-election-audit-trump-biden-2024-68d666a3e30ec4a904b1b6e33be311a6' target='_blank' rel='noopener noreferrer'>Wisconsin audit of Trump win finds not a single voting machine error</a>
 
-[Judge rules head of watchdog agency must keep his job, says Trump’s bid to oust him was unlawful](https://12ft.io/https://apnews.com/article/trump-special-counsel-dellinger-whistleblower-firing-cdeb3bf8f2ce9175b03f4c3961a0ce88)
+150 - <a href='https://www.google.com/search?q=Historic+ship+completes+first+leg+of+journey+to+become+world%E2%80%99s+largest+artificial+reef' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/historic-ship-artificial-reef-philadelphia-florida-24dc44fac3a979995795f35302af04cc' target='_blank' rel='noopener noreferrer'>Historic ship completes first leg of journey to become world’s largest artificial reef</a>
 
-[Democratic activists fueled anti-Trump protests at GOP town halls but also rage at their own party](https://12ft.io/https://apnews.com/article/democrats-trump-grassroots-constitutional-crisis-bd53cc6ec73f654816c5f4c7bce5fd88)
+151 - <a href='https://www.google.com/search?q=Power+outage+at+BWI+Airport+interrupts+air+travel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/bwi-airport-power-outage-88c3c2a4538e5c7a1a20fdab2097f1d9' target='_blank' rel='noopener noreferrer'>Power outage at BWI Airport interrupts air travel</a>
 
-[Trump signs order designating English as the official language of the US](https://12ft.io/https://apnews.com/article/trump-english-national-language-d4b000e593ae7db2ac8264a6dbc5078f)
+152 - <a href='https://www.google.com/search?q=Trump+condemns+Zelensky+remarks+that+war%27s+end+is+%27far+away%27Trump+has+also+criticised+a+UK-led+European+summit+which+pledged+to+boost+Ukrainian+defences.3+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cy0dkzrer18o' target='_blank' rel='noopener noreferrer'>Trump condemns Zelensky remarks that war's end is 'far away'Trump has also criticised a UK-led European summit which pledged to boost Ukrainian defences.3 hrs agoEurope</a>
 
-[From Cabinet secretary to doomsday president: What being a designated survivor is like](https://12ft.io/https://apnews.com/article/designated-survivor-trump-address-to-congress-362c6f5ee48f22bbabcb0fecf7c9a094)
+153 - <a href='https://www.google.com/search?q=Pope+Francis+%27alert%27+after+respiratory+failureThe+Pope+resumes+mechanical+ventilation+after+suffering+two+%22acute+respiratory+failures%22+on+Monday.2+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/crmjk9mjnwmo' target='_blank' rel='noopener noreferrer'>Pope Francis 'alert' after respiratory failureThe Pope resumes mechanical ventilation after suffering two "acute respiratory failures" on Monday.2 hrs agoEurope</a>
 
-[Oscar presenters Emma Stone, Andrew Garfield, Whoopi Goldberg rehearse before the show](https://12ft.io/https://apnews.com/article/oscars-2025-rehearsals-behind-scenes-44a7c1eea42c72be67c656a706c24ca5)
+154 - <a href='https://www.google.com/search?q=Markets+sink+as+Trump+confirms+tariffs+on+Canada%2C+Mexico+and+China' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cn48q3150dxo' target='_blank' rel='noopener noreferrer'>Markets sink as Trump confirms tariffs on Canada, Mexico and China</a>
 
-[Florida Man Games return for Round 2 as teams vie to be the world’s worst superhero](https://12ft.io/https://apnews.com/article/florida-man-games-alligator-nascar-5bb91b72b20f8ada13b87bdb5e6c5401)
+155 - <a href='https://www.google.com/search?q=%27It+never+should+have+happened%27%3A+Americans+frustrated+by+Trump-Zelensky+spatAmerican+voters+expressed+frustration+at+one+or+both+leaders+for+their+roles+in+the+dispute+that+shocked+the+world.4+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cvg17jmm5vxo' target='_blank' rel='noopener noreferrer'>'It never should have happened': Americans frustrated by Trump-Zelensky spatAmerican voters expressed frustration at one or both leaders for their roles in the dispute that shocked the world.4 hrs agoUS & Canada</a>
 
-[Charli xcx’s’ Brat reign continues, as she clears the decks at BRIT Awards](https://12ft.io/https://apnews.com/article/brit-awards-charli-xcx-b05687af58bfe178a36626516dc10458)
+156 - <a href='https://www.google.com/search?q=Rising+egg+prices+in+the+US+spark+chicken+rental+trendThe+service+provides+hens%2C+feed%2C+and+support+for+six+months%2C+allowing+customers+to+collect+fresh+eggs+at+home.2+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/cyvemrjzq55o' target='_blank' rel='noopener noreferrer'>Rising egg prices in the US spark chicken rental trendThe service provides hens, feed, and support for six months, allowing customers to collect fresh eggs at home.2 hrs agoUS & Canada</a>
 
-[Life imitates art as Pope Francis fights pneumonia while ‘Conclave’ heads into Academy Awards](https://12ft.io/https://apnews.com/article/pope-vatican-oscars-conclave-cb2073e1e0d25fe0fa8a7ff48e267586)
+157 - <a href='https://www.google.com/search?q=Behind+the+Gates%3A+Inside+the+wealthy+black+community+that+inspired+a+soap+opera%22You%27ve+got+to+have+money+-+lots+of+it%2C%22+says+one+resident+of+the+suburb+that+has+inspired+a+ground-breaking+soap+opera.14+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cn8r0513n5vo' target='_blank' rel='noopener noreferrer'>Behind the Gates: Inside the wealthy black community that inspired a soap opera"You've got to have money - lots of it," says one resident of the suburb that has inspired a ground-breaking soap opera.14 hrs agoUS & Canada</a>
 
-[Commanders acquire wide receiver Deebo Samuel in a trade with the 49ers, AP source says](https://12ft.io/https://apnews.com/article/deebo-samuel-trade-1c66d01e621674d34df180f2919ad89a)
+158 - <a href='https://www.google.com/search?q=Two+dead+after+car+drives+into+crowd+in+GermanySeveral+more+people+have+been+injured%2C+police+say%2C+and+one+suspect%2C+a+German+man%2C+has+been+arrested.2+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cvge70y4q91o' target='_blank' rel='noopener noreferrer'>Two dead after car drives into crowd in GermanySeveral more people have been injured, police say, and one suspect, a German man, has been arrested.2 hrs agoEurope</a>
 
-[Jahmai Mashack hits long 3-pointer at the buzzer to lift No. 5 Tennessee past No. 6 Alabama, 79-76](https://12ft.io/https://apnews.com/article/tennessee-alabama-score-f4ca628a253dd685a3bb03fffda32e30)
+159 - <a href='https://www.google.com/search?q=The+cult+space+comedy+that+inspired+Elon+MuskIn+1986%2C+the+author+talked+to+the+BBC+about+The+Hitchhiker%27s+Guide+to+the+Galaxy%2C+the+epic+series+of+comic+novels+loved+by+tech+executives.13+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/culture/article/20250226-the-hitchhikers-guide-to-the-galaxy-the-quirky-radio-show-that-became-a-phenomenon' target='_blank' rel='noopener noreferrer'>The cult space comedy that inspired Elon MuskIn 1986, the author talked to the BBC about The Hitchhiker's Guide to the Galaxy, the epic series of comic novels loved by tech executives.13 hrs agoCulture</a>
 
-[No. 7 St. John’s clinches first Big East regular-season title in 40 years and eyes more celebrations](https://12ft.io/https://apnews.com/article/st-johns-rick-pitino-big-east-27be6616aa40720a75f67fcf68f4cb34)
+160 - <a href='https://www.google.com/search?q=How+five+YouTube+videos+changed+the+worldAs+YouTube+turns+20+years+old%2C+the+platform%27s+content+has+fundamentally+altered+the+way+we+think+and+feel+about+each+other%2C+and+ourselves.2+days+agoFuture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250228-5-youtube-videos-that-changed-the-way-we-think-about-ourselves' target='_blank' rel='noopener noreferrer'>How five YouTube videos changed the worldAs YouTube turns 20 years old, the platform's content has fundamentally altered the way we think and feel about each other, and ourselves.2 days agoFuture</a>
 
-[Flagg returns for 2nd half after leaving No. 2 Duke’s game against Florida State following hard foul](https://12ft.io/https://apnews.com/article/cooper-flagg-duke-d988b743000b2d3b849db04f911ab76e)
+161 - <a href='https://www.google.com/search?q=India%27s+fighter+jet+battle%3A+US+v+Russia+in+the+skies1+hr+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cdjyyd7nw1zo' target='_blank' rel='noopener noreferrer'>India's fighter jet battle: US v Russia in the skies1 hr agoWorld</a>
 
-[US auto industry could be collateral damage in Trump’s trade wars](https://12ft.io/https://apnews.com/article/tariffs-cars-automakers-trump-canada-mexico-7d34c3ba8b96864ea77c6b16780cf349)
+162 - <a href='https://www.google.com/search?q=Chimamanda+Ngozi+Adichie+on+%27terrifying%27+writer%27s+block+during+pregnancy5+hrs+agoAfrica' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c89yp2xjzjko' target='_blank' rel='noopener noreferrer'>Chimamanda Ngozi Adichie on 'terrifying' writer's block during pregnancy5 hrs agoAfrica</a>
 
-[New stove that plugs into a normal wall outlet could be major gain for health and the climate](https://12ft.io/https://apnews.com/article/climate-energy-gas-methane-pollution-emissions-stove-3facc7cc5390b97129dba4cd051206cc)
+163 - <a href='https://www.google.com/search?q=Thousands+evacuated+as+Japan%27s+biggest+fire+in+decades+continues+to+burn12+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c89ypkq72d0o' target='_blank' rel='noopener noreferrer'>Thousands evacuated as Japan's biggest fire in decades continues to burn12 hrs agoAsia</a>
 
-[Guyana’s president denounces Venezuelan incursion in offshore oil field operated by ExxonMobil](https://12ft.io/https://apnews.com/article/venezuela-guyana-oil-exxonmobil-1142faf844adffab680b3b643bd27799)
+164 - <a href='https://www.google.com/search?q=Dozens+found+alive+in+metal+containers+after+India+avalanche17+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c8j0gm2de77o' target='_blank' rel='noopener noreferrer'>Dozens found alive in metal containers after India avalanche17 hrs agoAsia</a>
 
-[Tariff threats and uncertainty could weigh on consumers, drag down US economy, gov’t report suggests](https://12ft.io/https://apnews.com/article/economy-consumer-trump-tariffs-inflation-b8eacbe9b948af91a4efc97dd3f85cfa)
+165 - <a href='https://www.google.com/search?q=USAID+cuts+shutter+India%27s+first+clinic+for+transgender+people13+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c62zvlgqzdpo' target='_blank' rel='noopener noreferrer'>USAID cuts shutter India's first clinic for transgender people13 hrs agoAsia</a>
 
-[Firings at US weather and oceans agency risk lives and economy, former agency heads warn](https://12ft.io/https://apnews.com/article/noaa-doge-federal-cuts-musk-weather-danger-6f60e7c511989aeff8930ae87c9a5ee8)
+166 - <a href='https://www.google.com/search?q=Could+Europe+fill+the+gap+if+the+US+cuts+support+for+Ukraine%3FIf+America+were+to+withdraw+its+military+support+for+Ukraine%2C+how+big+of+a+hole+would+it+leave%3F2+hrs+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/ckg84kpw5jwo' target='_blank' rel='noopener noreferrer'>Could Europe fill the gap if the US cuts support for Ukraine?If America were to withdraw its military support for Ukraine, how big of a hole would it leave?2 hrs agoWorld</a>
 
-[Scientists scorn EPA push to say climate change isn’t a danger, say just look around at the world](https://12ft.io/https://apnews.com/article/climate-change-danger-health-epa-trump-doctors-weather-9fc086f392716c1b7d2b32ab7db6cc7d)
+167 - <a href='https://www.google.com/search?q=Watch%3A+Flames+shoot+from+plane+engine+after+bird+strikeVideo+captured+from+the+ground+shows+a+FedEx+cargo+jet+returning+to+Newark+Airport+in+New+Jersey+to+make+an+emergency+landing.6+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/cjrynxdx7xqo' target='_blank' rel='noopener noreferrer'>Watch: Flames shoot from plane engine after bird strikeVideo captured from the ground shows a FedEx cargo jet returning to Newark Airport in New Jersey to make an emergency landing.6 hrs agoUS & Canada</a>
 
-[Private company rockets toward the moon in the latest rush of lunar landing attempts](https://12ft.io/https://apnews.com/article/moon-landing-intuitive-machines-athena-cd50406e3f4e26418e231c26cb70b2c2)
+168 - <a href='https://www.google.com/search?q=Watch%3A+Standout+moments+from+the+Oscars+2025Anora+sweeps+the+Oscars+with+five+awards+including+best+picture+and+best+actress+for+star+Mikey+Madison.19+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/cp8ydeglqveo' target='_blank' rel='noopener noreferrer'>Watch: Standout moments from the Oscars 2025Anora sweeps the Oscars with five awards including best picture and best actress for star Mikey Madison.19 hrs ago</a>
 
-[Every planet of our solar system is lining up in the February night sky](https://12ft.io/https://apnews.com/article/seven-planets-parade-february-20cb0d141af5b958e46f136022104766)
+169 - <a href='https://www.google.com/search?q=From+wedding+videos+to+four+Oscars%3A+Anora+director+speaks+to+the+BBCBaker+is+the+first+person+to+win+four+Oscars+for+one+film%2C+including+Best+Director.14+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/cg4kvg02w7ko' target='_blank' rel='noopener noreferrer'>From wedding videos to four Oscars: Anora director speaks to the BBCBaker is the first person to win four Oscars for one film, including Best Director.14 hrs agoCulture</a>
 
-[Versace struts confident collection as rumors swirl that the Milan fashion mainstay is on the market](https://12ft.io/https://apnews.com/article/milan-fashion-week-versace-donatella-f99614642c9b2d643c56ec37f1e49637)
+170 - <a href='https://www.google.com/search?q=Watch%3A+Zelensky+quizzed+about+minerals+deal+and+peace+planThe+Ukrainian+president+speaks+about+the+mineral+deal%2C+his+recent+meeting+at+the+White+House%2C+and+the+possibility+of+a+truce.16+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/cvgw91rvn8xo' target='_blank' rel='noopener noreferrer'>Watch: Zelensky quizzed about minerals deal and peace planThe Ukrainian president speaks about the mineral deal, his recent meeting at the White House, and the possibility of a truce.16 hrs ago</a>
 
-[At 90, Giorgio Armani has more than a few cards up his sleeve on the Milan runway](https://12ft.io/https://apnews.com/article/milan-fashion-week-emporio-arman-450a2ff0761de0b208fdd399970d3c51)
+171 - <a href='https://www.google.com/search?q=Is+opera+still+%27elitist+and+exclusive%27%3FThe+Travel+Show+follows+soprano+Isabelle+Peters+for+exclusive+behind-the-scenes+access+to+the+London+Coliseum.3+Feb+2025The+Travel+Show' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/reel/video/p0kv0cfy/is-opera-still-elitist-and-exclusive-' target='_blank' rel='noopener noreferrer'>Is opera still 'elitist and exclusive'?The Travel Show follows soprano Isabelle Peters for exclusive behind-the-scenes access to the London Coliseum.3 Feb 2025The Travel Show</a>
 
-[Ferragamo pops red with a Milan collection inspired by the world of dance](https://12ft.io/https://apnews.com/article/milan-fashion-week-ferragamo-maximilian-davis-497cb047f890298e20c8958ba0227efd)
+172 - <a href='https://www.google.com/search?q=%27Are+you+aware+of+truce+reports%3F%27+-+BBC%27s+Laura+Kuenssberg+asks+ZelenskyUkrainian+President+Zelensky+tells+the+BBC+he+is+%22aware+of+everything%22+after+European+summit+in+London.1+day+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/c24199l47d2o' target='_blank' rel='noopener noreferrer'>'Are you aware of truce reports?' - BBC's Laura Kuenssberg asks ZelenskyUkrainian President Zelensky tells the BBC he is "aware of everything" after European summit in London.1 day agoEurope</a>
 
-[Moschino underlines playful collection with wake-up calls: Save our Sphere and Don’t be Silent](https://12ft.io/https://apnews.com/article/milan-fashion-week-moschino-f677929c825557cb1b909ae27fd7525b)
+173 - <a href='https://www.google.com/search?q=Watch%3A+Protesters+target+JD+Vance+in+VermontThe+vice-president+and+his+family+reportedly+moved+to+an+undisclosed+location+from+their+planned+ski+resort+as+a+result.2+days+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/videos/c2ljkny0j00o' target='_blank' rel='noopener noreferrer'>Watch: Protesters target JD Vance in VermontThe vice-president and his family reportedly moved to an undisclosed location from their planned ski resort as a result.2 days agoUS & Canada</a>
 
-[Chip Ganassi Racing partners with OpenAI in first motorsports venture for AI company](https://12ft.io/https://apnews.com/article/indycar-openai-ganassi-altman-7068d7785e20d8db37a7c8153b2caa20)
+174 - <a href='https://www.google.com/search?q=Switzerland+targets+rich+tourists+but+at+what+cost%3FSwitzerland%27s+already+upmarket+tourism+sector+is+trying+to+attract+more+high+rollers.See+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cq8yy09we1eo' target='_blank' rel='noopener noreferrer'>Switzerland targets rich tourists but at what cost?Switzerland's already upmarket tourism sector is trying to attract more high rollers.See more</a>
 
-[Judge weighs whether to block Florida’s social media ban for minors](https://12ft.io/https://apnews.com/article/florida-social-media-ban-minors-lawsuit-92ddc72484a5164e8fdb98062e1be543)
+175 - <a href='https://www.google.com/search?q=How+warm+should+your+house+be%3FBeing+too+hot+or+too+cold+can+be+bad+for+your+health.+So%2C+what+is+the+optimum+temperature+for+your+home%3FSee+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250228-battle-of-the-thermostat-the-science-behind-your-central-heating-arguments' target='_blank' rel='noopener noreferrer'>How warm should your house be?Being too hot or too cold can be bad for your health. So, what is the optimum temperature for your home?See more</a>
 
-[Microsoft shutting down Skype in May](https://12ft.io/https://apnews.com/article/microsoft-closing-skype-7ac4e86f55acb40098476e01d8d4a473)
+176 - <a href='https://www.google.com/search?q=Business+DailyThe+battle+of+the+VIP+lounges' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/w3ct5zjw' target='_blank' rel='noopener noreferrer'>Business DailyThe battle of the VIP lounges</a>
 
-[Gabbard decries Britain’s reported demand for Apple to provide backdoor access to users’ cloud data](https://12ft.io/https://apnews.com/article/apple-britain-encryption-backdoor-gabbard-cloud-rights-a4a4a5e1f0b58852f358eaab4cc43845)
+177 - <a href='https://www.google.com/search?q=AmericastAmericanswers...+on+5+Live%21+Did+Trump+ambush+Zelensky%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/p0kvs3lv' target='_blank' rel='noopener noreferrer'>AmericastAmericanswers... on 5 Live! Did Trump ambush Zelensky?</a>
 
-[A child dies of Ebola in Uganda, raising concern over disease surveillance in outbreak](https://12ft.io/https://apnews.com/article/uganda-ebola-child-death-d32b71756797d2ed549e997af24f61fa)
+178 - <a href='https://www.google.com/search?q=Witness+HistoryThe+Calais+%27Jungle%27+migrant+camp' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/w3ct5yj7' target='_blank' rel='noopener noreferrer'>Witness HistoryThe Calais 'Jungle' migrant camp</a>
 
-[Texas measles cases rise to 146 in an outbreak that led to a child’s death](https://12ft.io/https://apnews.com/article/measles-outbreak-texas-vaccination-rfk-7e1df8310d6e139010ab7f4e4069c199)
+179 - <a href='https://www.google.com/search?q=World+of+SecretsThe+Six+Billion+Dollar+Gold+Scam%3A+2.+The+believers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/w3ct7y42' target='_blank' rel='noopener noreferrer'>World of SecretsThe Six Billion Dollar Gold Scam: 2. The believers</a>
 
-[Freight train derails in Czech Republic, causing major chemical fire](https://12ft.io/https://apnews.com/article/czech-republic-chemical-fire-train-derailment-762ea9c062b17b520f00821f813e92bc)
+180 - <a href='https://www.google.com/search?q=World+Business+ReportEuropean+defence+manufacturers%E2%80%99+share+prices+jump' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/p0kvtcp2' target='_blank' rel='noopener noreferrer'>World Business ReportEuropean defence manufacturers’ share prices jump</a>
 
-[Tennessee gynecologist charged with performing unnecessary medical procedures](https://12ft.io/https://apnews.com/article/memphis-gynecologist-federal-charges-fbc8bb4b7a4c10464d5bbbced6dc9db7)
+181 - <a href='https://www.google.com/search?q=Global+News+PodcastMoscow+says+West+%22fragmenting%22+over+Ukraine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/p0kvt1fg' target='_blank' rel='noopener noreferrer'>Global News PodcastMoscow says West "fragmenting" over Ukraine</a>
 
-[Midwest winters are changing. So is the ancient sport of falconry](https://12ft.io/https://apnews.com/article/climate-change-falconry-hawks-raptors-snowshoe-hares-midwest-winters-8a5bc9f61e4d360ec95ec82c636f1be6)
+182 - <a href='https://www.google.com/search?q=The+Documentary+PodcastTikTok+and+the+digital+pimps%3A+Eye+Investigates' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/audio/play/p0kv2f1f' target='_blank' rel='noopener noreferrer'>The Documentary PodcastTikTok and the digital pimps: Eye Investigates</a>
 
-[UN talks end in Rome with nations backing $200 billion a year plan to protect nature](https://12ft.io/https://apnews.com/article/climate-cop16-cali-biodiversity-dd270a78e667caa989883f11cf306e55)
+183 - <a href='https://www.google.com/search?q=Morgan+Freeman+leads+Oscars+tribute+to+%27dear+friend%27+Gene+Hackman20+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cgj5819dnpqo' target='_blank' rel='noopener noreferrer'>Morgan Freeman leads Oscars tribute to 'dear friend' Gene Hackman20 hrs agoUS & Canada</a>
 
-[Congress votes to kill Biden-era methane fee on oil and gas producers](https://12ft.io/https://apnews.com/article/methane-fee-repeal-epa-oil-gas-drilling-4844558bece1e683da9246ee226c57b5)
+184 - <a href='https://www.google.com/search?q=Provocative+Trump+statements+about+Canada+loom+large+as+Trudeau+meets+King11+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cddy2q2z8dzo' target='_blank' rel='noopener noreferrer'>Provocative Trump statements about Canada loom large as Trudeau meets King11 hrs agoUS & Canada</a>
 
-[In a reversal, plans for U.S. natural gas power grow, complicating progress on climate](https://12ft.io/https://apnews.com/article/ai-natural-gas-power-plants-energy-electricity-climate-data-6f9c2155ccb92c56f5f557f8308c241c)
+185 - <a href='https://www.google.com/search?q=Illinois+man+pleads+guilty+to+2022+Highland+Park+mass+shooting7+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c78e7gjz387o' target='_blank' rel='noopener noreferrer'>Illinois man pleads guilty to 2022 Highland Park mass shooting7 hrs agoUS & Canada</a>
 
-[Trump says Ukraine started the war that’s killing its citizens. What are the facts?](https://12ft.io/https://apnews.com/article/ukraine-russia-trump-war-zelenskyy-putin-7fe8c0c80b4e93e3bc079c621a44e8bb)
+186 - <a href='https://www.google.com/search?q=Earthquake+hits+Hollywood+as+stars+gather+for+Oscars+afterpartyThe+relatively+minor+quake+struck+at+around+22%3A00+local+time+as+stars+gathered+at+the+Vanity+Fair+afterparty.5+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cd0nlk3vg1lo' target='_blank' rel='noopener noreferrer'>Earthquake hits Hollywood as stars gather for Oscars afterpartyThe relatively minor quake struck at around 22:00 local time as stars gathered at the Vanity Fair afterparty.5 hrs agoUS & Canada</a>
 
-[Tens of millions of dead people aren’t getting Social Security checks, despite Trump and Musk claims](https://12ft.io/https://apnews.com/article/social-security-payments-deceased-false-claims-doge-ed2885f5769f368853ac3615b4852cf7)
+187 - <a href='https://www.google.com/search?q=Gaza+ceasefire+in+peril+as+Israel+and+Hamas+hit+impasse8+hrs+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/ckgz7p85mdgo' target='_blank' rel='noopener noreferrer'>Gaza ceasefire in peril as Israel and Hamas hit impasse8 hrs agoWorld</a>
 
-[FACT FOCUS: No foul play suspected in ICE van fire in Philadelphia](https://12ft.io/https://apnews.com/article/fact-check-ice-van-fire-philadelphia-democrats-4c2900be05af7c4bb8e707d16d5cb753)
+188 - <a href='https://www.google.com/search?q=What+we+know+about+the+Gaza+ceasefire+deal5+hrs+agoMiddle+East' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cy5klgv5zv0o' target='_blank' rel='noopener noreferrer'>What we know about the Gaza ceasefire deal5 hrs agoMiddle East</a>
 
-[FACT FOCUS: FEMA funding to New York City to assist migrants is misrepresented](https://12ft.io/https://apnews.com/article/fema-migrants-nyc-funding-luxury-hotels-doge-c7d2c0b029bc653293a478b4bf5d59b1)
+189 - <a href='https://www.google.com/search?q=Israeli+police+say+one+killed+in+Haifa+bus+station+knife+attack3+hrs+agoMiddle+East' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cgm1jl2g4lwo' target='_blank' rel='noopener noreferrer'>Israeli police say one killed in Haifa bus station knife attack3 hrs agoMiddle East</a>
 
-[Lifelong New York civil rights advocate and NAACP leader Hazel Dukes dies at 92](https://12ft.io/https://apnews.com/article/hazel-dukes-obit-naacp-afea9d7726a22a6765a80ddbd110e8ed)
+190 - <a href='https://www.google.com/search?q=Police+to+interview+Crown+actor+over+Gaza+rallyKhalid+Abdalla+says+he+will+be+interviewed+by+police+after+the+rally+in+January.Just+nowMiddle+East' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cy05jeq2rv2o' target='_blank' rel='noopener noreferrer'>Police to interview Crown actor over Gaza rallyKhalid Abdalla says he will be interviewed by police after the rally in January.Just nowMiddle East</a>
 
-[Castro scores 22 as George Washington takes down La Salle 71-60](https://12ft.io/https://apnews.com/sports/george-washington-la-salle-explorers-la-salle-rafael-castro-christian-jones-2be1b27fcc6b440a9f1536b93c4d922f)
+191 - <a href='https://www.google.com/search?q=Macron+floats+one-month+Ukraine+truce%3A+Would+it+work%3F3+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/ckg1r4g08kwo' target='_blank' rel='noopener noreferrer'>Macron floats one-month Ukraine truce: Would it work?3 hrs agoEurope</a>
 
-[At least 37 dead after two passenger buses collide in Bolivia, police say](https://12ft.io/https://apnews.com/article/bolivia-bus-crash-b817fbe09477e4990efea362060501ee)
+192 - <a href='https://www.google.com/search?q=Convoy+leaves+to+provide+medical+aid+to+Ukraine3+hrs+agoCambridgeshire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cd0nlrlpzgxo' target='_blank' rel='noopener noreferrer'>Convoy leaves to provide medical aid to Ukraine3 hrs agoCambridgeshire</a>
 
-[Turkey’s Kurds wary of path to peace after PKK declares ceasefire](https://12ft.io/https://apnews.com/article/pkk-ceasefire-kurds-diyarbakir-sulaymaniyah-ece2832716502ecd734b90003c17ae04)
+193 - <a href='https://www.google.com/search?q=Eight-second+goalkeeper+rule+-+what+happens+next%3F7+hrs+agoFootball' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sport/football/articles/cwyg7jyp82do' target='_blank' rel='noopener noreferrer'>Eight-second goalkeeper rule - what happens next?7 hrs agoFootball</a>
 
-[Rocker Victoria De Angelis spins a DJ set as Dolce & Gabbana’s Milan show spills onto the streets](https://12ft.io/https://apnews.com/article/milan-fashion-week-dolce-gabbana-6b219db5a2e8e6b6b9f2b668a343c13e)
+194 - <a href='https://www.google.com/search?q=Vinicius+Jr+wants+new+Real+deal+amid+Saudi+interest4+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sport/football/articles/ckg8qwv0ek1o' target='_blank' rel='noopener noreferrer'>Vinicius Jr wants new Real deal amid Saudi interest4 hrs ago</a>
 
-[The Rio Carnival street party where dogs parade as superheroes and cartoon characters](https://12ft.io/https://apnews.com/article/dog-street-party-rio-carnival-brazil-9a13d88df074443e3af4d9ee1125480c)
+195 - <a href='https://www.google.com/search?q=Crowds+of+273+to+Champions+League+-+rise+of+Europe%27s+%27hottest+property%27Before+Club+Brugge+face+Aston+Villa+on+Tuesday%2C+manager+Nicky+Hayen+is+being+touted+as+one+of+Europe%27s+%22hottest+properties%22.35+mins+agoFootball' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sport/football/articles/c1mnnzm53e8o' target='_blank' rel='noopener noreferrer'>Crowds of 273 to Champions League - rise of Europe's 'hottest property'Before Club Brugge face Aston Villa on Tuesday, manager Nicky Hayen is being touted as one of Europe's "hottest properties".35 mins agoFootball</a>
 
-[Tens of thousands of anti-government protesters hold rally ahead of Romania’s election rerun](https://12ft.io/https://apnews.com/article/romania-protest-elections-georgescu-europe-05444cb67c249bac7c3596f4ebc51ba5)
+196 - <a href='https://www.google.com/search?q=Ex-Barclays+boss+with+Epstein+links+seeks+to+clear+name24+hrs+agoBusiness' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/crlxjn7879lo' target='_blank' rel='noopener noreferrer'>Ex-Barclays boss with Epstein links seeks to clear name24 hrs agoBusiness</a>
 
-[Cold-water swimmers in the Czech Republic set a new world record for the largest polar bear dip](https://12ft.io/https://apnews.com/article/czech-record-polar-bear-dip-3015c17bf2efad8567a9bfeb35efb2aa)
+197 - <a href='https://www.google.com/search?q=Ban+on+India%27s+stock+market+%27She-Wolf%27+puts+regulators+on+the+spot21+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cddyye3zplno' target='_blank' rel='noopener noreferrer'>Ban on India's stock market 'She-Wolf' puts regulators on the spot21 hrs agoAsia</a>
 
-[Namibian founding president Sam Nujoma is laid to rest and praised as the last African liberator](https://12ft.io/https://apnews.com/article/namibia-sam-nujoma-founding-president-funeral-fe25e263b381b8c4b47284a91a64fbb6)
+198 - <a href='https://www.google.com/search?q=Bubble+tea+chain+bigger+than+Starbucks+sees+shares+jump+on+debut15+hrs+agoBusiness' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c625n63epyzo' target='_blank' rel='noopener noreferrer'>Bubble tea chain bigger than Starbucks sees shares jump on debut15 hrs agoBusiness</a>
 
-[Japan’s PM admits to being ‘extremely nervous’ as he swaps functionality for style at fashion show](https://12ft.io/https://apnews.com/article/japan-ishiba-tokyo-girls-collection-cool-6efd96554e29a3c8c02bec1579c543e0)
+199 - <a href='https://www.google.com/search?q=Three+American+goods+that+could+rise+in+price+due+to+metal+tariffsDonald+Trump%27s+plans+for+tariffs+risk+raising+prices+for+items+from+cars+to+canned+food.2+hrs+agoBusiness' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c3vp06k90d5o' target='_blank' rel='noopener noreferrer'>Three American goods that could rise in price due to metal tariffsDonald Trump's plans for tariffs risk raising prices for items from cars to canned food.2 hrs agoBusiness</a>
 
-[USAID cuts are already hitting countries around the world. Here are 20 projects that have closed](https://12ft.io/https://apnews.com/article/usaid-cuts-hunger-sickness-288b1d3f80d85ad749a6d758a778a5b2)
+200 - <a href='https://www.google.com/search?q=They+lost+their+families+in+a+plane+crash+-+then+came+the+online+hate2+days+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cx28n141209o' target='_blank' rel='noopener noreferrer'>They lost their families in a plane crash - then came the online hate2 days agoAsia</a>
 
-[Serbian students declare ‘we deserve better’ as latest anti-graft rally adds pressure on government](https://12ft.io/https://apnews.com/article/serbia-students-protest-canopy-vucic-b6a2b732a6de562d5e54fe139114a716)
+201 - <a href='https://www.google.com/search?q=%27I%27m+not+tech-savvy+-+but+within+hours+I+could+buy+an+illegal+knife+on+social+media%272+days+agoTechnology' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cgm18g19013o' target='_blank' rel='noopener noreferrer'>'I'm not tech-savvy - but within hours I could buy an illegal knife on social media'2 days agoTechnology</a>
 
-[Border czar makes the city of Boston his latest immigration target](https://12ft.io/https://apnews.com/article/immigration-boston-mayor-wu-border-czar-ice-9a6b9f1a135595d266fe3649a843818a)
+202 - <a href='https://www.google.com/search?q=Planes+are+having+their+GPS+hacked.+Could+new+clocks+keep+them+safe%3FHow+a+new+atomic+clock+might+be+the+way+to+tackle+attacks+on+plane+GPS+systems23+hrs+agoBBC+InDepth' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cq6yg204pvmo' target='_blank' rel='noopener noreferrer'>Planes are having their GPS hacked. Could new clocks keep them safe?How a new atomic clock might be the way to tackle attacks on plane GPS systems23 hrs agoBBC InDepth</a>
 
-[Oscar contender ‘Emilia Pérez’ wins big at Césars, with under-fire Karla Sofia Gascón in attendance](https://12ft.io/https://apnews.com/article/oscars-france-cesars-emilia-perez-a2308cfbb29f79c63f004dd674e70594)
+203 - <a href='https://www.google.com/search?q=RFK%27s+measles+response+under+scrutiny+as+deadly+outbreak+frightens+Texas+parents3+days+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cvgeq3y1825o' target='_blank' rel='noopener noreferrer'>RFK's measles response under scrutiny as deadly outbreak frightens Texas parents3 days agoUS & Canada</a>
 
-[ESPN hoping some fans from 4 Nations tune in for Stadium Series and remainder of the NHL season](https://12ft.io/https://apnews.com/article/espn-nhl-red-wings-blue-jackets-4cb8e986a770ff943e1f1c2a530cd789)
+204 - <a href='https://www.google.com/search?q=Why+NHS+England+boss+suddenly+quitting+is+a+huge+moment2+days+agoHealth' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c8rkgvydrr3o' target='_blank' rel='noopener noreferrer'>Why NHS England boss suddenly quitting is a huge moment2 days agoHealth</a>
 
-[Jamie Little’s return to IndyCar part of a busy year for Fox Sports announcer](https://12ft.io/https://apnews.com/article/little-fox-indycar-nascar-ace4d6b40fb385c58355c4b9537d4f61)
+205 - <a href='https://www.google.com/search?q=Australian+whose+blood+saved+2.4+million+babies+dies20+hrs+agoAustralia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c5y4xqe60gyo' target='_blank' rel='noopener noreferrer'>Australian whose blood saved 2.4 million babies dies20 hrs agoAustralia</a>
 
-[At least 4 construction workers are killed in an avalanche in northern India](https://12ft.io/https://apnews.com/article/india-avalanche-uttarakhand-1b8f79608233e594de1c2bac417588b3)
+206 - <a href='https://www.google.com/search?q=RFK+Jr+changes+stance+on+measles+outbreak+as+virus+spreadsKennedy+previously+called+the+outbreak+%22not+unusual%22%2C+but+now+says+it%27s+a+%22top+priority%22.5+hrs+agoHealth' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c99n18zlzg3o' target='_blank' rel='noopener noreferrer'>RFK Jr changes stance on measles outbreak as virus spreadsKennedy previously called the outbreak "not unusual", but now says it's a "top priority".5 hrs agoHealth</a>
 
-[Thousands of mourners attend funeral of Taliban-linked cleric killed in Pakistan suicide blast](https://12ft.io/https://apnews.com/article/pakistan-funeral-seminary-suicide-attack-09717e7568015051f0f5886fa651b75c)
+207 - <a href='https://www.google.com/search?q=Piers+Morgan+returns+to+Good+Morning+Britain+after+almost+four+years12+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/c1d4e9rd5ywo' target='_blank' rel='noopener noreferrer'>Piers Morgan returns to Good Morning Britain after almost four years12 hrs agoCulture</a>
 
-[This Mardi Gras gumbo comes from a new cookbook linking healthy eating to good sleep](https://12ft.io/https://apnews.com/article/mardi-gras-gumbo-recipe-food-for-sleep-6017ec83ef803cb23adc0a8f480b98be)
+208 - <a href='https://www.google.com/search?q=Anora+sweeps+the+board+at+the+Oscars19+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cly8v12p228o' target='_blank' rel='noopener noreferrer'>Anora sweeps the board at the Oscars19 hrs agoCulture</a>
 
-[As habitat shrinks and populations boom, endangered Florida panthers are running out of room](https://12ft.io/https://apnews.com/article/florida-panther-deaths-urban-sprawl-endangered-86e5dacd7db4cac67c663955bcbe1f88)
+209 - <a href='https://www.google.com/search?q=Five+things+we%27ve+learned+from+Meghan%27s+interview+ahead+of+Netflix+series5+hrs+agoUK' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/ce8y0ld2ngyo' target='_blank' rel='noopener noreferrer'>Five things we've learned from Meghan's interview ahead of Netflix series5 hrs agoUK</a>
 
-[Boats collide on river in southern China, killing at least 11 people](https://12ft.io/https://apnews.com/article/china-ferry-accident-hunan-88814ea0141bcdcedb980960300aa613)
+210 - <a href='https://www.google.com/search?q=Why+the+Oscars+require+%27a+major+shake-up%27Last+night%27s+ceremony+featured+a+bizarre+James+Bond+tribute+%E2%80%93+while+failing+to+duly+honour+visionary+director+David+Lynch.+That+choice+spoke+to+the+awards%27+profound+identity+crisis.13+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/culture/article/20250303-cheesy-and-clichd-why-the-oscars-ceremony-needs-a-major-shake-up' target='_blank' rel='noopener noreferrer'>Why the Oscars require 'a major shake-up'Last night's ceremony featured a bizarre James Bond tribute – while failing to duly honour visionary director David Lynch. That choice spoke to the awards' profound identity crisis.13 hrs agoCulture</a>
 
-[Lee’s 21 help Princeton take down Columbia 73-68](https://12ft.io/https://apnews.com/sports/college-sports-mens-college-basketball-college-basketball-bbabb27ca76646ffb1ed61f63c56c43b)
+211 - <a href='https://www.google.com/search?q=Eight+portraits+found+hidden+inside+masterpieces22+Feb+2025Culture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/culture/article/20250221-eight-portraits-found-hidden-inside-masterpieces' target='_blank' rel='noopener noreferrer'>Eight portraits found hidden inside masterpieces22 Feb 2025Culture</a>
 
-[USA Swimming says Delaware AD Chrissi Rawak will not assume role as CEO and president](https://12ft.io/https://apnews.com/article/usa-swimming-chrissi-rawak-173896eb4630a3a51512d928868b6c0c)
+212 - <a href='https://www.google.com/search?q=The+troubled+history+of+the+Sydney+Opera+House8+days+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/culture/article/20250221-the-tumultuous-history-of-the-sydney-opera-house' target='_blank' rel='noopener noreferrer'>The troubled history of the Sydney Opera House8 days agoCulture</a>
 
-[2 construction workers killed in a trench collapse in Maryland](https://12ft.io/https://apnews.com/article/construction-workers-killed-trench-collapse-maryland-602341bb0ff2bec59de16d7a395c7f15)
+213 - <a href='https://www.google.com/search?q=The+Lion+King%3A+How+Mufasa+was+brought+to+life7+days+agoInnovation' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/reel/video/p0ksnjny/the-lion-king-how-mufasa-was-brought-to-life' target='_blank' rel='noopener noreferrer'>The Lion King: How Mufasa was brought to life7 days agoInnovation</a>
 
-[Trump and Zelenskyy through the years: From a ‘perfect’ call to an Oval Office meltdown](https://12ft.io/https://apnews.com/article/trump-zelenskyy-past-relationship-shouting-oval-office-88690f790901687fc1587f1bf89f5036)
+214 - <a href='https://www.google.com/search?q=Did+a+gay+affair+stir+a+14th-Century+royal+crisis%3FA+new+revival+of+Christopher+Marlowe%27s+pioneering+play+about+the+14th-Century+King+of+England+puts+the+spotlight+back+on+his+relationship+with+his+male+%22favourite%22+Piers+Gaveston.5+days+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/culture/article/20250226-edward-ii-did-a-gay-love-affair-spark-a-14th-century-royal-crisis' target='_blank' rel='noopener noreferrer'>Did a gay affair stir a 14th-Century royal crisis?A new revival of Christopher Marlowe's pioneering play about the 14th-Century King of England puts the spotlight back on his relationship with his male "favourite" Piers Gaveston.5 days agoCulture</a>
 
-[Brown earns 59-52 win over Harvard](https://12ft.io/https://apnews.com/sports/college-basketball-college-sports-mens-college-basketball-922f6ad4e3984166b7550002c2720860)
+215 - <a href='https://www.google.com/search?q=A+soca+musician%27s+guide+to+Trinidad+and+Tobago2+days+agoTravel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/travel/article/20250228-the-soca-kings-guide-to-trinidad-and-tobago' target='_blank' rel='noopener noreferrer'>A soca musician's guide to Trinidad and Tobago2 days agoTravel</a>
 
-[Minneapolis man charged with trying to join the Islamic State group](https://12ft.io/https://apnews.com/article/minnesota-islamic-state-terrorism-new-orleans-attack-f71d0853b8326a211485f5f1b16ad1df)
+216 - <a href='https://www.google.com/search?q=The+scenic+German+city+that+inspired+a+horror+film2+days+agoTravel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/travel/article/20250228-wismar-the-scenic-german-city-that-inspired-a-horror-classic' target='_blank' rel='noopener noreferrer'>The scenic German city that inspired a horror film2 days agoTravel</a>
 
-[Texas GOP leaders defend appointee after tense exchange over diversity hiring](https://12ft.io/https://apnews.com/article/texas-legislature-dei-emotional-testimony-5124b37ebacaa35de5451bd8420fc789)
+217 - <a href='https://www.google.com/search?q=A+300km+hike+into+Sri+Lanka%27s+lush+Highlands1+day+agoTravel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/travel/article/20250227-the-300km-route-shining-a-spotlight-on-sri-lankas-tea-history' target='_blank' rel='noopener noreferrer'>A 300km hike into Sri Lanka's lush Highlands1 day agoTravel</a>
 
-[ACLU moves to take up gender identity lawsuit that EEOC is abandoning following Trump’s order](https://12ft.io/https://apnews.com/article/aclu-eeoc-gender-identity-discrimination-transgender-467680de6ea412b5dc03c9d373b9811a)
+218 - <a href='https://www.google.com/search?q=The+Irish+island+where+you+go+to+disconnectLocated+off+Donegal%27s+coast%2C+this+car-free+isle+was+last+inhabited+full-time+in+the+%2770s.+Now%2C+locals+are+resurrecting+a+lost+way+of+life+%E2%80%93+and+adventurous+travellers+are+welcome.11+hrs+agoTravel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/travel/article/20250228-the-irish-island-where-you-go-to-disconnect' target='_blank' rel='noopener noreferrer'>The Irish island where you go to disconnectLocated off Donegal's coast, this car-free isle was last inhabited full-time in the '70s. Now, locals are resurrecting a lost way of life – and adventurous travellers are welcome.11 hrs agoTravel</a>
 
-[Trump administration to slash funding for enforcement of fair housing laws](https://12ft.io/https://apnews.com/article/trump-doge-housing-crisis-cuts-discrimination-d0c6e3b4b030787a1f60a7dc153153dd)
+219 - <a href='https://www.google.com/search?q=Threat+to+Kashmir%27s+iconic+chinar+trees+-+and+the+fight+to+save+them3+days+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/cvgee5ywq2vo' target='_blank' rel='noopener noreferrer'>Threat to Kashmir's iconic chinar trees - and the fight to save them3 days agoAsia</a>
 
-[Vance took the lead attacking Zelensky. Why?Is the US vice-president doing Trump's bidding or looking to the future?8 hrs ago](https://12ft.io/https://apnews.com/news/articles/cewkg71d8rlo)
+220 - <a href='https://www.google.com/search?q=Why+Vermont+farmers+are+using+urine+on+their+crops3+days+agoFuture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops' target='_blank' rel='noopener noreferrer'>Why Vermont farmers are using urine on their crops3 days agoFuture</a>
 
-[How Zelensky's clothing choice may have fuelled Oval Office spatThe Ukrainian president's casual dress has long been an issue on the US right, and came up before the Oval Office feud3 hrs agoWorld](https://12ft.io/https://apnews.com/news/articles/c1d4r9yvqzpo)
+221 - <a href='https://www.google.com/search?q=%27They+don%27t+belong+in+the+Med%27%3A+Fate+of+mother+orca+and+son+still+uncertain2+days+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/articles/ceqjrnjvrv4o' target='_blank' rel='noopener noreferrer'>'They don't belong in the Med': Fate of mother orca and son still uncertain2 days agoWorld</a>
 
-[Vance took the lead attacking Zelensky. Why?Is the US vice-president doing Trump's bidding or looking to the future?8 hrs ago](https://12ft.io/https://apnews.com/news/articles/cewkg71d8rlo)
+222 - <a href='https://www.google.com/search?q=Why+LA+sits+on+a+%E2%80%98bowl+of+jelly%E2%80%99Southern+California+is+frequently+shaken+by+earthquakes.+How+they+feel+to+people+living+in+Los+Angeles+has+a+lot+to+do+with+the+sediment-filled+basin+the+city+sits+upon.8+hrs+agoFuture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20240816-california-earthquakes-why-the-los-angeles-basin-is-like-a-bowl-of-jelly' target='_blank' rel='noopener noreferrer'>Why LA sits on a ‘bowl of jelly’Southern California is frequently shaken by earthquakes. How they feel to people living in Los Angeles has a lot to do with the sediment-filled basin the city sits upon.8 hrs agoFuture</a>
 
-[How Zelensky's clothing choice may have fuelled Oval Office spatThe Ukrainian president's casual dress has long been an issue on the US right, and came up before the Oval Office feud3 hrs agoWorld](https://12ft.io/https://apnews.com/news/articles/c1d4r9yvqzpo)
+223 - <a href='https://www.google.com/search?q=Which+is+worse+for+wildlife%2C+wind+farms+or+oil+drilling%3F30+Jan+2025Future' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250129-oil-vs-wind-which-is-worse-for-birds-and-whales' target='_blank' rel='noopener noreferrer'>Which is worse for wildlife, wind farms or oil drilling?30 Jan 2025Future</a>
 
-[Starmer gives Zelensky 'full backing' in warm No 10 welcome](https://12ft.io/https://apnews.com/news/articles/cg4k137ezlgo)
+224 - <a href='https://www.google.com/search?q=The+bugs+transforming+food+waste+into+fertiliser4+Feb+2025Future' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250130-the-little-bug-with-a-big-appetite-turning-organic-waste-into-sustainable-fertiliser' target='_blank' rel='noopener noreferrer'>The bugs transforming food waste into fertiliser4 Feb 2025Future</a>
 
-[In the US, DEI is under attack. But under a different name, it might live onDonald Trump has promised to "terminate" diversity programmes. But a rebrand might yet save them.1 hr agoBBC InDepth](https://12ft.io/https://apnews.com/news/articles/c24110m30ddo)
+225 - <a href='https://www.google.com/search?q=The+rewilded+golf+courses+turned+into+a+nature+%27microcosm%2716+Feb+2025Future' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250214-from-scotland-to-california-the-rewilded-golf-courses-where-wildlife-thrives' target='_blank' rel='noopener noreferrer'>The rewilded golf courses turned into a nature 'microcosm'16 Feb 2025Future</a>
 
-[Former Governor Andrew Cuomo announces run for New York City mayorIt marks a potential political comeback after Cuomo resigned amid a barrage of sexual assault claims.7 hrs agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/c0egl7l40z7o)
+226 - <a href='https://www.google.com/search?q=The+ex-fracking+site+tapped+for+underground+heatSeveral+old+fossil+fuel+wells+in+the+north+of+England+were+going+to+be+used+for+fracking.+Instead%2C+they+may+now+be+a+template+for+the+UK%27s+geothermal+industry.20+Feb+2025Future' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/future/article/20250219-kirby-misperton-the-former-fracking-site-now-tapped-for-clean-heat' target='_blank' rel='noopener noreferrer'>The ex-fracking site tapped for underground heatSeveral old fossil fuel wells in the north of England were going to be used for fracking. Instead, they may now be a template for the UK's geothermal industry.20 Feb 2025Future</a>
 
-[They lost their families in a plane crash - then came the online hateFamilies of those killed in the Jeju Air crash have been smeared as "fake victims" and "scammers".3 hrs agoAsia](https://12ft.io/https://apnews.com/news/articles/cx28n141209o)
+227 - <a href='https://www.google.com/search?q=Crazy+Crystals+Match+3+Game' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/games/crazy-crystals-match-3-game' target='_blank' rel='noopener noreferrer'>Crazy Crystals Match 3 Game</a>
 
-[His name was in a child abuse diary - now his family listen to 'vile' testimonyFormer surgeon Joël Le Scouarnec is accused of abusing hundreds of patients, most of them children, including Mauricette Vinet's grandson2 hrs agoEurope](https://12ft.io/https://apnews.com/news/articles/ce34v17dw53o)
+228 - <a href='https://www.google.com/search?q=Stack+and+Match+Block+Puzzle' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/games/stack-match-block-puzzle-game' target='_blank' rel='noopener noreferrer'>Stack and Match Block Puzzle</a>
 
-[The scenic German city that inspired a horror filmMore than a century after its medieval centre served as the backdrop of Nosferatu, a new Oscar-nominated remake is putting this Gothic city back on the map.10 hrs agoTravel](https://12ft.io/https://apnews.com/travel/article/20250228-wismar-the-scenic-german-city-that-inspired-a-horror-classic)
+229 - <a href='https://www.google.com/search?q=5+Across+the+Letter+Word+Game' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/games/5-across-word-game' target='_blank' rel='noopener noreferrer'>5 Across the Letter Word Game</a>
 
-[First British tourists allowed back into North Korea tell BBC what they sawTravellers enter a mini capitalist enclave far from Pyongyang, on a tightly controlled visit.1 day agoAsia](https://12ft.io/https://apnews.com/news/articles/c0jggdnej0do)
+230 - <a href='https://www.google.com/search?q=Mavericks+Hike+Ticket+Prices+As+Team+Tries+To+Recover+from+Luka+Doncic+Trade' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.outkick.com/sports/mavericks-hike-ticket-prices-team-tries-recover-from-luka-doncic-trade' target='_blank' rel='noopener noreferrer'>Mavericks Hike Ticket Prices As Team Tries To Recover from Luka Doncic Trade</a>
 
-[Israel approves extension of Gaza ceasefire42 mins agoMiddle East](https://12ft.io/https://apnews.com/news/articles/c9q4w99je78o)
+231 - <a href='https://www.google.com/search?q=Justin+Jefferson+Provides+Refreshing+Insight+On+Why+He%27s+Not+A+Diva' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.outkick.com/sports/justin-jefferson-provides-refreshing-insight-why-hes-not-diva' target='_blank' rel='noopener noreferrer'>Justin Jefferson Provides Refreshing Insight On Why He's Not A Diva</a>
 
-[How to watch the Oscars and who is nominated2 hrs agoCulture](https://12ft.io/https://apnews.com/news/articles/c93kq2kldrqo)
+232 - <a href='https://www.google.com/search?q=Justin+Timberlake+Lays+Birthday+Wishes+For+Jessica+Biel+On+Thick+While+We+Take+A+Look+At+Her+Memorable+Roles' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.outkick.com/culture/justin-timberlake-lays-birthday-wishes-jessica-biel-thick' target='_blank' rel='noopener noreferrer'>Justin Timberlake Lays Birthday Wishes For Jessica Biel On Thick While We Take A Look At Her Memorable Roles</a>
 
-[Four dead and several missing after India avalanche13 hrs agoAsia](https://12ft.io/https://apnews.com/news/articles/c1mne8lj4kxo)
+233 - <a href='https://www.google.com/search?q=Ex-MSNBC+Staffer+Details+How+Joy+Reid+Blamed+%27Orthodox+Jews%27+For+COVID-19+Spread' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.outkick.com/culture/ex-msnbc-staffer-details-how-joy-reid-blamed-orthodox-jews-covid-19-spread' target='_blank' rel='noopener noreferrer'>Ex-MSNBC Staffer Details How Joy Reid Blamed 'Orthodox Jews' For COVID-19 Spread</a>
 
-[Threat to Kashmir's iconic chinar trees - and the fight to save them1 day agoAsia](https://12ft.io/https://apnews.com/news/articles/cvgee5ywq2vo)
+234 - <a href='https://www.google.com/search?q=A+night+with+Dallas+PD+as+they+navigate+ICE+and+Trump+immigration+policy+on+the+front+lines' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/night-dallas-pd-navigate-ice-trump-immigration-policy-front-lines' target='_blank' rel='noopener noreferrer'>A night with Dallas PD as they navigate ICE and Trump immigration policy on the front lines</a>
 
-[Brits go Brat as Charli XCX wins five awards4 hrs agoCulture](https://12ft.io/https://apnews.com/news/articles/c0rz54kn75ko)
+235 - <a href='https://www.google.com/search?q=Colorado+ranchers+want+Trump%27s+help+fighting+back+against+urban+interference+in+rural+communities' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/colorado-ranchers-want-trumps-help-fighting-back-urban-interference-rural-communities' target='_blank' rel='noopener noreferrer'>Colorado ranchers want Trump's help fighting back against urban interference in rural communities</a>
 
-[Rare footage shows life through the eyes of polar bearsScientists attached cameras to polar bears to learn how they adapt to a warming planet and found worrying trends.13 Feb 2024World of wonder](https://12ft.io/https://apnews.com/reel/video/p0hbnsbt/rare-footage-shows-life-through-the-eyes-of-polar-bears)
+236 - <a href='https://www.google.com/search?q=Figure+skating+mom+starts+Skates+of+Hope+to+honor+DC+plane+crash+victims' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/figure-skating-mom-starts-skates-hope-honor-dc-plane-crash-victims' target='_blank' rel='noopener noreferrer'>Figure skating mom starts Skates of Hope to honor DC plane crash victims</a>
 
-[The extreme homes of maximalists and minimalistsIn a world obsessed with decluttering, some people find beauty in an overstuffed apartment.23 Feb 2022Design](https://12ft.io/https://apnews.com/reel/video/p07zg7d6/the-extreme-homes-of-maximalists-and-minimalists)
+237 - <a href='https://www.google.com/search?q=Blue+state+ranchers+thrown+%E2%80%98to+the+wolves%E2%80%99+seek+President+Trump%E2%80%99s+rescue' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/blue-state-ranchers-thrown-wolves-seek-president-trumps-rescue' target='_blank' rel='noopener noreferrer'>Blue state ranchers thrown ‘to the wolves’ seek President Trump’s rescue</a>
 
-[Why do some people need less sleep?Scientific research shows that some people are genetically predisposed to thrive on less sleep.2 Jan 2025Sleep](https://12ft.io/https://apnews.com/reel/video/p0ck62w1/why-do-some-people-need-less-sleep-)
+238 - <a href='https://www.google.com/search?q=ICE+arrest+of+migrant+sparks+anger+protest+before+violent+gang+ties+exposed' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/ice-arrest-migrant-sparks-anger-protest-before-violent-gang-ties-exposed' target='_blank' rel='noopener noreferrer'>ICE arrest of migrant sparks anger protest before violent gang ties exposed</a>
 
-[See what your brain does when you look at artCutting-edge headsets show the impact of art on human brainwaves.26 Jan 2024Science & Health](https://12ft.io/https://apnews.com/reel/video/p0h6str5/see-what-your-brain-does-when-you-look-at-art)
+239 - <a href='https://www.google.com/search?q=Fired+pipeline+worker+says+reviving+Keystone+XL+Pipeline+will+help+families+%E2%80%98prosper%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/fired-pipeline-worker-says-reviving-keystone-xl-pipeline-help-families-prosper' target='_blank' rel='noopener noreferrer'>Fired pipeline worker says reviving Keystone XL Pipeline will help families ‘prosper’</a>
 
-[Which hiccup remedies actually work?Why do we get hiccups and how can we get rid of them?20 Jun 2024Science & Health](https://12ft.io/https://apnews.com/reel/video/p0j5892x/which-hiccup-remedies-actually-work-)
+240 - <a href='https://www.google.com/search?q=NY+corrections+officers+want+Dem+prison-reform+repeal%2C+say+deal+ending+strike+%27slap+in+the+face%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/ny-corrections-officers-want-dem-prison-reform-repeal-say-deal-ending-strike-slap-face' target='_blank' rel='noopener noreferrer'>NY corrections officers want Dem prison-reform repeal, say deal ending strike 'slap in the face'</a>
 
-[Experience David Attenborough's first expedition in colourFirst broadcast in 1954, the celebrated naturalist's first on-screen appearance is now available in colour.21 Dec 2024Natural wonders](https://12ft.io/https://apnews.com/reel/video/p0kd9nnb/experience-david-attenborough-s-first-expedition-in-colour)
+241 - <a href='https://www.google.com/search?q=Trump+stopped+Biden%E2%80%99s+plan+to+force+DEI+on+local+communities' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/opinion/trump-stopped-bidens-plan-force-dei-local-communities' target='_blank' rel='noopener noreferrer'>Trump stopped Biden’s plan to force DEI on local communities</a>
 
-[What horror films reveal about society's deepest fearsBBC Reel explores how movie monsters have mirrored real-life fears over the decades.21 Mar 2023Culture](https://12ft.io/https://apnews.com/reel/video/p0f9x668/what-horror-films-reveal-about-society-s-deepest-fears)
+242 - <a href='https://www.google.com/search?q=Trump-endorsed+Vivek+Ramaswamy+spells+out+vision+for+taking+Ohio+from+%27rust%27+to+%27platinum%27+if+elected+governor' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/trump-endorsed-vivek-ramaswamy-vision-taking-ohio-rust-platinum-elected-governor' target='_blank' rel='noopener noreferrer'>Trump-endorsed Vivek Ramaswamy spells out vision for taking Ohio from 'rust' to 'platinum' if elected governor</a>
 
-[Why giant hailstones are on the riseAlthough huge hailstones are still rare, there are signs that their frequency and size are increasing.19 Apr 2024Weather & science](https://12ft.io/https://apnews.com/reel/video/p0hrvjjx/the-rise-of-the-giant-hailstones)
+243 - <a href='https://www.google.com/search?q=Byron+Donalds+points+to+Trump+endorsement+while+addressing+Casey+DeSantis+rivaling+campaign+rumors' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/byron-donalds-points-trump-endorsement-addressing-casey-desantis-rivaling-campaign-rumors' target='_blank' rel='noopener noreferrer'>Byron Donalds points to Trump endorsement while addressing Casey DeSantis rivaling campaign rumors</a>
 
-[10 of the best films to watch this MarchFrom Disney's Snow White to Mickey 17, these are the films to stream at home and watch in the cinema this month.2 days agoCulture](https://12ft.io/https://apnews.com/culture/article/20250227-10-of-the-best-films-to-watch-this-march)
+244 - <a href='https://www.google.com/search?q=Outrage+after+%27rogue%27+Texas+judge+sets+bond+for+suspected+cop+killer+one+day+after+co-defendant%27s+release' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/outrage-rogue-texas-judge-sets-bond-suspected-cop-killer-one-day-after-co-defendants-release' target='_blank' rel='noopener noreferrer'>Outrage after 'rogue' Texas judge sets bond for suspected cop killer one day after co-defendant's release</a>
 
-[The best TV shows to watch in MarchFrom a lavish historical epic set in Sicily to a satire of Hollywood studios starring Seth Rogan, and the acclaimed final instalment of British Tudor drama Wolf Hall.5 days agoCulture](https://12ft.io/https://apnews.com/culture/article/20250224-10-of-the-best-tv-shows-to-watch-this-march)
+245 - <a href='https://www.google.com/search?q=UK+prime+minister+believes+his+country+will+play+%27leading+part%27+in+maintaining+security+guarantees+for+Ukraine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/uk-prime-minister-believes-his-country-play-leading-part-maintaining-security-guarantee-ukraine' target='_blank' rel='noopener noreferrer'>UK prime minister believes his country will play 'leading part' in maintaining security guarantees for Ukraine</a>
 
-[Oscars 2025: Who will win - and who should?In one of the most exciting and dramatic awards seasons ever, the field is wide open in several fields. Here are the BBC film critics' expert predictions.See more](https://12ft.io/https://apnews.com/culture/article/20250228-oscars-2025-who-will-win-and-who-should)
+246 - <a href='https://www.google.com/search?q=%27Too+aggressive+militarily%27%3A+Trump+talks+Hegseth%27s+role+pardoning+service+members+accused+of+war+crimes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/too-aggressive-militarily-trump-talks-hegseths-role-pardoning-service-members-accused-war-crimes' target='_blank' rel='noopener noreferrer'>'Too aggressive militarily': Trump talks Hegseth's role pardoning service members accused of war crimes</a>
 
-[A soca musician's guide to Trinidad and TobagoSoca musician Machel Montano shares his recommendations for enjoying his home nation during Carnival season and beyond.See more](https://12ft.io/https://apnews.com/travel/article/20250228-the-soca-kings-guide-to-trinidad-and-tobago)
+247 - <a href='https://www.google.com/search?q=Trump+amends+executive+order+raising+China+tariffs+to+20%25+over+%27failure+to+address%27+fentanyl+crisis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/trump-amends-executive-order-raising-china-tariffs-20-over-failure-address-fentanyl-crisis' target='_blank' rel='noopener noreferrer'>Trump amends executive order raising China tariffs to 20% over 'failure to address' fentanyl crisis</a>
 
-[The Documentary PodcastIn the Studio: Marcin Dudek](https://12ft.io/https://apnews.com/audio/play/p0kvcdz4)
+248 - <a href='https://www.google.com/search?q=Failed+VP+candidate+Tim+Walz+skewered+after+hinting+at+potential+2028+presidential+run' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/failed-vp-candidate-tim-walz-skewered-after-hinting-potential-2028-presidential-run' target='_blank' rel='noopener noreferrer'>Failed VP candidate Tim Walz skewered after hinting at potential 2028 presidential run</a>
 
-[Global News PodcastWarm welcome for President Zelensky in London](https://12ft.io/https://apnews.com/audio/play/p0kvk3st)
+249 - <a href='https://www.google.com/search?q=Education+Department+offers+staff+%2425K+incentive+to+quit+before+Monday+deadline' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/education-department-offers-staff-25k-incentive-quit-monday-deadline' target='_blank' rel='noopener noreferrer'>Education Department offers staff $25K incentive to quit before Monday deadline</a>
 
-[Global News PodcastThe Happy Pod: Learning to play the guitar one handed](https://12ft.io/https://apnews.com/audio/play/p0kvhj1h)
+250 - <a href='https://www.google.com/search?q=Debate+over+whether+to+ban+handgun+sales+to+teens+could+soon+head+to+the+Supreme+Court' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/debate-over-whether-ban-handgun-sales-teens-could-soon-face-supreme-court' target='_blank' rel='noopener noreferrer'>Debate over whether to ban handgun sales to teens could soon head to the Supreme Court</a>
 
-[Football DailyIntroducing......Football on Trial: The Manchester City Charges](https://12ft.io/https://apnews.com/audio/play/p0ktqvrc)
+251 - <a href='https://www.google.com/search?q=Comedian+says+American+pride+is+back%3A+%27It+feels+like+we+have+a+president+who+is+putting+America+first%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/comedian-says-american-pride-back-it-feels-like-we-have-president-who-putting-america-first' target='_blank' rel='noopener noreferrer'>Comedian says American pride is back: 'It feels like we have a president who is putting America first'</a>
 
-[The Documentary PodcastThe Fifth Floor: Are Korean beauty products too light?](https://12ft.io/https://apnews.com/audio/play/p0kv7mmq)
+252 - <a href='https://www.google.com/search?q=Investment+research+data+breach+exposes+12+million+customers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/tech/investment-research-data-breach-exposes-12-million-customers' target='_blank' rel='noopener noreferrer'>Investment research data breach exposes 12 million customers</a>
 
-[The Documentary PodcastBBC OS Conversations: Polyamorous relationships](https://12ft.io/https://apnews.com/audio/play/p0kvc3l1)
+253 - <a href='https://www.google.com/search?q=SCOTUS+tosses+challenge+to+TN+law+banning+drag+shows+with+kids+present%2C+state+AG+hails+decision' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/scotus-tosses-challenge-tn-law-banning-drag-shows-kids-present-state-ag-hails-decision' target='_blank' rel='noopener noreferrer'>SCOTUS tosses challenge to TN law banning drag shows with kids present, state AG hails decision</a>
 
-[The Global StoryThe scandal sinking an Oscars campaign](https://12ft.io/https://apnews.com/audio/play/w3ct6dxn)
+254 - <a href='https://www.google.com/search?q=Pope+Francis+suffers+2+acute+respiratory+crises%2C+Vatican+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/pope-francis-suffers-2-acute-respiratory-failure-episodes-vatican-says' target='_blank' rel='noopener noreferrer'>Pope Francis suffers 2 acute respiratory crises, Vatican says</a>
 
-[Witness HistoryAfrica’s stolen Metis children](https://12ft.io/https://apnews.com/audio/play/w3ct5yfy)
+255 - <a href='https://www.google.com/search?q=Car+ramming+in+Mannheim%2C+Germany%2C+leaves+2+dead%2C+multiple+injured%3A+reports' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/car-ramming-attack-mannheim-germany-leaves-multiple-injured-reports' target='_blank' rel='noopener noreferrer'>Car ramming in Mannheim, Germany, leaves 2 dead, multiple injured: reports</a>
 
-[RFK's measles response under scrutiny as deadly outbreak frightens Texas parents18 hrs agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/cvgeq3y1825o)
+256 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+row+with+Zelenskyy+recalls+Obama%2C+Biden+humiliations+of+Netanyahu' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/double-standards-trumps-row-zelenskyy-recalls-obama-biden-humiliation-netanyahu' target='_blank' rel='noopener noreferrer'>Trump’s row with Zelenskyy recalls Obama, Biden humiliations of Netanyahu</a>
 
-[Pilates, painting and bike rides: Gene Hackman's life in Santa Fe15 hrs agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/c36w7e4kglzo)
+257 - <a href='https://www.google.com/search?q=Terror+attack+in+Haifa%2C+Israel+leaves+1+dead%2C+4+wounded' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/terror-attack-haifa-israel-leaves-dead-wounded' target='_blank' rel='noopener noreferrer'>Terror attack in Haifa, Israel leaves 1 dead, 4 wounded</a>
 
-[R&B hitmaker Angie Stone dead in car crash5 hrs agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/c1d4r2nk4yyo)
+258 - <a href='https://www.google.com/search?q=Will+Democrats+stand+up+for+women+or+let+men+destroy+girls%E2%80%99+sports%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/opinion/democrats-stand-up-women-let-men-destroy-girls-sports' target='_blank' rel='noopener noreferrer'>Will Democrats stand up for women or let men destroy girls’ sports?</a>
 
-['They don't belong in the Med': Future of homeless orcas still uncertainAnimal rights campaigners and marine zoo official say Mediterranean is 'too warm' for killer whales.2 hrs agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/ceqjrnjvrv4o)
+259 - <a href='https://www.google.com/search?q=Trump+is+popular+and+so+are+many+of+his+policies.+Democrats+are+tanking' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/opinion/trump-popular-so-many-his-policies-democrats-tanking' target='_blank' rel='noopener noreferrer'>Trump is popular and so are many of his policies. Democrats are tanking</a>
 
-[Questions still remain for BBC after damaging Gaza documentary1 day agoCulture](https://12ft.io/https://apnews.com/news/articles/c2d4egk17l2o)
+260 - <a href='https://www.google.com/search?q=Mexico+broke+international+law+with+the+cartels+and+Americans+suffer+the+consequences' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/opinion/mexico-broke-international-law-cartels-americans-suffer-consequences' target='_blank' rel='noopener noreferrer'>Mexico broke international law with the cartels and Americans suffer the consequences</a>
 
-[Illinois man convicted for hate crime murder of Palestinian boy1 day agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/cyveq30lmdlo)
+261 - <a href='https://www.google.com/search?q=The+predictable+outcome+of+California%E2%80%99s+green+energy+policies+has+arrived+and+it%27s+a+disaster' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/opinion/predictable-outcome-californias-green-energy-policies-has-arrived-its-disaster' target='_blank' rel='noopener noreferrer'>The predictable outcome of California’s green energy policies has arrived and it's a disaster</a>
 
-[Gaza ceasefire deal hits critical moment as first phase ends8 hrs agoMiddle East](https://12ft.io/https://apnews.com/news/articles/c74kzjvypgeo)
+262 - <a href='https://www.google.com/search?q=Bird+flu+leads+to+pet+food+recalls+as+experts+urge+caution' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/health/bird-flu-leads-pet-food-recalls-experts-urge-caution' target='_blank' rel='noopener noreferrer'>Bird flu leads to pet food recalls as experts urge caution</a>
 
-[Israel approves extension of Gaza ceasefireIsrael proposes a six-week truce covering Muslim Ramadan and Jewish Passover - but Hamas has not yet commented.42 mins agoMiddle East](https://12ft.io/https://apnews.com/news/articles/c9q4w99je78o)
+263 - <a href='https://www.google.com/search?q=Woman%27s+medical+drama+solved+when+she+gets+her+man+%E2%80%94+and+far+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/health/womans-medical-drama-solved-gets-man-more' target='_blank' rel='noopener noreferrer'>Woman's medical drama solved when she gets her man — and far more</a>
 
-[How much has the US given to Ukraine?5 hrs agoWorld](https://12ft.io/https://apnews.com/news/articles/crew8y7pwd5o)
+264 - <a href='https://www.google.com/search?q=%E2%80%98The+carnivore+diet+saved+my+life+after+decades+of+anorexia%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/health/carnivore-diet-save-life-after-decades-anorexia' target='_blank' rel='noopener noreferrer'>‘The carnivore diet saved my life after decades of anorexia'</a>
 
-[Zelensky wants US to 'stand more firmly' on Ukraine's side5 hrs agoWorld](https://12ft.io/https://apnews.com/news/articles/cvgeqr0vg0no)
+265 - <a href='https://www.google.com/search?q=What+you+need+to+know+about+the+measles+outbreak' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/health/what-you-need-know-about-measles-outbreak' target='_blank' rel='noopener noreferrer'>What you need to know about the measles outbreak</a>
 
-[Starmer gives Zelensky 'full backing' in warm No 10 welcome4 hrs agoPolitics](https://12ft.io/https://apnews.com/news/articles/cg4k137ezlgo)
+266 - <a href='https://www.google.com/search?q=Woman+stung+by+venomous+critter+while+getting+bag+at+Boston%27s+Logan+Airport' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/woman-stung-venomous-critter-while-getting-bag-bostons-logan-airport' target='_blank' rel='noopener noreferrer'>Woman stung by venomous critter while getting bag at Boston's Logan Airport</a>
 
-[How Zelensky's clothing choice may have fuelled Oval Office spatThe Ukrainian president's casual dress has long been an issue on the US right, and came up before the Oval Office feud3 hrs agoWorld](https://12ft.io/https://apnews.com/news/articles/c1d4r9yvqzpo)
+267 - <a href='https://www.google.com/search?q=Slain+California+fire+captain%27s+fugitive+wife+%27scared%27+ex+mother-in-law' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/slain-california-fire-captains-fugitive-wife-scared-ex-mother-in-law' target='_blank' rel='noopener noreferrer'>Slain California fire captain's fugitive wife 'scared' ex mother-in-law</a>
 
-['Karachi a familiar low - England's rebuild starts here'7 hrs agoEngland](https://12ft.io/https://apnews.com/sport/cricket/articles/c1d4r9p40k6o)
+268 - <a href='https://www.google.com/search?q=Boston%27s+Mayor+Wu+responds+after+condolences+to+attempted+stabbing+suspect+killed+by+off-duty+officer+draw+ire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/bostons-mayor-wu-responds-after-condolences-attempted-stabbing-suspect-killed-off-duty-officer-draw-ire' target='_blank' rel='noopener noreferrer'>Boston's Mayor Wu responds after condolences to attempted stabbing suspect killed by off-duty officer draw ire</a>
 
-['He just lost it' - how costly will Cunha's red card prove?3 hrs agoWolves](https://12ft.io/https://apnews.com/sport/football/articles/crknx12gxr6o)
+269 - <a href='https://www.google.com/search?q=Investigators+reveal+riveting+details+behind+Kelly+Cochran%27s+murder+pact+that+proved+love+can+be+deadly' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/investigators-shocking-details-kelly-cochran-murder-pact-proved-love-deadly' target='_blank' rel='noopener noreferrer'>Investigators reveal riveting details behind Kelly Cochran's murder pact that proved love can be deadly</a>
 
-[The Lion King: How Mufasa was brought to lifeBBC Click speaks to the visual effects team behind the latest Disney blockbuster.See more](https://12ft.io/https://apnews.com/reel/video/p0ksnjny/the-lion-king-how-mufasa-was-brought-to-life)
+270 - <a href='https://www.google.com/search?q=Trump+friend+and+informal+faith+adviser%3A+%27God+is+giving+America+another+chance%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/trump-friend-informal-faith-adviser-god-giving-america-another-chance' target='_blank' rel='noopener noreferrer'>Trump friend and informal faith adviser: 'God is giving America another chance'</a>
 
-[Microsoft announces Skype will close in May1 day agoTechnology](https://12ft.io/https://apnews.com/news/articles/cn7vxlrvxyeo)
+271 - <a href='https://www.google.com/search?q=American-made+products+you+can+shop+for+this+holiday+season+for+loved+ones' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/american-made-gift-guide' target='_blank' rel='noopener noreferrer'>American-made products you can shop for this holiday season for loved ones</a>
 
-[Deal to buy Prince Andrew's business unravels18 hrs agoUK](https://12ft.io/https://apnews.com/news/articles/c62k6zkd3g5o)
+272 - <a href='https://www.google.com/search?q=%27I%27m+an+author+and+I%27m+grateful+for+democracy%2C+including+our+First+Amendment+rights%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/author-grateful-democracy-including-first-amendment-rights' target='_blank' rel='noopener noreferrer'>'I'm an author and I'm grateful for democracy, including our First Amendment rights'</a>
 
-[What we know about US-Ukraine minerals deal1 day agoWorld](https://12ft.io/https://apnews.com/news/articles/cn527pz54neo)
+273 - <a href='https://www.google.com/search?q=Visiting+the+Constitution+can+remind+us+that+America+is+all+about+%27We+the+People%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/travel/visiting-constitution-remind-us-america-about-we-people' target='_blank' rel='noopener noreferrer'>Visiting the Constitution can remind us that America is all about 'We the People'</a>
 
-[US judge says mass firings of some federal workers likely illegalThousands of workers have been fired by the Trump administration as part of its effort to slash the federal workforce.1 day agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/clydd7zeye7o)
+274 - <a href='https://www.google.com/search?q=Hegseth+orders+iconic+Georgia+base+to+revert+to+Fort+Benning%2C+but+with+a+twist' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/hegseth-orders-iconic-georgia-base-revert-fort-benning-twist' target='_blank' rel='noopener noreferrer'>Hegseth orders iconic Georgia base to revert to Fort Benning, but with a twist</a>
 
-[Watch: Rare planetary parade caught on camera by our expert stargazers1 day agoScience & Environment](https://12ft.io/https://apnews.com/news/videos/ckgd2zk9k9go)
+275 - <a href='https://www.google.com/search?q=Trans+airmen%2C+Space+Force+personnel+have+until+March+26+to+resign+under+Trump+order%3A+Memo' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/trans-airmen-space-force-personnel-have-until-march-26-resign-under-trump-order-memo' target='_blank' rel='noopener noreferrer'>Trans airmen, Space Force personnel have until March 26 to resign under Trump order: Memo</a>
 
-['I was at the centre of a social media storm', says Cambridge University academic20 hrs agoCambridgeshire](https://12ft.io/https://apnews.com/news/articles/cjryy5dprn9o)
+276 - <a href='https://www.google.com/search?q=California+Coast+Guard+captain+sounds+alarm+as+migrants+from+adversary+countries+inundate+Pacific+waters' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/california-coast-guard-captain-sounds-alarm-migrants-from-adversary-countries-inundate-pacific-waters' target='_blank' rel='noopener noreferrer'>California Coast Guard captain sounds alarm as migrants from adversary countries inundate Pacific waters</a>
 
-['I'm not tech-savvy - but within hours I could buy an illegal knife on social media'2 hrs agoTechnology](https://12ft.io/https://apnews.com/news/articles/cgm18g19013o)
+277 - <a href='https://www.google.com/search?q=Coast+Guard+airlifts+cruise+ship+passenger+who+had+strokes+300+miles+off+Hawaii+coast' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/coast-guard-airlift-cruise-ship-passenger-who-had-strokes-300-miles-off-hawaii-coast' target='_blank' rel='noopener noreferrer'>Coast Guard airlifts cruise ship passenger who had strokes 300 miles off Hawaii coast</a>
 
-[They lost their families in a plane crash - then came the online hateFamilies of those killed in the Jeju Air crash have been smeared as "fake victims" and "scammers".3 hrs agoAsia](https://12ft.io/https://apnews.com/news/articles/cx28n141209o)
+278 - <a href='https://www.google.com/search?q=Demi+Moore+handles+Oscars+loss+by+hanging+with+her+dog%2C+eating+French+fries+after+fans+cry+star+was+%27robbed%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/demi-moore-handles-oscars-loss-hanging-her-dog-eating-french-fries-after-fans-cry-star-robbed' target='_blank' rel='noopener noreferrer'>Demi Moore handles Oscars loss by hanging with her dog, eating French fries after fans cry star was 'robbed'</a>
 
-[DR Congo conflict: 500 mpox patients flee clinics after rebel looting1 day agoAfrica](https://12ft.io/https://apnews.com/news/articles/ckgne2v4p12o)
+279 - <a href='https://www.google.com/search?q=Meghan+Markle+admits+to+making+%E2%80%98mistakes%E2%80%99+in+launching+As+Ever+lifestyle+brand' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/meghan-markle-admits-making-mistakes-launching-ever-lifestyle-brand' target='_blank' rel='noopener noreferrer'>Meghan Markle admits to making ‘mistakes’ in launching As Ever lifestyle brand</a>
 
-[When 'The Great Empty' became the new normal2 days agoFuture](https://12ft.io/https://apnews.com/future/article/20250227-covid-19-when-empty-became-the-new-normal)
+280 - <a href='https://www.google.com/search?q=%E2%80%98Sex+and+the+City%E2%80%99+star+didn%E2%80%99t+want+to+dump+Alec+Baldwin+because+of+his+Hamptons+house' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/sex-city-star-didnt-want-dump-alec-baldwin-because-his-hamptons-house' target='_blank' rel='noopener noreferrer'>‘Sex and the City’ star didn’t want to dump Alec Baldwin because of his Hamptons house</a>
 
-['Why I struggle to name my emotions'18 hrs agoWales](https://12ft.io/https://apnews.com/news/articles/cg4ky5qgrlpo)
+281 - <a href='https://www.google.com/search?q=Hollywood+stars+slim+down+as+Ozempic%2C+social+media+change+beauty+standards%3A+expert' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/hollywood-stars-slim-down-ozempic-social-media-change-beauty-standards-expert' target='_blank' rel='noopener noreferrer'>Hollywood stars slim down as Ozempic, social media change beauty standards: expert</a>
 
-[Why NHS England boss suddenly quitting is a huge momentAmanda Pritchard's exit comes as the government moves to assert more direct over healthcare.1 hr ago](https://12ft.io/https://apnews.com/news/articles/c8rkgvydrr3o)
+282 - <a href='https://www.google.com/search?q=WWE+to+launch+new+podcasts+as+part+of+expanded+partnership+with+Fanatics' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/wwe-to-launch-new-podcasts-part-expanded-partnership-with-fanatics' target='_blank' rel='noopener noreferrer'>WWE to launch new podcasts as part of expanded partnership with Fanatics</a>
 
-[Red carpet in pictures: Teddy Swims and Sabrina Carpenter arrive at the Brits7 hrs agoCulture](https://12ft.io/https://apnews.com/news/articles/c70w5kk4e97o)
+283 - <a href='https://www.google.com/search?q=Tiger+Woods+cheers%2C+shares+heartwarming+hug+with+daughter+Sam+after+she+wins+Florida+state+soccer+title' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/tiger-woods-cheers-shares-heartwarming-hug-daughter-sam-after-she-wins-florida-state-soccer-title' target='_blank' rel='noopener noreferrer'>Tiger Woods cheers, shares heartwarming hug with daughter Sam after she wins Florida state soccer title</a>
 
-[Jared Leto shows the BBC how to do a posh British accent5 hrs ago](https://12ft.io/https://apnews.com/news/videos/c8rkg8zl6gro)
+284 - <a href='https://www.google.com/search?q=Shedeur+Sanders+called+%27arrogant%2C%27+%27brash%27+during+interview+with+team+at+NFL+Combine%3A+report' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/shedeur-sanders-called-arrogant-brash-during-interview-nfl-team-combine-report' target='_blank' rel='noopener noreferrer'>Shedeur Sanders called 'arrogant,' 'brash' during interview with team at NFL Combine: report</a>
 
-[Gene Hackman loved acting but 'hated everything that went with it'3 hrs agoCulture](https://12ft.io/https://apnews.com/news/articles/cvgwwyrnpzdo)
+285 - <a href='https://www.google.com/search?q=Bengals+announce+Tee+Higgins+has+been+franchise+tagged+for+2nd+season+in+a+row' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/bengals-announce-tee-higgins-has-been-franchise-tagged-2nd-season-row' target='_blank' rel='noopener noreferrer'>Bengals announce Tee Higgins has been franchise tagged for 2nd season in a row</a>
 
-[Netflix shines light on true story 'that's been buried for a long time'The series stars Jodie Whittaker and Aimee Lou Wood as real-life mothers fighting for justice.1 hr agoNorthamptonshire](https://12ft.io/https://apnews.com/news/articles/cd654e1ddy7o)
+286 - <a href='https://www.google.com/search?q=Columbia+takes+disciplinary+action+months+after+anti-Israel+agitators+seized+campus+building' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/columbia-takes-disciplinary-action-months-after-anti-israel-agitators-seized-campus-building' target='_blank' rel='noopener noreferrer'>Columbia takes disciplinary action months after anti-Israel agitators seized campus building</a>
 
-[Eight portraits found hidden inside masterpieces8 days agoCulture](https://12ft.io/https://apnews.com/culture/article/20250221-eight-portraits-found-hidden-inside-masterpieces)
+287 - <a href='https://www.google.com/search?q=Flight+passenger+says+woman+squatted+in+man%27s+seat+before+offering+to+swap+near+a+baby' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/travel/flight-passenger-says-woman-squatted-mans-seat-offering-swap-near-baby' target='_blank' rel='noopener noreferrer'>Flight passenger says woman squatted in man's seat before offering to swap near a baby</a>
 
-[The troubled history of the Sydney Opera House6 days agoCulture](https://12ft.io/https://apnews.com/culture/article/20250221-the-tumultuous-history-of-the-sydney-opera-house)
+288 - <a href='https://www.google.com/search?q=16+travel+essentials+you+need+for+your+first+cruise' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/deals/travel-essentials-for-first-cruise' target='_blank' rel='noopener noreferrer'>16 travel essentials you need for your first cruise</a>
 
-[The Lion King: How Mufasa was brought to life5 days agoInnovation](https://12ft.io/https://apnews.com/reel/video/p0ksnjny/the-lion-king-how-mufasa-was-brought-to-life)
+289 - <a href='https://www.google.com/search?q=My+daughter+overcame+seizures+to+prove+%E2%80%98Wrestle+Like+a+Girl%E2%80%99+means+something' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/opinion/my-daughter-overcame-seizures-prove-wrestle-like-girl-means-something' target='_blank' rel='noopener noreferrer'>My daughter overcame seizures to prove ‘Wrestle Like a Girl’ means something</a>
 
-[Did a gay affair stir a 14th-Century royal crisis?A new revival of Christopher Marlowe's pioneering play about the 14th-Century King of England puts the spotlight back on his relationship with his male "favourite" Piers Gaveston.3 days agoCulture](https://12ft.io/https://apnews.com/culture/article/20250226-edward-ii-did-a-gay-love-affair-spark-a-14th-century-royal-crisis)
+290 - <a href='https://www.google.com/search?q=Travelers+head+to+%27most+welcoming+cities%27+in+America%3A+See+if+yours+made+the+list' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/travel/travelers-head-most-welcoming-cities-america-see-yours-made-list' target='_blank' rel='noopener noreferrer'>Travelers head to 'most welcoming cities' in America: See if yours made the list</a>
 
-[How Trump's new policies could change travel5 days agoTravel](https://12ft.io/https://apnews.com/travel/article/20250224-how-trumps-new-policies-could-change-travel)
+291 - <a href='https://www.google.com/search?q=Mortgage+rates+hit+a+two-month+low+this+week%2C+remain+under+7%25' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/mortgage-rates-hit-two-month-low' target='_blank' rel='noopener noreferrer'>Mortgage rates hit a two-month low this week, remain under 7%</a>
 
-[A White Lotus actor's guide to Thailand4 days agoTravel](https://12ft.io/https://apnews.com/travel/article/20250225-a-white-lotus-actors-guide-to-thailand)
+292 - <a href='https://www.google.com/search?q=401%28k%29+balances+hit+second+highest+on+record%3A+Fidelity' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity' target='_blank' rel='noopener noreferrer'>401(k) balances hit second highest on record: Fidelity</a>
 
-[The quiet towns that sparked US independence3 days agoTravel](https://12ft.io/https://apnews.com/travel/article/20250225-the-quiet-massachusetts-towns-that-sparked-a-revolution)
+293 - <a href='https://www.google.com/search?q=Will+you+get+a+tax+refund+this+year%3F+Experts+have+ideas+on+how+to+use+the+money' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/you-get-tax-refund-year-experts-have-ideas-how-use-money' target='_blank' rel='noopener noreferrer'>Will you get a tax refund this year? Experts have ideas on how to use the money</a>
 
-[Is there no such thing as Italian food?Italian cuisine may be one of the most recognised and loved in the world. But now, a food historian is arguing that the Italian food as we know it is barely a few decades old.2 days agoTravel](https://12ft.io/https://apnews.com/travel/article/20250227-is-there-no-such-thing-as-italian-cuisine)
+294 - <a href='https://www.google.com/search?q=January+inflation+gives+Fed+more+reason+to+hold+on+interest+rate+cuts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/january-inflation-increases' target='_blank' rel='noopener noreferrer'>January inflation gives Fed more reason to hold on interest rate cuts</a>
 
-[Wild beaver release approved for England2 days agoScience & Environment](https://12ft.io/https://apnews.com/news/articles/cj3nn4rlxz5o)
+295 - <a href='https://www.google.com/search?q=New+malware+exploits+fake+updates+to+steal+data' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/tech/new-malware-exploits-fake-updates-steal-data' target='_blank' rel='noopener noreferrer'>New malware exploits fake updates to steal data</a>
 
-[Project to restore 'vital' seagrass around Scotland15 hrs agoScotland](https://12ft.io/https://apnews.com/news/articles/cd65j7jd3z5o)
+296 - <a href='https://www.google.com/search?q=The+2025+Terminator%3F+Lab-grown+muscle+brings+biohybrid+robot+hand+to+life' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/tech/2025-terminator-lab-grown-muscle-brings-biohybrid-robot-hand-life' target='_blank' rel='noopener noreferrer'>The 2025 Terminator? Lab-grown muscle brings biohybrid robot hand to life</a>
 
-[Cuts to US national parks and forests met with backlash as summer nears21 hrs agoUS & Canada](https://12ft.io/https://apnews.com/news/articles/czx7kez4vx2o)
+297 - <a href='https://www.google.com/search?q=Extra+cash+with+no+catch%3F+Spotting+retiree+job+scams' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/tech/extra-cash-no-catch-spotting-retiree-job-scams' target='_blank' rel='noopener noreferrer'>Extra cash with no catch? Spotting retiree job scams</a>
 
-[Why Vermont farmers are using urine on their cropsUrine was used as fertiliser in ancient Rome and China. Now farmers in Vermont are bringing this practice back to boost harvests and grow crops in a more sustainable way.17 hrs agoFuture](https://12ft.io/https://apnews.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops)
+298 - <a href='https://www.google.com/search?q=Your+iPhone+has+a+hidden+folder+eating+up+storage+space+without+you+even+knowing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/tech/your-iphone-has-hidden-folder-eating-up-storage-space-without-you-even-knowing' target='_blank' rel='noopener noreferrer'>Your iPhone has a hidden folder eating up storage space without you even knowing</a>
 
-[Which is worse for wildlife, wind farms or oil drilling?30 Jan 2025Future](https://12ft.io/https://apnews.com/future/article/20250129-oil-vs-wind-which-is-worse-for-birds-and-whales)
+299 - <a href='https://www.google.com/search?q=Jessica+Alba+shows+off+new+tattoo+following+split+with+husband+Cash+Warren' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/jessica-alba-shows-off-new-tattoo-following-split-husband-cash-warren' target='_blank' rel='noopener noreferrer'>Jessica Alba shows off new tattoo following split with husband Cash Warren</a>
 
-[The bugs transforming food waste into fertiliser4 Feb 2025Future](https://12ft.io/https://apnews.com/future/article/20250130-the-little-bug-with-a-big-appetite-turning-organic-waste-into-sustainable-fertiliser)
+300 - <a href='https://www.google.com/search?q=Oscars+2025%3A+Sydney+Sweeney%2C+Olivia+Wilde+rock+racy+gowns+at+Vanity+Fair+party' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/oscars-2025-sydney-sweeney-olivia-wilde-rock-racy-gowns-vanity-fair-party' target='_blank' rel='noopener noreferrer'>Oscars 2025: Sydney Sweeney, Olivia Wilde rock racy gowns at Vanity Fair party</a>
 
-[The rewilded golf courses turned into a nature 'microcosm'16 Feb 2025Future](https://12ft.io/https://apnews.com/future/article/20250214-from-scotland-to-california-the-rewilded-golf-courses-where-wildlife-thrives)
+301 - <a href='https://www.google.com/search?q=LARRY+KUDLOW%3A+Trump%27s+offer+was+the+best+security+tripwire+Ukraine+could+hope+for' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/larry-kudlow-trumps-offer-best-security-tripwire-ukraine-could-hope' target='_blank' rel='noopener noreferrer'>LARRY KUDLOW: Trump's offer was the best security tripwire Ukraine could hope for</a>
 
-[The ex-fracking site tapped for underground heatSeveral old fossil fuel wells in the north of England were going to be used for fracking. Instead, they may now be a template for the UK's geothermal industry.20 Feb 2025Future](https://12ft.io/https://apnews.com/future/article/20250219-kirby-misperton-the-former-fracking-site-now-tapped-for-clean-heat)
+302 - <a href='https://www.google.com/search?q=Dow+falls+649+points%2C+S%26P%2C+Nasdaq+slide+on+tariff+fears' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/dow-falls-649-points-sp-nasdaq-slide-tariff-fears' target='_blank' rel='noopener noreferrer'>Dow falls 649 points, S&P, Nasdaq slide on tariff fears</a>
 
-[Crazy Crystals Match 3 Game](https://12ft.io/https://apnews.com//www.foxnews.com/games/crazy-crystals-match-3-game)
+303 - <a href='https://www.google.com/search?q=Billionaire+hedge+fund+manager+warns+of+%27economic+heart+attack%27+for+US+economy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/billionaire-hedge-fund-manager-warns-economic-heart-attack-us-economy' target='_blank' rel='noopener noreferrer'>Billionaire hedge fund manager warns of 'economic heart attack' for US economy</a>
 
-[Stack and Match Block Puzzle](https://12ft.io/https://apnews.com//www.foxnews.com/games/stack-match-block-puzzle-game)
+304 - <a href='https://www.google.com/search?q=Trump+says+tariffs+on+%27external%27+agricultural+products+to+begin+April+2' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/trump-says-tariffs-external-agricultural-products-begin-april-2' target='_blank' rel='noopener noreferrer'>Trump says tariffs on 'external' agricultural products to begin April 2</a>
 
-[5 Across the Letter Word Game](https://12ft.io/https://apnews.com//www.foxnews.com/games/5-across-word-game)
+305 - <a href='https://www.google.com/search?q=%27The+Tides+That+Bind%27+executive+producer+on+why+it%27s+%27unique%27+within+the+college+football+world' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/the-tides-bind-executive-producer-why-its-unique-within-college-football-world' target='_blank' rel='noopener noreferrer'>'The Tides That Bind' executive producer on why it's 'unique' within the college football world</a>
 
-[Crazy Crystals Match 3 Game](https://12ft.io/https://apnews.com//www.foxnews.com/games/crazy-crystals-match-3-game)
+306 - <a href='https://www.google.com/search?q=Leading+evangelicals+in+push+to+have+President+Trump+recognize+Israeli+sovereignty+over+%E2%80%98biblical+heartland%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/leading-evangelicals-push-have-president-trump-recognize-israeli-sovereignty-over-biblical-heartland' target='_blank' rel='noopener noreferrer'>Leading evangelicals in push to have President Trump recognize Israeli sovereignty over ‘biblical heartland’</a>
 
-[Stack and Match Block Puzzle](https://12ft.io/https://apnews.com//www.foxnews.com/games/stack-match-block-puzzle-game)
+307 - <a href='https://www.google.com/search?q=Founder+of+Catholic+ministry+Word+on+Fire+to+attend+Trump+address+to+Congress' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/founder-catholic-ministry-word-fire-attend-trump-address-congress' target='_blank' rel='noopener noreferrer'>Founder of Catholic ministry Word on Fire to attend Trump address to Congress</a>
 
-[5 Across the Letter Word Game](https://12ft.io/https://apnews.com//www.foxnews.com/games/5-across-word-game)
+308 - <a href='https://www.google.com/search?q=Pope+Francis+believes+%27papacy+is+for+life%2C%27+says+historian-biographer' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/pope-francis-believes-papacy-life-historian-biographer' target='_blank' rel='noopener noreferrer'>Pope Francis believes 'papacy is for life,' says historian-biographer</a>
 
-[Jimmy Butler Trashed His Miami Home, Left Behind 125K In Damages](https://12ft.io/https://apnews.com//www.outkick.com/sports/jimmy-butler-trashed-his-miami-home-left-behind-125k-damages)
+309 - <a href='https://www.google.com/search?q=INDYCAR+Power+Rankings%3A+Scott+Dixon%2C+Felix+Rosenqvist+big+movers+after+St.+Pete' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/indycar-power-rankings-2025' target='_blank' rel='noopener noreferrer'>INDYCAR Power Rankings: Scott Dixon, Felix Rosenqvist big movers after St. Pete</a>
 
-[Canadian Pettiness Reaches New Low; Fans Boo American National Anthem At WWE Elimination Chamber](https://12ft.io/https://apnews.com//www.outkick.com/sports/canadian-pettiness-reaches-new-low-fans-boo-american-national-anthem-wwe-elimination-chamber)
+310 - <a href='https://www.google.com/search?q=2025+NASCAR+Cup+Series+Championship+odds%3A+Christopher+Bell+new+favorite' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/2025-nascar-cup-series-championship-odds' target='_blank' rel='noopener noreferrer'>2025 NASCAR Cup Series Championship odds: Christopher Bell new favorite</a>
 
-[Deebo Samuel Traded For Pennies To Washington Commanders, Ending Run With 49ers](https://12ft.io/https://apnews.com//www.outkick.com/sports/commanders-trade-deebo-samuel-ending-49ers-run)
+311 - <a href='https://www.google.com/search?q=Christopher+Bell+holds+off+Daytona+500+winner+William+Byron+at+Circuit+of+the+Americas+for+second+straight+win' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/christopher-bell-holds-off-daytona-500-winner-william-byron-circuit-americas-second-straight-win' target='_blank' rel='noopener noreferrer'>Christopher Bell holds off Daytona 500 winner William Byron at Circuit of the Americas for second straight win</a>
 
-[Soccer Fans Chant Disgusting Taunt To Unconscious Player In FA Cup Match](https://12ft.io/https://apnews.com//www.outkick.com/sports/soccer-fans-chant-disgusting-taunt-unconscious-player-fa-cup-match)
+312 - <a href='https://www.google.com/search?q=Christopher+Bell+makes+late+charge+in+thrilling+finish+at+Circuit+of+the+Americas' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/christopher-bell-makes-late-charge-thrilling-finish-circuit-americas' target='_blank' rel='noopener noreferrer'>Christopher Bell makes late charge in thrilling finish at Circuit of the Americas</a>
 
-[A night with Dallas PD as they navigate ICE and Trump immigration policy on the front lines](https://12ft.io/https://apnews.com//www.foxnews.com/media/night-dallas-pd-navigate-ice-trump-immigration-policy-front-lines)
+313 - <a href='https://www.google.com/search?q=Central+America+steps+up+to+house+deported+migrants+after+Trump+makes+clear+U.S.+won%27t+be+%27doormat%27%3A+expert' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/central-america-steps-up-house-deported-migrants-after-trump-makes-clear-u-s-wont-doormat-expert' target='_blank' rel='noopener noreferrer'>Central America steps up to house deported migrants after Trump makes clear U.S. won't be 'doormat': expert</a>
 
-[Colorado ranchers want Trump's help fighting back against urban interference in rural communities](https://12ft.io/https://apnews.com//www.foxnews.com/media/colorado-ranchers-want-trumps-help-fighting-back-urban-interference-rural-communities)
+314 - <a href='https://www.google.com/search?q=FAA+opens+probe+on+why+flights+approaching+Ronald+Reagan+airport+received+false+alerts+of+nearby+aircraft' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/faa-opens-probe-why-flights-approaching-ronald-reagan-airport-received-false-alerts-nearby-aircraft' target='_blank' rel='noopener noreferrer'>FAA opens probe on why flights approaching Ronald Reagan airport received false alerts of nearby aircraft</a>
 
-[Figure skating mom starts Skates of Hope to honor DC plane crash victims](https://12ft.io/https://apnews.com//www.foxnews.com/us/figure-skating-mom-starts-skates-hope-honor-dc-plane-crash-victims)
+315 - <a href='https://www.google.com/search?q=10+musical+instrument+starter+kits+for+aspiring+musicians' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/deals/instruments-music-starter-kits' target='_blank' rel='noopener noreferrer'>10 musical instrument starter kits for aspiring musicians</a>
 
-[Blue state ranchers thrown ‘to the wolves’ seek President Trump’s rescue](https://12ft.io/https://apnews.com//www.foxnews.com/media/blue-state-ranchers-thrown-wolves-seek-president-trumps-rescue)
+316 - <a href='https://www.google.com/search?q=Country+singer+Craig+Morgan+thrilled+Trump+administration+is+bringing+back+%27pride+in+our+nation%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/country-singer-craig-morgan-thrilled-trump-administration-bringing-back-pride-our-nation' target='_blank' rel='noopener noreferrer'>Country singer Craig Morgan thrilled Trump administration is bringing back 'pride in our nation'</a>
 
-[ICE arrest of migrant sparks anger protest before violent gang ties exposed](https://12ft.io/https://apnews.com//www.foxnews.com/us/ice-arrest-migrant-sparks-anger-protest-before-violent-gang-ties-exposed)
+317 - <a href='https://www.google.com/search?q=Sabrina+Carpenter%27s+racy+Brit+Awards+performance+sparks+outrage+among+viewers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/sabrina-carpenters-racy-brit-awards-performance-sparks-outrage-among-viewers' target='_blank' rel='noopener noreferrer'>Sabrina Carpenter's racy Brit Awards performance sparks outrage among viewers</a>
 
-[Fired pipeline worker says reviving Keystone XL Pipeline will help families ‘prosper’](https://12ft.io/https://apnews.com//www.foxnews.com/media/fired-pipeline-worker-says-reviving-keystone-xl-pipeline-help-families-prosper)
+318 - <a href='https://www.google.com/search?q=New+York+Dolls+singer+David+Johansen+dead+at+75+after+daughter+pleads+with+fans+for+help' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/new-york-dolls-singer-david-johansen-dead-75-after-daughter-pleads-fans-help' target='_blank' rel='noopener noreferrer'>New York Dolls singer David Johansen dead at 75 after daughter pleads with fans for help</a>
 
-[NY corrections officers want Dem prison-reform repeal, say deal ending strike 'slap in the face'](https://12ft.io/https://apnews.com//www.foxnews.com/politics/ny-corrections-officers-want-dem-prison-reform-repeal-say-deal-ending-strike-slap-face)
+319 - <a href='https://www.google.com/search?q=3+soup+recipes+that+are+just+like+salads%2C+as+shared+by+chefs+and+authors' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/3-soup-recipes-like-salads-chefs-authors' target='_blank' rel='noopener noreferrer'>3 soup recipes that are just like salads, as shared by chefs and authors</a>
 
-[Trump stopped Biden’s plan to force DEI on local communities](https://12ft.io/https://apnews.com//www.foxnews.com/opinion/trump-stopped-bidens-plan-force-dei-local-communities)
+320 - <a href='https://www.google.com/search?q=Man+is+allergic+to+28+different+foods%2C+says+life+is+%27increasingly+difficult%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/man-allergic-28-different-foods-life-increasingly-difficult' target='_blank' rel='noopener noreferrer'>Man is allergic to 28 different foods, says life is 'increasingly difficult'</a>
 
-[Outrage after 'rogue' Texas judge sets bond for suspected cop killer one day after co-defendant's release](https://12ft.io/https://apnews.com//www.foxnews.com/media/outrage-rogue-texas-judge-sets-bond-suspected-cop-killer-one-day-after-co-defendants-release)
+321 - <a href='https://www.google.com/search?q=Coffee+conflict+could+signal+%27doomed+relationship%27+for+sparring+couple' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/coffee-conflict-signal-doomed-relationship-couple' target='_blank' rel='noopener noreferrer'>Coffee conflict could signal 'doomed relationship' for sparring couple</a>
 
-[UK prime minister believes his country will play 'leading part' in maintaining security guarantees for Ukraine](https://12ft.io/https://apnews.com//www.foxnews.com/media/uk-prime-minister-believes-his-country-play-leading-part-maintaining-security-guarantee-ukraine)
+322 - <a href='https://www.google.com/search?q=Man+buys+sweet+treat+for+one+child+but+not+for+his+other+two%3A+%27Asking+for+trouble%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/man-buys-treat-one-child-not-other-two-asking-trouble' target='_blank' rel='noopener noreferrer'>Man buys sweet treat for one child but not for his other two: 'Asking for trouble'</a>
 
-[Washington teen refuses to compete against trans basketball player, faces civil rights complaint](https://12ft.io/https://apnews.com//www.foxnews.com/media/washington-teen-refuses-compete-against-trans-basketball-player-faces-civil-rights-complaint)
+323 - <a href='https://www.google.com/search?q=Multiday+severe+weather+threat+kicks+off+Monday+with+millions+bracing+for+damaging+winds%2C+possible+tornadoes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/plains-southeast-mid-atlantic-severe-weather-threat' target='_blank' rel='noopener noreferrer'>Multiday severe weather threat kicks off Monday with millions bracing for damaging winds, possible tornadoes</a>
 
-[Jeff Bezos applauded for reining in 'absurd lunacy' of Washington Post opinion pages](https://12ft.io/https://apnews.com//www.foxnews.com/media/jeff-bezos-applauded-reining-absurd-lunacy-washington-post-opinion-pages)
+324 - <a href='https://www.google.com/search?q=South+Carolina+wildfires+force+residents+to+flee+homes+as+blazes+erupt+along+Eastern+Seaboard' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/march-drought-fire-update' target='_blank' rel='noopener noreferrer'>South Carolina wildfires force residents to flee homes as blazes erupt along Eastern Seaboard</a>
 
-[Federal judge rules Trump’s firing of head of special counsel was unlawful, will maintain his job](https://12ft.io/https://apnews.com//www.foxnews.com/politics/federal-judge-rules-trumps-firing-head-special-counsel-unlawful-maintain-his-job)
+325 - <a href='https://www.google.com/search?q=Coast-to-coast+chaos+of+severe+storms%2C+flooding+and+blizzards+to+slam+US+this+week.+Here%27s+what+to+expect' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/spring-storm-tuesday-wednesday-us-outlook-forecast' target='_blank' rel='noopener noreferrer'>Coast-to-coast chaos of severe storms, flooding and blizzards to slam US this week. Here's what to expect</a>
 
-[Trump signs executive order making English official language of US](https://12ft.io/https://apnews.com//www.foxnews.com/politics/trump-signs-executive-order-making-english-official-language-us)
+326 - <a href='https://www.google.com/search?q=Some+Mardi+Gras+celebrations+canceled+in+Louisiana+due+to+high+winds%2C+severe+weather+threat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/mardi-gras-forecast' target='_blank' rel='noopener noreferrer'>Some Mardi Gras celebrations canceled in Louisiana due to high winds, severe weather threat</a>
 
-[Dave Portnoy drops in-depth take on Zelenskyy-Trump debacle: 'Felt like I was watching Bravo TV'](https://12ft.io/https://apnews.com//www.foxnews.com/media/dave-portnoy-drops-depth-take-zelenskyy-trump-debacle-felt-like-watching-bravo-tv)
+327 - <a href='https://www.google.com/search?q=The+Story+w%2F+Martha+MacCallum+-+Monday%2C+March+3' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/video/6369567709112' target='_blank' rel='noopener noreferrer'>The Story w/ Martha MacCallum - Monday, March 3</a>
 
-[JD Vance's visit to Vermont ski resort interrupted by pro-Ukraine demonstrators after Zelenskyy exchange](https://12ft.io/https://apnews.com//www.foxnews.com/politics/jd-vances-visit-vermont-ski-resort-interrupted-pro-ukraine-demonstrators-following-zelenskyy-exchange)
+328 - <a href='https://www.google.com/search?q=The+Faulkner+Focus+-+Monday%2C+March+3' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/video/6369565877112' target='_blank' rel='noopener noreferrer'>The Faulkner Focus - Monday, March 3</a>
 
-[Comedian says American pride is back: 'It feels like we have a president who is putting America first'](https://12ft.io/https://apnews.com//www.foxnews.com/media/comedian-says-american-pride-back-it-feels-like-we-have-president-who-putting-america-first)
+329 - <a href='https://www.google.com/search?q=Outnumbered+-+Monday%2C+March+3' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/video/6369565076112' target='_blank' rel='noopener noreferrer'>Outnumbered - Monday, March 3</a>
 
-[Investment research data breach exposes 12 million customers](https://12ft.io/https://apnews.com//www.foxnews.com/tech/investment-research-data-breach-exposes-12-million-customers)
+330 - <a href='https://www.google.com/search?q=One+Nation+with+Brian+Kilmeade+-+Sunday%2C+March+2' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/video/6369541154112' target='_blank' rel='noopener noreferrer'>One Nation with Brian Kilmeade - Sunday, March 2</a>
 
-[SCOTUS tosses challenge to TN law banning drag shows with kids present, state AG hails decision](https://12ft.io/https://apnews.com//www.foxnews.com/politics/scotus-tosses-challenge-tn-law-banning-drag-shows-kids-present-state-ag-hails-decision)
+331 - <a href='https://www.google.com/search?q=Figure+skating+titans+come+together+for+emotional+event+benefiting+victims+of+DC+plane+crash' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/sports/figure-skating-titans-come-together-emotional-event-benefiting-victims-dc-plane-crash' target='_blank' rel='noopener noreferrer'>Figure skating titans come together for emotional event benefiting victims of DC plane crash</a>
 
-[Long-dormant Mac malware returns with advanced capabilities](https://12ft.io/https://apnews.com//www.foxnews.com/tech/long-dormant-mac-malware-returns-advanced-capabilities)
+332 - <a href='https://www.google.com/search?q=Illinois+man+accused+of+Highland+Park+shooting+to+face+trial+3+years+after+attack' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/illinois-man-accused-highland-park-shooting-face-trial-3-years-after-attack' target='_blank' rel='noopener noreferrer'>Illinois man accused of Highland Park shooting to face trial 3 years after attack</a>
 
-[Israel agrees to Trump envoy’s temporary Gaza ceasefire extension proposal as first phase expires: reports](https://12ft.io/https://apnews.com//www.foxnews.com/world/israel-agrees-trump-envoys-gaza-ceasefire-proposal-first-phase-expires)
+333 - <a href='https://www.google.com/search?q=Rose+Girone%2C+oldest+living+Holocaust+survivor%2C+dies+at+113' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/rose-girone-oldest-living-holocaust-survivor-dies-113' target='_blank' rel='noopener noreferrer'>Rose Girone, oldest living Holocaust survivor, dies at 113</a>
 
-[Zelenskyy meets with British Prime Minister Keir Starmer in London following Trump Oval Office clash](https://12ft.io/https://apnews.com//www.foxnews.com/world/zelenskyy-meets-british-prime-minister-keir-starmer-london-following-trump-oval-office-clash)
+334 - <a href='https://www.google.com/search?q=Death+toll+in+Sudan+military+plane+crash+rises+to+46' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/world/death-toll-sudan-military-plane-crash-rises-46' target='_blank' rel='noopener noreferrer'>Death toll in Sudan military plane crash rises to 46</a>
 
-[Taiwan’s volunteer military shrinks amid growing Chinese aggression](https://12ft.io/https://apnews.com//www.foxnews.com/world/taiwans-volunteer-military-shrinks-amid-growing-chinese-aggression)
+335 - <a href='https://www.google.com/search?q=Chuck+Todd+says+the+%27mythology%27+of+Joe+Biden+as+a+family+man+is+%27all+bulls---%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/chuck-todd-says-mythology-joe-biden-family-man-all-bulls' target='_blank' rel='noopener noreferrer'>Chuck Todd says the 'mythology' of Joe Biden as a family man is 'all bulls---'</a>
 
-[Vatican gives health update as Pope enters third week in hospital](https://12ft.io/https://apnews.com//www.foxnews.com/world/vatican-gives-health-update-pope-enters-third-week-hospital)
+336 - <a href='https://www.google.com/search?q=New+York+governor+declines+to+say+whether+Andrew+Cuomo+is+fit+to+serve+as+mayor' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/new-york-governor-declines-say-whether-andrew-cuomo-fit-serve-mayor' target='_blank' rel='noopener noreferrer'>New York governor declines to say whether Andrew Cuomo is fit to serve as mayor</a>
 
-[DAVID MARCUS: Cuomo runs for NYC mayor with eyes on even bigger prize](https://12ft.io/https://apnews.com//www.foxnews.com/opinion/david-marcus-cuomo-runs-nyc-mayor-eyes-even-bigger-prize)
+337 - <a href='https://www.google.com/search?q=Federal+worker+says+that+DOGE+emails+asking+to+report+the+five+accomplishments+of+the+week+is+harassment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/federal-worker-says-doge-emails-asking-report-five-accomplishments-week-harassment' target='_blank' rel='noopener noreferrer'>Federal worker says that DOGE emails asking to report the five accomplishments of the week is harassment</a>
 
-[DAVID MARCUS: Inside Colony Ridge, where illegal migrants hide and roads lead nowhere](https://12ft.io/https://apnews.com//www.foxnews.com/opinion/david-marcus-inside-colony-ridge-where-illegal-migrants-hide-roads-lead-nowhere)
+338 - <a href='https://www.google.com/search?q=Bill+Murray+says+Bob+Woodward%E2%80%99s+Nixon+reporting+%E2%80%98soiled%E2%80%99+because+of+%E2%80%98inaccurate%E2%80%99+book+on+John+Belushi' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/bill-murray-says-bob-woodwards-nixon-reporting-soiled-because-inaccurate-book-john-belushi' target='_blank' rel='noopener noreferrer'>Bill Murray says Bob Woodward’s Nixon reporting ‘soiled’ because of ‘inaccurate’ book on John Belushi</a>
 
-[Democrats, get over the Obama Coalition. Time to grow anew](https://12ft.io/https://apnews.com//www.foxnews.com/opinion/democrats-get-over-obama-coalition-time-grow-anew)
+339 - <a href='https://www.google.com/search?q=Anti-Israel+protesters+who+wave+flags+linked+to+terror+groups+could+be+jailed+if+NY+law+passes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/anti-israel-protesters-who-wave-flags-linked-terror-groups-could-jailed-ny-law-passes' target='_blank' rel='noopener noreferrer'>Anti-Israel protesters who wave flags linked to terror groups could be jailed if NY law passes</a>
 
-[Ukraine's Zelenskyy thought he'd look like a tough guy. He had another thing coming from Trump and Vance](https://12ft.io/https://apnews.com//www.foxnews.com/opinion/zelenskyy-thought-hed-look-like-tough-guy-he-had-another-thing-coming-from-trump)
+340 - <a href='https://www.google.com/search?q=13+American+universities+slapped+with+%E2%80%98F%E2%80%99+grade+on+campus+antisemitism' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/13-american-universities-slapped-f-grade-campus-antisemitism' target='_blank' rel='noopener noreferrer'>13 American universities slapped with ‘F’ grade on campus antisemitism</a>
 
-[Can red light therapy improve your skin? Dermatologists share benefits and tips](https://12ft.io/https://apnews.com//www.foxnews.com/health/can-red-light-therapy-improve-skin-dermatologists-share-benefits-tips)
+341 - <a href='https://www.google.com/search?q=Barnard+student+demands+action+after+pro-Hamas+protest+turns+violent%2C+calls+out+school%27s+%27pathetic%27+response' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/media/barnard-student-demands-action-after-pro-hamas-protest-turns-violent-calls-out-schools-pathetic-response' target='_blank' rel='noopener noreferrer'>Barnard student demands action after pro-Hamas protest turns violent, calls out school's 'pathetic' response</a>
 
-[Woman, age 107, has a few big secrets of living a long, happy life](https://12ft.io/https://apnews.com//www.foxnews.com/health/woman-age-107-big-secrets-living-long-happy-life)
+342 - <a href='https://www.google.com/search?q=Border+Patrol%2C+FBI+leaders+who+first+identified+Tren+de+Aragua+recount+gang%27s+rise+to+power' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/us/border-patrol-fbi-leaders-who-first-identified-tren-de-aragua-recount-gangs-rise-power' target='_blank' rel='noopener noreferrer'>Border Patrol, FBI leaders who first identified Tren de Aragua recount gang's rise to power</a>
 
-[‘I vaped for one year and almost died'](https://12ft.io/https://apnews.com//www.foxnews.com/health/vaped-one-year-almost-died)
+343 - <a href='https://www.google.com/search?q=Texas+lawmaker+reveals+which+%27threatening%27+migration+efforts+he+would+like+to+slash%3A+%27Our+own+destruction%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/texas-lawmaker-reveals-which-threatening-migration-efforts-he-would-like-slash' target='_blank' rel='noopener noreferrer'>Texas lawmaker reveals which 'threatening' migration efforts he would like to slash: 'Our own destruction'</a>
 
-[Measles cases continue to spread in multiple states following child’s death](https://12ft.io/https://apnews.com//www.foxnews.com/health/measles-cases-continue-spread-multiple-states-following-childs-death)
+344 - <a href='https://www.google.com/search?q=Skyrocketing+healthcare+costs+for+illegal+immigrants+sparks+border+state+outcry' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxnews.com/politics/skyrocketing-healthcare-costs-illegal-immigrants-sparks-border-state-outcry' target='_blank' rel='noopener noreferrer'>Skyrocketing healthcare costs for illegal immigrants sparks border state outcry</a>
 
-[Juilliard-trained pianist convicted of murder after mid-trial confession leads to additional arrest](https://12ft.io/https://apnews.com//www.foxnews.com/us/juilliard-trained-pianist-convicted-murder-after-mid-trial-confession-leads-additional-arrest)
+345 - <a href='https://www.google.com/search?q=New+Video+of+Angie+Stone+Crash+%28NEW%3A+3PM%29' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//radio.foxnews.com/2025/03/03/new-video-of-angie-stone-crash-new-3pm/' target='_blank' rel='noopener noreferrer'>New Video of Angie Stone Crash (NEW: 3PM)</a>
 
-[Princeton preppy murder suspect attempts suicide as slain brother laid to rest: report](https://12ft.io/https://apnews.com//www.foxnews.com/us/princeton-preppy-murder-suspect-attempts-suicide-slain-brother-laid-rest-report)
+346 - <a href='https://www.google.com/search?q=Mike+Rowe%3A+On+Major+Workforce+Concerns+and+A.I.+PLUS%2C+Did+President+Zelenskyy+Disrespect+America+In+The+Oval+Office%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//radio.foxnews.com/2025/03/03/mike-rowe-on-major-workforce-concerns-and-a-i-plus-did-president-zelenskyy-disrespect-america-in-the-oval-office/' target='_blank' rel='noopener noreferrer'>Mike Rowe: On Major Workforce Concerns and A.I. PLUS, Did President Zelenskyy Disrespect America In The Oval Office?</a>
 
-[Oklahoma toddler dials 911 to tell police about an 'emergency need for donuts'](https://12ft.io/https://apnews.com//www.foxnews.com/us/oklahoma-toddler-dials-911-tell-police-about-emergency-need-donuts)
+347 - <a href='https://www.google.com/search?q=REAL+America+Sees+Through+Zelenskyy%21' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//radio.foxnews.com/2025/03/03/real-america-sees-through-zelenskyy/' target='_blank' rel='noopener noreferrer'>REAL America Sees Through Zelenskyy!</a>
 
-[Outrage after 'rogue' Texas judge sets bond for suspected cop killer one day after co-defendant's release](https://12ft.io/https://apnews.com//www.foxnews.com/media/outrage-rogue-texas-judge-sets-bond-suspected-cop-killer-one-day-after-co-defendants-release)
+348 - <a href='https://www.google.com/search?q=Capital+Account+by+Greg+Ip' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/author/greg-ip?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Capital Account by Greg Ip</a>
 
-[Trump friend and informal faith adviser: 'God is giving America another chance'](https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/trump-friend-informal-faith-adviser-god-giving-america-another-chance)
+349 - <a href='https://www.google.com/search?q=The+Intelligent+Investor+by+Jason+Zweig' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/author/jason-zweig?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>The Intelligent Investor by Jason Zweig</a>
 
-[American-made products you can shop for this holiday season for loved ones](https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/american-made-gift-guide)
+350 - <a href='https://www.google.com/search?q=Tax+Report+by+Laura+Saunders' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/author/laura-saunders?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Tax Report by Laura Saunders</a>
 
-['I'm an author and I'm grateful for democracy, including our First Amendment rights'](https://12ft.io/https://apnews.com//www.foxnews.com/lifestyle/author-grateful-democracy-including-first-amendment-rights)
+351 - <a href='https://www.google.com/search?q=On+Wine+by+Lettie+Teague' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/author/lettie-teague?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>On Wine by Lettie Teague</a>
 
-[Visiting the Constitution can remind us that America is all about 'We the People'](https://12ft.io/https://apnews.com//www.foxnews.com/travel/visiting-constitution-remind-us-america-about-we-people)
+352 - <a href='https://www.google.com/search?q=Work+%26+Life+by+Rachel+Feintzeig' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/author/rachel-feintzeig?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Work & Life by Rachel Feintzeig</a>
 
-[US kills senior military leader of Al-Qaeda affiliate in Syria](https://12ft.io/https://apnews.com//www.foxnews.com/us/us-kills-senior-military-leader-al-qaeda-affiliate-syria)
+353 - <a href='https://www.google.com/search?q=Carry+On+by+Dawn+Gilbertson' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/types/carry-on?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Carry On by Dawn Gilbertson</a>
 
-[Ukraine loses 220 troops on same day of Trump and Zelenskyy spat](https://12ft.io/https://apnews.com//www.foxnews.com/politics/ukraine-loses-220-troops-same-day-trump-zelenskyy-spat)
+354 - <a href='https://www.google.com/search?q=On+The+Clock+by+Callum+Borchers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/types/on-the-clock?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>On The Clock by Callum Borchers</a>
 
-[Trump appoints Paul Dabbar, Hung Cao to positions within administration](https://12ft.io/https://apnews.com//www.foxnews.com/politics/trump-appoints-hung-cao-paul-dabbar-positions-within-administration)
+355 - <a href='https://www.google.com/search?q=Turning+Points+by+Clare+Ansberry' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/author/clare-ansberry?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Turning Points by Clare Ansberry</a>
 
-[Transportation Secretary Sean Duffy to 'streamline' FAA hiring process amid air traffic control shortage](https://12ft.io/https://apnews.com//www.foxnews.com/politics/transportation-secretary-sean-duffy-streamline-faa-hiring-process-amid-air-traffic-control-shortage)
+356 - <a href='https://www.google.com/search?q=Your+Health+by+Sumathi+Reddy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/types/your-health?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Your Health by Sumathi Reddy</a>
 
-['Grey's Anatomy' star Kate Walsh shares 'very subtle' warning signs ahead of brain tumor diagnosis](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/greys-anatomy-star-kate-walsh-shares-very-subtle-warning-signs-ahead-brain-tumor-diagnosis)
+357 - <a href='https://www.google.com/search?q=Buy+Side+from+WSJView+All' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/buyside?mod=wsj_hp_buyside_strap' target='_blank' rel='noopener noreferrer'>Buy Side from WSJView All</a>
 
-[New York Dolls singer David Johansen dead at 75 after daughter pleads with fans for help](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/new-york-dolls-singer-david-johansen-dead-75-after-daughter-pleads-fans-help)
+358 - <a href='https://www.google.com/search?q=Got+a+tip+for+us%3F+%0AHere%27s+how+to+submit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/tips' target='_blank' rel='noopener noreferrer'>Got a tip for us? 
+Here's how to submit</a>
 
-[Alec Baldwin, Billy Baldwin 'battling' with brothers over political differences](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/alec-baldwin-billy-baldwin-battling-brothers-over-political-differences)
+359 - <a href='https://www.google.com/search?q=Top+FBI+Official+Reportedly+Forced+to+Retire+After+Pushing+Back+on+Trump' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/top-fbi-official-reportedly-forced-retire-after-pushing-back-trump-2039036' target='_blank' rel='noopener noreferrer'>Top FBI Official Reportedly Forced to Retire After Pushing Back on Trump</a>
 
-[Gene Hackman's business partner recalls hilarious way actor paid off bet](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/gene-hackmans-business-partner-couples-death-really-unnerving-waiting-answers)
+360 - <a href='https://www.google.com/search?q=Who+Is+Thomas+Corry%3F+Top+RFK+Jr.+Spokesman+Quits+HHS' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/who-thomas-corry-rfk-jr-spokesman-quits-2038980' target='_blank' rel='noopener noreferrer'>Who Is Thomas Corry? Top RFK Jr. Spokesman Quits HHS</a>
 
-[Toronto fans boo US national anthem at WWE Elimination Chamber; Pat McAfee responds, calling Canada 'terrible'](https://12ft.io/https://apnews.com//www.foxnews.com/sports/toronto-wrestling-fans-boo-us-national-anthem-wwe-elimination-chamber)
+361 - <a href='https://www.google.com/search?q=Pope+Francis+Monday+Evening+Update%3A+Acute+Respiratory+Failure+-+Vatican' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/pope-francis-monday-evening-update-acute-respiratory-failure-vatican-2038895' target='_blank' rel='noopener noreferrer'>Pope Francis Monday Evening Update: Acute Respiratory Failure - Vatican</a>
 
-[49ers agree to trade Deebo Samuel to Commanders: report](https://12ft.io/https://apnews.com//www.foxnews.com/sports/49ers-agree-trade-deebo-samuel-commanders-report)
+362 - <a href='https://www.google.com/search?q=North+and+South+Carolina+Wildfires%3A+Live+Tracker+Maps' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/north-south-carolina-wildfires-live-tracker-maps-2038795' target='_blank' rel='noopener noreferrer'>North and South Carolina Wildfires: Live Tracker Maps</a>
 
-[Red Wings star Dylan Larkin mocks Ohio Stadium ahead of NHL Stadium Series game: 'Ugliest stadium'](https://12ft.io/https://apnews.com//www.foxnews.com/sports/red-wings-star-dylan-larkin-mocks-ohio-stadium-ahead-nhl-stadium-series-game-ugliest-stadium)
+363 - <a href='https://www.google.com/search?q=How+to+Watch+Rockets+vs+Thunder%3A+Live+Stream+NBA%2C+TV+Channel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/nba/how-watch-rockets-vs-thunder-live-stream-nba-tv-channel-2038921' target='_blank' rel='noopener noreferrer'>How to Watch Rockets vs Thunder: Live Stream NBA, TV Channel</a>
 
-[Women athletes don't compete vs. transgender in Team USA track event, giving default victory to trans athlete](https://12ft.io/https://apnews.com//www.foxnews.com/sports/women-athletes-dont-compete-vs-transgender-team-usa-track-event-giving-default-victory-trans-athlete)
+364 - <a href='https://www.google.com/search?q=Why+Some+Timothee+Chalamet+Fans+Are+Calling+His+Viral+Oscars+Interview+%27Awkward%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/celebrity-news/timothee-chalamet-fans-call-2025-oscar-interview-awkward-2039048' target='_blank' rel='noopener noreferrer'>Why Some Timothee Chalamet Fans Are Calling His Viral Oscars Interview 'Awkward'</a>
 
-[Juilliard-trained pianist convicted of murder after mid-trial confession leads to additional arrest](https://12ft.io/https://apnews.com//www.foxnews.com/us/juilliard-trained-pianist-convicted-murder-after-mid-trial-confession-leads-additional-arrest)
+365 - <a href='https://www.google.com/search?q=Deebo+Samuel+Breaks+Silence+on+49ers+Trading+Him+to+Commanders' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/nfl/deebo-samuel-breaks-silence-49ers-trading-him-commanders-2039050' target='_blank' rel='noopener noreferrer'>Deebo Samuel Breaks Silence on 49ers Trading Him to Commanders</a>
 
-[US kills senior military leader of Al-Qaeda affiliate in Syria](https://12ft.io/https://apnews.com//www.foxnews.com/us/us-kills-senior-military-leader-al-qaeda-affiliate-syria)
+366 - <a href='https://www.google.com/search?q=Map+Shows+North+Carolina+Wildfires%27+Distance+to+Celebrity+Homes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/map-north-carolina-wildfires-celebrity-homes-2039023' target='_blank' rel='noopener noreferrer'>Map Shows North Carolina Wildfires' Distance to Celebrity Homes</a>
 
-[Princeton preppy murder suspect attempts suicide as slain brother laid to rest: report](https://12ft.io/https://apnews.com//www.foxnews.com/us/princeton-preppy-murder-suspect-attempts-suicide-slain-brother-laid-rest-report)
+367 - <a href='https://www.google.com/search?q=Two+Alleged+Guatemalan+Smugglers+Arrested+for+Trafficking+20K+Immigrants' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/two-alleged-guatemalan-smugglers-arrested-trafficking-20k-immigrants-2039005' target='_blank' rel='noopener noreferrer'>Two Alleged Guatemalan Smugglers Arrested for Trafficking 20K Immigrants</a>
 
-[FedEx plane catches fire midair before making emergency landing](https://12ft.io/https://apnews.com//www.foxnews.com/us/fedex-plane-catches-fire-midair-before-making-emergency-landing)
+368 - <a href='https://www.google.com/search?q=Map+Shows+US+States+Where+Christianity+Is+Surging%2C+Falling' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/map-shows-us-states-where-christianity-surging-falling-2038851' target='_blank' rel='noopener noreferrer'>Map Shows US States Where Christianity Is Surging, Falling</a>
 
-[Princeton preppy murder suspect attempts suicide as slain brother laid to rest: report](https://12ft.io/https://apnews.com//www.foxnews.com/us/princeton-preppy-murder-suspect-attempts-suicide-slain-brother-laid-rest-report)
+369 - <a href='https://www.google.com/search?q=How+February%27s+Southwest+Illegal+Border+Crossings+Compare+to+Past+Years' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us-mexico-border-illegal-crossings-february-trump-2038930' target='_blank' rel='noopener noreferrer'>How February's Southwest Illegal Border Crossings Compare to Past Years</a>
 
-[Melania Trump announces return of White House Easter Egg Roll](https://12ft.io/https://apnews.com//www.foxnews.com/travel/melania-trump-announces-return-white-house-easter-egg-roll)
+370 - <a href='https://www.google.com/search?q=Gen+Z+Is+More+Pro-Marriage+Than+Their+Parents' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/gen-z-more-pro-marriage-their-parents-2038898' target='_blank' rel='noopener noreferrer'>Gen Z Is More Pro-Marriage Than Their Parents</a>
 
-[Major US city looks to hike hotel fees to boost tourism](https://12ft.io/https://apnews.com//www.foxnews.com/travel/major-us-city-looks-hike-hotel-fees-boost-tourism)
+371 - <a href='https://www.google.com/search?q=Florida+Insurance+Scandal+Has+%27Huge%27+Impact+for+Homeowners' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/florida-insurance-scandal-huge-impact-homeowners-2037711' target='_blank' rel='noopener noreferrer'>Florida Insurance Scandal Has 'Huge' Impact for Homeowners</a>
 
-[American Airlines passenger claims to witness 'gate lice' crackdown ahead of boarding](https://12ft.io/https://apnews.com//www.foxnews.com/travel/american-airlines-passenger-claims-witness-gate-lice-crackdown-ahead-boarding)
+372 - <a href='https://www.google.com/search?q=Mardi+Gras+Weather+and+Cancellations+Ahead+of+Parades' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/mardi-gras-weather-cancellations-parade-update-latest-2038616' target='_blank' rel='noopener noreferrer'>Mardi Gras Weather and Cancellations Ahead of Parades</a>
 
-[Mortgage rates hit a two-month low this week, remain under 7%](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/mortgage-rates-hit-two-month-low)
+373 - <a href='https://www.google.com/search?q=Trans+High+School+Track+Star+Wins+Triple+Jump+by+8+Feet' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/transgender-high-school-track-star-wins-triple-8-feet-2038919' target='_blank' rel='noopener noreferrer'>Trans High School Track Star Wins Triple Jump by 8 Feet</a>
 
-[401(k) balances hit second highest on record: Fidelity](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity)
+374 - <a href='https://www.google.com/search?q=California+Earthquake+Latest%3A+Magnitude+3.9+Quake+Felt+in+Los+Angeles' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/california-earthquake-los-angeles-today-2038545' target='_blank' rel='noopener noreferrer'>California Earthquake Latest: Magnitude 3.9 Quake Felt in Los Angeles</a>
 
-[Will you get a tax refund this year? Experts have ideas on how to use the money](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/you-get-tax-refund-year-experts-have-ideas-how-use-money)
+375 - <a href='https://www.google.com/search?q=What+Trump+Has+Said+About+Zelensky+Since+2022' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/what-trump-has-said-about-zelensky-since-2022-2039000' target='_blank' rel='noopener noreferrer'>What Trump Has Said About Zelensky Since 2022</a>
 
-[January inflation gives Fed more reason to hold on interest rate cuts](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/january-inflation-increases)
+376 - <a href='https://www.google.com/search?q=China+Hits+Back+at+Marco+Rubio' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/china-responds-marco-rubio-comments-trade-ukraine-russia-taiwan-covid-19-2038734' target='_blank' rel='noopener noreferrer'>China Hits Back at Marco Rubio</a>
 
-[Investment research data breach exposes 12 million customers](https://12ft.io/https://apnews.com//www.foxnews.com/tech/investment-research-data-breach-exposes-12-million-customers)
+377 - <a href='https://www.google.com/search?q=Zelensky+Fires+Back+at+Lindsey+Graham+Over+Resignation+Calls' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/zelensky-fires-back-lindsey-graham-over-resignation-calls-2038705' target='_blank' rel='noopener noreferrer'>Zelensky Fires Back at Lindsey Graham Over Resignation Calls</a>
 
-[Fox News AI Newsletter: Brand new Alexa](https://12ft.io/https://apnews.com//www.foxnews.com/tech/fox-news-ai-newsletter-brand-new-alexa)
+378 - <a href='https://www.google.com/search?q=China+Reacts+to+Fallout+of+Failed+Trump-Zelensky+Meeting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/china-reacts-trump-vance-zelensky-us-white-house-meeting-ukraine-russia-war-2038537' target='_blank' rel='noopener noreferrer'>China Reacts to Fallout of Failed Trump-Zelensky Meeting</a>
 
-[Soft robotic prosthetic hand uses nerve signals for more natural control](https://12ft.io/https://apnews.com//www.foxnews.com/tech/soft-robotic-prosthetic-hand-uses-nerve-signals-more-natural-control)
+379 - <a href='https://www.google.com/search?q=Map+Shows+NATO+Aircraft+Carrier%27s+Pacific+Mission' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/map-france-news-nato-aircraft-carrier-indo-pacific-deployment-2038635' target='_blank' rel='noopener noreferrer'>Map Shows NATO Aircraft Carrier's Pacific Mission</a>
 
-[How to restore a deleted text message on iPhone](https://12ft.io/https://apnews.com//www.foxnews.com/tech/how-restore-deleted-text-message-iphone)
+380 - <a href='https://www.google.com/search?q=China+Could+Target+US+Farmers+in+Response+to+Trump%27s+Trade+Tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/china-us-trade-tariff-response-agricultural-products-2038651' target='_blank' rel='noopener noreferrer'>China Could Target US Farmers in Response to Trump's Trade Tariffs</a>
 
-['Grey's Anatomy' star Kate Walsh shares 'very subtle' warning signs ahead of brain tumor diagnosis](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/greys-anatomy-star-kate-walsh-shares-very-subtle-warning-signs-ahead-brain-tumor-diagnosis)
+381 - <a href='https://www.google.com/search?q=Stabbing+Attack+in+Israel%27s+Haifa%3A+What+We+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/stabbing-attack-israels-haifa-what-we-know-2038611' target='_blank' rel='noopener noreferrer'>Stabbing Attack in Israel's Haifa: What We Know</a>
 
-[Alec Baldwin, Billy Baldwin 'battling' with brothers over political differences](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/alec-baldwin-billy-baldwin-battling-brothers-over-political-differences)
+382 - <a href='https://www.google.com/search?q=Ukraine+Announces+Military+Unit+Of+Russians+To+Fight+Putin' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/ukraine-new-military-unit-russian-soldiers-gur-nomad-2038686' target='_blank' rel='noopener noreferrer'>Ukraine Announces Military Unit Of Russians To Fight Putin</a>
 
-[2025 Oscars: Big nominations, snubs, performers and everything else you need to know about the award show](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/where-to-watch-oscars-2025)
+383 - <a href='https://www.google.com/search?q=Even+After+Zelensky+Spat%2C+Trump+Is+Europe%27s+Best+Chance+for+Peace+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/even-after-zelensky-spat-trump-europes-best-chance-peace-opinion-2038746' target='_blank' rel='noopener noreferrer'>Even After Zelensky Spat, Trump Is Europe's Best Chance for Peace | Opinion</a>
 
-[Gene Hackman's 5 most memorable Hollywood roles, from 'The French Connection' to 'Superman'](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/gene-hackmans-iconic-hollywood-roles-french-connection-superman)
+384 - <a href='https://www.google.com/search?q=Trump%2C+Vance+Debased+U.S.+Diplomacy%E2%80%94the+World+Noticed+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/trump-vance-debased-us-diplomacy-world-noticed-opinion-2038817' target='_blank' rel='noopener noreferrer'>Trump, Vance Debased U.S. Diplomacy—the World Noticed | Opinion</a>
 
-[Thousands of Microsoft customers affected by large-scale outage](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/thousands-microsoft-customers-affected-large-scale-outage)
+385 - <a href='https://www.google.com/search?q=King+Charles+Signals+Support+for+Canada+Amid+Trump+Attacks' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/king-charles-high-stakes-diplomacy-donald-trump-zelensky-trudeau-2038743' target='_blank' rel='noopener noreferrer'>King Charles Signals Support for Canada Amid Trump Attacks</a>
 
-[Floyd Mayweather praises Trump as the 'best president' and a 'great businessman'](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/floyd-mayweather-praises-trump-being-best-president-great-businessman)
+386 - <a href='https://www.google.com/search?q=Timoth%C3%A9e+Chalamet%2C+Kylie+Jenner+Reaction+to+His+Oscar+Loss+Caught+on+Camera' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/timothee-chalamet-kylie-jenner-oscar-loss-reaction-video-2038581' target='_blank' rel='noopener noreferrer'>Timothée Chalamet, Kylie Jenner Reaction to His Oscar Loss Caught on Camera</a>
 
-[Is a Florida condo crisis brewing? Developers claim rising costs are necessary to prevent disaster](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/florida-condo-crisis-brewing-developers-claim-rising-costs-necessary-prevent-disaster)
+387 - <a href='https://www.google.com/search?q=King+Charles+and+Harry%27s+New+Battleground+Is+Trump' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/king-charles-prince-harry-battleground-donald-trump-2038553' target='_blank' rel='noopener noreferrer'>King Charles and Harry's New Battleground Is Trump</a>
 
-[David Spade's former Malibu home up for rent at $59K a month](https://12ft.io/https://apnews.com//www.foxbusiness.com/fox-news-entertainment/david-spades-former-malibu-home-up-rent-59000-month)
+388 - <a href='https://www.google.com/search?q=Linda+McMahon+Confirmed+as+Donald+Trump%27s+Education+Secretary' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/linda-mcmahon-confirmed-donald-trumps-education-secretary-2039047' target='_blank' rel='noopener noreferrer'>Linda McMahon Confirmed as Donald Trump's Education Secretary</a>
 
-[Riley Gaines to deliver pre-race invocation at Circuit of the Americas: 'Surreal honor'](https://12ft.io/https://apnews.com//www.foxnews.com/sports/riley-gaines-deliver-pre-race-invocation-circuit-americas-surreal-honor)
+389 - <a href='https://www.google.com/search?q=White+House+Announces+Theme+of+Trump%27s+Address+to+Congress%3A+What+to+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/donald-trump-announces-theme-his-address-congress-what-know-2039028' target='_blank' rel='noopener noreferrer'>White House Announces Theme of Trump's Address to Congress: What to Know</a>
 
-[Chargers' Jim Harbaugh loves seeing NFL stars being open about their faith: 'It's inspiring'](https://12ft.io/https://apnews.com//www.foxnews.com/sports/chargers-jim-harbaugh-loves-seeing-nfl-stars-being-open-about-faith-its-inspiring)
+390 - <a href='https://www.google.com/search?q=DOGE+Terminates+Tree-Planting+Grant+for+Low-Income+Communities' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/doge-terminates-tree-planting-grant-low-income-communities-2038814' target='_blank' rel='noopener noreferrer'>DOGE Terminates Tree-Planting Grant for Low-Income Communities</a>
 
-[Pope Francis' health status and prognosis: Doctor gives update](https://12ft.io/https://apnews.com//www.foxnews.com/health/pope-francis-health-status-prognosis-doctor-gives-update)
+391 - <a href='https://www.google.com/search?q=Should+US+Keep+Birthright+Citizenship%3F+Americans+Are+Split' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us-birthright-citizenship-poll-americans-split-2038730' target='_blank' rel='noopener noreferrer'>Should US Keep Birthright Citizenship? Americans Are Split</a>
 
-[New Amazon series 'House of David' will bring 'unlikely' biblical hero's story to life](https://12ft.io/https://apnews.com//www.foxnews.com/media/new-amazon-series-house-david-bring-unlikely-biblical-heros-story-life)
+392 - <a href='https://www.google.com/search?q=John+Bolton+Calls+on+Marco+Rubio+to+Resign+After+Zelensky+White+House+Spat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/john-bolton-calls-marco-rubio-resign-zelensky-white-house-spat-2038638' target='_blank' rel='noopener noreferrer'>John Bolton Calls on Marco Rubio to Resign After Zelensky White House Spat</a>
 
-[Trump White House rips auto state governor who attacked president's tariff plans: 'Deadly status quo'](https://12ft.io/https://apnews.com//www.foxnews.com/politics/trump-white-house-rips-auto-state-governor-attacked-presidents-tariff-plans-deadly-status-quo)
+393 - <a href='https://www.google.com/search?q=What+Caused+Deadly+L.A.+Wildfires%3F+Faulty+Electrical+Equipment+In+Spotlight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/2025/03/07/la-wildfires-california-2025-cause-containment-electrical-2031412.html' target='_blank' rel='noopener noreferrer'>What Caused Deadly L.A. Wildfires? Faulty Electrical Equipment In Spotlight</a>
 
-[Riley Gaines to deliver pre-race invocation at Circuit of the Americas: 'Surreal honor'](https://12ft.io/https://apnews.com//www.foxnews.com/sports/riley-gaines-deliver-pre-race-invocation-circuit-americas-surreal-honor)
+394 - <a href='https://www.google.com/search?q=BrandSpark+Best+New+Product+Awards+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/rankings/brandspark-best-new-product-awards-2025' target='_blank' rel='noopener noreferrer'>BrandSpark Best New Product Awards 2025</a>
 
-[2025 INDYCAR Grand Prix of St. Petersburg Schedule](https://12ft.io/https://apnews.com//www.foxnews.com/sports/2025-indycar-grand-prix-st-petersburg-schedule)
+395 - <a href='https://www.google.com/search?q=Ecuador%27s+Trump%3F+Daniel+Noboa%27s+Rise+Could+Reshape+Latin+American+Politics' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/ecuadors-trump-daniel-noboas-rise-could-reshape-latin-american-politics-2027621' target='_blank' rel='noopener noreferrer'>Ecuador's Trump? Daniel Noboa's Rise Could Reshape Latin American Politics</a>
 
-[Canadian driver Amber Balcaen says Trump's presence at Daytona 500 gave her chills: 'It was really neat'](https://12ft.io/https://apnews.com//www.foxnews.com/sports/canadian-driver-amanda-balcaen-says-trumps-presence-daytona-500-gave-her-chills-it-really-neat)
+396 - <a href='https://www.google.com/search?q=How+COVID+Reshaped+Public+Health+Understanding+of+Disease+Spread+by+Air' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/2025/03/07/covid-virus-airborne-illness-understanding-science-journalist-2031254.html' target='_blank' rel='noopener noreferrer'>How COVID Reshaped Public Health Understanding of Disease Spread by Air</a>
 
-['Spooky' property for sale in nature-drenched spot has a few strings attached](https://12ft.io/https://apnews.com//www.foxnews.com/travel/spooky-real-estate-property-nature-drenched-spot-has-strings-attached)
+397 - <a href='https://www.google.com/search?q=Warren+Buffett+Weighs+In+on+Donald+Trump+Tariff+Plans' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/warren-buffett-donald-trump-tariffs-2038741' target='_blank' rel='noopener noreferrer'>Warren Buffett Weighs In on Donald Trump Tariff Plans</a>
 
-[FedEx plane catches fire midair before making emergency landing](https://12ft.io/https://apnews.com//www.foxnews.com/us/fedex-plane-catches-fire-midair-before-making-emergency-landing)
+398 - <a href='https://www.google.com/search?q=Map+Shows+Region+With+the+Most+Credit+Card+Debt' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/map-shows-region-credit-card-debt-2037165' target='_blank' rel='noopener noreferrer'>Map Shows Region With the Most Credit Card Debt</a>
 
-[Convicted Fyre Fest fraudster Billy McFarland's return to Mexico 'sounds like a ticking time bomb': experts](https://12ft.io/https://apnews.com//www.foxnews.com/us/convicted-fyre-fest-fraudster-billy-mcfarland-return-mexico-sounds-like-ticking-time-bomb-experts)
+399 - <a href='https://www.google.com/search?q=Mass+Layoffs+to+Hit+Two+States+in+March' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/mass-layoffs-hit-two-states-march-2037931' target='_blank' rel='noopener noreferrer'>Mass Layoffs to Hit Two States in March</a>
 
-[Ancient dinosaur footprint dating back 100 million years discovered near coastal town](https://12ft.io/https://apnews.com//www.foxnews.com/travel/ancient-dinosaur-footprint-dating-100-million-years-discovered-near-coastal-town)
+400 - <a href='https://www.google.com/search?q=%E2%97%8FProducts+%26+ServicesAmerica%27s+Most+Loved+Brands+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/rankings/americas-most-loved-brands-2025' target='_blank' rel='noopener noreferrer'>●Products & ServicesAmerica's Most Loved Brands 2025</a>
 
-[New York Dolls singer David Johansen dead at 75 after daughter pleads with fans for help](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/new-york-dolls-singer-david-johansen-dead-75-after-daughter-pleads-fans-help)
+401 - <a href='https://www.google.com/search?q=%E2%97%8FProducts+%26+ServicesAmerica%27s+Best+Loyalty+Programs+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/rankings/americas-best-loyalty-programs-2025' target='_blank' rel='noopener noreferrer'>●Products & ServicesAmerica's Best Loyalty Programs 2025</a>
 
-[Convicted Fyre Fest fraudster Billy McFarland's return to Mexico 'sounds like a ticking time bomb': experts](https://12ft.io/https://apnews.com//www.foxnews.com/us/convicted-fyre-fest-fraudster-billy-mcfarland-return-mexico-sounds-like-ticking-time-bomb-experts)
+402 - <a href='https://www.google.com/search?q=%E2%97%8FWorkAmerica%27s+Greatest+Workplaces+for+Black+Americans+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/rankings/americas-greatest-workplaces-black-americans-2025' target='_blank' rel='noopener noreferrer'>●WorkAmerica's Greatest Workplaces for Black Americans 2025</a>
 
-[Simon Cowell warns AI ‘shouldn’t be able to steal’ human talent](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/simon-cowell-warns-ai-shouldnt-able-steal-human-talent)
+403 - <a href='https://www.google.com/search?q=NFL+Draft+Analyst+Predicts+Browns+Making+Surprise+Pick+At+No.+2+Overall' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/nfl/cleveland-browns-nfl-mock-draft-cam-ward-2038766' target='_blank' rel='noopener noreferrer'>NFL Draft Analyst Predicts Browns Making Surprise Pick At No. 2 Overall</a>
 
-[Hollywood stars who died in 2025: PHOTOS](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/hollywood-stars-who-died-2025-photos)
+404 - <a href='https://www.google.com/search?q=Yankees+Could+Sign+This+Former+All-Star+Away+From+Mets+After+DJ+LeMahieu%27s+Injury' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/mlb/yankees-could-sign-this-former-all-star-away-mets-after-dj-lemahieus-injury-2038469' target='_blank' rel='noopener noreferrer'>Yankees Could Sign This Former All-Star Away From Mets After DJ LeMahieu's Injury</a>
 
-[Man buys sweet treat for one child but not for the other two: 'Asking for trouble'](https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/man-buys-treat-one-child-not-other-two-asking-trouble)
+405 - <a href='https://www.google.com/search?q=Jake+Knapp%27s+Muddy+Triple+Costs+Him+Shot+at+Cognizant+Classic' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/golf/pga-tour-news-jake-knapp-triple-costs-cognizant-classic-2038546' target='_blank' rel='noopener noreferrer'>Jake Knapp's Muddy Triple Costs Him Shot at Cognizant Classic</a>
 
-[Recipe for devil's food cake has important family connection for chef](https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/recipe-devils-food-cake-has-important-family-connection-chef)
+406 - <a href='https://www.google.com/search?q=Cardinals+Unlikely+To+Trade+%24260+Million+Star+In+Shocking+Move%2C+Per+Insider' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/mlb/cardinals-unlikely-trade-260-million-star-shocking-move-per-insider-2038496' target='_blank' rel='noopener noreferrer'>Cardinals Unlikely To Trade $260 Million Star In Shocking Move, Per Insider</a>
 
-[Mother launches milk with 'secret' veggie flavors, says MAHA movement's timing is 'serendipitous'](https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/mother-launches-milk-secret-veggie-flavors-says-maha-movements-timing-serendipitous)
+407 - <a href='https://www.google.com/search?q=Hit+King+Pete+Rose+Could+Be+Reinstated+Following+Shocking+Turn+Of+Events' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/mlb/hit-king-pete-rose-could-reinstated-following-shocking-turn-events-2038504' target='_blank' rel='noopener noreferrer'>Hit King Pete Rose Could Be Reinstated Following Shocking Turn Of Events</a>
 
-[Is protein making you fat? Health experts weigh in on today's food focus](https://12ft.io/https://apnews.com//www.foxnews.com/food-drink/protein-making-you-fat-health-experts-weigh-food-focus)
+408 - <a href='https://www.google.com/search?q=Europe%27s+Moment+of+Truth+Is+About+More+Than+Just+Ukraine+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/europes-moment-truth-about-more-just-ukraine-opinion-2039020' target='_blank' rel='noopener noreferrer'>Europe's Moment of Truth Is About More Than Just Ukraine | Opinion</a>
 
-[30 million brace for ‘significant’ severe weather from Texas to Mississippi Tuesday as March roars to life](https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/severe-weather-threat-south-march-2025)
+409 - <a href='https://www.google.com/search?q=American+Actions+in+Gaza+Betray+American+Values+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/im-us-army-doctor-who-volunteered-gaza-american-actions-there-betray-values-i-fought-opinion-2038871' target='_blank' rel='noopener noreferrer'>American Actions in Gaza Betray American Values | Opinion</a>
 
-[Wildfires erupt along Eastern Seaboard as weekend dominated by dry, windy weather](https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/march-drought-fire-update)
+410 - <a href='https://www.google.com/search?q=Donald+Trump+Is+Creating+His+Own+Energy+Emergency+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/donald-trump-creating-his-own-energy-emergency-opinion-2038772' target='_blank' rel='noopener noreferrer'>Donald Trump Is Creating His Own Energy Emergency | Opinion</a>
 
-[Mardis Gras festivities threatened Tuesday as severe weather eyes South](https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/mardi-gras-forecast)
+411 - <a href='https://www.google.com/search?q=Skeptics+Say+Overhauling+School+Lunch+Is+Impossible%E2%80%94It%27s+Not+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/rfk-jrs-skeptics-say-overhauling-school-lunch-impossibleits-not-opinion-2037902' target='_blank' rel='noopener noreferrer'>Skeptics Say Overhauling School Lunch Is Impossible—It's Not | Opinion</a>
 
-[Powerful wind storm may threaten March atmospheric pressure records in Midwest](https://12ft.io/https://apnews.com//www.foxweather.com/weather-news/wind-storm-threaten-march-atmospheric-pressure-records-midwest-snow-rain)
+412 - <a href='https://www.google.com/search?q=African+Democracy+Is+in+Retreat.+That%27s+a+Problem+for+America+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/african-democracy-retreat-thats-problem-america-opinion-2036799' target='_blank' rel='noopener noreferrer'>African Democracy Is in Retreat. That's a Problem for America | Opinion</a>
 
-[The Journal Editorial Report - Saturday, March 1](https://12ft.io/https://apnews.com//www.foxnews.com/video/6369505171112)
+413 - <a href='https://www.google.com/search?q=Elon+Musk%27s+Real+Motive+for+Dismantling+the+Government+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/elon-musks-real-motive-dismantling-government-opinion-2038074' target='_blank' rel='noopener noreferrer'>Elon Musk's Real Motive for Dismantling the Government | Opinion</a>
 
-[Special Report w/ Bret Baier - Friday, February 28](https://12ft.io/https://apnews.com//www.foxnews.com/video/6369480512112)
+414 - <a href='https://www.google.com/search?q=Make+Democrats+Funny+Again+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/people-are-tired-adults-room-opinion-2038012' target='_blank' rel='noopener noreferrer'>Make Democrats Funny Again | Opinion</a>
 
-[The Ingraham Angle - Friday, February 28](https://12ft.io/https://apnews.com//www.foxnews.com/video/6369481577112)
+415 - <a href='https://www.google.com/search?q=The+Nation+Needs+NOAA+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/nation-needs-noaa-opinion-2038127' target='_blank' rel='noopener noreferrer'>The Nation Needs NOAA | Opinion</a>
 
-[Gutfeld! - Friday, February 28](https://12ft.io/https://apnews.com//www.foxnews.com/video/6369478131112)
+416 - <a href='https://www.google.com/search?q=NAACP%2C+AFT+Leaders%3A+Trump%27s+Plans+Put+America%27s+Children+Last+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/naacp-aft-leaders-trumps-plans-put-americas-children-last-opinion-2037250' target='_blank' rel='noopener noreferrer'>NAACP, AFT Leaders: Trump's Plans Put America's Children Last | Opinion</a>
 
-[Rose Girone, oldest living Holocaust survivor, dies at 113](https://12ft.io/https://apnews.com//www.foxnews.com/world/rose-girone-oldest-living-holocaust-survivor-dies-113)
+417 - <a href='https://www.google.com/search?q=Mayors%3A+With+Federal+Funding+Under+Attack%2C+Cities+Must+Take+Lead+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/mayors-federal-funding-under-attack-cities-must-take-lead-opinion-2036740' target='_blank' rel='noopener noreferrer'>Mayors: With Federal Funding Under Attack, Cities Must Take Lead | Opinion</a>
 
-[Death toll in Sudan military plane crash rises to 46](https://12ft.io/https://apnews.com//www.foxnews.com/world/death-toll-sudan-military-plane-crash-rises-46)
+418 - <a href='https://www.google.com/search?q=Trump%27s+Frenetic+About-Face+on+Venezuela+%7C+Opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/trumps-frenetic-about-face-venezuela-opinion-2037942' target='_blank' rel='noopener noreferrer'>Trump's Frenetic About-Face on Venezuela | Opinion</a>
 
-[At least four dead in South Korea highway construction project collapse](https://12ft.io/https://apnews.com//www.foxnews.com/world/least-four-dead-south-korea-highway-construction-project-collapse)
+419 - <a href='https://www.google.com/search?q=Raw+Pet+Food+Recalled+as+FDA+Issues+Bird+Flu+Warning' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/raw-pet-food-wild-coast-recall-fda-bird-flu-warning-2038457' target='_blank' rel='noopener noreferrer'>Raw Pet Food Recalled as FDA Issues Bird Flu Warning</a>
 
-[British musicians release silent album to protest plans to let AI use their work](https://12ft.io/https://apnews.com//www.foxnews.com/entertainment/british-musicians-release-silent-album-protest-plans-let-ai-use-work)
+420 - <a href='https://www.google.com/search?q=Neuroscientist+Reveals+His+Favorite+Exercise+To+Help+Grow+New+Brain+Cells' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/neuroscientist-doctor-brain-health-tips-alzheimers-prevention-exercise-resistance-training-2036605' target='_blank' rel='noopener noreferrer'>Neuroscientist Reveals His Favorite Exercise To Help Grow New Brain Cells</a>
 
-[Dave Portnoy drops in-depth take on Zelenskyy-Trump debacle: 'Felt like I was watching Bravo TV'](https://12ft.io/https://apnews.com//www.foxnews.com/media/dave-portnoy-drops-depth-take-zelenskyy-trump-debacle-felt-like-watching-bravo-tv)
+421 - <a href='https://www.google.com/search?q=NASA+Image+Reveals+Flurry+of+Six+Tropical+Cyclones+Active+at+Once' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/nasa-image-tropical-cyclones-six-paficic-indian-ocean-2037991' target='_blank' rel='noopener noreferrer'>NASA Image Reveals Flurry of Six Tropical Cyclones Active at Once</a>
 
-[The Ohio State University 'sunsets' offices amid ongoing review of diversity, equity and inclusion work](https://12ft.io/https://apnews.com//www.foxnews.com/media/the-ohio-state-university-sunsets-offices-ongoing-review-diversity-equity-inclusion-work)
+422 - <a href='https://www.google.com/search?q=Warning+Over+Microplastics+in+the+Air+We+Breathe+After+Bird+Lung+Discovery' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/microplastics-air-lungs-breathe-birds-nanoplastics-health-2037756' target='_blank' rel='noopener noreferrer'>Warning Over Microplastics in the Air We Breathe After Bird Lung Discovery</a>
 
-[Elon Musk tells Joe Rogan that Trump’s cabinet may be ‘most revolutionary’ since American Revolution](https://12ft.io/https://apnews.com//www.foxnews.com/media/elon-musk-tells-joe-rogan-trumps-cabinet-may-most-revolutionary-since-american-revolution)
+423 - <a href='https://www.google.com/search?q=Couple+Starts+Family+With+Twins%E2%80%94Then+Comes+the+Surprise' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/couple-starts-family-twins-then-comes-surprise-triplets-2038718' target='_blank' rel='noopener noreferrer'>Couple Starts Family With Twins—Then Comes the Surprise</a>
 
-[Barnard student demands action after pro-Hamas protest turns violent, calls out school's 'pathetic' response](https://12ft.io/https://apnews.com//www.foxnews.com/media/barnard-student-demands-action-after-pro-hamas-protest-turns-violent-calls-out-schools-pathetic-response)
+424 - <a href='https://www.google.com/search?q=Family+Told+Stranger+Paid+for+Birthday+Cake%E2%80%94Then+Find+Heartbreaking+Note' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/family-told-stranger-paid-birthday-cake-viral-reddit-2037841' target='_blank' rel='noopener noreferrer'>Family Told Stranger Paid for Birthday Cake—Then Find Heartbreaking Note</a>
 
-[Barnard student demands action after pro-Hamas protest turns violent, calls out school's 'pathetic' response](https://12ft.io/https://apnews.com//www.foxnews.com/media/barnard-student-demands-action-after-pro-hamas-protest-turns-violent-calls-out-schools-pathetic-response)
+425 - <a href='https://www.google.com/search?q=Hearts+Melt+at+How+German+Shepherd+Prepares+to+Become+Big+Sibling' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/hearts-melt-how-german-shepherd-prepares-become-big-sibling-2037783' target='_blank' rel='noopener noreferrer'>Hearts Melt at How German Shepherd Prepares to Become Big Sibling</a>
 
-[Gov. Kathy Hochul demands CUNY take down 'Palestinian Studies' job posting over antisemitism concerns](https://12ft.io/https://apnews.com//www.foxnews.com/media/gov-kathy-hochul-demands-cuny-take-down-palestinian-studies-job-posting-antisemitism-concerns)
+426 - <a href='https://www.google.com/search?q=Grieving+Son+Clears+Out+Dad%27s+Desk%2C+Discovers+What+He%27d+Saved+for+25+Years' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/grieving-son-clears-dads-desk-discovers-25-years-2034223' target='_blank' rel='noopener noreferrer'>Grieving Son Clears Out Dad's Desk, Discovers What He'd Saved for 25 Years</a>
 
-[7 key takeaways from the Israeli military's report on what happened on Oct. 7](https://12ft.io/https://apnews.com//www.foxnews.com/world/7-key-takeaways-from-israeli-militarys-report-what-happened-oct-7)
+427 - <a href='https://www.google.com/search?q=Gen+Z+Woman+Asks+Friend+to+Give+Back+Her+Birthday+Present%2C+Internet+Agrees' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/woman-asks-friend-give-back-present-2037823' target='_blank' rel='noopener noreferrer'>Gen Z Woman Asks Friend to Give Back Her Birthday Present, Internet Agrees</a>
 
-[Anti-Israel protesters at Barnard College arrested after mob turns violent](https://12ft.io/https://apnews.com//www.foxnews.com/us/anti-israel-protesters-barnard-college-arrested-after-mob-turns-violent)
+428 - <a href='https://www.google.com/search?q=RFK+Jr.+Sparks+Anti-Vaxxer+Anger%3A+%27No+Different+Than+Fauci%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/robert-f-kennedy-jr-measles-vaccine-anti-vax-mmr-texas-2038672' target='_blank' rel='noopener noreferrer'>RFK Jr. Sparks Anti-Vaxxer Anger: 'No Different Than Fauci'</a>
 
-[Trump reports illegal immigrant encounters at historic lows during first full month in office](https://12ft.io/https://apnews.com//www.foxnews.com/politics/trump-reports-illegal-immigrant-encounters-historic-lows-during-first-full-month-office)
+429 - <a href='https://www.google.com/search?q=Oscars+2025%3A+Every+Political+Statement+Made+at+This+Year%27s+Ceremony' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/oscars-2025-every-political-statement-gaza-sex-work-democracy-2038552' target='_blank' rel='noopener noreferrer'>Oscars 2025: Every Political Statement Made at This Year's Ceremony</a>
 
-[AOC asks NPR host to clarify the 'problem' when he asks about migrant crisis concerning voters](https://12ft.io/https://apnews.com//www.foxnews.com/media/aoc-asks-npr-clarify-problem-when-host-asks-about-solving-migrant-crisis)
+430 - <a href='https://www.google.com/search?q=Melania+Trump+Calls+Out+Democrats+at+Capitol+Hill+Roundtable' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/melania-trump-calls-out-democrats-capitol-hill-roundtable-2038956' target='_blank' rel='noopener noreferrer'>Melania Trump Calls Out Democrats at Capitol Hill Roundtable</a>
 
-[DAVID MARCUS: Inside Colony Ridge, where illegal migrants hide and roads lead nowhere](https://12ft.io/https://apnews.com//www.foxnews.com/opinion/david-marcus-inside-colony-ridge-where-illegal-migrants-hide-roads-lead-nowhere)
+431 - <a href='https://www.google.com/search?q=Help+for+Low+Credit+Scores' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/low-credit-scores/' target='_blank' rel='noopener noreferrer'>Help for Low Credit Scores</a>
 
-[ICE arrest of migrant sparks anger protest before violent gang ties exposed](https://12ft.io/https://apnews.com//www.foxnews.com/us/ice-arrest-migrant-sparks-anger-protest-before-violent-gang-ties-exposed)
+432 - <a href='https://www.google.com/search?q=Find+the+Credit+Card+for+You' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/credit-card-marketplace/' target='_blank' rel='noopener noreferrer'>Find the Credit Card for You</a>
 
-[Extra: Our Unedited Conversation With Vivek Ramaswamy](https://12ft.io/https://apnews.com//radio.foxnews.com/2025/03/01/extra-our-unedited-conversation-with-vivek-ramaswamy/)
+433 - <a href='https://www.google.com/search?q=Best+0%25+APR+Credit+Cards' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-zero-interest-credit-cards/' target='_blank' rel='noopener noreferrer'>Best 0% APR Credit Cards</a>
 
-[Singer Angie Stone Dead at 63](https://12ft.io/https://apnews.com//radio.foxnews.com/2025/03/01/singer-angie-stone-dead-at-63/)
+434 - <a href='https://www.google.com/search?q=Best+Balance+Transfer+Credit+Cards' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-balance-transfer-credit-cards/' target='_blank' rel='noopener noreferrer'>Best Balance Transfer Credit Cards</a>
 
-[David Johansen New York Dolls Frontman and ‘Scrooged’ Actor Dead At 75](https://12ft.io/https://apnews.com//radio.foxnews.com/2025/03/01/david-johansen-new-york-dolls-frontman-and-scrooged-actor-dead-at-75/)
+435 - <a href='https://www.google.com/search?q=Best+Cash+Back+Credit+Cards' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-cash-back-credit-cards/' target='_blank' rel='noopener noreferrer'>Best Cash Back Credit Cards</a>
 
-[Crazy Crystals Match 3 Game](https://12ft.io/https://apnews.com//www.foxnews.com/games/crazy-crystals-match-3-game)
+436 - <a href='https://www.google.com/search?q=Best+Credit+Card+Welcome+Bonuses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-credit-card-sign-up-bonuses/' target='_blank' rel='noopener noreferrer'>Best Credit Card Welcome Bonuses</a>
 
-[Stack and Match Block Puzzle](https://12ft.io/https://apnews.com//www.foxnews.com/games/stack-match-block-puzzle-game)
+437 - <a href='https://www.google.com/search?q=Best+Credit+Cards+to+Build+Credit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/the-best-credit-cards-for-building-credit/' target='_blank' rel='noopener noreferrer'>Best Credit Cards to Build Credit</a>
 
-[5 Across the Letter Word Game](https://12ft.io/https://apnews.com//www.foxnews.com/games/5-across-word-game)
+438 - <a href='https://www.google.com/search?q=Find+the+Best+Personal+Loan+for+You' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-marketplace/' target='_blank' rel='noopener noreferrer'>Find the Best Personal Loan for You</a>
 
-[Help for Low Credit Scores](https://12ft.io/https://apnews.com//www.cnbc.com/select/low-credit-scores/)
+439 - <a href='https://www.google.com/search?q=Best+Loans+to+Refinance+Credit+Card+Debt' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-loans-for-refinancing-credit-card-debt/' target='_blank' rel='noopener noreferrer'>Best Loans to Refinance Credit Card Debt</a>
 
-[Find the Credit Card for You](https://12ft.io/https://apnews.com//www.cnbc.com/select/credit-card-marketplace/)
+440 - <a href='https://www.google.com/search?q=Best+Loans+with+Fast+Funding' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/6-personal-loans-thatll-get-you-funded-in-as-little-as-1-business-day/' target='_blank' rel='noopener noreferrer'>Best Loans with Fast Funding</a>
 
-[Best 0% APR Credit Cards](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-zero-interest-credit-cards/)
+441 - <a href='https://www.google.com/search?q=Best+Personal+Loans+to+Apply+Online' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-online-applications/' target='_blank' rel='noopener noreferrer'>Best Personal Loans to Apply Online</a>
 
-[Best Balance Transfer Credit Cards](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-balance-transfer-credit-cards/)
+442 - <a href='https://www.google.com/search?q=Find+the+Savings+Account+for+You' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/savings-marketplace/' target='_blank' rel='noopener noreferrer'>Find the Savings Account for You</a>
 
-[Best Cash Back Credit Cards](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-cash-back-credit-cards/)
+443 - <a href='https://www.google.com/search?q=Best+High+Yield+Savings+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-high-yield-savings-accounts/' target='_blank' rel='noopener noreferrer'>Best High Yield Savings Accounts</a>
 
-[Best Credit Card Welcome Bonuses](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-credit-card-sign-up-bonuses/)
+444 - <a href='https://www.google.com/search?q=Best+Big+Bank+Savings+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-brick-and-mortar-savings-accounts/' target='_blank' rel='noopener noreferrer'>Best Big Bank Savings Accounts</a>
 
-[Best Credit Cards to Build Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/the-best-credit-cards-for-building-credit/)
+445 - <a href='https://www.google.com/search?q=Best+Big+Bank+Checking+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-brick-mortar-checking-accounts/' target='_blank' rel='noopener noreferrer'>Best Big Bank Checking Accounts</a>
 
-[Find the Best Personal Loan for You](https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-marketplace/)
+446 - <a href='https://www.google.com/search?q=Best+No+Fee+Checking+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-no-fee-checking-accounts/' target='_blank' rel='noopener noreferrer'>Best No Fee Checking Accounts</a>
 
-[Best Loans to Refinance Credit Card Debt](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-loans-for-refinancing-credit-card-debt/)
+447 - <a href='https://www.google.com/search?q=No+Overdraft+Fee+Checking+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/checking-accounts-with-no-overdraft-fees/' target='_blank' rel='noopener noreferrer'>No Overdraft Fee Checking Accounts</a>
 
-[Best Loans with Fast Funding](https://12ft.io/https://apnews.com//www.cnbc.com/select/6-personal-loans-thatll-get-you-funded-in-as-little-as-1-business-day/)
+448 - <a href='https://www.google.com/search?q=Best+Mortgages+for+Small+Down+Payment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/mortgage-lenders-for-a-small-down-payment/' target='_blank' rel='noopener noreferrer'>Best Mortgages for Small Down Payment</a>
 
-[Best Personal Loans to Apply Online](https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-online-applications/)
+449 - <a href='https://www.google.com/search?q=Best+Mortgages+for+No+Down+Payment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-va-loans-usda-loans/' target='_blank' rel='noopener noreferrer'>Best Mortgages for No Down Payment</a>
 
-[Find the Savings Account for You](https://12ft.io/https://apnews.com//www.cnbc.com/select/savings-marketplace/)
+450 - <a href='https://www.google.com/search?q=Best+Mortgages+with+No+Origination+Fee' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-that-dont-charge-origination-fees/' target='_blank' rel='noopener noreferrer'>Best Mortgages with No Origination Fee</a>
 
-[Best High Yield Savings Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-high-yield-savings-accounts/)
+451 - <a href='https://www.google.com/search?q=Best+Mortgages+for+Average+Credit+Score' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-average-credit-score/' target='_blank' rel='noopener noreferrer'>Best Mortgages for Average Credit Score</a>
 
-[Best Big Bank Savings Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-brick-and-mortar-savings-accounts/)
+452 - <a href='https://www.google.com/search?q=How+to+Boost+Your+Credit+Score' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/how-experian-boost-works/' target='_blank' rel='noopener noreferrer'>How to Boost Your Credit Score</a>
 
-[Best Big Bank Checking Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-brick-mortar-checking-accounts/)
+453 - <a href='https://www.google.com/search?q=Best+Resale+Apps+and+Sites' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-resale-apps-and-websites/' target='_blank' rel='noopener noreferrer'>Best Resale Apps and Sites</a>
 
-[Best No Fee Checking Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-no-fee-checking-accounts/)
+454 - <a href='https://www.google.com/search?q=Buy+Now+Pay+Later+%28BNPL%29+Apps' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-buy-now-pay-later-apps/' target='_blank' rel='noopener noreferrer'>Buy Now Pay Later (BNPL) Apps</a>
 
-[No Overdraft Fee Checking Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/checking-accounts-with-no-overdraft-fees/)
+455 - <a href='https://www.google.com/search?q=Best+Small+Business+Savings+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-small-business-savings-accounts/' target='_blank' rel='noopener noreferrer'>Best Small Business Savings Accounts</a>
 
-[Best Mortgages for Small Down Payment](https://12ft.io/https://apnews.com//www.cnbc.com/select/mortgage-lenders-for-a-small-down-payment/)
+456 - <a href='https://www.google.com/search?q=Best+Small+Business+Checking+Accounts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-business-checking-accounts/' target='_blank' rel='noopener noreferrer'>Best Small Business Checking Accounts</a>
 
-[Best Mortgages for No Down Payment](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-va-loans-usda-loans/)
+457 - <a href='https://www.google.com/search?q=Best+Credit+Cards+for+Small+Business' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-small-business-credit-cards/' target='_blank' rel='noopener noreferrer'>Best Credit Cards for Small Business</a>
 
-[Best Mortgages with No Origination Fee](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-that-dont-charge-origination-fees/)
+458 - <a href='https://www.google.com/search?q=Best+Tax+Software+for+Small+Business' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-tax-software-for-small-businesses/' target='_blank' rel='noopener noreferrer'>Best Tax Software for Small Business</a>
 
-[Best Mortgages for Average Credit Score](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-average-credit-score/)
+459 - <a href='https://www.google.com/search?q=Best+Credit+Cards+for+Bad+Credit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-credit-cards-for-bad-credit/' target='_blank' rel='noopener noreferrer'>Best Credit Cards for Bad Credit</a>
 
-[How to Boost Your Credit Score](https://12ft.io/https://apnews.com//www.cnbc.com/select/how-experian-boost-works/)
+460 - <a href='https://www.google.com/search?q=Best+Personal+Loans+for+Bad+Credit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-personal-loans-for-bad-credit/' target='_blank' rel='noopener noreferrer'>Best Personal Loans for Bad Credit</a>
 
-[Best Resale Apps and Sites](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-resale-apps-and-websites/)
+461 - <a href='https://www.google.com/search?q=Best+Debt+Consolidation+Loans+for+Bad+Credit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-debt-consolidation-loans-for-bad-credit/' target='_blank' rel='noopener noreferrer'>Best Debt Consolidation Loans for Bad Credit</a>
 
-[Buy Now Pay Later (BNPL) Apps](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-buy-now-pay-later-apps/)
+462 - <a href='https://www.google.com/search?q=Personal+Loans+if+You+Don%27t+Have+Credit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-lenders-to-consider-if-you-dont-have-credit-score/' target='_blank' rel='noopener noreferrer'>Personal Loans if You Don't Have Credit</a>
 
-[Best Small Business Savings Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-small-business-savings-accounts/)
+463 - <a href='https://www.google.com/search?q=Personal+Loans+for+580+Credit+Score+or+Lower' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loans-to-apply-credit-score-580-or-lower/' target='_blank' rel='noopener noreferrer'>Personal Loans for 580 Credit Score or Lower</a>
 
-[Best Small Business Checking Accounts](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-business-checking-accounts/)
+464 - <a href='https://www.google.com/search?q=Personal+Loans+for+670+Credit+Score+or+Lower' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-lenders-credit-score-below-670/' target='_blank' rel='noopener noreferrer'>Personal Loans for 670 Credit Score or Lower</a>
 
-[Best Credit Cards for Small Business](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-small-business-credit-cards/)
+465 - <a href='https://www.google.com/search?q=Best+Mortgages+for+Bad+Credit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-bad-credit-score/' target='_blank' rel='noopener noreferrer'>Best Mortgages for Bad Credit</a>
 
-[Best Tax Software for Small Business](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-tax-software-for-small-businesses/)
+466 - <a href='https://www.google.com/search?q=Best+Free+Stock+Trading+Platforms' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.cnbc.com/select/best-brokerage-free-stock-trading/' target='_blank' rel='noopener noreferrer'>Best Free Stock Trading Platforms</a>
 
-[Best Tax Software for Small Businesses](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-tax-software-for-small-businesses/)
+467 - <a href='https://www.google.com/search?q=Market+Data+Terms+of+Use+and+Disclaimers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/market-data-terms-of-service/' target='_blank' rel='noopener noreferrer'>Market Data Terms of Use and Disclaimers</a>
 
-[AllHelp for Low Credit Scores](https://12ft.io/https://apnews.com//www.cnbc.com/select/low-credit-scores/)
+468 - <a href='https://www.google.com/search?q=Senate+Confirms+Education+Secretary+Who%E2%80%99s+Out+To+Destroy+Public+Schools' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/senate-confirms-education-secretary-destroy-234511425.html' target='_blank' rel='noopener noreferrer'>Senate Confirms Education Secretary Who’s Out To Destroy Public Schools</a>
 
-[Best Credit Cards for Bad Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-credit-cards-for-bad-credit/)
+469 - <a href='https://www.google.com/search?q=What+is+Anora+about%3F+Everything+you+need+to+know+about+the+Oscar+winner' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/anora-oscars-plot-where-watch-mikey-madison-084858380.html' target='_blank' rel='noopener noreferrer'>What is Anora about? Everything you need to know about the Oscar winner</a>
 
-[Best Personal Loans for Bad Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-personal-loans-for-bad-credit/)
+470 - <a href='https://www.google.com/search?q=Pope+suffers+two+episodes+of+%E2%80%98acute+respiratory+insufficiency%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/pope-suffers-two-episodes-acute-204817749.html' target='_blank' rel='noopener noreferrer'>Pope suffers two episodes of ‘acute respiratory insufficiency’</a>
 
-[Best Debt Consolidation Loans for Bad Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-debt-consolidation-loans-for-bad-credit/)
+471 - <a href='https://www.google.com/search?q=Adam+Sandler+Crashes+Oscars+Wearing+a+Sweatshirt%2C+Yells+%E2%80%98Chalamet%21%E2%80%99+in+Timoth%C3%A9e%E2%80%99s+Ear' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/adam-sandler-crashes-oscars-wearing-003307249.html' target='_blank' rel='noopener noreferrer'>Adam Sandler Crashes Oscars Wearing a Sweatshirt, Yells ‘Chalamet!’ in Timothée’s Ear</a>
 
-[Personal Loans if You Don't Have Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-lenders-to-consider-if-you-dont-have-credit-score/)
+472 - <a href='https://www.google.com/search?q=Gene+Hackman%2C+wife%27s+cause+of+death%3A+Forensic+expert+shares+opinion+on+%27unusual%27+circumstances' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/gene-hackman-wifes-cause-death-053434738.html' target='_blank' rel='noopener noreferrer'>Gene Hackman, wife's cause of death: Forensic expert shares opinion on 'unusual' circumstances</a>
 
-[Best Credit Cards for Building Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/the-best-credit-cards-for-building-credit/)
+473 - <a href='https://www.google.com/search?q=8+Oscars+moments+you+didn%27t+see%2C+including+Demi+Moore%27s+reaction+to+surprising+loss' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/8-things-you-didnt-see-on-tv-at-the-2025-oscars-timothee-chalamet-and-kylie-jenner-get-cozy-the-conan-obrien-jokes-that-landed-with-the-crowd-and-a-gracious-demi-moore-171758152.html' target='_blank' rel='noopener noreferrer'>8 Oscars moments you didn't see, including Demi Moore's reaction to surprising loss</a>
 
-[Personal Loans for 580 Credit Score or Lower](https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loans-to-apply-credit-score-580-or-lower/)
+474 - <a href='https://www.google.com/search?q=State+of+the+Union%3F+Not+quite.+What+to+know+about+Trump%27s+%27unofficial%27+address.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/state-union-not-quite-know-155739396.html' target='_blank' rel='noopener noreferrer'>State of the Union? Not quite. What to know about Trump's 'unofficial' address.</a>
 
-[Personal Loans for 670 Credit Score or Lower](https://12ft.io/https://apnews.com//www.cnbc.com/select/personal-loan-lenders-credit-score-below-670/)
+475 - <a href='https://www.google.com/search?q=Massive+search+underway+for+missing+2-year-old+boy+in+Oregon' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/search-underway-missing-2-old-162946772.html' target='_blank' rel='noopener noreferrer'>Massive search underway for missing 2-year-old boy in Oregon</a>
 
-[Best Mortgages for Bad Credit](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-mortgage-lenders-bad-credit-score/)
+476 - <a href='https://www.google.com/search?q=Australian+man+whose+blood+saved+2.4+million+babies+dies+at+88' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/news/prolific-blood-donor-saved-2-121721723.html' target='_blank' rel='noopener noreferrer'>Australian man whose blood saved 2.4 million babies dies at 88</a>
 
-[How to Boost Your Credit Score](https://12ft.io/https://apnews.com//www.cnbc.com/select/how-experian-boost-works/)
+477 - <a href='https://www.google.com/search?q=Elon+Musk+calls+Social+Security+%E2%80%98the+biggest+Ponzi+scheme+of+all+time%E2%80%99+as+calls+mount+to+remove+contribution+caps+for+billionaires' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/finance/news/elon-musk-calls-social-security-175337312.html' target='_blank' rel='noopener noreferrer'>Elon Musk calls Social Security ‘the biggest Ponzi scheme of all time’ as calls mount to remove contribution caps for billionaires</a>
 
-[Best Free Stock Trading Platforms](https://12ft.io/https://apnews.com//www.cnbc.com/select/best-brokerage-free-stock-trading/)
+478 - <a href='https://www.google.com/search?q=Trump+to+Address+Joint+Session+of+Congress+on+Tuesday%E2%80%94What+to+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-to-address-joint-session-of-congress-on-tuesday-what-to-know-5819188' target='_blank' rel='noopener noreferrer'>Trump to Address Joint Session of Congress on Tuesday—What to Know</a>
 
-[Market Data Terms of Use and Disclaimers](https://12ft.io/https://apnews.com/market-data-terms-of-service/)
+479 - <a href='https://www.google.com/search?q=Trump+Vows+%E2%80%98Big%E2%80%99+Congressional+Address%3A+%E2%80%98I+Will+Tell+It+Like+It+Is%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-vows-big-congressional-address-i-will-tell-it-like-it-is-5819173' target='_blank' rel='noopener noreferrer'>Trump Vows ‘Big’ Congressional Address: ‘I Will Tell It Like It Is’</a>
 
-[Zelensky thanks U.S., wants minerals agreement](https://12ft.io/https://apnews.com/news/zelensky-thanks-u-wants-minerals-011542169.html)
+480 - <a href='https://www.google.com/search?q=Fallout+From+Zelenskyy+Meeting%3B+Europe+Faces+Defense+Crisis+%7C+Live+With+Josh' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/fallout-from-zelenskyy-meeting-europe-faces-defense-crisis-5818744?ea_src=frontpage&ea_med=lead-story-epochtv-1&ea_cnt=a' target='_blank' rel='noopener noreferrer'>Fallout From Zelenskyy Meeting; Europe Faces Defense Crisis | Live With Josh</a>
 
-[Veteran R&B/Soul Singer Angie Stone Dies In Car Accident](https://12ft.io/https://apnews.com/entertainment/veteran-r-b-soul-singer-155600172.html)
+481 - <a href='https://www.google.com/search?q=Trump+Hikes+Tariffs+on+China+to+20+Percent%2C+Confirms+25+Percent+Tariffs+on+Canada%2C+Mexico+Start+Tuesday+%7C+Capitol+Report' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/trump-hikes-tariffs-on-china-to-20-percent-confirms-25-percent-tariffs-on-canada-mexico-start-tuesday-capitol-report-5819391?ea_src=frontpage&ea_med=lead-story-epochtv-2&ea_cnt=a' target='_blank' rel='noopener noreferrer'>Trump Hikes Tariffs on China to 20 Percent, Confirms 25 Percent Tariffs on Canada, Mexico Start Tuesday | Capitol Report</a>
 
-[Gene Hackman death: Investigation intensifies after pacemaker sheds light on time of death](https://12ft.io/https://apnews.com/news/gene-hackman-death-updates-sheriff-191410746.html)
+482 - <a href='https://www.google.com/search?q=Trump+and+TSMC+CEO+Announce+%24100+Billion+US+Investment%3B+Wildfires+Rage+Across+the+Carolinas+and+Georgia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/trump-and-tsmc-ceo-announce-100b-u-s-investment-wildfires-rage-across-the-carolinas-and-georgia-5819339?ea_src=frontpage&ea_med=lead-story-epochtv-3&ea_cnt=a' target='_blank' rel='noopener noreferrer'>Trump and TSMC CEO Announce $100 Billion US Investment; Wildfires Rage Across the Carolinas and Georgia</a>
 
-[WWE Elimination Chamber 2025 live results: Updates, winners and losers, highlights, grades and analysis](https://12ft.io/https://apnews.com/sports/wrestling/live/wwe-elimination-chamber-2025-live-results-full-card-start-time-winners-and-losers-updates-and-highlights-060054991.html)
+483 - <a href='https://www.google.com/search?q=PREMIERING+8%3A30+PM+ET%3A+J.S.+Bach%3A+Cantata+BWV+178+%7C+J.S.+Bach+Foundation' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/j-s-bach-cantata-bwv-178-j-s-bach-foundation-5814413?ea_src=frontpage&ea_med=lead-story-epochtv-4&ea_cnt=a' target='_blank' rel='noopener noreferrer'>PREMIERING 8:30 PM ET: J.S. Bach: Cantata BWV 178 | J.S. Bach Foundation</a>
 
-[Golden State Warriors jersey history - No. 7 - Peter Thibeaux (1984-86)](https://12ft.io/https://apnews.com/sports/article/golden-state-warriors-jersey-history-010048977.html)
+484 - <a href='https://www.google.com/search?q=KT+McFarland+on+Rising+Global+Populism%2C+%E2%80%98Terrorist%E2%80%99+Designation+for+Cartels%2C+Ending+the+Ukraine%E2%80%93Russia+Quagmire+%7C+Facts+Matter' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/kt-mcfarland-on-rising-global-populism-terrorist-designation-for-cartels-ending-the-ukraine-russia-quagmire-facts-matter-5819228?ea_src=frontpage&ea_med=lead-story-epochtv-5&ea_cnt=a' target='_blank' rel='noopener noreferrer'>KT McFarland on Rising Global Populism, ‘Terrorist’ Designation for Cartels, Ending the Ukraine–Russia Quagmire | Facts Matter</a>
 
-[From the most expensive to the least: We rank cost of living in all 50 states](https://12ft.io/https://apnews.com/finance/personal-finance/banking/article/cost-of-living-by-state-164246058.html)
+485 - <a href='https://www.google.com/search?q=NRB+2025+International+Christian+Media+Convention' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/events/nrb-2025-international-christian-media-convention-5819329' target='_blank' rel='noopener noreferrer'>NRB 2025 International Christian Media Convention</a>
 
-[Trump to sign executive order unleashing forest management after L.A. fires](https://12ft.io/https://apnews.com/news/president-trump-sign-executive-order-173820816.html)
+486 - <a href='https://www.google.com/search?q=X+Denies+Sen.+Warren%E2%80%99s+Demand+for+24%2C000+Deleted+Posts+From+Trump%E2%80%99s+FHFA+Nominee' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/x-denies-sen-warrens-demand-for-24000-deleted-posts-from-trumps-fhfa-nominee-5819266' target='_blank' rel='noopener noreferrer'>X Denies Sen. Warren’s Demand for 24,000 Deleted Posts From Trump’s FHFA Nominee</a>
 
-[Odd 'airport theory' trend accompanied by searches for 'I missed my flight'](https://12ft.io/https://apnews.com/lifestyle/harebrained-airport-theory-trend-causing-172410685.html)
+487 - <a href='https://www.google.com/search?q=%E2%96%B6Trump+Hikes+Tariffs+on+China+to+20+Percent%2C+Confirms+25+Percent+Tariffs+on+Canada%2C+Mexico+Start+Tuesday+%7C+Capitol+Report' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/trump-hikes-tariffs-on-china-to-20-percent-confirms-25-percent-tariffs-on-canada-mexico-start-tuesday-capitol-report-5819391' target='_blank' rel='noopener noreferrer'>▶Trump Hikes Tariffs on China to 20 Percent, Confirms 25 Percent Tariffs on Canada, Mexico Start Tuesday | Capitol Report</a>
 
-[Who are the Zizians? Cultlike group is linked to 6 killings across the U.S.](https://12ft.io/https://apnews.com/news/married-couple-murdered-pennsylvania-zizians-190041170.html)
+488 - <a href='https://www.google.com/search?q=Men+Barred+From+Applying+for+Engineering+Professor+Role+at+Sunshine+Coast+University' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/men-barred-from-applying-for-engineering-professor-role-at-sunshine-coast-university-5818862' target='_blank' rel='noopener noreferrer'>Men Barred From Applying for Engineering Professor Role at Sunshine Coast University</a>
 
-[US Health Secretary Kennedy calls for end to deadly Texas measles outbreak](https://12ft.io/https://apnews.com/news/us-cdc-says-vaccination-remains-161325568.html)
+489 - <a href='https://www.google.com/search?q=Day+in+Photos%3A+Military+Exercises+in+Thailand%2C+Car+Crashes+Into+Crowd%2C+and+Toy+Fair+in+New+York' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/day-in-photos-military-exercises-in-thailand-car-crashes-into-crowd-and-toy-fair-in-new-york-5819325' target='_blank' rel='noopener noreferrer'>Day in Photos: Military Exercises in Thailand, Car Crashes Into Crowd, and Toy Fair in New York</a>
 
-[Federal Workers Get 2nd Round of ‘Pulse Check’ Emails Requesting List of Accomplishments](https://12ft.io/https://apnews.com/us/federal-workers-get-2nd-round-of-pulse-check-emails-requesting-list-of-accomplishments-5818411)
+490 - <a href='https://www.google.com/search?q=DHS+Sued+Over+Ending+Deportation+Protection+for+Haitians%2C+Venezuelans' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/dhs-sued-over-ending-deportation-protection-for-haitians-venezuelans-5819229' target='_blank' rel='noopener noreferrer'>DHS Sued Over Ending Deportation Protection for Haitians, Venezuelans</a>
 
-[▶Gov. Jeff Landry: DOGE-Like Reforms Coming to Louisiana](https://12ft.io/https://apnews.com/epochtv/gov-jeff-landry-doge-like-reforms-coming-to-louisiana-5816783)
+491 - <a href='https://www.google.com/search?q=Senate+Confirms+Linda+McMahon+as+Education+Secretary' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/senate-confirms-linda-mcmahon-as-education-secretary-5818053' target='_blank' rel='noopener noreferrer'>Senate Confirms Linda McMahon as Education Secretary</a>
 
-[[PREMIERING NOW] I Was Injured in the COVID Vaccine Trials and Still Struggle Every Day: Brianne Dressen](https://12ft.io/https://apnews.com/epochtv/i-was-injured-in-the-covid-vaccine-trials-and-still-struggle-every-day-brianne-dressen-5812996?ea_src=frontpage&ea_med=lead-story-epochtv-1&ea_cnt=a)
+492 - <a href='https://www.google.com/search?q=Las+Vegas+Theatergoers+Call+Shen+Yun+%E2%80%98Beautiful%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/las-vegas-theatergoers-call-shen-yun-beautiful-5818602' target='_blank' rel='noopener noreferrer'>Las Vegas Theatergoers Call Shen Yun ‘Beautiful’</a>
 
-[China Vows Retaliation Over Trump’s Latest 10 Percent Tariff Threat](https://12ft.io/https://apnews.com/epochtv/china-vows-retaliation-over-trumps-latest-10-percent-tariff-threat-5818302?ea_src=frontpage&ea_med=lead-story-epochtv-2&ea_cnt=a)
+493 - <a href='https://www.google.com/search?q=%E2%96%B6Oscar+Nominated+Production+Sound+Mixer+Says+Shen+Yun%E2%80%99s+Music+%E2%80%98Enhanced%E2%80%99+the+Performance' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/oscar-nominated-production-sound-mixer-says-shen-yuns-music-enhanced-the-performance-5818443' target='_blank' rel='noopener noreferrer'>▶Oscar Nominated Production Sound Mixer Says Shen Yun’s Music ‘Enhanced’ the Performance</a>
 
-[US–Ukraine Mineral Deal; New Year, New China Virus | NTD Primetime](https://12ft.io/https://apnews.com/epochtv/us-ukraine-mineral-deal-new-year-new-china-virus-ntd-primetime-5818240?ea_src=frontpage&ea_med=lead-story-epochtv-3&ea_cnt=a)
+494 - <a href='https://www.google.com/search?q=Shen+Yun+Vibrant%2C+Creative%2C+and+Rooted+in+Tradition%2C+Says+CECC+Staff+Director' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/shen-yun-vibrant-creative-and-rooted-in-tradition-says-cecc-staff-director-5818247' target='_blank' rel='noopener noreferrer'>Shen Yun Vibrant, Creative, and Rooted in Tradition, Says CECC Staff Director</a>
 
-[Meeting Cut Short After Tense Exchange Between Trump and Zelenskyy; Minerals Deal Called Off, World Reacts](https://12ft.io/https://apnews.com/epochtv/meeting-cut-short-after-tense-exchange-between-trump-and-zelenskyy-minerals-deal-called-off-world-reacts-5818184?ea_src=frontpage&ea_med=lead-story-epochtv-4&ea_cnt=a)
+495 - <a href='https://www.google.com/search?q=Normal+Vitamin+B12+Levels+May+Still+Be+Too+Low+for+Brain+Health%2C+Study+Finds' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/normal-vitamin-b12-levels-may-still-be-too-low-for-brain-health-study-finds-5815407' target='_blank' rel='noopener noreferrer'>Normal Vitamin B12 Levels May Still Be Too Low for Brain Health, Study Finds</a>
 
-[DOJ Releases First Phase of Epstein Files; Trump’s Plan for Egg Shortage | Live With Josh](https://12ft.io/https://apnews.com/epochtv/doj-releases-first-phase-of-epstein-files-trumps-plan-for-egg-shortage-5817575?ea_src=frontpage&ea_med=lead-story-epochtv-5&ea_cnt=a)
+496 - <a href='https://www.google.com/search?q=Bringing+Real+Food+Back+to+US+School+Lunches%E2%80%94Lessons+From+Around+the+World' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/is-the-us-last-in-the-lunch-line-5808131' target='_blank' rel='noopener noreferrer'>Bringing Real Food Back to US School Lunches—Lessons From Around the World</a>
 
-[Day in Photos: Cyclone on Reunion Island, Protests Against Elon Musk, and Ramadan Begins](https://12ft.io/https://apnews.com/article/day-in-photos-cyclone-on-reunion-island-protests-against-elon-musk-and-ramadan-begins-5818461)
+497 - <a href='https://www.google.com/search?q=Oscar+Night%E2%80%99s+Most+Captivating+Dresses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/oscar-nights-most-captivating-dresses-5819038' target='_blank' rel='noopener noreferrer'>Oscar Night’s Most Captivating Dresses</a>
 
-[Labor Promises Nearly $650 Million for 50 More Medicare Clinics If Re-Elected](https://12ft.io/https://apnews.com/world/labor-promises-nearly-650-million-for-50-more-medicare-clinics-if-re-elected-5818521)
+498 - <a href='https://www.google.com/search?q=Kenny+Chesney+and+%E2%80%98The+Joy+Of+Being+Unabashedly+Alive%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/kenny-chesney-and-the-joy-of-being-unabashedly-alive-5814779' target='_blank' rel='noopener noreferrer'>Kenny Chesney and ‘The Joy Of Being Unabashedly Alive’</a>
 
-[Top Military Commander of Syria’s Al-Qaeda Affiliate Killed in Strike, US Says](https://12ft.io/https://apnews.com/world/top-military-commander-of-syrias-al-qaeda-affiliate-killed-in-strike-us-says-5818559)
+499 - <a href='https://www.google.com/search?q=2025+Oscar+Winners%3A+%E2%80%98Anora%E2%80%99+Dominates+the+Awards' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/2025-oscar-winners-anora-dominates-the-awards-5818658' target='_blank' rel='noopener noreferrer'>2025 Oscar Winners: ‘Anora’ Dominates the Awards</a>
 
-[Trump Declares Border ‘Invasion’ Is Over as Apprehensions Plunge to Historic Low](https://12ft.io/https://apnews.com/us/trump-declares-border-invasion-is-over-as-apprehensions-plunge-to-historic-low-5818541)
+500 - <a href='https://www.google.com/search?q=The+Power+of+Voice%3A+Why+US+Global+Media+Still+Matters' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/the-power-of-voice-why-us-global-media-still-matters-5819116' target='_blank' rel='noopener noreferrer'>The Power of Voice: Why US Global Media Still Matters</a>
 
-[Quebec Premier Calls on Feds to Build More Icebreakers, Secure Arctic](https://12ft.io/https://apnews.com/world/quebec-premier-calls-on-feds-to-build-more-icebreakers-secure-arctic-5818552)
+501 - <a href='https://www.google.com/search?q=Is+Pakistan+the+Canary+in+China%E2%80%99s+BRI+Coal+Mine%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/is-pakistan-the-canary-in-chinas-bri-coal-mine-5814504' target='_blank' rel='noopener noreferrer'>Is Pakistan the Canary in China’s BRI Coal Mine?</a>
 
-[▶Examining DOGE: The Federal Government Auditors](https://12ft.io/https://apnews.com/epochtv/examining-doge-the-federal-government-auditors-5818520)
+502 - <a href='https://www.google.com/search?q=China+Tightens+Control+Over+Online+Military+Content%2C+Undermining+Public+Trust' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/china-tightens-control-over-online-military-content-undermining-public-trust-5817913' target='_blank' rel='noopener noreferrer'>China Tightens Control Over Online Military Content, Undermining Public Trust</a>
 
-[Illinois Landlord Convicted in Hate Crime Murder of 6-Year-Old Palestinian Boy](https://12ft.io/https://apnews.com/us/illinois-landlord-convicted-in-hate-crime-murder-of-6-year-old-palestinian-boy-5818372)
+503 - <a href='https://www.google.com/search?q=The+Difference+Between+the+Market+and+the+Bureaucracy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/the-difference-between-the-market-and-the-bureaucracy-5817491' target='_blank' rel='noopener noreferrer'>The Difference Between the Market and the Bureaucracy</a>
 
-[Day in Photos: Cyclone on Reunion Island, Protests Against Elon Musk, and Ramadan Begins](https://12ft.io/https://apnews.com/article/day-in-photos-cyclone-on-reunion-island-protests-against-elon-musk-and-ramadan-begins-5818461)
+504 - <a href='https://www.google.com/search?q=Global+Implications+of+Chinese+Shadow+Police+Operating+in+US+and+Abroad' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/global-implications-of-chinese-shadow-police-operating-in-us-and-abroad-5817678' target='_blank' rel='noopener noreferrer'>Global Implications of Chinese Shadow Police Operating in US and Abroad</a>
 
-[Labor Promises Nearly $650 Million for 50 More Medicare Clinics If Re-Elected](https://12ft.io/https://apnews.com/world/labor-promises-nearly-650-million-for-50-more-medicare-clinics-if-re-elected-5818521)
+505 - <a href='https://www.google.com/search?q=The+Anti-Federalists%E2%80%99+Warning+for+Today%E2%80%99s+Bureaucratic+Leviathan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/the-anti-federalists-warning-for-todays-bureaucratic-leviathan-5817462' target='_blank' rel='noopener noreferrer'>The Anti-Federalists’ Warning for Today’s Bureaucratic Leviathan</a>
 
-[Top Military Commander of Syria’s Al-Qaeda Affiliate Killed in Strike, US Says](https://12ft.io/https://apnews.com/world/top-military-commander-of-syrias-al-qaeda-affiliate-killed-in-strike-us-says-5818559)
+506 - <a href='https://www.google.com/search?q=Collusion%2C+Coercion%2C+and+the+EU%E2%80%99s+Corporate+Sustainability+Directives' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/collusion-coercion-and-the-eus-corporate-sustainability-directives-5817427' target='_blank' rel='noopener noreferrer'>Collusion, Coercion, and the EU’s Corporate Sustainability Directives</a>
 
-[Trump Declares Border ‘Invasion’ Is Over as Apprehensions Plunge to Historic Low](https://12ft.io/https://apnews.com/us/trump-declares-border-invasion-is-over-as-apprehensions-plunge-to-historic-low-5818541)
+507 - <a href='https://www.google.com/search?q=New+US+Fee+on+Chinese+Ships+of+Up+to+10s+of+Millions+of+Dollars+Per+Visit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/new-us-fee-on-chinese-ships-of-up-to-tens-of-millions-of-dollars-per-visit-5816514' target='_blank' rel='noopener noreferrer'>New US Fee on Chinese Ships of Up to 10s of Millions of Dollars Per Visit</a>
 
-[Quebec Premier Calls on Feds to Build More Icebreakers, Secure Arctic](https://12ft.io/https://apnews.com/world/quebec-premier-calls-on-feds-to-build-more-icebreakers-secure-arctic-5818552)
+508 - <a href='https://www.google.com/search?q=%E2%80%98My+Body%2C+My+Choice%E2%80%99+Is+Giving+Girls+the+Wrong+Idea+About+Life' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/opinion/my-body-my-choice-is-giving-girls-the-wrong-idea-about-life-5816678' target='_blank' rel='noopener noreferrer'>‘My Body, My Choice’ Is Giving Girls the Wrong Idea About Life</a>
 
-[▶Examining DOGE: The Federal Government Auditors](https://12ft.io/https://apnews.com/epochtv/examining-doge-the-federal-government-auditors-5818520)
+509 - <a href='https://www.google.com/search?q=5+Takeaways+From+the+Explosive+Trump%E2%80%93Zelenskyy+Meeting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/5-takeaways-from-the-explosive-trump-zelenskyy-meeting-5818097' target='_blank' rel='noopener noreferrer'>5 Takeaways From the Explosive Trump–Zelenskyy Meeting</a>
 
-[Illinois Landlord Convicted in Hate Crime Murder of 6-Year-Old Palestinian Boy](https://12ft.io/https://apnews.com/us/illinois-landlord-convicted-in-hate-crime-murder-of-6-year-old-palestinian-boy-5818372)
+510 - <a href='https://www.google.com/search?q=Rubio+Says+Zelenskyy+Should+Apologize+for+Turning+Meeting+Into+%E2%80%98Fiasco%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/rubio-says-zelenskyy-should-apologize-for-turning-meeting-into-fiasco-5818370' target='_blank' rel='noopener noreferrer'>Rubio Says Zelenskyy Should Apologize for Turning Meeting Into ‘Fiasco’</a>
 
-[Human Rights Activist Says Shen Yun Displays ‘Higher Sense of Purpose’](https://12ft.io/https://apnews.com/shenyun/human-rights-activist-says-shen-yun-displays-higher-sense-of-purpose-5817103)
+511 - <a href='https://www.google.com/search?q=%E2%96%B6Signing+of+US%E2%80%93Ukraine+Minerals+Deal+Called+Off+After+Heated+White+House+Meeting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/zelenskyy-to-meet-trump-in-washington-to-sign-minerals-deal-5817851' target='_blank' rel='noopener noreferrer'>▶Signing of US–Ukraine Minerals Deal Called Off After Heated White House Meeting</a>
 
-[Shen Yun Artists Are ‘Dancing With Their Souls,’ Says Ballet Dancer](https://12ft.io/https://apnews.com/shenyun/shen-yun-artists-are-dancing-with-their-souls-says-ballet-dancer-5816993)
+512 - <a href='https://www.google.com/search?q=Zelenskyy+Was+Asked+to+Leave+White+House%2C+Official+Says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-says-zelensky-can-come-back-when-hes-ready-for-peace-5818102' target='_blank' rel='noopener noreferrer'>Zelenskyy Was Asked to Leave White House, Official Says</a>
 
-[Shen Yun an Iconic Revival of Chinese Culture, Says Exiled Journalist](https://12ft.io/https://apnews.com/shenyun/shen-yun-an-iconic-revival-of-chinese-culture-says-exiled-journalist-5816461)
+513 - <a href='https://www.google.com/search?q=UK+Pledges+Support+for+Ukraine%E2%80%99s+Air+Defense+as+Leaders+Discuss+Plans+to+End+War' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/uk-france-ukraine-agree-to-work-on-cease-fire-plan-to-present-to-us-5818634' target='_blank' rel='noopener noreferrer'>UK Pledges Support for Ukraine’s Air Defense as Leaders Discuss Plans to End War</a>
 
-[Fruit Juices, Carbonated Drinks, and Coffee Might Increase Stroke Risk: Research](https://12ft.io/https://apnews.com/health/fruit-juices-carbonated-drinks-and-coffee-might-increase-stroke-risk-research-5814671)
+514 - <a href='https://www.google.com/search?q=First+Lady+Melania+Trump+Backs+Bill+to+Criminalize+Deepfake+and+Revenge+Porn' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/first-lady-melania-trump-backs-bill-to-criminalize-deepfake-and-revenge-porn-5819360' target='_blank' rel='noopener noreferrer'>First Lady Melania Trump Backs Bill to Criminalize Deepfake and Revenge Porn</a>
 
-[Fructan: An Overlooked Offender of GI Distress](https://12ft.io/https://apnews.com/health/fructan-fans-the-flames-of-gi-distress-5816331)
+515 - <a href='https://www.google.com/search?q=%E2%96%B6Melania+Trump+Speaks+in+Support+of+Bill+to+Protect+People+From+Deepfakes%2C+Revenge+Porn' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/live-now-melania-trump-speaks-in-support-of-bill-to-protect-people-from-deepfakes-revenge-porn-5819109' target='_blank' rel='noopener noreferrer'>▶Melania Trump Speaks in Support of Bill to Protect People From Deepfakes, Revenge Porn</a>
 
-[What Lying Down In a Field of Cows Taught Me About Life](https://12ft.io/https://apnews.com/health/what-lying-down-in-a-field-of-cows-taught-me-about-life-5816137)
+516 - <a href='https://www.google.com/search?q=Bondi+Vows+to+Release+%E2%80%98Everything%E2%80%99+Related+to+Epstein%2C+Says+She+Was+Misled' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/bondi-vows-to-release-everything-related-to-epstein-says-she-was-misled-5819216' target='_blank' rel='noopener noreferrer'>Bondi Vows to Release ‘Everything’ Related to Epstein, Says She Was Misled</a>
 
-[‘Last Breath’: Diving Thriller Will Take Your Breath Away](https://12ft.io/https://apnews.com/bright/last-breath-diving-thriller-will-take-your-breath-away-5815434)
+517 - <a href='https://www.google.com/search?q=Attorney+General+Bondi+Releases+First+Phase+of+Declassified+Epstein+Files' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/attorney-general-bondi-releases-first-phase-of-declassified-epstein-files-5817694' target='_blank' rel='noopener noreferrer'>Attorney General Bondi Releases First Phase of Declassified Epstein Files</a>
 
-[‘Caspar David Friedrich: The Soul of Nature’ at The Met](https://12ft.io/https://apnews.com/bright/caspar-david-friedrich-the-soul-of-nature-at-the-met-5813670)
+518 - <a href='https://www.google.com/search?q=6+Charts+That+Explain+DOGE-Related+Cuts+So+Far' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/6-charts-that-explain-doge-related-cuts-so-far-5817345' target='_blank' rel='noopener noreferrer'>6 Charts That Explain DOGE-Related Cuts So Far</a>
 
-[New US Fee on Chinese Ships of Up to Tens of Millions of Dollars Per Visit](https://12ft.io/https://apnews.com/opinion/new-us-fee-on-chinese-ships-of-up-to-tens-of-millions-of-dollars-per-visit-5816514)
+519 - <a href='https://www.google.com/search?q=South+African+Farmers+Beset+by+Land+Invasions%3B+Some+Say+It%E2%80%99s+%E2%80%98Land+Justice%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/south-african-farmers-beset-by-land-invasions-some-say-its-land-justice-5815250' target='_blank' rel='noopener noreferrer'>South African Farmers Beset by Land Invasions; Some Say It’s ‘Land Justice’</a>
 
-[‘My Body, My Choice’ Is Giving Girls the Wrong Idea About Life](https://12ft.io/https://apnews.com/opinion/my-body-my-choice-is-giving-girls-the-wrong-idea-about-life-5816678)
+520 - <a href='https://www.google.com/search?q=Coal+Mining+Down+but+Not+Out+as+Federal+Policy+Dictates+Industry' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/coal-mining-down-but-not-out-as-federal-policy-dictates-industry-5815711' target='_blank' rel='noopener noreferrer'>Coal Mining Down but Not Out as Federal Policy Dictates Industry</a>
 
-[How Modern Monetary Theory Advocates View Money and the State](https://12ft.io/https://apnews.com/opinion/how-modern-monetary-theory-advocates-view-money-and-the-state-5817386)
+521 - <a href='https://www.google.com/search?q=INFOGRAPHIC%3A+How+Gaming+Changes+the+Brain' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/how-gaming-changes-the-brain-5817971' target='_blank' rel='noopener noreferrer'>INFOGRAPHIC: How Gaming Changes the Brain</a>
 
-[How Hobbies Can Save Us from Over-Specialization](https://12ft.io/https://apnews.com/opinion/how-hobbies-can-save-us-from-over-specialization-5817465)
+522 - <a href='https://www.google.com/search?q=How+the+War+in+Ukraine+Unfolded+and+How+It+Might+End' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/how-the-war-in-ukraine-unfolded-and-how-it-might-end-5816673' target='_blank' rel='noopener noreferrer'>How the War in Ukraine Unfolded and How It Might End</a>
 
-[China’s Strategic Initiatives Face Headwinds in 2025](https://12ft.io/https://apnews.com/opinion/chinas-strategic-initiatives-face-headwinds-in-2025-post-5807350)
+523 - <a href='https://www.google.com/search?q=New+Abortion+Battle+Opening+Up+Over+State+Shield+Laws' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/new-abortion-battle-opening-up-over-state-shield-laws-5815620' target='_blank' rel='noopener noreferrer'>New Abortion Battle Opening Up Over State Shield Laws</a>
 
-[Bruce Pardy: In Some Scenarios, Tariffs Actually Make Sense](https://12ft.io/https://apnews.com/opinion/bruce-pardy-in-some-scenarios-tariffs-actually-make-sense-5817962)
+524 - <a href='https://www.google.com/search?q=Has+There+Been+an+Increase+in+Plane+Crashes%3F+Here%E2%80%99s+What+the+Data+Show' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/has-there-been-an-increase-in-plane-crashes-heres-what-the-data-show-5816049' target='_blank' rel='noopener noreferrer'>Has There Been an Increase in Plane Crashes? Here’s What the Data Show</a>
 
-[The Strange Construct of Gender Ideology Takes Another Hit](https://12ft.io/https://apnews.com/opinion/the-strange-construct-of-gender-ideology-takes-another-hit-5817937)
+525 - <a href='https://www.google.com/search?q=How+Fraud+and+Waste+Harm+Medicaid' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/how-fraud-and-waste-harm-medicaid-5812878' target='_blank' rel='noopener noreferrer'>How Fraud and Waste Harm Medicaid</a>
 
-[Why Does Elon Couch Surf?](https://12ft.io/https://apnews.com/opinion/why-does-elon-couch-surf-5817929)
+526 - <a href='https://www.google.com/search?q=From+Prisoner+to+Pastor%3A+Transformation+of+Ex-Detroit+Mayor+Freed+by+Trump' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/from-prisoner-to-pastor-transformation-of-ex-detroit-mayor-freed-by-trump-5812429' target='_blank' rel='noopener noreferrer'>From Prisoner to Pastor: Transformation of Ex-Detroit Mayor Freed by Trump</a>
 
-[The Battle for Latin America: US Versus CCP](https://12ft.io/https://apnews.com/opinion/the-battle-for-latin-america-us-versus-ccp-5814395)
+527 - <a href='https://www.google.com/search?q=Day+in+Photos%3A+Manila+Liberation+Day%2C+Shooting+in+Pennsylvania%2C+Roof+Collapse+in+Peru' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/day-in-photos-manila-liberation-day-shooting-in-pennsylvania-roof-collapse-in-peru-5814689' target='_blank' rel='noopener noreferrer'>Day in Photos: Manila Liberation Day, Shooting in Pennsylvania, Roof Collapse in Peru</a>
 
-[Millions to Receive Social Security Retroactive Payments](https://12ft.io/https://apnews.com/us/millions-to-receive-social-security-retroactive-payments-5816600)
+528 - <a href='https://www.google.com/search?q=Israel+Defends+Gaza+Aid+Cutoff+as+Phase+One+Ends%3B+25%2C000+Food+Trucks+Were+Supplied' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/israel-defends-gaza-aid-cutoff-as-phase-one-ends-25000-food-trucks-were-supplied-5819326' target='_blank' rel='noopener noreferrer'>Israel Defends Gaza Aid Cutoff as Phase One Ends; 25,000 Food Trucks Were Supplied</a>
 
-[USAID Sent Millions to Ukraine in Secret Slush Funds, Investigators Found](https://12ft.io/https://apnews.com/us/usaid-sent-millions-to-ukraine-in-secret-slush-funds-investigators-found-5816557)
+529 - <a href='https://www.google.com/search?q=Israel+and+Hamas+Resume+Negotiations+With+Cease-Fire+Set+to+Expire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/israel-and-hamas-resume-negotiations-with-cease-fire-set-to-expire-5818251' target='_blank' rel='noopener noreferrer'>Israel and Hamas Resume Negotiations With Cease-Fire Set to Expire</a>
 
-[▶Signing of US–Ukraine Minerals Deal Called Off After Heated White House Meeting](https://12ft.io/https://apnews.com/us/zelenskyy-to-meet-trump-in-washington-to-sign-minerals-deal-5817851)
+530 - <a href='https://www.google.com/search?q=How+Music+Shapes+Us+Before+Birth%2C+Relieves+Pain%2C+and+Improves+Focus' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/how-music-shapes-us-before-birth-relieves-pain-and-improves-focus-5809052' target='_blank' rel='noopener noreferrer'>How Music Shapes Us Before Birth, Relieves Pain, and Improves Focus</a>
 
-[Leakers of ICE Operations Have Been Found, Will Be Fired, Noem Says](https://12ft.io/https://apnews.com/us/leakers-of-ice-operations-have-been-found-will-be-fired-noem-says-5817439)
+531 - <a href='https://www.google.com/search?q=Music+Therapy%2C+More+Powerful+Than+You+Might+Expect' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/music-therapy-more-powerful-than-you-might-expect-1915139' target='_blank' rel='noopener noreferrer'>Music Therapy, More Powerful Than You Might Expect</a>
 
-[Social Security Announces Significant Workforce Reductions](https://12ft.io/https://apnews.com/us/social-security-announces-significant-workforce-reductions-5817928)
+532 - <a href='https://www.google.com/search?q=US+Health+Agency+Now+Says+Employees+Have+to+Respond+to+DOGE+Email' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/us-health-agency-now-says-employees-have-to-respond-to-doge-email-5819215' target='_blank' rel='noopener noreferrer'>US Health Agency Now Says Employees Have to Respond to DOGE Email</a>
 
-[5 Takeaways From the Explosive Trump–Zelenskyy Meeting](https://12ft.io/https://apnews.com/article/5-takeaways-from-the-explosive-trump-zelenskyy-meeting-5818097)
+533 - <a href='https://www.google.com/search?q=Musk+Says+All+Government+Agencies+%E2%80%98Cooperating+With+DOGE%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/musk-says-all-government-agencies-cooperating-with-doge-5818699' target='_blank' rel='noopener noreferrer'>Musk Says All Government Agencies ‘Cooperating With DOGE’</a>
 
-[▶Signing of US–Ukraine Minerals Deal Called Off After Heated White House Meeting](https://12ft.io/https://apnews.com/us/zelenskyy-to-meet-trump-in-washington-to-sign-minerals-deal-5817851)
+534 - <a href='https://www.google.com/search?q=USAID+Official+Warns+Block+of+Foreign+Aid+Will+Cost+Lives%2C+Then+Says+He%E2%80%99s+Been+Put+on+Leave' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/usaid-official-warns-block-of-foreign-aid-will-cost-lives-then-says-hes-been-put-on-leave-5819070' target='_blank' rel='noopener noreferrer'>USAID Official Warns Block of Foreign Aid Will Cost Lives, Then Says He’s Been Put on Leave</a>
 
-[Trump Declares Border ‘Invasion’ Is Over as Apprehensions Plunge to Historic Low](https://12ft.io/https://apnews.com/us/trump-declares-border-invasion-is-over-as-apprehensions-plunge-to-historic-low-5818541)
+535 - <a href='https://www.google.com/search?q=5+Takeaways+From+Joe+Rogan%E2%80%99s+3-Hour+Interview+With+Elon+Musk' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/5-takeaways-from-joe-rogans-3-hour-interview-with-elon-musk-5819016' target='_blank' rel='noopener noreferrer'>5 Takeaways From Joe Rogan’s 3-Hour Interview With Elon Musk</a>
 
-[Around 3,000 More US Troops Deploying to Southern Border](https://12ft.io/https://apnews.com/us/around-3000-more-us-troops-deploying-to-southern-border-5818441)
+536 - <a href='https://www.google.com/search?q=Hegseth+Instructs+DOD+Civilian+Workforce+to+Respond+to+OPM+Email' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/hegseth-instructs-dod-civilian-workforce-to-respond-to-opm-email-5818949' target='_blank' rel='noopener noreferrer'>Hegseth Instructs DOD Civilian Workforce to Respond to OPM Email</a>
 
-[Day in Photos: Cyclone on Reunion Island, Protests Against Elon Musk, and Ramadan Begins](https://12ft.io/https://apnews.com/article/day-in-photos-cyclone-on-reunion-island-protests-against-elon-musk-and-ramadan-begins-5818461)
+537 - <a href='https://www.google.com/search?q=US+Welcomes+Europe+Taking+the+Lead+on+Regional+Security%3A+Waltz' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/us-welcomes-europe-taking-the-lead-on-regional-security-waltz-5819144' target='_blank' rel='noopener noreferrer'>US Welcomes Europe Taking the Lead on Regional Security: Waltz</a>
 
-[Day in Photos: Manila Liberation Day, Shooting in Pennsylvania, Roof Collapse in Peru](https://12ft.io/https://apnews.com/article/day-in-photos-manila-liberation-day-shooting-in-pennsylvania-roof-collapse-in-peru-5814689)
+538 - <a href='https://www.google.com/search?q=Starmer+to+Zelenskyy%3A+Ukraine+Has+UK%E2%80%99s+%E2%80%98Full+Backing%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/starmer-to-zelenskyy-ukraine-has-uks-full-backing-5818453' target='_blank' rel='noopener noreferrer'>Starmer to Zelenskyy: Ukraine Has UK’s ‘Full Backing’</a>
 
-[INFOGRAPHIC: How Gaming Changes the Brain](https://12ft.io/https://apnews.com/article/how-gaming-changes-the-brain-5817971)
+539 - <a href='https://www.google.com/search?q=Trump+Considers+5+Cryptocurrencies+for+New+National+Strategic+Reserve' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-considers-5-cryptocurrencies-for-new-national-strategic-reserve-5819235' target='_blank' rel='noopener noreferrer'>Trump Considers 5 Cryptocurrencies for New National Strategic Reserve</a>
 
-[How the War in Ukraine Unfolded and How It Might End](https://12ft.io/https://apnews.com/article/how-the-war-in-ukraine-unfolded-and-how-it-might-end-5816673)
+540 - <a href='https://www.google.com/search?q=Trump+Signs+Sweeping+Cryptocurrency+Executive+Order' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/trump-signs-sweeping-cryptocurrency-executive-order-5797953' target='_blank' rel='noopener noreferrer'>Trump Signs Sweeping Cryptocurrency Executive Order</a>
 
-[New Abortion Battle Opening Up Over State Shield Laws](https://12ft.io/https://apnews.com/article/new-abortion-battle-opening-up-over-state-shield-laws-5815620)
+541 - <a href='https://www.google.com/search?q=Shen+Yun%E2%80%99s+Message+%E2%80%98Very+Powerful%E2%80%99%3A+Executive+Director' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/shen-yuns-message-very-powerful-executive-director-5818554' target='_blank' rel='noopener noreferrer'>Shen Yun’s Message ‘Very Powerful’: Executive Director</a>
 
-[Has There Been an Increase in Plane Crashes? Here’s What the Data Show](https://12ft.io/https://apnews.com/article/has-there-been-an-increase-in-plane-crashes-heres-what-the-data-show-5816049)
+542 - <a href='https://www.google.com/search?q=Company+President%3A+Shen+Yun%E2%80%99s+%E2%80%98Performers+Are+Amazing%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/company-president-shen-yuns-performers-are-amazing-5818939' target='_blank' rel='noopener noreferrer'>Company President: Shen Yun’s ‘Performers Are Amazing’</a>
 
-[How Fraud and Waste Harm Medicaid](https://12ft.io/https://apnews.com/article/how-fraud-and-waste-harm-medicaid-5812878)
+543 - <a href='https://www.google.com/search?q=Shen+Yun+Performing+Arts+2025+Season+Coming+to+Spokane' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/shen-yun-performing-arts-2025-season-coming-to-spokane-5819118' target='_blank' rel='noopener noreferrer'>Shen Yun Performing Arts 2025 Season Coming to Spokane</a>
 
-[From Prisoner to Pastor: Transformation of Ex-Detroit Mayor Freed by Trump](https://12ft.io/https://apnews.com/article/from-prisoner-to-pastor-transformation-of-ex-detroit-mayor-freed-by-trump-5812429)
+544 - <a href='https://www.google.com/search?q=%E2%80%98Great+Admirers+of+Traditional+Chinese+Culture%E2%80%99+Celebrate+Shen+Yun+in+Las+Vegas' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/great-admirers-of-traditional-chinese-culture-celebrate-shen-yun-in-las-vegas-5818922' target='_blank' rel='noopener noreferrer'>‘Great Admirers of Traditional Chinese Culture’ Celebrate Shen Yun in Las Vegas</a>
 
-[Future Bright for Solar Power, but Slack Times Ahead for Offshore Wind](https://12ft.io/https://apnews.com/article/future-bright-for-solar-power-but-slack-times-ahead-for-offshore-wind-5813255)
+545 - <a href='https://www.google.com/search?q=Shen+Yun+Is+Phenomenal+and+Very+Therapeutic%2C+Say+McAllen+Audience+Members' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/shen-yun-is-phenomenal-and-very-therapeutic-say-mcallen-audience-members-5818907' target='_blank' rel='noopener noreferrer'>Shen Yun Is Phenomenal and Very Therapeutic, Say McAllen Audience Members</a>
 
-[Nation’s Biggest School Districts Stand to Lose Billions Over Trump’s DEI Order](https://12ft.io/https://apnews.com/article/nations-biggest-school-districts-stand-to-lose-billions-over-trumps-dei-order-5808104)
+546 - <a href='https://www.google.com/search?q=Shen+Yun+Is+%E2%80%98Eye-Opening%2C%E2%80%99+Says+McAllen+Theatergoer' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/shen-yun-is-eye-opening-say-mcallen-theatergoer-5818848' target='_blank' rel='noopener noreferrer'>Shen Yun Is ‘Eye-Opening,’ Says McAllen Theatergoer</a>
 
-[Why Americans Pay So Much for Health Care](https://12ft.io/https://apnews.com/article/why-americans-pay-so-much-for-health-care-5785093)
+547 - <a href='https://www.google.com/search?q=Professional+Educators+See+Great+Educational+Value+in+Shen+Yun' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/professional-educators-see-great-educational-value-in-shen-yun-5818809' target='_blank' rel='noopener noreferrer'>Professional Educators See Great Educational Value in Shen Yun</a>
 
-[Trump Agenda Slowed by Flood of Lawsuits](https://12ft.io/https://apnews.com/article/trump-actions-spur-growing-number-of-lawsuits-5812915)
+548 - <a href='https://www.google.com/search?q=Watching+Shen+Yun+Like+%E2%80%98Being+Bathed+in+Some+Purifying+Energy%E2%80%99%3A+DC+Patron' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/watching-shen-yun-like-being-bathed-in-some-purifying-energy-dc-patron-5818556' target='_blank' rel='noopener noreferrer'>Watching Shen Yun Like ‘Being Bathed in Some Purifying Energy’: DC Patron</a>
 
-[Bessent ‘Slightly Shocked’ by Scale of Fraud Uncovered by DOGE](https://12ft.io/https://apnews.com/us/bessent-slightly-shocked-by-scale-of-fraud-uncovered-by-doge-5818405)
+549 - <a href='https://www.google.com/search?q=Shen+Yun+%E2%80%98Will+Take+Us+to+Greater+Heights%E2%80%99%3A+Retired+Gala+Chair' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/shen-yun-will-take-us-to-greater-heights-retired-gala-chair-5818555' target='_blank' rel='noopener noreferrer'>Shen Yun ‘Will Take Us to Greater Heights’: Retired Gala Chair</a>
 
-[Federal Workers Get 2nd Round of ‘Pulse Check’ Emails Requesting List of Accomplishments](https://12ft.io/https://apnews.com/us/federal-workers-get-2nd-round-of-pulse-check-emails-requesting-list-of-accomplishments-5818411)
+550 - <a href='https://www.google.com/search?q=Savannah+Anticipates+Shen+Yun%E2%80%99s+All-New+2025+Production' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/savannah-anticipates-shen-yuns-all-new-2025-production-5818618' target='_blank' rel='noopener noreferrer'>Savannah Anticipates Shen Yun’s All-New 2025 Production</a>
 
-[Around 3,000 More US Troops Deploying to Southern Border](https://12ft.io/https://apnews.com/us/around-3000-more-us-troops-deploying-to-southern-border-5818441)
+551 - <a href='https://www.google.com/search?q=IT+Director+Says+Shen+Yun+Is+%E2%80%98Amazing%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/shenyun/it-director-says-shen-yun-is-amazing-5818620' target='_blank' rel='noopener noreferrer'>IT Director Says Shen Yun Is ‘Amazing’</a>
 
-[Texas Governor Deploys 400 More National Guard Troops to Border](https://12ft.io/https://apnews.com/us/texas-governor-deploys-400-more-national-guard-troops-to-border-5799497)
+552 - <a href='https://www.google.com/search?q=Trump+Raises+Tariffs+on+China+to+20+Percent%2C+Cites+Fentanyl+Trafficking' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-raises-tariffs-on-china-to-20-percent-cites-fentanyl-trafficking-5819323' target='_blank' rel='noopener noreferrer'>Trump Raises Tariffs on China to 20 Percent, Cites Fentanyl Trafficking</a>
 
-[Musk Is a Special Government Employee—What Is That?](https://12ft.io/https://apnews.com/us/musk-is-a-special-government-employee-what-is-that-5817371)
+553 - <a href='https://www.google.com/search?q=Trump+Announces+Tariffs+on+Agricultural+Imports+Starting+Next+Month' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-announces-tariffs-on-agricultural-imports-starting-next-month-5819225' target='_blank' rel='noopener noreferrer'>Trump Announces Tariffs on Agricultural Imports Starting Next Month</a>
 
-[Musk Says DOGE Has Made Mistakes, But Fixed Quickly](https://12ft.io/https://apnews.com/us/musk-says-doge-has-made-mistakes-but-fixed-quickly-5816898)
+554 - <a href='https://www.google.com/search?q=Trump+Says+%E2%80%98No+Room+Left%E2%80%99+for+Canada%2C+Mexico+to+Avoid+25+Percent+Tariffs+Coming+March+4' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/trump-says-no-room-left-for-canada-mexico-to-avoid-25-percent-tariffs-coming-march-4-post-5819212' target='_blank' rel='noopener noreferrer'>Trump Says ‘No Room Left’ for Canada, Mexico to Avoid 25 Percent Tariffs Coming March 4</a>
 
-[Social Security Administration Says It Plans to Lay Off 7,000 Workers](https://12ft.io/https://apnews.com/us/social-security-administration-says-it-plans-to-lay-off-7000-workers-5818361)
+555 - <a href='https://www.google.com/search?q=New+York+Advertises+State+Jobs+to+Laid-Off+Federal+Workers+in+DC' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/new-york-advertises-state-jobs-to-laid-off-federal-workers-in-dc-5819065' target='_blank' rel='noopener noreferrer'>New York Advertises State Jobs to Laid-Off Federal Workers in DC</a>
 
-[Hundreds of Workers at US Weather Agency NOAA Fired](https://12ft.io/https://apnews.com/us/hundreds-of-workers-at-us-weather-agency-noaa-fired-5817791)
+556 - <a href='https://www.google.com/search?q=Trump+Announces+%24100+Billion+Investment+From+Taiwan+Chip+Maker+TSMC' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/trump-announces-100-billion-investment-from-taiwan-chip-maker-tsmc-5819167' target='_blank' rel='noopener noreferrer'>Trump Announces $100 Billion Investment From Taiwan Chip Maker TSMC</a>
 
-[White House Says EPA Will Cut 65 Percent of Spending, Not Staff](https://12ft.io/https://apnews.com/us/white-house-says-epa-will-cut-65-percent-of-spending-not-staff-5817829)
+557 - <a href='https://www.google.com/search?q=%E2%96%B6New+York+Governor+Convenes+Roundtable+of+Federal+Workers+Impacted+by+Layoffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/live-now-new-york-governor-convenes-roundtable-of-federal-workers-impacted-by-layoffs-5819044' target='_blank' rel='noopener noreferrer'>▶New York Governor Convenes Roundtable of Federal Workers Impacted by Layoffs</a>
 
-[Andrew Cuomo Enters NYC Mayoral Race, Calling City ‘In Trouble’](https://12ft.io/https://apnews.com/us/andrew-cuomo-enters-nyc-mayoral-race-calling-city-in-trouble-5818450)
+558 - <a href='https://www.google.com/search?q=Mexico+Could+Match+US+Tariffs+on+China%2C+Bessent+Says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/mexico-could-match-us-tariffs-on-china-bessent-says-5818736' target='_blank' rel='noopener noreferrer'>Mexico Could Match US Tariffs on China, Bessent Says</a>
 
-[Panel Investigating Andrew Cuomo Is Constitutional: New York Court](https://12ft.io/https://apnews.com/us/panel-investigating-andrew-cuomo-is-constitutional-new-york-court-5812639)
+559 - <a href='https://www.google.com/search?q=Tracking+Trump%E2%80%99s+High+Level+Appointments%2C+Senate+Confirmations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/tracking-every-trump-cabinet-pick-5758519' target='_blank' rel='noopener noreferrer'>Tracking Trump’s High Level Appointments, Senate Confirmations</a>
 
-[Starmer to Zelenskyy: Ukraine Has UK’s ‘Full Backing’](https://12ft.io/https://apnews.com/world/starmer-to-zelenskyy-ukraine-has-uks-full-backing-5818453)
+560 - <a href='https://www.google.com/search?q=Infographic%3A+A+Who%E2%80%99s+Who+of+All+Trump%E2%80%99s+Cabinet+Level+Nominees' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/infographic-a-whos-who-of-all-trumps-cabinet-level-nominees-5786277' target='_blank' rel='noopener noreferrer'>Infographic: A Who’s Who of All Trump’s Cabinet Level Nominees</a>
 
-[How the War in Ukraine Unfolded and How It Might End](https://12ft.io/https://apnews.com/article/how-the-war-in-ukraine-unfolded-and-how-it-might-end-5816673)
+561 - <a href='https://www.google.com/search?q=US+Treasury+Suspends+Enforcement+of+Corporate+Transparency+Act' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/us-treasury-suspends-enforcement-of-corporate-transparency-act-5819222' target='_blank' rel='noopener noreferrer'>US Treasury Suspends Enforcement of Corporate Transparency Act</a>
 
-[Russians React to Trump’s Peace Overtures With Cautious Optimism](https://12ft.io/https://apnews.com/world/russians-react-to-trumps-peace-overtures-with-cautious-optimism-5818400)
+562 - <a href='https://www.google.com/search?q=US+10-Year+Treasury+Yield+Declines+Amid+Economic+Concerns' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/us-10-year-treasury-yield-declines-amid-economic-concerns-5816727' target='_blank' rel='noopener noreferrer'>US 10-Year Treasury Yield Declines Amid Economic Concerns</a>
 
-[Trump Extends Russia Sanctions for Another Year, Citing Security Threats](https://12ft.io/https://apnews.com/us/trump-extends-russia-sanctions-for-another-year-citing-security-threats-5817397)
+563 - <a href='https://www.google.com/search?q=Trump+to+Impose+Tariffs+on+Mexico%2C+Canada%2C+China+Over+Fentanyl+on+March+4' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-to-impose-tariffs-on-mexico-canada-china-over-fentanyl-on-tuesday-5818864' target='_blank' rel='noopener noreferrer'>Trump to Impose Tariffs on Mexico, Canada, China Over Fentanyl on March 4</a>
 
-[▶Lausanne Audience Moved by Chinese Culture and Spirituality in Shen Yun](https://12ft.io/https://apnews.com/epochtv/lausanne-audience-moved-by-chinese-culture-and-spirituality-in-shen-yun-5817351)
+564 - <a href='https://www.google.com/search?q=Bipartisan+Lawmakers+Introduce+Bills+to+Counter+China%E2%80%99s+Influence+at+Global+Ports' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/china/bipartisan-lawmakers-introduce-bills-to-counter-chinas-influence-at-global-ports-5819175' target='_blank' rel='noopener noreferrer'>Bipartisan Lawmakers Introduce Bills to Counter China’s Influence at Global Ports</a>
 
-[▶‘Exceptional’: European Politicians Commend Shen Yun](https://12ft.io/https://apnews.com/epochtv/exceptional-european-politicians-commend-shen-yun-5816048)
+565 - <a href='https://www.google.com/search?q=Experts+Warn+of+China%E2%80%99s+Grip+on+Key+US+and+Latin+American+Ports' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/experts-warn-of-chinas-grip-on-key-us-and-latin-american-ports-5808369' target='_blank' rel='noopener noreferrer'>Experts Warn of China’s Grip on Key US and Latin American Ports</a>
 
-[Shen Yun ‘Should Have an Academy Award’: Former Congresswoman](https://12ft.io/https://apnews.com/shenyun/shen-yun-should-have-an-academy-award-former-congresswoman-5818246)
+566 - <a href='https://www.google.com/search?q=%E2%80%98Do+Not+Cry%E2%80%99%3A+A+Holocaust+Memoir' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/do-not-cry-a-holocaust-memoir-5818186' target='_blank' rel='noopener noreferrer'>‘Do Not Cry’: A Holocaust Memoir</a>
 
-[Shen Yun ‘Very Beautiful, Very Powerful,’ Says Virginia State Senator](https://12ft.io/https://apnews.com/shenyun/shen-yun-very-beautiful-very-powerful-says-virginia-state-senator-5817794)
+567 - <a href='https://www.google.com/search?q=California+Emergency+Order+Aims+to+Lower+Fire+Risk+by+Speeding+Up+Removal+of+Brush%2C+Dead+Trees' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/california-emergency-order-aims-to-lower-fire-risk-by-speeding-up-removal-of-brush-dead-trees-5819340' target='_blank' rel='noopener noreferrer'>California Emergency Order Aims to Lower Fire Risk by Speeding Up Removal of Brush, Dead Trees</a>
 
-[‘A Noble Accomplishment’: Couple Following Shen Yun Since Inception Hopes It Can Perform in China](https://12ft.io/https://apnews.com/shenyun/a-noble-accomplishment-couple-following-shen-yun-since-inception-hopes-it-can-perform-in-china-5817793)
+568 - <a href='https://www.google.com/search?q=%E2%96%B6Trump+and+TSMC+CEO+Announce+%24100+Billion+US+Investment%3B+Wildfires+Rage+Across+the+Carolinas+and+Georgia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/trump-and-tsmc-ceo-announce-100b-u-s-investment-wildfires-rage-across-the-carolinas-and-georgia-5819339' target='_blank' rel='noopener noreferrer'>▶Trump and TSMC CEO Announce $100 Billion US Investment; Wildfires Rage Across the Carolinas and Georgia</a>
 
-[Australian Billionaire Says She Is ‘Spellbound by the Beauty’ of Shen Yun](https://12ft.io/https://apnews.com/shenyun/australian-billionaire-says-she-is-spellbound-by-the-beauty-of-shen-yun-5818366)
+569 - <a href='https://www.google.com/search?q=Kari+Lake+Sworn+In+as+Senior+Adviser+at+US+Agency+for+Global+Media' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/kari-lake-sworn-in-as-senior-adviser-at-us-agency-for-global-media-5815363' target='_blank' rel='noopener noreferrer'>Kari Lake Sworn In as Senior Adviser at US Agency for Global Media</a>
 
-[Professor and Psychiatrist See Shen Yun Every Year: ‘Number One in the World’](https://12ft.io/https://apnews.com/shenyun/professor-and-psychiatrist-see-shen-yun-every-year-number-one-in-the-world-5817792)
+570 - <a href='https://www.google.com/search?q=%E2%96%B6TSMC+to+Invest+%24100+Billion+in+US%3B+Trump+Admin+Begins+to+Dismantle+DOE' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/tsmc-to-invest-100-billion-in-u-s-trump-administration-begin-plans-to-dismantle-doe-5819206' target='_blank' rel='noopener noreferrer'>▶TSMC to Invest $100 Billion in US; Trump Admin Begins to Dismantle DOE</a>
 
-[Shen Yun Conveys Human Dignity and a Divine Truth, Says Retired Military Officer](https://12ft.io/https://apnews.com/shenyun/shen-yun-conveys-human-dignity-and-a-divine-truth-says-retired-military-officer-5817774)
+571 - <a href='https://www.google.com/search?q=%E2%96%B6KT+McFarland+on+Rising+Global+Populism%2C+%E2%80%98Terrorist%E2%80%99+Designation+for+Cartels%2C+Ending+the+Ukraine%E2%80%93Russia+Quagmire+%7C+Facts+Matter' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/kt-mcfarland-on-rising-global-populism-terrorist-designation-for-cartels-ending-the-ukraine-russia-quagmire-facts-matter-5819228' target='_blank' rel='noopener noreferrer'>▶KT McFarland on Rising Global Populism, ‘Terrorist’ Designation for Cartels, Ending the Ukraine–Russia Quagmire | Facts Matter</a>
 
-[Shen Yun Is ‘Absolutely Spectacular,’ Says Company CEO](https://12ft.io/https://apnews.com/shenyun/shen-yun-is-absolutely-spectacular-says-company-ceo-5818354)
+572 - <a href='https://www.google.com/search?q=%E2%96%B6Fallout+From+Zelenskyy+Meeting%3B+Europe+Faces+Defense+Crisis+%7C+Live+With+Josh' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/fallout-from-zelenskyy-meeting-europe-faces-defense-crisis-5818744' target='_blank' rel='noopener noreferrer'>▶Fallout From Zelenskyy Meeting; Europe Faces Defense Crisis | Live With Josh</a>
 
-[‘It’s Heaven Meets Earth in Shen Yun’: Think Tank Director](https://12ft.io/https://apnews.com/shenyun/its-heaven-meets-earth-in-shen-yun-think-tank-director-5817104)
+573 - <a href='https://www.google.com/search?q=%E2%96%B6US+Tariffs+on+Canada%2C+Mexico+to+Begin+Tuesday%3B+What+to+Know+About+Trump%E2%80%99s+Joint+Address+to+Congress' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/us-tariffs-on-canada-mexico-to-begin-tuesday-what-to-know-about-trumps-joint-address-to-congress-5819017' target='_blank' rel='noopener noreferrer'>▶US Tariffs on Canada, Mexico to Begin Tuesday; What to Know About Trump’s Joint Address to Congress</a>
 
-[Shen Yun Shared the Message of ‘God, Liberty, and Independence,’ Says Lieutenant Governor of Nevada](https://12ft.io/https://apnews.com/shenyun/shen-yun-shared-the-message-of-god-liberty-and-independence-says-lieutenant-governor-of-nevada-5818335)
+574 - <a href='https://www.google.com/search?q=House+Lawmakers+Pressure+Gabbard+Over+Outstanding+Biden-Era+Report+on+CCP+Corruption' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/china/house-lawmakers-pressure-gabbard-over-outstanding-biden-era-report-on-ccp-corruption-5819185' target='_blank' rel='noopener noreferrer'>House Lawmakers Pressure Gabbard Over Outstanding Biden-Era Report on CCP Corruption</a>
 
-[Shen Yun Dancers’ ‘Choreography Was Amazing,’ Says Professional Dancer](https://12ft.io/https://apnews.com/shenyun/shen-yun-dancers-choreography-was-amazing-says-professional-dancer-5818330)
+575 - <a href='https://www.google.com/search?q=%E2%96%B6Senate+Considers+Nomination+of+Linda+McMahon+as+Secretary+of+Education' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/live-now-senate-considers-nomination-of-linda-mcmahon-as-secretary-of-education-5819134' target='_blank' rel='noopener noreferrer'>▶Senate Considers Nomination of Linda McMahon as Secretary of Education</a>
 
-[Canada ‘Open’ to Matching US Tariffs on China, Foreign Affairs Minister Says](https://12ft.io/https://apnews.com/world/canada-open-to-matching-us-tariffs-on-china-foreign-affairs-minister-says-5818428)
+576 - <a href='https://www.google.com/search?q=%E2%96%B6Trump+Announces+%24100+Billion+Investment+From+Taiwan+Chipmaker' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/live-now-trump-makes-an-investment-announcement-5819115' target='_blank' rel='noopener noreferrer'>▶Trump Announces $100 Billion Investment From Taiwan Chipmaker</a>
 
-[White House Says Tariffs Moving Forward but There’s Still Room for Negotiation](https://12ft.io/https://apnews.com/world/white-house-says-tariffs-moving-forward-but-theres-still-room-for-negotiation-5816693)
+577 - <a href='https://www.google.com/search?q=ACLU+Files+Lawsuit+to+Block+Illegal+Immigrant+Transfers+to+Guantanamo+Base' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/aclu-files-lawsuit-to-block-illegal-immigrant-transfers-to-guantanamo-base-5819105' target='_blank' rel='noopener noreferrer'>ACLU Files Lawsuit to Block Illegal Immigrant Transfers to Guantanamo Base</a>
 
-[Retail Roundup: Consumer and Food Retailers Pressured by Walmart’s 2025 Outlook](https://12ft.io/https://apnews.com/business/weekly-retail-roundup-consumer-and-food-retailers-pressured-by-walmarts-2025-outlook-5818241)
+578 - <a href='https://www.google.com/search?q=Trudeau+Meets+With+King+Charles+Amid+US+Pressure' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/trudeau-meets-with-king-charles-amid-us-pressure-5819081' target='_blank' rel='noopener noreferrer'>Trudeau Meets With King Charles Amid US Pressure</a>
 
-[Home Depot Sales Continue to Improve in Challenging Housing Market Environment](https://12ft.io/https://apnews.com/business/home-depot-sales-continue-to-improve-in-challenging-housing-market-environment-5816115)
+579 - <a href='https://www.google.com/search?q=Transgender+Ex-Military+Member%E2%80%99s+Surprising+Take+on+Trump%E2%80%99s+Policy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/transgender-ex-military-members-surprising-take-on-trumps-policy-5817253' target='_blank' rel='noopener noreferrer'>Transgender Ex-Military Member’s Surprising Take on Trump’s Policy</a>
 
-[Postal Service Changing First-Class Mail and Package Deliveries Starting April 1](https://12ft.io/https://apnews.com/us/postal-service-changing-first-class-mail-and-package-deliveries-starting-april-1-post-5818406)
+580 - <a href='https://www.google.com/search?q=Trump+Hints+at+Security+Strategy+Behind+Teetering+Deal+for+Ukraine%E2%80%99s+Natural+Resources' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/trump-hints-at-security-strategy-behind-teetering-deal-for-ukraines-natural-resources-5819004' target='_blank' rel='noopener noreferrer'>Trump Hints at Security Strategy Behind Teetering Deal for Ukraine’s Natural Resources</a>
 
-[New US Home Sales Drop By More Than 10 Percent](https://12ft.io/https://apnews.com/real-estate/new-us-home-sales-drop-by-more-than-10-percent-5818382)
+581 - <a href='https://www.google.com/search?q=RFK+Jr.+Says+Vaccinations+Available+as+Texas+Measles+Outbreak+Expands' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/rfk-jr-says-vaccinations-available-as-texas-measles-outbreak-expands-5819032' target='_blank' rel='noopener noreferrer'>RFK Jr. Says Vaccinations Available as Texas Measles Outbreak Expands</a>
 
-[Postal Service Changing First-Class Mail and Package Deliveries Starting April 1](https://12ft.io/https://apnews.com/us/postal-service-changing-first-class-mail-and-package-deliveries-starting-april-1-post-5818406)
+582 - <a href='https://www.google.com/search?q=Lawmakers+Reintroduce+Falun+Gong+Protection+Act+to+Combat+CCP%E2%80%99s+Forced+Organ+Harvesting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/lawmakers-reintroduce-falun-gong-protection-act-to-combat-forced-organ-harvesting-5816348' target='_blank' rel='noopener noreferrer'>Lawmakers Reintroduce Falun Gong Protection Act to Combat CCP’s Forced Organ Harvesting</a>
 
-[USPS Address Change Policy: What You Need to Know](https://12ft.io/https://apnews.com/bright/usps-address-change-policy-what-you-need-to-know-5818378)
+583 - <a href='https://www.google.com/search?q=%E2%96%B6Capitol+Report+Full+Broadcast+%28Feb.+28%29' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/capitol-report-full-broadcast-feb-28-post-5818269' target='_blank' rel='noopener noreferrer'>▶Capitol Report Full Broadcast (Feb. 28)</a>
 
-[New US Home Sales Drop By More Than 10 Percent](https://12ft.io/https://apnews.com/real-estate/new-us-home-sales-drop-by-more-than-10-percent-5818382)
+584 - <a href='https://www.google.com/search?q=%E2%96%B6I+Was+Injured+in+the+COVID+Vaccine+Trials+and+Still+Struggle+Every+Day%3A+Brianne+Dressen' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/i-was-injured-in-the-covid-vaccine-trials-and-still-struggle-every-day-brianne-dressen-5812996' target='_blank' rel='noopener noreferrer'>▶I Was Injured in the COVID Vaccine Trials and Still Struggle Every Day: Brianne Dressen</a>
 
-[How to Watch Out for Mortgage Fraud](https://12ft.io/https://apnews.com/bright/how-to-watch-out-for-mortgage-fraud-5815815)
+585 - <a href='https://www.google.com/search?q=%E2%96%B6Nuclear+Scientist+Exposes+Flaws+in+the+Theory+Blaming+CO2+for+Climate+Change' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/nuclear-scientist-exposes-flaws-in-the-theory-blaming-co2-for-climate-change-5815424' target='_blank' rel='noopener noreferrer'>▶Nuclear Scientist Exposes Flaws in the Theory Blaming CO2 for Climate Change</a>
 
-[Tracking Trump’s High Level Appointments, Senate Confirmations](https://12ft.io/https://apnews.com/article/tracking-every-trump-cabinet-pick-5758519)
+586 - <a href='https://www.google.com/search?q=Sydney+to+Host+Global+Superannuation+Powerhouses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/sydney-to-host-global-superannuation-powerhouses-5818900' target='_blank' rel='noopener noreferrer'>Sydney to Host Global Superannuation Powerhouses</a>
 
-[Infographic: A Who’s Who of All Trump’s Cabinet Level Nominees](https://12ft.io/https://apnews.com/article/infographic-a-whos-who-of-all-trumps-cabinet-level-nominees-5786277)
+587 - <a href='https://www.google.com/search?q=Federal+Privacy+Watchdog+Heads+to+Court+Over+Pornhub+Operator%E2%80%99s+Consent+Practices' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/federal-privacy-watchdog-heads-to-court-over-pornhub-operators-consent-practices-5819386' target='_blank' rel='noopener noreferrer'>Federal Privacy Watchdog Heads to Court Over Pornhub Operator’s Consent Practices</a>
 
-[Strong Support for Trump’s Push to End Russia–Ukraine War, But Some Hesitation on Zelenskyy: Epoch Readers Poll](https://12ft.io/https://apnews.com/article/strong-support-for-trumps-push-to-end-russia-ukraine-war-but-some-hesitation-on-zelenskyy-epoch-readers-poll-5817679)
+588 - <a href='https://www.google.com/search?q=Highway+407+Offering+Free+Rush+Hour+Travel+to+Select+Drivers+This+March' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/highway-407-offering-free-rush-hour-travel-to-select-drivers-this-march-5819278' target='_blank' rel='noopener noreferrer'>Highway 407 Offering Free Rush Hour Travel to Select Drivers This March</a>
 
-[How the War in Ukraine Unfolded and How It Might End](https://12ft.io/https://apnews.com/article/how-the-war-in-ukraine-unfolded-and-how-it-might-end-5816673)
+589 - <a href='https://www.google.com/search?q=US+Plans+to+Nearly+Triple+Anti-Dumping+Duty+on+Canadian+Softwood+as+Tariffs+Loom' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/us-plans-to-nearly-triple-anti-dumping-duty-on-canadian-softwood-as-tariffs-loom-5819254' target='_blank' rel='noopener noreferrer'>US Plans to Nearly Triple Anti-Dumping Duty on Canadian Softwood as Tariffs Loom</a>
 
-[Gun Owners Take DC Magazine Restrictions to Supreme Court](https://12ft.io/https://apnews.com/us/gun-owners-take-dc-magazine-restrictions-to-supreme-court-5818122)
+590 - <a href='https://www.google.com/search?q=NL+Liberals+Launch+Leadership+Race+Following+Premier+Furey%E2%80%99s+Resignation+Announcement' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/nl-liberals-launch-leadership-race-following-premier-fureys-resignation-announcement-5819241' target='_blank' rel='noopener noreferrer'>NL Liberals Launch Leadership Race Following Premier Furey’s Resignation Announcement</a>
 
-[Federal Appeals Court Won’t Block DC Law Limiting Size of Gun Ammo Magazines](https://12ft.io/https://apnews.com/us/federal-appeals-court-wont-block-dc-law-limiting-size-of-gun-ammo-magazines-5749805)
+591 - <a href='https://www.google.com/search?q=Quebec+Man+Accused+of+Killing+Three+Men+in+2023+Truck+Attack+to+Stand+Trial+in+May' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/quebec-man-accused-of-killing-three-men-in-2023-truck-attack-to-stand-trial-in-may-5819243' target='_blank' rel='noopener noreferrer'>Quebec Man Accused of Killing Three Men in 2023 Truck Attack to Stand Trial in May</a>
 
-[Rubio Says Zelenskyy Should Apologize for Turning Meeting Into ‘Fiasco’](https://12ft.io/https://apnews.com/us/rubio-says-zelenskyy-should-apologize-for-turning-meeting-into-fiasco-5818370)
+592 - <a href='https://www.google.com/search?q=Shares+in+European+Arms+Companies+Surge+on+%E2%80%98Turbocharged%E2%80%99+Military+Spending+Outlook' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/shares-in-european-arms-companies-surge-on-turbocharged-military-spending-outlook-5819035' target='_blank' rel='noopener noreferrer'>Shares in European Arms Companies Surge on ‘Turbocharged’ Military Spending Outlook</a>
 
-[5 Takeaways From the Explosive Trump–Zelenskyy Meeting](https://12ft.io/https://apnews.com/article/5-takeaways-from-the-explosive-trump-zelenskyy-meeting-5818097)
+593 - <a href='https://www.google.com/search?q=Canadian+Business+Groups+Say+Trade+Uncertainty+Has+Already+Done+Damage' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/canadian-business-groups-say-trade-uncertainty-has-already-done-damage-5819220' target='_blank' rel='noopener noreferrer'>Canadian Business Groups Say Trade Uncertainty Has Already Done Damage</a>
 
-[Notre-Dame: Modern Art to Replace 6 Traditional Stained Glass Windows](https://12ft.io/https://apnews.com/bright/modern-art-to-replace-notre-dames-traditional-stained-glass-5816162)
+594 - <a href='https://www.google.com/search?q=%E2%96%B6China+Vows+Retaliation+Over+Trump%E2%80%99s+Latest+10+Percent+Tariff+Threat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/china-vows-retaliation-over-trumps-latest-10-percent-tariff-threat-5818302' target='_blank' rel='noopener noreferrer'>▶China Vows Retaliation Over Trump’s Latest 10 Percent Tariff Threat</a>
 
-[Top Military Commander of Syria’s Al-Qaeda Affiliate Killed in Strike, US Says](https://12ft.io/https://apnews.com/world/top-military-commander-of-syrias-al-qaeda-affiliate-killed-in-strike-us-says-5818559)
+595 - <a href='https://www.google.com/search?q=North+Carolina+Company+Owner+Pleads+Guilty+for+Trying+to+Sell+Dual-Use+Technology+to+China' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/china/north-carolina-company-owner-pleads-guilty-for-trying-to-sell-dual-use-technology-to-china-5818688' target='_blank' rel='noopener noreferrer'>North Carolina Company Owner Pleads Guilty for Trying to Sell Dual-Use Technology to China</a>
 
-[Illinois Landlord Convicted in Hate Crime Murder of 6-Year-Old Palestinian Boy](https://12ft.io/https://apnews.com/us/illinois-landlord-convicted-in-hate-crime-murder-of-6-year-old-palestinian-boy-5818372)
+596 - <a href='https://www.google.com/search?q=US+General+Warns+Former+NATO+Pilots+to+Avoid+China-Backed+Aviation+Companies' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/us-general-warns-former-nato-pilots-to-avoid-china-backed-aviation-companies-5818655' target='_blank' rel='noopener noreferrer'>US General Warns Former NATO Pilots to Avoid China-Backed Aviation Companies</a>
 
-[New York University Removes Palestinian Studies Job Listing After Governor’s Demand](https://12ft.io/https://apnews.com/us/new-york-university-removes-palestinian-studies-job-listing-after-governors-demand-5818401)
+597 - <a href='https://www.google.com/search?q=%E2%96%B6Starmer+Speaks+About+Ukraine%2C+Trump+Meeting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/live-now-starmer-speaks-about-ukraine-trump-meeting-5819041' target='_blank' rel='noopener noreferrer'>▶Starmer Speaks About Ukraine, Trump Meeting</a>
 
-[▶Zelenskyy Welcomed by Starmer After Heated Trump Meeting; Cuomo Joins Race for NYC Mayor](https://12ft.io/https://apnews.com/epochtv/zelenskyy-welcomed-by-starmer-after-heated-trump-meeting-cuomo-joins-race-to-unseat-nyc-mayor-adams-5818422)
+598 - <a href='https://www.google.com/search?q=US+Says+Deal+With+Ukraine+Not+On+the+Table+for+Now%3B+Zelenskyy+Says+He%E2%80%99s+Ready+to+Sign+It' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/us-says-deal-with-ukraine-not-on-the-table-for-now-zelenskyy-says-hes-ready-to-sign-it-5818844' target='_blank' rel='noopener noreferrer'>US Says Deal With Ukraine Not On the Table for Now; Zelenskyy Says He’s Ready to Sign It</a>
 
-[Another House Cat Dies With Bird Flu in California After Consuming Raw Pet Food](https://12ft.io/https://apnews.com/us/another-house-cat-dies-with-bird-flu-in-california-after-consuming-raw-pet-food-5818339)
+599 - <a href='https://www.google.com/search?q=Money+%E2%80%A2+Finance+%E2%80%A2+Economy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/markets' target='_blank' rel='noopener noreferrer'>Money • Finance • Economy</a>
 
-[Oklahoma School District Mismanaged Millions of Dollars, Audit Finds](https://12ft.io/https://apnews.com/us/oklahoma-school-district-mismanaged-millions-of-dollars-audit-finds-5818304)
+600 - <a href='https://www.google.com/search?q=How+Major+US+Stock+Indexes+Fared+March+3' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-3-post-2-post-5819399' target='_blank' rel='noopener noreferrer'>How Major US Stock Indexes Fared March 3</a>
 
-[California School District Sued for Allegedly Rejecting After-School Christian Clubs](https://12ft.io/https://apnews.com/article/california-school-district-sued-for-allegedly-rejecting-after-school-christian-clubs-5818012)
+601 - <a href='https://www.google.com/search?q=Watchdog+Launches+Investigation+Into+TikTok%2C+Reddit%2C+Imgur+Over+Children%E2%80%99s+Data' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/watchdog-launches-investigation-into-tiktok-reddit-imgur-over-childrens-data-5819020' target='_blank' rel='noopener noreferrer'>Watchdog Launches Investigation Into TikTok, Reddit, Imgur Over Children’s Data</a>
 
-[US Issues Alert as Thailand Sends Uyghur Asylum Seekers to China](https://12ft.io/https://apnews.com/china/us-issues-alert-as-thailand-sends-uyghur-asylum-seekers-to-china-5818082)
+602 - <a href='https://www.google.com/search?q=Why+Owning+a+Car+Is+Getting+Almost+as+Tough+as+Owning+a+Home' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/why-owning-a-car-is-getting-almost-as-tough-as-owning-a-home-5817316' target='_blank' rel='noopener noreferrer'>Why Owning a Car Is Getting Almost as Tough as Owning a Home</a>
 
-[FBI Returns to Trump Boxes of Documents Seized From Mar-a-Lago Raid](https://12ft.io/https://apnews.com/us/fbi-returns-to-trump-boxes-of-documents-seized-from-mar-a-lago-raid-5818317)
+603 - <a href='https://www.google.com/search?q=The+Art+of+Downsizing%3A+Simplifying+Life+After+Retirement' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/the-art-of-downsizing-simplifying-life-after-retirement-5819021' target='_blank' rel='noopener noreferrer'>The Art of Downsizing: Simplifying Life After Retirement</a>
 
-[▶Vem Miller Debunks ‘3rd Assassin’ Claim | Facts Matter](https://12ft.io/https://apnews.com/epochtv/interview-with-the-3rd-trump-assassin-facts-matter-5814647)
+604 - <a href='https://www.google.com/search?q=USPS+Address+Change+Policy%3A+What+You+Need+to+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/usps-address-change-policy-what-you-need-to-know-5818378' target='_blank' rel='noopener noreferrer'>USPS Address Change Policy: What You Need to Know</a>
 
-[▶DOJ Releases First Phase of Epstein Files; Trump’s Plan for Egg Shortage | Live With Josh](https://12ft.io/https://apnews.com/epochtv/doj-releases-first-phase-of-epstein-files-trumps-plan-for-egg-shortage-5817575)
+605 - <a href='https://www.google.com/search?q=How+Major+US+Stock+Indexes+Fared+Feb.+28' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-28-post-5818255' target='_blank' rel='noopener noreferrer'>How Major US Stock Indexes Fared Feb. 28</a>
 
-[▶Trump’s Meeting With Zelenskyy Turns Into Clash; Trump to Make English Official Language of US](https://12ft.io/https://apnews.com/epochtv/trump-zelenskyy-to-meet-over-critical-minerals-deal-vance-speaks-at-national-catholic-prayer-breakfast-5817932)
+606 - <a href='https://www.google.com/search?q=How+Major+US+Stock+Indexes+Fared+Feb.+27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-27-post-5817673' target='_blank' rel='noopener noreferrer'>How Major US Stock Indexes Fared Feb. 27</a>
 
-[Electric Grid Managers Expect ‘Bumpy Ride’ if Canada Tariffs Imposed](https://12ft.io/https://apnews.com/us/electric-grid-managers-expect-bumpy-ride-if-canada-tariffs-imposed-5818200)
+607 - <a href='https://www.google.com/search?q=Why+Aren%E2%80%99t+Chicken+Meat+Prices+Rising+Like+Egg+Prices%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/why-arent-chicken-meat-prices-rising-like-egg-prices-5816824' target='_blank' rel='noopener noreferrer'>Why Aren’t Chicken Meat Prices Rising Like Egg Prices?</a>
 
-[Vance Responds to Pope’s Criticism of Trump Administration](https://12ft.io/https://apnews.com/us/vance-responds-to-popes-criticism-of-trump-administration-5818054)
+608 - <a href='https://www.google.com/search?q=Stocks+Sell+Off+on+Inflation+Fears%2C+Weaker+Spending+Ahead+of+Nvidia%E2%80%99s+Earnings' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/stocks-sell-off-on-inflation-fears-weaker-spending-ahead-of-nvidias-earnings-5814583' target='_blank' rel='noopener noreferrer'>Stocks Sell Off on Inflation Fears, Weaker Spending Ahead of Nvidia’s Earnings</a>
 
-[Iowa Tosses Gender Identity as Special Protected Class](https://12ft.io/https://apnews.com/us/iowa-tosses-gender-identity-as-special-protected-class-5818239)
+609 - <a href='https://www.google.com/search?q=Japanese+Pro+Baseball+Positive+Experience+for+Former+MLB+All-Star+Adam+Jones' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/japanese-pro-baseball-positive-experience-for-former-mlb-all-star-adam-jones-5818764' target='_blank' rel='noopener noreferrer'>Japanese Pro Baseball Positive Experience for Former MLB All-Star Adam Jones</a>
 
-[Zelenskyy Defends Oval Office Remarks, Stresses Need for Security Guarantees](https://12ft.io/https://apnews.com/world/zelenskyy-defends-oval-office-remarks-stresses-need-for-security-guarantees-5818318)
+610 - <a href='https://www.google.com/search?q=Texas+Wide+Receiver+at+Combine+Says+He%27ll+Break+the+NFL+40-Yard+Dash+Record' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/texas-wide-receiver-at-combine-says-hell-break-the-nfl-40-yard-dash-record-5818312' target='_blank' rel='noopener noreferrer'>Texas Wide Receiver at Combine Says He'll Break the NFL 40-Yard Dash Record</a>
 
-[▶Video: Trump and Zelenskyy Clash in White House](https://12ft.io/https://apnews.com/epochtv/video-trump-and-zelenskyy-clash-in-white-house-5818252)
+611 - <a href='https://www.google.com/search?q=2025+NFL+Mock+Draft%3A+Titans+Pick+Game-Changing+Pass+Rusher+First' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/sports/2025-nfl-mock-draft-titans-pick-game-changing-pass-rusher-first-5817579' target='_blank' rel='noopener noreferrer'>2025 NFL Mock Draft: Titans Pick Game-Changing Pass Rusher First</a>
 
-[Trump Reveals What Zelenskyy Has to Do to Return to the White House](https://12ft.io/https://apnews.com/world/trump-reveals-what-zelenskyy-has-to-do-to-return-to-the-white-house-5818267)
+612 - <a href='https://www.google.com/search?q=%E2%96%B6PREMIERING+8%3A30+PM+ET%3A+J.S.+Bach%3A+Cantata+BWV+178+%7C+J.S.+Bach+Foundation' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/epochtv/j-s-bach-cantata-bwv-178-j-s-bach-foundation-5814413' target='_blank' rel='noopener noreferrer'>▶PREMIERING 8:30 PM ET: J.S. Bach: Cantata BWV 178 | J.S. Bach Foundation</a>
 
-[World Leaders, US Lawmakers React to Trump–Zelenskyy Clash](https://12ft.io/https://apnews.com/world/world-leaders-us-lawmakers-weigh-in-on-trump-zelenskyy-feud-5818300)
+613 - <a href='https://www.google.com/search?q=%E2%80%98Grey%E2%80%99s+Anatomy%E2%80%99+Alum+Shares+Importance+of+Early+Detection+After+Brain+Tumor+Diagnosis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/greys-anatomy-alum-shares-importance-of-early-detection-after-brain-tumor-diagnosis-5818853' target='_blank' rel='noopener noreferrer'>‘Grey’s Anatomy’ Alum Shares Importance of Early Detection After Brain Tumor Diagnosis</a>
 
-[▶New Mexico Sheriff Gives Updates on Gene Hackman Death Investigation](https://12ft.io/https://apnews.com/epochtv/new-mexico-sheriff-gives-updates-on-gene-hackman-death-investigation-5818237)
+614 - <a href='https://www.google.com/search?q=After+Her+Son%E2%80%99s+Injury%2C+Fashion+Designer+Offers+Other+Parents+Advice+on+E-Bikes%3A+%E2%80%98Hard+No%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/after-her-sons-injury-fashion-designer-offers-parents-advice-on-e-bikes-hard-no-5819164' target='_blank' rel='noopener noreferrer'>After Her Son’s Injury, Fashion Designer Offers Other Parents Advice on E-Bikes: ‘Hard No’</a>
 
-[Trump Backs Temporary Spending Bill Ahead of Funding Deadline](https://12ft.io/https://apnews.com/us/trump-backs-temporary-spending-bill-ahead-of-funding-deadline-5818011)
+615 - <a href='https://www.google.com/search?q=Academy+Awards+2025%3A+Highlights%2C+Snubs%2C+and+Surprises' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/academy-awards-2025-highlights-snubs-and-surprises-5819147' target='_blank' rel='noopener noreferrer'>Academy Awards 2025: Highlights, Snubs, and Surprises</a>
 
-[▶Capitol Report Full Broadcast (Feb. 28)](https://12ft.io/https://apnews.com/epochtv/capitol-report-full-broadcast-feb-28-post-5818269)
+616 - <a href='https://www.google.com/search?q=Lymphoma%3A+A+Cancer+That+Starts+Within+the+Lymph+Nodes%E2%80%94Common+Symptoms+to+Watch+For' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/lymphoma-symptoms-causes-treatments-and-natural-approaches-5815677' target='_blank' rel='noopener noreferrer'>Lymphoma: A Cancer That Starts Within the Lymph Nodes—Common Symptoms to Watch For</a>
 
-[▶[PREMIERING NOW] I Was Injured in the COVID Vaccine Trials and Still Struggle Every Day: Brianne Dressen](https://12ft.io/https://apnews.com/epochtv/i-was-injured-in-the-covid-vaccine-trials-and-still-struggle-every-day-brianne-dressen-5812996)
+617 - <a href='https://www.google.com/search?q=Atrial+Fibrillation%3A+Common+Heart+Condition+With+10+Symptoms+to+Watch+For' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/atrial-fibrillation-symptoms-causes-treatments-and-natural-approaches-5813030' target='_blank' rel='noopener noreferrer'>Atrial Fibrillation: Common Heart Condition With 10 Symptoms to Watch For</a>
 
-[▶Nuclear Scientist Exposes Flaws in the Theory Blaming CO2 for Climate Change](https://12ft.io/https://apnews.com/epochtv/nuclear-scientist-exposes-flaws-in-the-theory-blaming-co2-for-climate-change-5815424)
+618 - <a href='https://www.google.com/search?q=How+to+Harness+Vagus+Nerve+Power+to+Counter+Common+Autoimmune+Diseases' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/how-to-harness-vagus-nerve-power-to-counter-common-autoimmune-diseases-5773246' target='_blank' rel='noopener noreferrer'>How to Harness Vagus Nerve Power to Counter Common Autoimmune Diseases</a>
 
-[Labor Promises Nearly $650 Million for 50 More Medicare Clinics If Re-Elected](https://12ft.io/https://apnews.com/world/labor-promises-nearly-650-million-for-50-more-medicare-clinics-if-re-elected-5818521)
+619 - <a href='https://www.google.com/search?q=Stimulating+the+Vagus+Nerve+Could+Slow+Cognitive+Decline%E2%80%93Here%E2%80%99s+How' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/health/stimulating-the-vagus-nerve-could-slow-cognitive-decline-heres-how-5770503' target='_blank' rel='noopener noreferrer'>Stimulating the Vagus Nerve Could Slow Cognitive Decline–Here’s How</a>
 
-[Quebec Premier Calls on Feds to Build More Icebreakers, Secure Arctic](https://12ft.io/https://apnews.com/world/quebec-premier-calls-on-feds-to-build-more-icebreakers-secure-arctic-5818552)
+620 - <a href='https://www.google.com/search?q=Emma+Abbott%3A+The+People%E2%80%99s+Prima+Donna' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/emma-abbott-the-peoples-prima-donna-5817317' target='_blank' rel='noopener noreferrer'>Emma Abbott: The People’s Prima Donna</a>
 
-[▶Examining DOGE: The Federal Government Auditors](https://12ft.io/https://apnews.com/epochtv/examining-doge-the-federal-government-auditors-5818520)
+621 - <a href='https://www.google.com/search?q=The+Great+Raid%3A+A+Dangerous%2C+Successful+WWII+Rescue+Mission' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/the-great-raid-a-dangerous-successful-wwii-rescue-mission-5817503' target='_blank' rel='noopener noreferrer'>The Great Raid: A Dangerous, Successful WWII Rescue Mission</a>
 
-[Dutton Pledges More Fighter Jets in Defence Spend Boost](https://12ft.io/https://apnews.com/world/dutton-pledges-more-fighter-jets-in-defence-spend-boost-5818549)
+622 - <a href='https://www.google.com/search?q=Director+Sean+Baker+Ties+All+Time+Academy+Awards+Record+With+4+Wins' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/director-sean-baker-ties-all-time-academy-awards-record-with-4-wins-5818899' target='_blank' rel='noopener noreferrer'>Director Sean Baker Ties All Time Academy Awards Record With 4 Wins</a>
 
-[Canadian-Made Lunar Dust Repellent Heading to the Moon Aboard Firefly’s Blue Ghost](https://12ft.io/https://apnews.com/world/canadian-made-lunar-dust-repellent-heading-to-the-moon-aboard-fireflys-blue-ghost-5818543)
+623 - <a href='https://www.google.com/search?q=%E2%80%98Homeseeking%E2%80%99%3A+A+Romance+of+Decades%2C+Caught+in+Historical+Turmoil' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/homeseeking-a-romance-of-decades-caught-in-historical-turmoil-5818005' target='_blank' rel='noopener noreferrer'>‘Homeseeking’: A Romance of Decades, Caught in Historical Turmoil</a>
 
-[Magnitude 4.4 Quake Rattles Queensland Coast](https://12ft.io/https://apnews.com/world/magnitude-4-4-quake-rattles-queensland-coast-5818517)
+624 - <a href='https://www.google.com/search?q=Why+I+Love+America%3A+The+Freedoms+That+Make+America+Exceptional' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/why-i-love-america-the-freedoms-that-make-america-exceptional-5773762' target='_blank' rel='noopener noreferrer'>Why I Love America: The Freedoms That Make America Exceptional</a>
 
-[NS, Alberta, Sask Premiers Call on Bloc Leader to Rethink Pipeline Opposition](https://12ft.io/https://apnews.com/world/ns-alberta-sask-premiers-call-on-bloc-leader-to-rethink-pipeline-opposition-5818321)
+625 - <a href='https://www.google.com/search?q=A+Life+%E2%80%98Simply+Lived+and+Lived+Simply%E2%80%99%3A+Reader+Pays+Tribute+to+Immigrant+Grandfather%E2%80%99s+Legacy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/a-life-simply-lived-and-lived-simply-reader-pays-tribute-to-immigrant-grandfathers-legacy-5737592' target='_blank' rel='noopener noreferrer'>A Life ‘Simply Lived and Lived Simply’: Reader Pays Tribute to Immigrant Grandfather’s Legacy</a>
 
-[Pope Francis’s Condition Stable After Respiratory Crisis, Vatican Says](https://12ft.io/https://apnews.com/world/pope-franciss-condition-stable-after-respiratory-crisis-vatican-says-5818442)
+626 - <a href='https://www.google.com/search?q=The+Magic+of+Nashville%E2%80%99s+Songwriting+Tradition' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/the-magic-of-nashvilles-songwriting-tradition-5816955' target='_blank' rel='noopener noreferrer'>The Magic of Nashville’s Songwriting Tradition</a>
 
-[Liberal Leadership Candidate Carney Says He Should Have Been More ‘Precise’ Over Brookfield Move](https://12ft.io/https://apnews.com/world/liberal-leadership-candidate-carney-says-he-should-have-been-more-precise-over-brookfield-move-5818454)
+627 - <a href='https://www.google.com/search?q=Times+Square+Is+Now+a+Dining+Destination.+Here%E2%80%99s+Why+and+Where+to+Eat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/times-square-is-now-a-dining-destination-heres-why-and-where-to-eat-5817799' target='_blank' rel='noopener noreferrer'>Times Square Is Now a Dining Destination. Here’s Why and Where to Eat</a>
 
-[▶China Vows Retaliation Over Trump’s Latest 10 Percent Tariff Threat](https://12ft.io/https://apnews.com/epochtv/china-vows-retaliation-over-trumps-latest-10-percent-tariff-threat-5818302)
+628 - <a href='https://www.google.com/search?q=4+Easy+Baked+Pasta+Recipes+to+Keep+You+Cozy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/4-easy-baked-pasta-recipes-to-keep-you-cozy-5817176' target='_blank' rel='noopener noreferrer'>4 Easy Baked Pasta Recipes to Keep You Cozy</a>
 
-[US Lawmakers Express Concern About China’s ‘Super-Embassy’ in London](https://12ft.io/https://apnews.com/china/us-lawmakers-express-concern-about-chinas-super-embassy-in-london-5816670)
+629 - <a href='https://www.google.com/search?q=Spicy+Beef%2C+Potato%2C+and+Cheese+Hand+Pies+Offer+Delicious+Versatility' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/spicy-beef-potato-and-cheese-hand-pies-offer-delicious-versatility-5817168' target='_blank' rel='noopener noreferrer'>Spicy Beef, Potato, and Cheese Hand Pies Offer Delicious Versatility</a>
 
-[CCP Uses Psychiatric Drugs to Persecute Its Own Officials: Insider](https://12ft.io/https://apnews.com/china/ccp-uses-psychiatric-drugs-to-persecute-its-own-officials-insider-5815762)
+630 - <a href='https://www.google.com/search?q=7+Ways+to+Repurpose+Old+Towels+That+You+Probably+Never+Considered' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/7-ways-to-repurpose-old-towels-that-you-probably-never-considered-5818903' target='_blank' rel='noopener noreferrer'>7 Ways to Repurpose Old Towels That You Probably Never Considered</a>
 
-[Starmer to Meet Zelenskyy in London After Trump Fallout](https://12ft.io/https://apnews.com/world/starmer-to-meet-zelenskyy-in-london-after-trump-fallout-5818385)
+631 - <a href='https://www.google.com/search?q=Unleash+Your+Creativity%3A+A+Guide+to+Customizing+Upholstery+Furniture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/unleash-your-creativity-a-guide-to-customizing-upholstery-furniture-5817806' target='_blank' rel='noopener noreferrer'>Unleash Your Creativity: A Guide to Customizing Upholstery Furniture</a>
 
-[▶Trump–Zelenskyy Meeting at White House Turns Into Heated Argument](https://12ft.io/https://apnews.com/epochtv/live-trump-receives-zelenskyy-at-the-white-house-5817950)
+632 - <a href='https://www.google.com/search?q=Designer+Eric+Javits+Reveals+How+Melania+Trump%E2%80%99s+Viral+Inauguration+Hat+Came+to+Be' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/article/designer-eric-javits-reveals-how-melania-trumps-viral-inauguration-hat-came-to-be-5805800' target='_blank' rel='noopener noreferrer'>Designer Eric Javits Reveals How Melania Trump’s Viral Inauguration Hat Came to Be</a>
 
-[Money • Finance • Economy](https://12ft.io/https://apnews.com/markets)
+633 - <a href='https://www.google.com/search?q=Nate+McClellan+Offers+a+Comedy+Club+for+All' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/nate-mcclellan-offers-a-comedy-club-for-all-5815935' target='_blank' rel='noopener noreferrer'>Nate McClellan Offers a Comedy Club for All</a>
 
-[USPS Address Change Policy: What You Need to Know](https://12ft.io/https://apnews.com/bright/usps-address-change-policy-what-you-need-to-know-5818378)
+634 - <a href='https://www.google.com/search?q=Epoch+Booklist%3A+Recommended+Reading+for+Feb.+28%E2%80%93March+6' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/epoch-booklist-recommended-reading-for-feb-28-march-6-post-5812919' target='_blank' rel='noopener noreferrer'>Epoch Booklist: Recommended Reading for Feb. 28–March 6</a>
 
-[Big Fines Coming for US Export Violations, Says Ex-commerce Official, as China Sales Probed](https://12ft.io/https://apnews.com/business/big-fines-coming-for-us-export-violations-says-ex-commerce-official-as-china-sales-probed-5818120)
+635 - <a href='https://www.google.com/search?q=Taking+the+Kids%3A+To+Snowy+Climes+for+Fun+Off+the+Slopes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/taking-the-kids-to-snowy-climes-for-fun-off-the-slopes-5817751' target='_blank' rel='noopener noreferrer'>Taking the Kids: To Snowy Climes for Fun Off the Slopes</a>
 
-[How Major US Stock Indexes Fared Feb. 28](https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-28-post-5818255)
+636 - <a href='https://www.google.com/search?q=The+Surprising+Benefits+of+Walking' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/the-surprising-benefits-of-walking-5815686' target='_blank' rel='noopener noreferrer'>The Surprising Benefits of Walking</a>
 
-[Unlocking Your Retirement Potential: A Deep Dive Into Life Insurance Retirement Plans](https://12ft.io/https://apnews.com/bright/unlocking-your-retirement-potential-a-deep-dive-into-life-insurance-retirement-plans-5817968)
+637 - <a href='https://www.google.com/search?q=9+Unique+Places+to+Get+Married+in+Las+Vegas' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/9-unique-places-to-get-married-in-las-vegas-5815908' target='_blank' rel='noopener noreferrer'>9 Unique Places to Get Married in Las Vegas</a>
 
-[Online Banking Issues Hit Customers on Payday for 2nd Month in a Row](https://12ft.io/https://apnews.com/world/online-banking-issues-hit-customers-on-payday-for-2nd-month-in-a-row-5817899)
+638 - <a href='https://www.google.com/search?q=A+Street+Corner+of+Historical+Import+in+Old+Town+Alexandria%2C+Va.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/a-street-corner-of-historical-import-in-old-town-alexandria-va-5816752' target='_blank' rel='noopener noreferrer'>A Street Corner of Historical Import in Old Town Alexandria, Va.</a>
 
-[How Major US Stock Indexes Fared Feb. 27](https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-27-post-5817673)
+639 - <a href='https://www.google.com/search?q=%E2%80%98The+Game+of+Their+Lives%E2%80%99%3A+The+US+Soccer+Team+Creates+History' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/the-game-of-their-lives-the-us-soccer-team-creates-history-5815292' target='_blank' rel='noopener noreferrer'>‘The Game of Their Lives’: The US Soccer Team Creates History</a>
 
-[How Major US Stock Indexes Fared Feb. 26](https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-26-post-5816995)
+640 - <a href='https://www.google.com/search?q=Marguerite+Harrison%3A+The+Socialite+Spy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/bright/marguerite-harrison-the-socialite-spy-5814979' target='_blank' rel='noopener noreferrer'>Marguerite Harrison: The Socialite Spy</a>
 
-[Why Aren’t Chicken Meat Prices Rising Like Egg Prices?](https://12ft.io/https://apnews.com/business/why-arent-chicken-meat-prices-rising-like-egg-prices-5816824)
+641 - <a href='https://www.google.com/search?q=Michigan+Mother+Asks+Judge+to+Declare+3+Missing+Sons+Dead+Nearly+15+Years+Later' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/michigan-mother-asks-judge-to-declare-3-missing-sons-dead-nearly-15-years-later-5818979' target='_blank' rel='noopener noreferrer'>Michigan Mother Asks Judge to Declare 3 Missing Sons Dead Nearly 15 Years Later</a>
 
-[Stocks Sell Off on Inflation Fears, Weaker Spending Ahead of Nvidia’s Earnings](https://12ft.io/https://apnews.com/business/stocks-sell-off-on-inflation-fears-weaker-spending-ahead-of-nvidias-earnings-5814583)
+642 - <a href='https://www.google.com/search?q=Alabama+Governor+Commutes+Death+Row+Inmate+Rocky+Myers%E2%80%99+Sentence+to+Life+in+Prison' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/alabama-governor-commutes-death-row-inmate-rocky-myers-sentence-to-life-in-prison-5818395' target='_blank' rel='noopener noreferrer'>Alabama Governor Commutes Death Row Inmate Rocky Myers’ Sentence to Life in Prison</a>
 
-[Texas Wide Receiver at Combine Says He'll Break the NFL 40-Yard Dash Record](https://12ft.io/https://apnews.com/sports/texas-wide-receiver-at-combine-says-hell-break-the-nfl-40-yard-dash-record-5818312)
+643 - <a href='https://www.google.com/search?q=Illinois+Landlord+Convicted+in+Hate+Crime+Murder+of+6-Year-Old+Palestinian+Boy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/illinois-landlord-convicted-in-hate-crime-murder-of-6-year-old-palestinian-boy-5818372' target='_blank' rel='noopener noreferrer'>Illinois Landlord Convicted in Hate Crime Murder of 6-Year-Old Palestinian Boy</a>
 
-[2025 NFL Mock Draft: Titans Pick Game-Changing Pass Rusher First](https://12ft.io/https://apnews.com/sports/2025-nfl-mock-draft-titans-pick-game-changing-pass-rusher-first-5817579)
+644 - <a href='https://www.google.com/search?q=US+Drug+Overdose+Deaths+Dropped+24+Percent+in+September+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/us-drug-overdose-deaths-drop-24-percent-cdc-estimates-show-5817402' target='_blank' rel='noopener noreferrer'>US Drug Overdose Deaths Dropped 24 Percent in September 2024</a>
 
-[Mark Mowers Relays Road Challenges as NHL Scout](https://12ft.io/https://apnews.com/sports/mark-mowers-relays-road-challenges-as-nhl-scout-5817219)
+645 - <a href='https://www.google.com/search?q=AG+Pam+Bondi+Warns+3+States+Over+Transgender+Sports+Rules' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/ag-pam-bondi-warns-3-states-over-transgender-sports-rules-5817257' target='_blank' rel='noopener noreferrer'>AG Pam Bondi Warns 3 States Over Transgender Sports Rules</a>
 
-[Texas Wide Receiver at Combine Says He'll Break the NFL 40-Yard Dash Record](https://12ft.io/https://apnews.com/sports/texas-wide-receiver-at-combine-says-hell-break-the-nfl-40-yard-dash-record-5818312)
+646 - <a href='https://www.google.com/search?q=Supreme+Court+Leans+in+Favor+of+Ohio+State+Employee+Claiming+Demotion+Because+She%E2%80%99s+Straight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/supreme-court-leans-in-favor-of-ohio-state-employee-claiming-demotion-because-shes-straight-5816540' target='_blank' rel='noopener noreferrer'>Supreme Court Leans in Favor of Ohio State Employee Claiming Demotion Because She’s Straight</a>
 
-[2025 NFL Mock Draft: Titans Pick Game-Changing Pass Rusher First](https://12ft.io/https://apnews.com/sports/2025-nfl-mock-draft-titans-pick-game-changing-pass-rusher-first-5817579)
+647 - <a href='https://www.google.com/search?q=1+in+7+Pending+Home+Sales+Canceled+in+January%2C+Brokerage+Finds' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/1-in-7-pending-home-sales-canceled-in-january-brokerage-finds-5818635' target='_blank' rel='noopener noreferrer'>1 in 7 Pending Home Sales Canceled in January, Brokerage Finds</a>
 
-[Mark Mowers Relays Road Challenges as NHL Scout](https://12ft.io/https://apnews.com/sports/mark-mowers-relays-road-challenges-as-nhl-scout-5817219)
+648 - <a href='https://www.google.com/search?q=HUD+Terminates+Obama-Era+Housing+Rule' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/hud-terminates-obama-era-housing-rule-5818636' target='_blank' rel='noopener noreferrer'>HUD Terminates Obama-Era Housing Rule</a>
 
-[Gene Hackman’s Wife Had No Contact With Mother for Months Before Couple Found Dead](https://12ft.io/https://apnews.com/entertainment/gene-hackmans-wife-had-no-contact-with-mother-for-months-before-couple-found-dead-5818446)
+649 - <a href='https://www.google.com/search?q=Stocks+End+Volatile+Week+Mixed+on+Tariffs%2C+Stagflation+Concerns%2C+Tech+Earnings' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/business/stocks-end-volatile-week-mixed-on-tariffs-stagflation-concerns-tech-earnings-5818402' target='_blank' rel='noopener noreferrer'>Stocks End Volatile Week Mixed on Tariffs, Stagflation Concerns, Tech Earnings</a>
 
-[LA Cop Turned Bestselling Author, Joseph Wambaugh, Dies at 88](https://12ft.io/https://apnews.com/entertainment/la-cop-turned-bestselling-author-joseph-wambaugh-dies-at-88-post-5818412)
+650 - <a href='https://www.google.com/search?q=Around+3%2C000+More+US+Troops+Deploying+to+Southern+Border' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/around-3000-more-us-troops-deploying-to-southern-border-5818441' target='_blank' rel='noopener noreferrer'>Around 3,000 More US Troops Deploying to Southern Border</a>
 
-[New Documentary Chronicles the Battle Veterans Face Returning Home From Combat](https://12ft.io/https://apnews.com/entertainment/new-documentary-chronicles-the-battle-veterans-face-returning-home-from-combat-5817688)
+651 - <a href='https://www.google.com/search?q=Canadian+Man+Linked+to+Ex-Olympian%E2%80%99s+Alleged+Drug+Ring+Extradited+From+Mexico+to+US' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/world/canadian-man-linked-to-ex-olympian-accused-of-running-drug-ring-extradited-from-mexico-to-us-5818214' target='_blank' rel='noopener noreferrer'>Canadian Man Linked to Ex-Olympian’s Alleged Drug Ring Extradited From Mexico to US</a>
 
-[Gabrielle Union Shares Husband and Retired NBA Star Dwyane Wade Is Cancer-Free](https://12ft.io/https://apnews.com/entertainment/gabrielle-union-shares-husband-and-retired-nba-star-dwyane-wade-is-cancer-free-5818181)
+652 - <a href='https://www.google.com/search?q=Former+Pentagon+Chiefs+Demand+Congressional+Hearings+on+Trump%E2%80%99s+Removal+of+Top+Military+Leader' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/former-pentagon-chiefs-demand-congressional-hearings-on-trumps-removal-of-top-military-leader-5817953' target='_blank' rel='noopener noreferrer'>Former Pentagon Chiefs Demand Congressional Hearings on Trump’s Removal of Top Military Leader</a>
 
-[Gene Hackman’s Wife Had No Contact With Mother for Months Before Couple Found Dead](https://12ft.io/https://apnews.com/entertainment/gene-hackmans-wife-had-no-contact-with-mother-for-months-before-couple-found-dead-5818446)
+653 - <a href='https://www.google.com/search?q=Oregon+Resumes+Automatic+Voter+Registrations+After+Errors+Registered+Noncitizens' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/oregon-resumes-automatic-voter-registrations-after-errors-registered-noncitizens-5817864' target='_blank' rel='noopener noreferrer'>Oregon Resumes Automatic Voter Registrations After Errors Registered Noncitizens</a>
 
-[LA Cop Turned Bestselling Author, Joseph Wambaugh, Dies at 88](https://12ft.io/https://apnews.com/entertainment/la-cop-turned-bestselling-author-joseph-wambaugh-dies-at-88-post-5818412)
+654 - <a href='https://www.google.com/search?q=Bridgeport+Councilman+Arrested+in+2023+Ballot+Fraud+Case+Says+He+Was+Innocent+and+Following+Democratic+Party%E2%80%99s+Orders' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/bridgeport-councilman-arrested-in-2023-ballot-fraud-case-says-he-was-innocent-and-following-democratic-partys-orders-5814856' target='_blank' rel='noopener noreferrer'>Bridgeport Councilman Arrested in 2023 Ballot Fraud Case Says He Was Innocent and Following Democratic Party’s Orders</a>
 
-[New Documentary Chronicles the Battle Veterans Face Returning Home From Combat](https://12ft.io/https://apnews.com/entertainment/new-documentary-chronicles-the-battle-veterans-face-returning-home-from-combat-5817688)
+655 - <a href='https://www.google.com/search?q=Arizona+Governor+Vetoes+Bill+to+Expedite+Ballot+Counting+in+Swing+State' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/arizona-governor-vetoes-bill-to-expedite-ballot-counting-in-swing-state-5812569' target='_blank' rel='noopener noreferrer'>Arizona Governor Vetoes Bill to Expedite Ballot Counting in Swing State</a>
 
-[Gabrielle Union Shares Husband and Retired NBA Star Dwyane Wade Is Cancer-Free](https://12ft.io/https://apnews.com/entertainment/gabrielle-union-shares-husband-and-retired-nba-star-dwyane-wade-is-cancer-free-5818181)
+656 - <a href='https://www.google.com/search?q=Supreme+Court+Declines+to+Hear+Challenge+to+Campus+Speech+Authorities%3B+Justice+Thomas+Dissents' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/supreme-court-declines-to-hear-challenge-to-campus-speech-authorities-justice-thomas-dissents-5816539' target='_blank' rel='noopener noreferrer'>Supreme Court Declines to Hear Challenge to Campus Speech Authorities; Justice Thomas Dissents</a>
 
-[The Role of Vitamin A in Measles Management](https://12ft.io/https://apnews.com/health/the-role-of-vitamin-a-supplementation-in-measles-5818084)
+657 - <a href='https://www.google.com/search?q=Gun+Owners+Take+DC+Magazine+Restrictions+to+Supreme+Court' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/gun-owners-take-dc-magazine-restrictions-to-supreme-court-5818122' target='_blank' rel='noopener noreferrer'>Gun Owners Take DC Magazine Restrictions to Supreme Court</a>
 
-[Atrial Fibrillation: Common Heart Condition With 10 Symptoms to Watch For](https://12ft.io/https://apnews.com/health/atrial-fibrillation-symptoms-causes-treatments-and-natural-approaches-5813030)
+658 - <a href='https://www.google.com/search?q=Supreme+Court+Will+Not+Review+Ruling+Limiting+Pro-Life+Counseling+Outside+Abortion+Clinics' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/supreme-court-wont-review-ruling-limiting-pro-life-counseling-outside-abortion-clinics-5814383' target='_blank' rel='noopener noreferrer'>Supreme Court Will Not Review Ruling Limiting Pro-Life Counseling Outside Abortion Clinics</a>
 
-[How to Harness Vagus Nerve Power to Counter Common Autoimmune Diseases](https://12ft.io/https://apnews.com/health/how-to-harness-vagus-nerve-power-to-counter-common-autoimmune-diseases-5773246)
+659 - <a href='https://www.google.com/search?q=Grammy-Nominated+Singer+Angie+Stone+Dies+in+Car+Crash' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/grammy-nominated-singer-angie-stone-dies-in-car-crash-5818633' target='_blank' rel='noopener noreferrer'>Grammy-Nominated Singer Angie Stone Dies in Car Crash</a>
 
-[Stimulating the Vagus Nerve Could Slow Cognitive Decline–Here’s How](https://12ft.io/https://apnews.com/health/stimulating-the-vagus-nerve-could-slow-cognitive-decline-heres-how-5770503)
+660 - <a href='https://www.google.com/search?q=Harrison+Ford+No+Longer+Presenting+at+the+2025+Oscars+Due+to+Shingles+Diagnosis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/harrison-ford-no-longer-presenting-at-the-2025-oscars-due-to-shingles-diagnosis-5818711' target='_blank' rel='noopener noreferrer'>Harrison Ford No Longer Presenting at the 2025 Oscars Due to Shingles Diagnosis</a>
 
-[The Role of Vitamin A in Measles Management](https://12ft.io/https://apnews.com/health/the-role-of-vitamin-a-supplementation-in-measles-5818084)
+661 - <a href='https://www.google.com/search?q=Gene+Hackman%E2%80%99s+Wife+Had+No+Contact+With+Mother+for+Months+Before+Couple+Found+Dead' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/entertainment/gene-hackmans-wife-had-no-contact-with-mother-for-months-before-couple-found-dead-5818446' target='_blank' rel='noopener noreferrer'>Gene Hackman’s Wife Had No Contact With Mother for Months Before Couple Found Dead</a>
 
-[Atrial Fibrillation: Common Heart Condition With 10 Symptoms to Watch For](https://12ft.io/https://apnews.com/health/atrial-fibrillation-symptoms-causes-treatments-and-natural-approaches-5813030)
+662 - <a href='https://www.google.com/search?q=New+York+University+Removes+Palestinian+Studies+Job+Listing+After+Governor%E2%80%99s+Demand' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/new-york-university-removes-palestinian-studies-job-listing-after-governors-demand-5818401' target='_blank' rel='noopener noreferrer'>New York University Removes Palestinian Studies Job Listing After Governor’s Demand</a>
 
-[How to Harness Vagus Nerve Power to Counter Common Autoimmune Diseases](https://12ft.io/https://apnews.com/health/how-to-harness-vagus-nerve-power-to-counter-common-autoimmune-diseases-5773246)
+663 - <a href='https://www.google.com/search?q=Oklahoma+School+District+Mismanaged+Millions+of+Dollars%2C+Audit+Finds' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/oklahoma-school-district-mismanaged-millions-of-dollars-audit-finds-5818304' target='_blank' rel='noopener noreferrer'>Oklahoma School District Mismanaged Millions of Dollars, Audit Finds</a>
 
-[Stimulating the Vagus Nerve Could Slow Cognitive Decline–Here’s How](https://12ft.io/https://apnews.com/health/stimulating-the-vagus-nerve-could-slow-cognitive-decline-heres-how-5770503)
+664 - <a href='https://www.google.com/search?q=Education+Department+Opens+%E2%80%98End+DEI%E2%80%99+Whistleblower+Portal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/us/education-department-opens-end-dei-whistleblower-portal-5817970' target='_blank' rel='noopener noreferrer'>Education Department Opens ‘End DEI’ Whistleblower Portal</a>
 
-[‘The Flame of New Orleans’: Scandal on the Mississippi](https://12ft.io/https://apnews.com/bright/the-flame-of-new-orleans-scandal-on-the-mississippi-5816650)
+665 - <a href='https://www.google.com/search?q=Unbridled+Evil%3A+The+Corrupt+Reign+of+Jiang+Zemin+in+China' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/jiang-zemin-story' target='_blank' rel='noopener noreferrer'>Unbridled Evil: The Corrupt Reign of Jiang Zemin in China</a>
 
-[Kings, Puritans, and a Rector’s Vision for Business](https://12ft.io/https://apnews.com/bright/kings-puritans-and-a-rectors-vision-for-business-5816632)
+666 - <a href='https://www.google.com/search?q=Fox+Business+News%2C+Stock+Quotes%2C+Investment+and+Savings+News' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com' target='_blank' rel='noopener noreferrer'>Fox Business News, Stock Quotes, Investment and Savings News</a>
 
-[‘Joseph and the Amazing Technicolor Dreamcoat’](https://12ft.io/https://apnews.com/bright/joseph-and-the-amazing-technicolor-dreamcoat-5817969)
+667 - <a href='https://www.google.com/search?q=Making+Money+with+Charles+Payne' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//video.foxnews.com/' target='_blank' rel='noopener noreferrer'>Making Money with Charles Payne</a>
 
-[A Street Corner of Historical Import in Old Town Alexandria, Va.](https://12ft.io/https://apnews.com/bright/a-street-corner-of-historical-import-in-old-town-alexandria-va-5816752)
+668 - <a href='https://www.google.com/search?q=LARRY+KUDLOW%3A+Trump%27s+offer+was+the+best+security+tripwire+Ukraine+could+hope+for' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/larry-kudlow-trumps-offer-best-security-tripwire-ukraine-could-hope' target='_blank' rel='noopener noreferrer'>LARRY KUDLOW: Trump's offer was the best security tripwire Ukraine could hope for</a>
 
-[‘The Flame of New Orleans’: Scandal on the Mississippi](https://12ft.io/https://apnews.com/bright/the-flame-of-new-orleans-scandal-on-the-mississippi-5816650)
+669 - <a href='https://www.google.com/search?q=Dow+falls+649+points%2C+S%26P%2C+Nasdaq+slide+on+tariff+fears' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/dow-falls-649-points-sp-nasdaq-slide-tariff-fears' target='_blank' rel='noopener noreferrer'>Dow falls 649 points, S&P, Nasdaq slide on tariff fears</a>
 
-[Kings, Puritans, and a Rector’s Vision for Business](https://12ft.io/https://apnews.com/bright/kings-puritans-and-a-rectors-vision-for-business-5816632)
+670 - <a href='https://www.google.com/search?q=Billionaire+hedge+fund+manager+warns+of+%27economic+heart+attack%27+for+US+economy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/billionaire-hedge-fund-manager-warns-economic-heart-attack-us-economy' target='_blank' rel='noopener noreferrer'>Billionaire hedge fund manager warns of 'economic heart attack' for US economy</a>
 
-[‘Joseph and the Amazing Technicolor Dreamcoat’](https://12ft.io/https://apnews.com/bright/joseph-and-the-amazing-technicolor-dreamcoat-5817969)
+671 - <a href='https://www.google.com/search?q=Trump+says+tariffs+on+%27external%27+agricultural+products+to+begin+April+2' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/trump-says-tariffs-external-agricultural-products-begin-april-2' target='_blank' rel='noopener noreferrer'>Trump says tariffs on 'external' agricultural products to begin April 2</a>
 
-[‘The Game of Their Lives’: The US Soccer Team Creates History](https://12ft.io/https://apnews.com/bright/the-game-of-their-lives-the-us-soccer-team-creates-history-5815292)
+672 - <a href='https://www.google.com/search?q=Nationwide+egg+shortage+has+shoppers+turning+to+Facebook+Marketplace' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/nationwide-egg-shortage-has-shoppers-turning-facebook-marketplace' target='_blank' rel='noopener noreferrer'>Nationwide egg shortage has shoppers turning to Facebook Marketplace</a>
 
-[Marguerite Harrison: The Socialite Spy](https://12ft.io/https://apnews.com/bright/marguerite-harrison-the-socialite-spy-5814979)
+673 - <a href='https://www.google.com/search?q=Farmers+react+to+Trump%27s+plan+to+combat+egg+crisis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/farmers-react-trumps-plan-combat-egg-crisis' target='_blank' rel='noopener noreferrer'>Farmers react to Trump's plan to combat egg crisis</a>
 
-[Special Delivery: An 1880s Flag Made Its Way to 1940s Japan](https://12ft.io/https://apnews.com/bright/special-delivery-an-1880s-flag-made-its-way-to-1940s-japan-5815608)
+674 - <a href='https://www.google.com/search?q=Trump+praises+Treasury+Department%27s+move+to+suspend+enforcement+of+BOI+requirements' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/small-business/trump-praises-treasury-departments-move-suspend-enforcement-boi-requirements' target='_blank' rel='noopener noreferrer'>Trump praises Treasury Department's move to suspend enforcement of BOI requirements</a>
 
-[Times Square Is Now a Dining Destination. Here’s Why and Where to Eat](https://12ft.io/https://apnews.com/bright/times-square-is-now-a-dining-destination-heres-why-and-where-to-eat-5817799)
+675 - <a href='https://www.google.com/search?q=CEO+behind+DOGE+dividend+details+Trump-backed+plan+to+%27pay+restitution+to+the+taxpayer%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/ceo-behind-doge-dividend-details-trump-backed-plan-pay-restitution-taxpayer' target='_blank' rel='noopener noreferrer'>CEO behind DOGE dividend details Trump-backed plan to 'pay restitution to the taxpayer'</a>
 
-[4 Easy Baked Pasta Recipes to Keep You Cozy](https://12ft.io/https://apnews.com/bright/4-easy-baked-pasta-recipes-to-keep-you-cozy-5817176)
+676 - <a href='https://www.google.com/search?q=Social+Security+payments+to+increase+for+public+pension+recipients' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/social-security-payments-increase-public-pension-recipients' target='_blank' rel='noopener noreferrer'>Social Security payments to increase for public pension recipients</a>
 
-[Spicy Beef, Potato, and Cheese Hand Pies Offer Delicious Versatility](https://12ft.io/https://apnews.com/bright/spicy-beef-potato-and-cheese-hand-pies-offer-delicious-versatility-5817168)
+677 - <a href='https://www.google.com/search?q=401%28k%29+balances+hit+second+highest+on+record%3A+Fidelity' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity' target='_blank' rel='noopener noreferrer'>401(k) balances hit second highest on record: Fidelity</a>
 
-[Smoked Sweet Potato and Lentil Stew](https://12ft.io/https://apnews.com/bright/smoked-sweet-potato-and-lentil-stew-5817771)
+678 - <a href='https://www.google.com/search?q=Massive+power+outage+at+BWI+airport+impacts+thousands+of+passengers+with+extensive+delays' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/massive-power-outage-bwi-airport-impacts-thousands-passengers-extensive-delays' target='_blank' rel='noopener noreferrer'>Massive power outage at BWI airport impacts thousands of passengers with extensive delays</a>
 
-[Times Square Is Now a Dining Destination. Here’s Why and Where to Eat](https://12ft.io/https://apnews.com/bright/times-square-is-now-a-dining-destination-heres-why-and-where-to-eat-5817799)
+679 - <a href='https://www.google.com/search?q=Domino%27s+Pizza+debuts+stuffed+crust+in+effort+to+boost+sales' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/dominos-pizza-debuts-stuffed-crust-effort-boost-sales' target='_blank' rel='noopener noreferrer'>Domino's Pizza debuts stuffed crust in effort to boost sales</a>
 
-[4 Easy Baked Pasta Recipes to Keep You Cozy](https://12ft.io/https://apnews.com/bright/4-easy-baked-pasta-recipes-to-keep-you-cozy-5817176)
+680 - <a href='https://www.google.com/search?q=Palm+Beach%2C+the+Wall+Street+of+the+South+has+a+hot+luxury+real+estate+market' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/palm-beach-wall-street-south-has-hot-luxury-real-estate-market' target='_blank' rel='noopener noreferrer'>Palm Beach, the Wall Street of the South has a hot luxury real estate market</a>
 
-[Spicy Beef, Potato, and Cheese Hand Pies Offer Delicious Versatility](https://12ft.io/https://apnews.com/bright/spicy-beef-potato-and-cheese-hand-pies-offer-delicious-versatility-5817168)
+681 - <a href='https://www.google.com/search?q=Under+Armour+CEO+selling+%2422+million+Maryland+horse+farm' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/under-armour-ceo-selling-22-million-maryland-horse-farm' target='_blank' rel='noopener noreferrer'>Under Armour CEO selling $22 million Maryland horse farm</a>
 
-[Smoked Sweet Potato and Lentil Stew](https://12ft.io/https://apnews.com/bright/smoked-sweet-potato-and-lentil-stew-5817771)
+682 - <a href='https://www.google.com/search?q=Gene+Hackman%2C+wife+found+dead+at+Santa+Fe+estate%3A+What+to+know+about+the+property' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/gene-hackman-wife-found-dead-santa-fe-estate-what-know-about-property' target='_blank' rel='noopener noreferrer'>Gene Hackman, wife found dead at Santa Fe estate: What to know about the property</a>
 
-[Unleash Your Creativity: A Guide to Customizing Upholstery Furniture](https://12ft.io/https://apnews.com/bright/unleash-your-creativity-a-guide-to-customizing-upholstery-furniture-5817806)
+683 - <a href='https://www.google.com/search?q=First-ever+AI+real+estate+agent+generates+%24100M+in+sales+in+Portugal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/first-ever-ai-real-estate-agent-generates-100m-sales-portugal' target='_blank' rel='noopener noreferrer'>First-ever AI real estate agent generates $100M in sales in Portugal</a>
 
-[Ask Angi: What Do I Need to Know About Asbestos?](https://12ft.io/https://apnews.com/bright/ask-angi-what-do-i-need-to-know-about-asbestos-5817797)
+684 - <a href='https://www.google.com/search?q=These+housing+markets+were+the+hottest+in+January%2C+according+to+Realtor.com' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/housing-markets-were-hottest-january-according-realtor-com' target='_blank' rel='noopener noreferrer'>These housing markets were the hottest in January, according to Realtor.com</a>
 
-[Designer Eric Javits Reveals How Melania Trump’s Viral Inauguration Hat Came to Be](https://12ft.io/https://apnews.com/article/designer-eric-javits-reveals-how-melania-trumps-viral-inauguration-hat-came-to-be-5805800)
+685 - <a href='https://www.google.com/search?q=Dave+Portnoy+blasts+self-checkout+tip+kiosks+over+gratuity+guilt%3A+%E2%80%98I+don%E2%80%99t+do+it+to+be+a+nice+guy%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/money/dave-portnoy-blasts-self-checkout-tip-kiosks-over-gratuity-guilt-dont-nice-guy' target='_blank' rel='noopener noreferrer'>Dave Portnoy blasts self-checkout tip kiosks over gratuity guilt: ‘I don’t do it to be a nice guy’</a>
 
-[‘49th Parallel’: Canada Confronts the Nazis](https://12ft.io/https://apnews.com/bright/49th-parallel-canada-confronts-the-nazis-5813399)
+686 - <a href='https://www.google.com/search?q=Morgan+Wallen%E2%80%99s+chart-domination+strategy%3F+Really+long+albums' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/morgan-wallens-chart-domination-strategy-really-long-albums' target='_blank' rel='noopener noreferrer'>Morgan Wallen’s chart-domination strategy? Really long albums</a>
 
-[Epoch Booklist: Recommended Reading for Feb. 28–March 6](https://12ft.io/https://apnews.com/bright/epoch-booklist-recommended-reading-for-feb-28-march-6-post-5812919)
+687 - <a href='https://www.google.com/search?q=Bed+Bath+%26+Beyond+interim+CEO+to+stay+in+post+for+at+least+a+year+-+source' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/retail/bed-bath-beyond-interim-ceo-stay-at-least-year' target='_blank' rel='noopener noreferrer'>Bed Bath & Beyond interim CEO to stay in post for at least a year - source</a>
 
-[Unleash Your Creativity: A Guide to Customizing Upholstery Furniture](https://12ft.io/https://apnews.com/bright/unleash-your-creativity-a-guide-to-customizing-upholstery-furniture-5817806)
+688 - <a href='https://www.google.com/search?q=ViacomCBS+chief+Bakish+blocked+again+from+major+media+mogul+meeting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/viacomcbs-chief-bakish-blocked-again-from-major-media-mogul-meeting' target='_blank' rel='noopener noreferrer'>ViacomCBS chief Bakish blocked again from major media mogul meeting</a>
 
-[Ask Angi: What Do I Need to Know About Asbestos?](https://12ft.io/https://apnews.com/bright/ask-angi-what-do-i-need-to-know-about-asbestos-5817797)
+689 - <a href='https://www.google.com/search?q=NYC%2C+Nuveen+strike+out+with+Yankees+over+new+soccer+stadium+and+hotel%2Fretail+development' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/nyc-nuveen-strike-out-with-yankees-over-new-soccer-stadium-and-hotel-retail-development' target='_blank' rel='noopener noreferrer'>NYC, Nuveen strike out with Yankees over new soccer stadium and hotel/retail development</a>
 
-[Designer Eric Javits Reveals How Melania Trump’s Viral Inauguration Hat Came to Be](https://12ft.io/https://apnews.com/article/designer-eric-javits-reveals-how-melania-trumps-viral-inauguration-hat-came-to-be-5805800)
+690 - <a href='https://www.google.com/search?q=Chip+giant+TSMC+to+invest+%24100B+in+US+manufacturing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/chip-giant-tsmc-invest-100b-us-manufacturing' target='_blank' rel='noopener noreferrer'>Chip giant TSMC to invest $100B in US manufacturing</a>
 
-[‘49th Parallel’: Canada Confronts the Nazis](https://12ft.io/https://apnews.com/bright/49th-parallel-canada-confronts-the-nazis-5813399)
+691 - <a href='https://www.google.com/search?q=Baby+No.+14%3A+Neuralink+Director+Shivon+Zilis%2C+Elon+Musk+welcome+fourth+child+together' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/business-leaders/baby-14-neuralink-director-shivon-zilis-elon-musk-welcome-fourth-child-together' target='_blank' rel='noopener noreferrer'>Baby No. 14: Neuralink Director Shivon Zilis, Elon Musk welcome fourth child together</a>
 
-[Epoch Booklist: Recommended Reading for Feb. 28–March 6](https://12ft.io/https://apnews.com/bright/epoch-booklist-recommended-reading-for-feb-28-march-6-post-5812919)
+692 - <a href='https://www.google.com/search?q=Thousands+of+Microsoft+customers+affected+by+large-scale+outage' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/thousands-microsoft-customers-affected-large-scale-outage' target='_blank' rel='noopener noreferrer'>Thousands of Microsoft customers affected by large-scale outage</a>
 
-[Unleash Your Creativity: A Guide to Customizing Upholstery Furniture](https://12ft.io/https://apnews.com/bright/unleash-your-creativity-a-guide-to-customizing-upholstery-furniture-5817806)
+693 - <a href='https://www.google.com/search?q=Companies+are+building+robots+to+combat+the+loneliness+epidemic+and+bring+emotional+support' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/companies-building-robots-combat-loneliness-epidemic-bring-emotional-support' target='_blank' rel='noopener noreferrer'>Companies are building robots to combat the loneliness epidemic and bring emotional support</a>
 
-[Ask Angi: What Do I Need to Know About Asbestos?](https://12ft.io/https://apnews.com/bright/ask-angi-what-do-i-need-to-know-about-asbestos-5817797)
+694 - <a href='https://www.google.com/search?q=Nvidia+CEO+Jensen+Huang+says+everyone+is+%27racing%27+to+adopt+AI+technology' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/nvidia-ceo-jensen-huang-says-everyone-racing-adopt-ai-technology' target='_blank' rel='noopener noreferrer'>Nvidia CEO Jensen Huang says everyone is 'racing' to adopt AI technology</a>
 
-[Designer Eric Javits Reveals How Melania Trump’s Viral Inauguration Hat Came to Be](https://12ft.io/https://apnews.com/article/designer-eric-javits-reveals-how-melania-trumps-viral-inauguration-hat-came-to-be-5805800)
+695 - <a href='https://www.google.com/search?q=Floyd+Mayweather+praises+Trump+as+the+%27best+president%27+and+a+%27great+businessman%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/floyd-mayweather-praises-trump-being-best-president-great-businessman' target='_blank' rel='noopener noreferrer'>Floyd Mayweather praises Trump as the 'best president' and a 'great businessman'</a>
 
-[‘49th Parallel’: Canada Confronts the Nazis](https://12ft.io/https://apnews.com/bright/49th-parallel-canada-confronts-the-nazis-5813399)
+696 - <a href='https://www.google.com/search?q=Renowned+Japanese+artist+Takashi+Murakami+teams+up+with+MLB+for+rare+Tokyo+Series+collection' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/renowned-japanese-artist-takashi-murakami-teams-up-mlb-rare-tokyo-series-collection' target='_blank' rel='noopener noreferrer'>Renowned Japanese artist Takashi Murakami teams up with MLB for rare Tokyo Series collection</a>
 
-[Epoch Booklist: Recommended Reading for Feb. 28–March 6](https://12ft.io/https://apnews.com/bright/epoch-booklist-recommended-reading-for-feb-28-march-6-post-5812919)
+697 - <a href='https://www.google.com/search?q=NASCAR+star+William+Byron+fuels+up+with+CELSIUS' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/nascar-star-william-byron-fuels-up-celsius' target='_blank' rel='noopener noreferrer'>NASCAR star William Byron fuels up with CELSIUS</a>
 
-[Taking the Kids: To Snowy Climes for Fun Off the Slopes](https://12ft.io/https://apnews.com/bright/taking-the-kids-to-snowy-climes-for-fun-off-the-slopes-5817751)
+698 - <a href='https://www.google.com/search?q=US-Canada+4+Nations+final+ticket+prices+hit+eye-popping+marks+before+puck+drops' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/us-canada-4-nations-final-ticket-prices-hit-eye-popping-marks-before-puck-drops' target='_blank' rel='noopener noreferrer'>US-Canada 4 Nations final ticket prices hit eye-popping marks before puck drops</a>
 
-[The Surprising Benefits of Walking](https://12ft.io/https://apnews.com/bright/the-surprising-benefits-of-walking-5815686)
+699 - <a href='https://www.google.com/search?q=Elon+Musk+hints+new+Grok+AI+could+beat+Warren+Buffett%27s+March+Madness+bracket+challenge' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/elon-musk-hints-new-grok-ai-could-beat-warren-buffetts-march-madness-bracket-challenge' target='_blank' rel='noopener noreferrer'>Elon Musk hints new Grok AI could beat Warren Buffett's March Madness bracket challenge</a>
 
-[9 Unique Places to Get Married in Las Vegas](https://12ft.io/https://apnews.com/bright/9-unique-places-to-get-married-in-las-vegas-5815908)
+700 - <a href='https://www.google.com/search?q=A+majority+of+small+businesses+are+using+artificial+intelligence' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/small-business/majority-small-businesses-using-artificial-intelligence' target='_blank' rel='noopener noreferrer'>A majority of small businesses are using artificial intelligence</a>
 
-[Taking the Kids: To Snowy Climes for Fun Off the Slopes](https://12ft.io/https://apnews.com/bright/taking-the-kids-to-snowy-climes-for-fun-off-the-slopes-5817751)
+701 - <a href='https://www.google.com/search?q=Small+businesses+seeing+revenues+rise%2C+but+tariff+threats+loom' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/small-businesses-seeing-revenues-rise-tariff-threats-loom' target='_blank' rel='noopener noreferrer'>Small businesses seeing revenues rise, but tariff threats loom</a>
 
-[The Surprising Benefits of Walking](https://12ft.io/https://apnews.com/bright/the-surprising-benefits-of-walking-5815686)
+702 - <a href='https://www.google.com/search?q=SBA+administrator+rallies+workers+back+to+office+after+Musk+ignites+firestorm+with+federal+employees' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/sba-administrator-rallies-workers-back-to-office-after-musk-ignites-firestorm-federal-employees' target='_blank' rel='noopener noreferrer'>SBA administrator rallies workers back to office after Musk ignites firestorm with federal employees</a>
 
-[9 Unique Places to Get Married in Las Vegas](https://12ft.io/https://apnews.com/bright/9-unique-places-to-get-married-in-las-vegas-5815908)
+703 - <a href='https://www.google.com/search?q=Red+state+businesses+put+on+notice+if+they+intentionally+hire+illegal+immigrants%3A+%27Stiff+penalties%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/red-state-businesses-put-on-notice-intentionally-hire-illegal-immigrants-stiff-penalties' target='_blank' rel='noopener noreferrer'>Red state businesses put on notice if they intentionally hire illegal immigrants: 'Stiff penalties'</a>
 
-[‘The Game of Their Lives’: The US Soccer Team Creates History](https://12ft.io/https://apnews.com/bright/the-game-of-their-lives-the-us-soccer-team-creates-history-5815292)
+704 - <a href='https://www.google.com/search?q=Mortgage+rates+hit+a+two-month+low+this+week%2C+remain+under+7%25' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/mortgage-rates-hit-two-month-low' target='_blank' rel='noopener noreferrer'>Mortgage rates hit a two-month low this week, remain under 7%</a>
 
-[Marguerite Harrison: The Socialite Spy](https://12ft.io/https://apnews.com/bright/marguerite-harrison-the-socialite-spy-5814979)
+705 - <a href='https://www.google.com/search?q=Will+you+get+a+tax+refund+this+year%3F+Experts+have+ideas+on+how+to+use+the+money' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/you-get-tax-refund-year-experts-have-ideas-how-use-money' target='_blank' rel='noopener noreferrer'>Will you get a tax refund this year? Experts have ideas on how to use the money</a>
 
-[Special Delivery: An 1880s Flag Made Its Way to 1940s Japan](https://12ft.io/https://apnews.com/bright/special-delivery-an-1880s-flag-made-its-way-to-1940s-japan-5815608)
+706 - <a href='https://www.google.com/search?q=January+inflation+gives+Fed+more+reason+to+hold+on+interest+rate+cuts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/january-inflation-increases' target='_blank' rel='noopener noreferrer'>January inflation gives Fed more reason to hold on interest rate cuts</a>
 
-[Winter Wonderlands: 6 Best Places to Experience Nature](https://12ft.io/https://apnews.com/bright/winter-wonderlands-6-best-places-to-experience-nature-5776924)
+707 - <a href='https://www.google.com/search?q=Bill+Gates+weighs+in+on+new+Trump+administration%2C+Elon+Musk%27s+role' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/bill-gates-weighs-new-trump-administration-elon-musks-role' target='_blank' rel='noopener noreferrer'>Bill Gates weighs in on new Trump administration, Elon Musk's role</a>
 
-[A Naturopathic Doctor’s Tips for a Toxin-Free, Healthy Lifestyle That Will Keep Cognitive Decline at Bay](https://12ft.io/https://apnews.com/bright/a-naturopathic-doctors-tips-for-a-toxin-free-healthy-lifestyle-that-will-keep-cognitive-decline-at-bay-5777036)
+708 - <a href='https://www.google.com/search?q=Washington+DC+gets+%27Trump+Bump%27+in+luxury+home+market' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/washington-dc-gets-trump-bump-luxury-home-market' target='_blank' rel='noopener noreferrer'>Washington DC gets 'Trump Bump' in luxury home market</a>
 
-[The Search and Discovery of C-14, and the Revolution It Created](https://12ft.io/https://apnews.com/bright/the-search-and-discovery-of-c-14-and-the-revolution-it-created-5812398)
+709 - <a href='https://www.google.com/search?q=These+places+led+the+US+ultra-luxury+market+last+year%2C+according+to+Compass' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/these-places-led-us-ultra-luxury-market-last-year-according-compass' target='_blank' rel='noopener noreferrer'>These places led the US ultra-luxury market last year, according to Compass</a>
 
-[Tom Cotton’s ‘Seven Things You Can’t Say About China’](https://12ft.io/https://apnews.com/bright/tom-cottons-seven-things-you-cant-say-about-china-5814302)
+710 - <a href='https://www.google.com/search?q=You+can+be+a+neighbor+to+Donald+Trump+in+Palm+Beach+for+%2415+million' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/you-can-neighbor-donald-trump-palm-beach-15-million' target='_blank' rel='noopener noreferrer'>You can be a neighbor to Donald Trump in Palm Beach for $15 million</a>
 
-[Suspect Charged in Federal Court for Colorado Tesla Dealership Vandalism](https://12ft.io/https://apnews.com/us/suspect-charged-in-federal-court-for-colorado-tesla-dealership-vandalism-5817837)
+711 - <a href='https://www.google.com/search?q=These+were+the+most+expensive+homes+sold+in+2024%2C+according+to+Redfin' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/were-most-expensive-homes-sold-2024-according-redfin' target='_blank' rel='noopener noreferrer'>These were the most expensive homes sold in 2024, according to Redfin</a>
 
-[Appeals Court Throws Out Pending Charges for Men Convicted of Hiding Georgia Teacher’s Death](https://12ft.io/https://apnews.com/us/appeals-court-throws-out-pending-charges-for-men-convicted-of-hiding-georgia-teachers-death-5818232)
+712 - <a href='https://www.google.com/search?q=Fanatics+teams+up+with+Kevin+Durant%27s+sports+media+brand+to+help+athletes%27+post-retirement+business+careers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/fanatics-teams-up-sports-media-brand-help-athletes-post-retirement-business-careers' target='_blank' rel='noopener noreferrer'>Fanatics teams up with Kevin Durant's sports media brand to help athletes' post-retirement business careers</a>
 
-[IRS Warns Taxpayers to Watch Out for Common Scams Ahead of Deadline](https://12ft.io/https://apnews.com/us/irs-warns-taxpayers-to-watch-out-for-common-scams-ahead-of-deadline-5818047)
+713 - <a href='https://www.google.com/search?q=Popular+comedian+Matt+Rife+trades+glitzy+city+living+for+cozy+Rhode+Island+suburbs%3A+Here%E2%80%99s+why' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/popular-comedian-matt-rife-traded-glitzy-city-living-cozy-rhode-island-suburbs' target='_blank' rel='noopener noreferrer'>Popular comedian Matt Rife trades glitzy city living for cozy Rhode Island suburbs: Here’s why</a>
 
-[US Drug Overdose Deaths Dropped 24 Percent in September 2024](https://12ft.io/https://apnews.com/us/us-drug-overdose-deaths-drop-24-percent-cdc-estimates-show-5817402)
+714 - <a href='https://www.google.com/search?q=Dwayne+%E2%80%98The+Rock%E2%80%99+Johnson%2C+Mark+Wahlberg+bring+in+millions+with+celebrity+tequila+brands' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/dwayne-the-rock-johnson-mark-wahlberg-bring-millions-celebrity-tequila-brands' target='_blank' rel='noopener noreferrer'>Dwayne ‘The Rock’ Johnson, Mark Wahlberg bring in millions with celebrity tequila brands</a>
 
-[AG Pam Bondi Warns 3 States Over Transgender Sports Rules](https://12ft.io/https://apnews.com/us/ag-pam-bondi-warns-3-states-over-transgender-sports-rules-5817257)
+715 - <a href='https://www.google.com/search?q=2024+box+office+hits+and+misses%3A+%27Wicked%27+soars%2C+%27Madame+Web%27+flops' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/2024-box-office-hits-misses-wicked-soars-madame-web-flops' target='_blank' rel='noopener noreferrer'>2024 box office hits and misses: 'Wicked' soars, 'Madame Web' flops</a>
 
-[Supreme Court Leans in Favor of Ohio State Employee Claiming Demotion Because She’s Straight](https://12ft.io/https://apnews.com/us/supreme-court-leans-in-favor-of-ohio-state-employee-claiming-demotion-because-shes-straight-5816540)
+716 - <a href='https://www.google.com/search?q=Gigi+Hadid%2C+Bradley+Cooper+flock+to+Pennsylvania+town+turned+celebrity+haven%3A+expert' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/gigi-hadid-bradley-cooper-flock-pennsylvania-town-turned-celebrity-haven-expert' target='_blank' rel='noopener noreferrer'>Gigi Hadid, Bradley Cooper flock to Pennsylvania town turned celebrity haven: expert</a>
 
-[Crypto Stages Comeback After $800 Billion February Rout](https://12ft.io/https://apnews.com/business/crypto-stages-comeback-after-800-billion-february-rout-5817275)
+717 - <a href='https://www.google.com/search?q=Apple+reportedly+has+foldable+and+thinner+iPhone+models+in+the+pipeline' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-reportedly-has-foldable-thinner-iphone-models-pipeline' target='_blank' rel='noopener noreferrer'>Apple reportedly has foldable and thinner iPhone models in the pipeline</a>
 
-[How Major US Stock Indexes Fared Feb. 25](https://12ft.io/https://apnews.com/bright/how-major-us-stock-indexes-fared-feb-25-post-5816336)
+718 - <a href='https://www.google.com/search?q=More+than+500%2C000+electric+space+heaters+recalled+due+to+overheating+concerns' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/more-than-500000-electric-space-heaters-recalled-overheating-concerns' target='_blank' rel='noopener noreferrer'>More than 500,000 electric space heaters recalled due to overheating concerns</a>
 
-[Home Depot Sales Continue to Improve in Challenging Housing Market Environment](https://12ft.io/https://apnews.com/business/home-depot-sales-continue-to-improve-in-challenging-housing-market-environment-5816115)
+719 - <a href='https://www.google.com/search?q=Apple+unveils+new+iPad+Mini+with+AI+capabilities' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-unveils-new-ipad-mini-ai-capabilities' target='_blank' rel='noopener noreferrer'>Apple unveils new iPad Mini with AI capabilities</a>
 
-[Canadian Man Linked to Ex-Olympian’s Alleged Drug Ring Extradited From Mexico to US](https://12ft.io/https://apnews.com/world/canadian-man-linked-to-ex-olympian-accused-of-running-drug-ring-extradited-from-mexico-to-us-5818214)
+720 - <a href='https://www.google.com/search?q=Apple+details+Watch+Series+10+and+its+features' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-details-watch-series-10-its-features' target='_blank' rel='noopener noreferrer'>Apple details Watch Series 10 and its features</a>
 
-[Former Pentagon Chiefs Demand Congressional Hearings on Trump’s Removal of Top Military Leader](https://12ft.io/https://apnews.com/us/former-pentagon-chiefs-demand-congressional-hearings-on-trumps-removal-of-top-military-leader-5817953)
+721 - <a href='https://www.google.com/search?q=Apple+unveils+the+iPhone+16' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-unveils-iphone-16' target='_blank' rel='noopener noreferrer'>Apple unveils the iPhone 16</a>
 
-[Trump Eases Restrictions on Airstrikes, Defense Secretary Confirms](https://12ft.io/https://apnews.com/us/trump-eases-restrictions-on-airstrikes-defense-secretary-confirms-5817926)
+722 - <a href='https://www.google.com/search?q=Fed+hits+pause+on+interest+rate+cuts+for+now' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/fed-hits-pause-interest-rate-cuts' target='_blank' rel='noopener noreferrer'>Fed hits pause on interest rate cuts for now</a>
 
-[Oregon Resumes Automatic Voter Registrations After Errors Registered Noncitizens](https://12ft.io/https://apnews.com/us/oregon-resumes-automatic-voter-registrations-after-errors-registered-noncitizens-5817864)
+723 - <a href='https://www.google.com/search?q=California%27s+homeowners+insurance+industry+faces+rough+road+ahead+as+wildfires+continue' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/californias-homeowners-insurance-industry-wildfires' target='_blank' rel='noopener noreferrer'>California's homeowners insurance industry faces rough road ahead as wildfires continue</a>
 
-[Bridgeport Councilman Arrested in 2023 Ballot Fraud Case Says He Was Innocent and Following Democratic Party’s Orders](https://12ft.io/https://apnews.com/us/bridgeport-councilman-arrested-in-2023-ballot-fraud-case-says-he-was-innocent-and-following-democratic-partys-orders-5814856)
+724 - <a href='https://www.google.com/search?q=December+inflation+clouds+Fed%27s+outlook+on+interest+rate+cuts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/december-inflation-clouds-feds-outlook' target='_blank' rel='noopener noreferrer'>December inflation clouds Fed's outlook on interest rate cuts</a>
 
-[Arizona Governor Vetoes Bill to Expedite Ballot Counting in Swing State](https://12ft.io/https://apnews.com/us/arizona-governor-vetoes-bill-to-expedite-ballot-counting-in-swing-state-5812569)
+725 - <a href='https://www.google.com/search?q=OpenAI+CEO+Sam+Altman+rings+in+2025+with+cryptic%2C+concerning+tweet+about+AI%27s+future' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/openai-ceo-sam-altman-rings-2025-cryptic-concerning-poem-ais-future' target='_blank' rel='noopener noreferrer'>OpenAI CEO Sam Altman rings in 2025 with cryptic, concerning tweet about AI's future</a>
 
-[Supreme Court Will Not Review Ruling Limiting Pro-Life Counseling Outside Abortion Clinics](https://12ft.io/https://apnews.com/us/supreme-court-wont-review-ruling-limiting-pro-life-counseling-outside-abortion-clinics-5814383)
+726 - <a href='https://www.google.com/search?q=Study+finds+75%25+of+U.S.+adults+expect+job+pool+to+shrink+due+to+AI' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/study-finds-75-u-s-adults-expect-job-pool-to-shrink-due-to-ai' target='_blank' rel='noopener noreferrer'>Study finds 75% of U.S. adults expect job pool to shrink due to AI</a>
 
-[Groups Sue Over Trump’s Executive Orders Aimed at DEI and Transgender Ideology](https://12ft.io/https://apnews.com/us/groups-sue-over-trumps-executive-orders-aimed-at-dei-and-transgender-ideology-5813596)
+727 - <a href='https://www.google.com/search?q=OpenAI%2C+creator+of+ChatGPT%2C+on+trajectory+to+bring+in+%241+billion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/openai-creator-chatgpt-trajectory-bring-1-billion' target='_blank' rel='noopener noreferrer'>OpenAI, creator of ChatGPT, on trajectory to bring in $1 billion</a>
 
-[Casino Magnate Asks Supreme Court to Reconsider Rulings Shielding Journalists](https://12ft.io/https://apnews.com/us/casino-magnate-asks-supreme-court-to-reconsider-rulings-shielding-journalists-5806675)
+728 - <a href='https://www.google.com/search?q=Amazon+rolling+out+palm+recognition+technology+as+checkout+option+at+Whole+Foods' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/amazon-one-rolling-palm-recognition-technology-checkout-option-whole-foods' target='_blank' rel='noopener noreferrer'>Amazon rolling out palm recognition technology as checkout option at Whole Foods</a>
 
-[Gene Hackman’s Role in ‘Hoosiers’ Led to an Unforgettable, Beloved Film for Fans Far Beyond Indiana](https://12ft.io/https://apnews.com/entertainment/gene-hackmans-role-in-hoosiers-led-to-an-unforgettable-beloved-film-for-fans-far-beyond-indiana-5817478)
+729 - <a href='https://www.google.com/search?q=AI+voice-cloning+scams+are+on+the+rise%2C+here%27s+how+you+can+protect+yourself' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/ai-voice-cloning-scams-rise-heres-how-protect-yourself' target='_blank' rel='noopener noreferrer'>AI voice-cloning scams are on the rise, here's how you can protect yourself</a>
 
-[‘Real Housewives of Potomac’ Star Karen Huger to Spend 1 Year in Jail for DUI Crash](https://12ft.io/https://apnews.com/entertainment/real-housewives-of-potomac-star-karen-huger-to-spend-1-year-in-jail-for-dui-crash-5818073)
+730 - <a href='https://www.google.com/search?q=Fact+or+fiction%3A+Will+Trump%27s+federal+funding+freeze+impact+student+loans%2C+grants%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/fact-fiction-trumps-federal-funding-freeze-impact-student-loans-grants' target='_blank' rel='noopener noreferrer'>Fact or fiction: Will Trump's federal funding freeze impact student loans, grants?</a>
 
-[Carbon Monoxide Ruled Out as Cause of Death for Gene Hackman and Wife](https://12ft.io/https://apnews.com/entertainment/carbon-monoxide-ruled-out-as-cause-of-death-for-gene-hackman-and-wife-5818323)
+731 - <a href='https://www.google.com/search?q=Los+Angeles+area+college+campuses+shut+down+as+wildfires+spread' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/los-angeles-area-college-campuses-shut-down-wildfires-spread' target='_blank' rel='noopener noreferrer'>Los Angeles area college campuses shut down as wildfires spread</a>
 
-[Education Department Opens ‘End DEI’ Whistleblower Portal](https://12ft.io/https://apnews.com/us/education-department-opens-end-dei-whistleblower-portal-5817970)
+732 - <a href='https://www.google.com/search?q=Lawsuit+reveals+how+colleges+really+talk+about+rich+applicants' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/lawsuit-reveals-how-colleges-really-talk-about-rich-applicants' target='_blank' rel='noopener noreferrer'>Lawsuit reveals how colleges really talk about rich applicants</a>
 
-[Deadline for US Schools to Axe DEI Programs or Face Federal Funding Cuts](https://12ft.io/https://apnews.com/us/deadline-for-us-schools-to-axe-dei-programs-or-face-federal-funding-cuts-5817366)
+733 - <a href='https://www.google.com/search?q=Aircraft+mechanic+programs+are+taking+off+across+the+US+to+supply+the+demand+for+qualified+personnel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/fox-news-air-space/aircraft-mechanic-programs-taking-off-across-us-supply-demand-qualified-personnel' target='_blank' rel='noopener noreferrer'>Aircraft mechanic programs are taking off across the US to supply the demand for qualified personnel</a>
 
-[Teachers Union Sues Education Department Over Anti-DEI Policy](https://12ft.io/https://apnews.com/us/teachers-union-sues-education-department-over-anti-dei-policy-5816494)
+734 - <a href='https://www.google.com/search?q=Managers+say+new+college+grads+aren%27t+ready+for+work+%E2%80%94+and+they%27re+stepping+up+to+fix+it' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/managers-new-college-grads-arent-ready-work-stepping-up-fix' target='_blank' rel='noopener noreferrer'>Managers say new college grads aren't ready for work — and they're stepping up to fix it</a>
 
-[Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://12ft.io/https://apnews.com/jiang-zemin-story)
+735 - <a href='https://www.google.com/search?q=Celebrity+real+estate+agent+gives+reality+check+on+housing%3A+%27We+are+not+going+to+see+prices+go+down%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/celebrity-real-estate-broker-gives-reality-check-housing-we-not-going-see-prices-go-down' target='_blank' rel='noopener noreferrer'>Celebrity real estate agent gives reality check on housing: 'We are not going to see prices go down'</a>
 
-[Fox Business News, Stock Quotes, Investment and Savings News](https://12ft.io/https://apnews.com//www.foxbusiness.com)
+736 - <a href='https://www.google.com/search?q=Real+estate+expert+reveals+what+%27matters%27+to+developers+for+homebuilding+as+Big+Tech+buys+in' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/real-estate-expert-reveals-what-matters-developers-homebuilding-big-tech-buys' target='_blank' rel='noopener noreferrer'>Real estate expert reveals what 'matters' to developers for homebuilding as Big Tech buys in</a>
 
-[Why gold prices could hit $3,000 despite volatility](https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/why-gold-prices-could-hit-3000-despite-volatility)
+737 - <a href='https://www.google.com/search?q=Today%27s+mortgage+interest+rates+fall+for+30-year+terms+while+15-year+terms+remain+unchanged+%7C+August+14%2C+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/todays-mortgage-rates-august-14-2024' target='_blank' rel='noopener noreferrer'>Today's mortgage interest rates fall for 30-year terms while 15-year terms remain unchanged | August 14, 2024</a>
 
-[Trump slated to host Crypto Summit at White House](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/trump-slated-host-crypto-summit-white-house)
+738 - <a href='https://www.google.com/search?q=Today%27s+15-+and+30-year+mortgage+rates+hold+at+lowest+level+in+over+a+year+%7C+August+13%2C+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/todays-mortgage-rates-august-13-2024' target='_blank' rel='noopener noreferrer'>Today's 15- and 30-year mortgage rates hold at lowest level in over a year | August 13, 2024</a>
 
-[Inflation gauge favored by Fed showed prices grew as expected in January](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/january-2025-pce)
+739 - <a href='https://www.google.com/search?q=Today%27s+mortgage+rates+remain+unchanged+for+15-+and+30-year+terms+%7C+August+12%2C+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/todays-mortgage-rates-august-12-2024' target='_blank' rel='noopener noreferrer'>Today's mortgage rates remain unchanged for 15- and 30-year terms | August 12, 2024</a>
 
-[As the US-Ukraine rare earth minerals deal takes shape, here's what to know](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/us-ukraine-rare-earth-minerals-deal-takes-shape-heres-what-know)
+740 - <a href='https://www.google.com/search?q=This+Midwestern+state+is+considered+one+of+the+best+places+to+retire%2C+new+study+says%3A+see+the+list' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/midwestern-state-considered-best-places-retire-study' target='_blank' rel='noopener noreferrer'>This Midwestern state is considered one of the best places to retire, new study says: see the list</a>
 
-[Social Security payments to increase for public pension recipients](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/social-security-payments-increase-public-pension-recipients)
+741 - <a href='https://www.google.com/search?q=Gen+X+helps+drive+retirement+savings+balances+to+new+record' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/gen-x-helps-drives-retirement-savings-balances-new-record' target='_blank' rel='noopener noreferrer'>Gen X helps drive retirement savings balances to new record</a>
 
-[CEO behind DOGE dividend details Trump-backed plan to 'pay restitution to the taxpayer'](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/ceo-behind-doge-dividend-details-trump-backed-plan-pay-restitution-taxpayer)
+742 - <a href='https://www.google.com/search?q=Best+US+cities+to+retire+in+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/best-us-cities-retire-2025' target='_blank' rel='noopener noreferrer'>Best US cities to retire in 2025</a>
 
-[Social Security payments to increase for public pension recipients](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/social-security-payments-increase-public-pension-recipients)
+743 - <a href='https://www.google.com/search?q=Is+a+retirement+savings+crisis+looming%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/retirement-savings-crisis-looming' target='_blank' rel='noopener noreferrer'>Is a retirement savings crisis looming?</a>
 
-[401(k) balances hit second highest on record: Fidelity](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity)
+744 - <a href='https://www.google.com/search?q=Americans+see+inflation+rising+again+in+the+long+term%2C+key+NY+Fed+survey+shows' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/americans-see-inflation-rising-again-long-term-key-new-york-fed-survey-shows' target='_blank' rel='noopener noreferrer'>Americans see inflation rising again in the long term, key NY Fed survey shows</a>
 
-[LARRY KUDLOW: Good economics leads to good politics](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/larry-kudlow-good-economics-leads-good-politics)
+745 - <a href='https://www.google.com/search?q=I+started+my+own+business+and+that+opportunity+should+be+open+to+everyone' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/small-business/started-business-that-opportunity-should-open-everyone' target='_blank' rel='noopener noreferrer'>I started my own business and that opportunity should be open to everyone</a>
 
-[Musk says DOGE will quickly fix mistakes it makes in cutting programs](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/musk-says-doge-quickly-fix-mistakes-makes-cutting-programs)
+746 - <a href='https://www.google.com/search?q=Fighting+inflation%3A+Experts+share+what+behavioral+changes%2C+habits+can+save+you+major+cash+in+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/fighting-inflation-experts-share-behavioral-changes-habits-save-you-major-cash-2024' target='_blank' rel='noopener noreferrer'>Fighting inflation: Experts share what behavioral changes, habits can save you major cash in 2024</a>
 
-[David Spade's former Malibu home up for rent at $59K a month](https://12ft.io/https://apnews.com//www.foxbusiness.com/fox-news-entertainment/david-spades-former-malibu-home-up-rent-59000-month)
+747 - <a href='https://www.google.com/search?q=Investment+company+announces+new+non-woke%2C+anti-ESG+shareholder-focused+retirement+plan+for+small+businesses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/investment-company-announces-non-woke-anti-esg-shareholder-focused-retirement-plan-small-businesses' target='_blank' rel='noopener noreferrer'>Investment company announces new non-woke, anti-ESG shareholder-focused retirement plan for small businesses</a>
 
-[Mark Zuckerberg channels musician Benson Boone during wife's birthday bash](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/mark-zuckerberg-channels-musician-benson-boone-during-wifes-birthday-bash)
+748 - <a href='https://www.google.com/search?q=Junk+fees+continue+to+creep+up%3B+White+House+looking+to+crack+down+on+hidden+charges' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/junk-fees-continue-creep-up-white-house-looking-crack-down-hidden-charges' target='_blank' rel='noopener noreferrer'>Junk fees continue to creep up; White House looking to crack down on hidden charges</a>
 
-[Gene Hackman's acting career spanned four decades: What was his net worth?](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/gene-hackmans-acting-career-spanned-four-decades-what-his-net-worth)
+749 - <a href='https://www.google.com/search?q=Warren+Buffett+says+tariffs+are+an+economic+%27act+of+war%27%3A+%27Tooth+Fairy+doesn%27t+pay+%27em%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/warren-buffett-says-tariffs-economic-act-war-tooth-fairy-doesnt-pay-em' target='_blank' rel='noopener noreferrer'>Warren Buffett says tariffs are an economic 'act of war': 'Tooth Fairy doesn't pay 'em'</a>
 
-[Target is bringing Warby Parker eyeglass shops to stores](https://12ft.io/https://apnews.com//www.foxbusiness.com/retail/target-bringing-warby-parker-eyeglass-shops-stores)
+750 - <a href='https://www.google.com/search?q=Elon+Musk+wants+%27top+notch%27+retired+air+traffic+controllers+to+consider+returning+to+work' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/elon-musk-wants-top-notch-retired-air-traffic-controllers-consider-returning-work' target='_blank' rel='noopener noreferrer'>Elon Musk wants 'top notch' retired air traffic controllers to consider returning to work</a>
 
-[Gene Hackman, wife found dead at Santa Fe estate: What to know about the property](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/gene-hackman-wife-found-dead-santa-fe-estate-what-know-about-property)
+751 - <a href='https://www.google.com/search?q=Couple+spent+several+hours+on+a+flight+next+to+a+dead+body' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/couple-spent-several-hours-flight-next-dead-body' target='_blank' rel='noopener noreferrer'>Couple spent several hours on a flight next to a dead body</a>
 
-[Under Armour CEO selling $22 million Maryland horse farm](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/under-armour-ceo-selling-22-million-maryland-horse-farm)
+752 - <a href='https://www.google.com/search?q=Passengers+aboard+cruise+ship+fall+ill+during+possible+norovirus+outbreak' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/passengers-aboard-cruise-ship-fall-ill-possible-norovirus-outbreak' target='_blank' rel='noopener noreferrer'>Passengers aboard cruise ship fall ill during possible norovirus outbreak</a>
 
-[Gene Hackman, wife found dead at Santa Fe estate: What to know about the property](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/gene-hackman-wife-found-dead-santa-fe-estate-what-know-about-property)
+753 - <a href='https://www.google.com/search?q=JetBlue+passenger+blesses+planes+with+oil+following+flight+incidents' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/jetblue-passenger-blesses-planes-oil-following-flight-incidents' target='_blank' rel='noopener noreferrer'>JetBlue passenger blesses planes with oil following flight incidents</a>
 
-[First-ever AI real estate agent generates $100M in sales in Portugal](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/first-ever-ai-real-estate-agent-generates-100m-sales-portugal)
+754 - <a href='https://www.google.com/search?q=Toronto+plane+crash%3A+Delta+offers+payment+to+victims+amid+investigation+of+plane+that+flipped+upside+down' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/toronto-plane-crash-delta-offers-payment-victims-investigation-plane-flipped-upside-down' target='_blank' rel='noopener noreferrer'>Toronto plane crash: Delta offers payment to victims amid investigation of plane that flipped upside down</a>
 
-[These housing markets were the hottest in January, according to Realtor.com](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/housing-markets-were-hottest-january-according-realtor-com)
+755 - <a href='https://www.google.com/search?q=Real+estate+rising+star+points+to+new+direction+that+could+%E2%80%98disrupt%E2%80%99+entire+housing+market' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/real-estate-rising-star-points-new-direction-could-disrupt-entire-housing-market' target='_blank' rel='noopener noreferrer'>Real estate rising star points to new direction that could ‘disrupt’ entire housing market</a>
 
-[Homebuilders are concerned about new tariffs and effect on material costs](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/homebuilders-concerned-about-new-tariffs-effect-material-costs)
+756 - <a href='https://www.google.com/search?q=Real+estate+expert+Ryan+Serhant+warns+of+self-destructive+mistake+homebuyers+make+to+save+a+dollar' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/real-estate-expert-ryan-serhant-warns-self-destructive-mistake-homebuyers-make-save-dollar' target='_blank' rel='noopener noreferrer'>Real estate expert Ryan Serhant warns of self-destructive mistake homebuyers make to save a dollar</a>
 
-[Dave Portnoy blasts self-checkout tip kiosks over gratuity guilt: ‘I don’t do it to be a nice guy’](https://12ft.io/https://apnews.com//www.foxbusiness.com/money/dave-portnoy-blasts-self-checkout-tip-kiosks-over-gratuity-guilt-dont-nice-guy)
+757 - <a href='https://www.google.com/search?q=Varney%3A+Jealousy+and+rich-bashing+never+go+out+of+style+with+socialists' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/stuart-varney-jealousy-rich-bashing-never-out-style-socialists' target='_blank' rel='noopener noreferrer'>Varney: Jealousy and rich-bashing never go out of style with socialists</a>
 
-[Morgan Wallen’s chart-domination strategy? Really long albums](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/morgan-wallens-chart-domination-strategy-really-long-albums)
+758 - <a href='https://www.google.com/search?q=Budweiser+attempts+rebranding+with+Super+Bowl+ads' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/budweiser-attempts-rebranding-with-super-bowl-ads' target='_blank' rel='noopener noreferrer'>Budweiser attempts rebranding with Super Bowl ads</a>
 
-[Bed Bath & Beyond interim CEO to stay in post for at least a year - source](https://12ft.io/https://apnews.com//www.foxbusiness.com/retail/bed-bath-beyond-interim-ceo-stay-at-least-year)
+759 - <a href='https://www.google.com/search?q=The+international+competition+to+mine+and+refine+rare+earth+elements' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/energy/international-competition-mine-refine-rare-earth-elements' target='_blank' rel='noopener noreferrer'>The international competition to mine and refine rare earth elements</a>
 
-[ViacomCBS chief Bakish blocked again from major media mogul meeting](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/viacomcbs-chief-bakish-blocked-again-from-major-media-mogul-meeting)
+760 - <a href='https://www.google.com/search?q=Chipotle+CEO+details+how+chain+will+handle+Trump+tariff+costs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/chipotle-ceo-details-how-chain-handle-trump-tariff-costs' target='_blank' rel='noopener noreferrer'>Chipotle CEO details how chain will handle Trump tariff costs</a>
 
-[NYC, Nuveen strike out with Yankees over new soccer stadium and hotel/retail development](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/nyc-nuveen-strike-out-with-yankees-over-new-soccer-stadium-and-hotel-retail-development)
+761 - <a href='https://www.google.com/search?q=Super+Bowl+LIX+battle%3A+Chiefs+and+Eagles+are+both+valued+in+the+billions' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/super-bowl-lix-battle-chiefs-eagles-both-valued-billions' target='_blank' rel='noopener noreferrer'>Super Bowl LIX battle: Chiefs and Eagles are both valued in the billions</a>
 
-[Thousands of Microsoft customers affected by large-scale outage](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/thousands-microsoft-customers-affected-large-scale-outage)
+762 - <a href='https://www.google.com/search?q=Brandon+Marshall%27s+%27I+Am+Athlete%27+aiming+to+push+boundaries+with+new+REVOLT+Sports+partnership' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/brandon-marshalls-i-am-athlete-aiming-push-boundaries-new-revolt-sports-partnership' target='_blank' rel='noopener noreferrer'>Brandon Marshall's 'I Am Athlete' aiming to push boundaries with new REVOLT Sports partnership</a>
 
-[Companies are building robots to combat the loneliness epidemic and bring emotional support](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/companies-building-robots-combat-loneliness-epidemic-bring-emotional-support)
+763 - <a href='https://www.google.com/search?q=Dave+Portnoy+out+%241M+after+betting+on+the+Buffalo+Bills' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/dave-portnoy-out-1m-after-betting-buffalo-bills' target='_blank' rel='noopener noreferrer'>Dave Portnoy out $1M after betting on the Buffalo Bills</a>
 
-[Nvidia CEO Jensen Huang says everyone is 'racing' to adopt AI technology](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/nvidia-ceo-jensen-huang-says-everyone-racing-adopt-ai-technology)
+764 - <a href='https://www.google.com/search?q=NFL+great+DeMarcus+Ware+highlights+ensemble+of+stars+for+AT%26T%27s+latest+ad+blitz' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/nfl-great-demarcus-ware-highlights-ensemble-stars-atts-latest-ad-blitz' target='_blank' rel='noopener noreferrer'>NFL great DeMarcus Ware highlights ensemble of stars for AT&T's latest ad blitz</a>
 
-[Amazon rolling out AI-driven Alexa+ service](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/amazon-rolling-out-ai-driven-alexa-service)
+765 - <a href='https://www.google.com/search?q=Rob+Gronkowski+agrees+with+Elon+Musk+on+need+for+simplified+US+tax+code%3A+%27Please+do%21%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/rob-gronkowski-agrees-elon-musk-need-simplified-us-tax-code-please-do' target='_blank' rel='noopener noreferrer'>Rob Gronkowski agrees with Elon Musk on need for simplified US tax code: 'Please do!'</a>
 
-[Nvidia sales spike on AI demand](https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/nvidia-sales-spike-ai-demand)
+766 - <a href='https://www.google.com/search?q=Nvidia+sales+spike+on+AI+demand' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/nvidia-sales-spike-ai-demand' target='_blank' rel='noopener noreferrer'>Nvidia sales spike on AI demand</a>
 
-[Floyd Mayweather praises Trump as the 'best president' and a 'great businessman'](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/floyd-mayweather-praises-trump-being-best-president-great-businessman)
+767 - <a href='https://www.google.com/search?q=American+farmers+turning+to+AI+to+aid+uncertain+future' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/american-farmers-turning-ai-aid-uncertain-future' target='_blank' rel='noopener noreferrer'>American farmers turning to AI to aid uncertain future</a>
 
-[Renowned Japanese artist Takashi Murakami teams up with MLB for rare Tokyo Series collection](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/renowned-japanese-artist-takashi-murakami-teams-up-mlb-rare-tokyo-series-collection)
+768 - <a href='https://www.google.com/search?q=Salesforce+CEO+defends+supporting+Trump%3A+%27We+are+turning+the+page%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/salesforce-ceo-defends-supporting-trump-we-turning-page' target='_blank' rel='noopener noreferrer'>Salesforce CEO defends supporting Trump: 'We are turning the page'</a>
 
-[NASCAR star William Byron fuels up with CELSIUS](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/nascar-star-william-byron-fuels-up-celsius)
+769 - <a href='https://www.google.com/search?q=Bitcoin+hits+%24100%2C000+for+the+first+time+ever' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/bitcoin-hits-100000-first-time-ever' target='_blank' rel='noopener noreferrer'>Bitcoin hits $100,000 for the first time ever</a>
 
-[US-Canada 4 Nations final ticket prices hit eye-popping marks before puck drops](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/us-canada-4-nations-final-ticket-prices-hit-eye-popping-marks-before-puck-drops)
+770 - <a href='https://www.google.com/search?q=Stuart+Varney%3A+Trump+keeps+winning%2C+the+media+keeps+losing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/stuart-varney-trump-keeps-winning-media-keeps-losing' target='_blank' rel='noopener noreferrer'>Stuart Varney: Trump keeps winning, the media keeps losing</a>
 
-[Elon Musk hints new Grok AI could beat Warren Buffett's March Madness bracket challenge](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/elon-musk-hints-new-grok-ai-could-beat-warren-buffetts-march-madness-bracket-challenge)
+771 - <a href='https://www.google.com/search?q=US+economists+more+upbeat%2C+see+Trump+tax+cuts+extended%3A+NABE' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/us-economists-more-upbeat-see-trump-tax-cuts-extended-nabe' target='_blank' rel='noopener noreferrer'>US economists more upbeat, see Trump tax cuts extended: NABE</a>
 
-[A majority of small businesses are using artificial intelligence](https://12ft.io/https://apnews.com//www.foxbusiness.com/small-business/majority-small-businesses-using-artificial-intelligence)
+772 - <a href='https://www.google.com/search?q=Trump+eyes+official+crypto+lead+or+czar' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/trump-eyes-official-crypto-lead-czar' target='_blank' rel='noopener noreferrer'>Trump eyes official crypto lead or czar</a>
 
-[Small businesses seeing revenues rise, but tariff threats loom](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/small-businesses-seeing-revenues-rise-tariff-threats-loom)
+773 - <a href='https://www.google.com/search?q=Who+gets+stuck+with+the+bill+for+tariffs+on+imported+Canadian+oil%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/who-gets-stuck-bill-tariffs-imported-canadian-oil' target='_blank' rel='noopener noreferrer'>Who gets stuck with the bill for tariffs on imported Canadian oil?</a>
 
-[SBA administrator rallies workers back to office after Musk ignites firestorm with federal employees](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/sba-administrator-rallies-workers-back-to-office-after-musk-ignites-firestorm-federal-employees)
+774 - <a href='https://www.google.com/search?q=BP+to+boost+oil+and+gas+spending+by+%2410B%2C+slash+renewable+investment+in+major+strategy+shift' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/energy/bp-boost-oil-gas-spending-10b-slash-renewable-investment-major-strategy-shift' target='_blank' rel='noopener noreferrer'>BP to boost oil and gas spending by $10B, slash renewable investment in major strategy shift</a>
 
-[Red state businesses put on notice if they intentionally hire illegal immigrants: 'Stiff penalties'](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/red-state-businesses-put-on-notice-intentionally-hire-illegal-immigrants-stiff-penalties)
+775 - <a href='https://www.google.com/search?q=Brazil+gets+greenlight+to+join+OPEC%2B+months+ahead+of+hosting+UN%E2%80%99s+annual+climate+summit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/brazil-gets-greenlight-join-opec-months-ahead-hosting-uns-annual-climate-summit' target='_blank' rel='noopener noreferrer'>Brazil gets greenlight to join OPEC+ months ahead of hosting UN’s annual climate summit</a>
 
-[Uncertainty grows among still-optimistic small business owners, survey finds](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/uncertainty-grows-among-still-optimistic-small-business-owners-survey-finds)
+776 - <a href='https://www.google.com/search?q=Trump+tariff+threats+on+Canadian+oil+could+impact+three+US+regions%2C+gas+analyst+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/media/trump-tariff-threats-canadian-oil-could-impact-three-us-regions-gas-analyst' target='_blank' rel='noopener noreferrer'>Trump tariff threats on Canadian oil could impact three US regions, gas analyst says</a>
 
-[Mortgage rates hit a two-month low this week, remain under 7%](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/mortgage-rates-hit-two-month-low)
+777 - <a href='https://www.google.com/search?q=Chevron%2C+Engine+No.+1%2C+GE+Vernova+team+up+to+build+US+data+centers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/energy/chevron-engine-no-1-ge-vernova-announce-partnership-power-us-data-centers' target='_blank' rel='noopener noreferrer'>Chevron, Engine No. 1, GE Vernova team up to build US data centers</a>
 
-[401(k) balances hit second highest on record: Fidelity](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity)
+778 - <a href='https://www.google.com/search?q=Taylor+Swift%27s+record-breaking+Eras+Tour+ends+with+%242+billion+in+ticket+sales' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/taylor-swifts-record-breaking-eras-tour-ends-2-billion-ticket-sales' target='_blank' rel='noopener noreferrer'>Taylor Swift's record-breaking Eras Tour ends with $2 billion in ticket sales</a>
 
-[Will you get a tax refund this year? Experts have ideas on how to use the money](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/you-get-tax-refund-year-experts-have-ideas-how-use-money)
+779 - <a href='https://www.google.com/search?q=Crypto+entrepreneur+pays+%246.2M+for+viral+banana+artwork+%E2%80%93+then+eats+it' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/crypto-entrepreneur-pays-6-2m-viral-banana-artwork-eats' target='_blank' rel='noopener noreferrer'>Crypto entrepreneur pays $6.2M for viral banana artwork – then eats it</a>
 
-[January inflation gives Fed more reason to hold on interest rate cuts](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/january-inflation-increases)
+780 - <a href='https://www.google.com/search?q=Viral+banana+artwork+duct-taped+to+wall+sells+for+%246.2M' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/viral-banana-artwork-duct-taped-wall-sells-6-2m' target='_blank' rel='noopener noreferrer'>Viral banana artwork duct-taped to wall sells for $6.2M</a>
 
-[Bill Gates weighs in on new Trump administration, Elon Musk's role](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/bill-gates-weighs-new-trump-administration-elon-musks-role)
+781 - <a href='https://www.google.com/search?q=Washington+photographer+files+lawsuit+alleging+viral+social+media+account+violated+copyright+law' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/washington-photographer-files-lawsuit-alleging-viral-social-media-account-violated-copyright-law' target='_blank' rel='noopener noreferrer'>Washington photographer files lawsuit alleging viral social media account violated copyright law</a>
 
-[Washington DC gets 'Trump Bump' in luxury home market](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/washington-dc-gets-trump-bump-luxury-home-market)
+782 - <a href='https://www.google.com/search?q=Drawing+owned+and+cherished+by+George+Washington+to+hit+Philadelphia+auction' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/drawing-owned-george-washington-hit-philadelphia-auction' target='_blank' rel='noopener noreferrer'>Drawing owned and cherished by George Washington to hit Philadelphia auction</a>
 
-[These places led the US ultra-luxury market last year, according to Compass](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/these-places-led-us-ultra-luxury-market-last-year-according-compass)
-
-[You can be a neighbor to Donald Trump in Palm Beach for $15 million](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/you-can-neighbor-donald-trump-palm-beach-15-million)
-
-[These were the most expensive homes sold in 2024, according to Redfin](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/were-most-expensive-homes-sold-2024-according-redfin)
-
-[Top US vacation home markets](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/top-us-vacation-home-markets-2024)
-
-[Fanatics teams up with Kevin Durant's sports media brand to help athletes' post-retirement business careers](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/fanatics-teams-up-sports-media-brand-help-athletes-post-retirement-business-careers)
-
-[Popular comedian Matt Rife trades glitzy city living for cozy Rhode Island suburbs: Here’s why](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/popular-comedian-matt-rife-traded-glitzy-city-living-cozy-rhode-island-suburbs)
-
-[Dwayne ‘The Rock’ Johnson, Mark Wahlberg bring in millions with celebrity tequila brands](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/dwayne-the-rock-johnson-mark-wahlberg-bring-millions-celebrity-tequila-brands)
-
-[2024 box office hits and misses: 'Wicked' soars, 'Madame Web' flops](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/2024-box-office-hits-misses-wicked-soars-madame-web-flops)
-
-[Gigi Hadid, Bradley Cooper flock to Pennsylvania town turned celebrity haven: expert](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/gigi-hadid-bradley-cooper-flock-pennsylvania-town-turned-celebrity-haven-expert)
-
-[Apple reportedly has foldable and thinner iPhone models in the pipeline](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-reportedly-has-foldable-thinner-iphone-models-pipeline)
-
-[More than 500,000 electric space heaters recalled due to overheating concerns](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/more-than-500000-electric-space-heaters-recalled-overheating-concerns)
-
-[Apple unveils new iPad Mini with AI capabilities](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-unveils-new-ipad-mini-ai-capabilities)
-
-[Apple details Watch Series 10 and its features](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-details-watch-series-10-its-features)
-
-[Apple unveils the iPhone 16](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/apple-unveils-iphone-16)
-
-[Mortgage rates hit a two-month low this week, remain under 7%](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/mortgage-rates-hit-two-month-low)
-
-[January inflation gives Fed more reason to hold on interest rate cuts](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/january-inflation-increases)
-
-[Fed hits pause on interest rate cuts for now](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/fed-hits-pause-interest-rate-cuts)
-
-[California's homeowners insurance industry faces rough road ahead as wildfires continue](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/californias-homeowners-insurance-industry-wildfires)
-
-[December inflation clouds Fed's outlook on interest rate cuts](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/december-inflation-clouds-feds-outlook)
-
-[OpenAI CEO Sam Altman rings in 2025 with cryptic, concerning tweet about AI's future](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/openai-ceo-sam-altman-rings-2025-cryptic-concerning-poem-ais-future)
-
-[Study finds 75% of U.S. adults expect job pool to shrink due to AI](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/study-finds-75-u-s-adults-expect-job-pool-to-shrink-due-to-ai)
-
-[OpenAI, creator of ChatGPT, on trajectory to bring in $1 billion](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/openai-creator-chatgpt-trajectory-bring-1-billion)
-
-[Amazon rolling out palm recognition technology as checkout option at Whole Foods](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/amazon-one-rolling-palm-recognition-technology-checkout-option-whole-foods)
-
-[AI voice-cloning scams are on the rise, here's how you can protect yourself](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/ai-voice-cloning-scams-rise-heres-how-protect-yourself)
-
-[Fact or fiction: Will Trump's federal funding freeze impact student loans, grants?](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/fact-fiction-trumps-federal-funding-freeze-impact-student-loans-grants)
-
-[Los Angeles area college campuses shut down as wildfires spread](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/los-angeles-area-college-campuses-shut-down-wildfires-spread)
-
-[Lawsuit reveals how colleges really talk about rich applicants](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/lawsuit-reveals-how-colleges-really-talk-about-rich-applicants)
-
-[Aircraft mechanic programs are taking off across the US to supply the demand for qualified personnel](https://12ft.io/https://apnews.com//www.foxbusiness.com/fox-news-air-space/aircraft-mechanic-programs-taking-off-across-us-supply-demand-qualified-personnel)
-
-[Managers say new college grads aren't ready for work — and they're stepping up to fix it](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/managers-new-college-grads-arent-ready-work-stepping-up-fix)
-
-[Celebrity real estate agent gives reality check on housing: 'We are not going to see prices go down'](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/celebrity-real-estate-broker-gives-reality-check-housing-we-not-going-see-prices-go-down)
-
-[Real estate expert reveals what 'matters' to developers for homebuilding as Big Tech buys in](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/real-estate-expert-reveals-what-matters-developers-homebuilding-big-tech-buys)
-
-[Today's mortgage interest rates fall for 30-year terms while 15-year terms remain unchanged | August 14, 2024](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/todays-mortgage-rates-august-14-2024)
-
-[Today's 15- and 30-year mortgage rates hold at lowest level in over a year | August 13, 2024](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/todays-mortgage-rates-august-13-2024)
-
-[Today's mortgage rates remain unchanged for 15- and 30-year terms | August 12, 2024](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/todays-mortgage-rates-august-12-2024)
-
-[401(k) balances hit second highest on record: Fidelity](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity)
-
-[This Midwestern state is considered one of the best places to retire, new study says: see the list](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/midwestern-state-considered-best-places-retire-study)
-
-[Gen X helps drive retirement savings balances to new record](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/gen-x-helps-drives-retirement-savings-balances-new-record)
-
-[Best US cities to retire in 2025](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/best-us-cities-retire-2025)
-
-[Is a retirement savings crisis looming?](https://12ft.io/https://apnews.com//www.foxbusiness.com/personal-finance/retirement-savings-crisis-looming)
-
-[Americans see inflation rising again in the long term, key NY Fed survey shows](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/americans-see-inflation-rising-again-long-term-key-new-york-fed-survey-shows)
-
-[I started my own business and that opportunity should be open to everyone](https://12ft.io/https://apnews.com//www.foxbusiness.com/small-business/started-business-that-opportunity-should-open-everyone)
-
-[Fighting inflation: Experts share what behavioral changes, habits can save you major cash in 2024](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/fighting-inflation-experts-share-behavioral-changes-habits-save-you-major-cash-2024)
-
-[Investment company announces new non-woke, anti-ESG shareholder-focused retirement plan for small businesses](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/investment-company-announces-non-woke-anti-esg-shareholder-focused-retirement-plan-small-businesses)
-
-[Junk fees continue to creep up; White House looking to crack down on hidden charges](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/junk-fees-continue-creep-up-white-house-looking-crack-down-hidden-charges)
-
-[Under Armour CEO selling $22 million Maryland horse farm](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/under-armour-ceo-selling-22-million-maryland-horse-farm)
-
-[CEO behind DOGE dividend details Trump-backed plan to 'pay restitution to the taxpayer'](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/ceo-behind-doge-dividend-details-trump-backed-plan-pay-restitution-taxpayer)
-
-[Mark Zuckerberg channels musician Benson Boone during wife's birthday bash](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/mark-zuckerberg-channels-musician-benson-boone-during-wifes-birthday-bash)
-
-[Nvidia CEO Jensen Huang says everyone is 'racing' to adopt AI technology](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/nvidia-ceo-jensen-huang-says-everyone-racing-adopt-ai-technology)
-
-[Elon Musk wants 'top notch' retired air traffic controllers to consider returning to work](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/elon-musk-wants-top-notch-retired-air-traffic-controllers-consider-returning-work)
-
-[Elon Musk wants 'top notch' retired air traffic controllers to consider returning to work](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/elon-musk-wants-top-notch-retired-air-traffic-controllers-consider-returning-work)
-
-[Couple spent several hours on a flight next to a dead body](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/couple-spent-several-hours-flight-next-dead-body)
-
-[Passengers aboard cruise ship fall ill during possible norovirus outbreak](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/passengers-aboard-cruise-ship-fall-ill-possible-norovirus-outbreak)
-
-[JetBlue passenger blesses planes with oil following flight incidents](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/jetblue-passenger-blesses-planes-oil-following-flight-incidents)
-
-[Toronto plane crash: Delta offers payment to victims amid investigation of plane that flipped upside down](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/toronto-plane-crash-delta-offers-payment-victims-investigation-plane-flipped-upside-down)
-
-[Real estate rising star points to new direction that could ‘disrupt’ entire housing market](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/real-estate-rising-star-points-new-direction-could-disrupt-entire-housing-market)
-
-[Real estate expert Ryan Serhant warns of self-destructive mistake homebuyers make to save a dollar](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/real-estate-expert-ryan-serhant-warns-self-destructive-mistake-homebuyers-make-save-dollar)
-
-[Varney: Jealousy and rich-bashing never go out of style with socialists](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/stuart-varney-jealousy-rich-bashing-never-out-style-socialists)
-
-[Budweiser attempts rebranding with Super Bowl ads](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/budweiser-attempts-rebranding-with-super-bowl-ads)
-
-[The international competition to mine and refine rare earth elements](https://12ft.io/https://apnews.com//www.foxbusiness.com/energy/international-competition-mine-refine-rare-earth-elements)
-
-[Subway to bring back discounted footlong sandwiches](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/subway-bring-back-discounted-footlong-sandwiches)
-
-[McDonald's CEO gives three predictions for restaurant biz in 2025](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/mcdonalds-ceo-gives-3-predictions-restaurant-biz-2025)
-
-[Fast-food chain makes starchy comeback menu item permanent](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/fast-food-chain-makes-starchy-comeback-menu-item-permanent)
-
-[Eggs are not the only expensive food: Beef prices are also on the rise](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/eggs-not-only-expensive-food-beef-prices-also-rise)
-
-[McDonald's exec says no surcharges on eggs](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/mcdonalds-exec-says-no-surcharges-eggs)
-
-[Super Bowl LIX battle: Chiefs and Eagles are both valued in the billions](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/super-bowl-lix-battle-chiefs-eagles-both-valued-billions)
-
-[Brandon Marshall's 'I Am Athlete' aiming to push boundaries with new REVOLT Sports partnership](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/brandon-marshalls-i-am-athlete-aiming-push-boundaries-new-revolt-sports-partnership)
-
-[Dave Portnoy out $1M after betting on the Buffalo Bills](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/dave-portnoy-out-1m-after-betting-buffalo-bills)
-
-[NFL great DeMarcus Ware highlights ensemble of stars for AT&T's latest ad blitz](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/nfl-great-demarcus-ware-highlights-ensemble-stars-atts-latest-ad-blitz)
-
-[Rob Gronkowski agrees with Elon Musk on need for simplified US tax code: 'Please do!'](https://12ft.io/https://apnews.com//www.foxbusiness.com/sports/rob-gronkowski-agrees-elon-musk-need-simplified-us-tax-code-please-do)
-
-[A majority of small businesses are using artificial intelligence](https://12ft.io/https://apnews.com//www.foxbusiness.com/small-business/majority-small-businesses-using-artificial-intelligence)
-
-[Nvidia sales spike on AI demand](https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/nvidia-sales-spike-ai-demand)
-
-[First-ever AI real estate agent generates $100M in sales in Portugal](https://12ft.io/https://apnews.com//www.foxbusiness.com/real-estate/first-ever-ai-real-estate-agent-generates-100m-sales-portugal)
-
-[Elon Musk hints new Grok AI could beat Warren Buffett's March Madness bracket challenge](https://12ft.io/https://apnews.com//www.foxbusiness.com/technology/elon-musk-hints-new-grok-ai-could-beat-warren-buffetts-march-madness-bracket-challenge)
-
-[American farmers turning to AI to aid uncertain future](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/american-farmers-turning-ai-aid-uncertain-future)
-
-[Salesforce CEO defends supporting Trump: 'We are turning the page'](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/salesforce-ceo-defends-supporting-trump-we-turning-page)
-
-[Bitcoin hits $100,000 for the first time ever](https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/bitcoin-hits-100000-first-time-ever)
-
-[Stuart Varney: Trump keeps winning, the media keeps losing](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/stuart-varney-trump-keeps-winning-media-keeps-losing)
-
-[US economists more upbeat, see Trump tax cuts extended: NABE](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/us-economists-more-upbeat-see-trump-tax-cuts-extended-nabe)
-
-[Trump eyes official crypto lead or czar](https://12ft.io/https://apnews.com//www.foxbusiness.com/markets/trump-eyes-official-crypto-lead-czar)
-
-[Who gets stuck with the bill for tariffs on imported Canadian oil?](https://12ft.io/https://apnews.com//www.foxbusiness.com/politics/who-gets-stuck-bill-tariffs-imported-canadian-oil)
-
-[BP to boost oil and gas spending by $10B, slash renewable investment in major strategy shift](https://12ft.io/https://apnews.com//www.foxbusiness.com/energy/bp-boost-oil-gas-spending-10b-slash-renewable-investment-major-strategy-shift)
-
-[Brazil gets greenlight to join OPEC+ months ahead of hosting UN’s annual climate summit](https://12ft.io/https://apnews.com//www.foxbusiness.com/economy/brazil-gets-greenlight-join-opec-months-ahead-hosting-uns-annual-climate-summit)
-
-[Trump tariff threats on Canadian oil could impact three US regions, gas analyst says](https://12ft.io/https://apnews.com//www.foxbusiness.com/media/trump-tariff-threats-canadian-oil-could-impact-three-us-regions-gas-analyst)
-
-[Chevron, Engine No. 1, GE Vernova team up to build US data centers](https://12ft.io/https://apnews.com//www.foxbusiness.com/energy/chevron-engine-no-1-ge-vernova-announce-partnership-power-us-data-centers)
-
-[Taylor Swift's record-breaking Eras Tour ends with $2 billion in ticket sales](https://12ft.io/https://apnews.com//www.foxbusiness.com/entertainment/taylor-swifts-record-breaking-eras-tour-ends-2-billion-ticket-sales)
-
-[Crypto entrepreneur pays $6.2M for viral banana artwork – then eats it](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/crypto-entrepreneur-pays-6-2m-viral-banana-artwork-eats)
-
-[Viral banana artwork duct-taped to wall sells for $6.2M](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/viral-banana-artwork-duct-taped-wall-sells-6-2m)
-
-[Washington photographer files lawsuit alleging viral social media account violated copyright law](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/washington-photographer-files-lawsuit-alleging-viral-social-media-account-violated-copyright-law)
-
-[Drawing owned and cherished by George Washington to hit Philadelphia auction](https://12ft.io/https://apnews.com//www.foxbusiness.com/lifestyle/drawing-owned-george-washington-hit-philadelphia-auction)
-
-[Equities Fall Intraday as Trump-Zelenskyy Meeting Fails to Yield Minerals Deal](https://12ft.io/https://apnews.com/about/plans/select-plan/premiumNews/?.done=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fequities-fall-intraday-trump-zelenskyy-194142105.html&ncid=100001128)
+783 - <a href='https://www.google.com/search?q=TSMTaiwan+Semiconductor+Manufacturing+Company+Limited172.97-7.56%28-4.19%25%29' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://apnews.com/quote/TSM/' target='_blank' rel='noopener noreferrer'>TSMTaiwan Semiconductor Manufacturing Company Limited172.97-7.56(-4.19%)</a>
 
 </details>
 
@@ -1766,13 +1589,9 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[Hew Locke on why art is important in a fractious worldThe renowned British sculptor challenges viewers to pause, reflect, and question his art.See more](https://12ft.io/https://www.bbc.com/arts/arts-in-motion?id=p0krs26l)
+1 - <a href='https://www.google.com/search?q=Forest+reach+FA+Cup+quarter-finals+after+penalty+shootout' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.bbc.com/sport/football/live/cly884qy9z9t' target='_blank' rel='noopener noreferrer'>Forest reach FA Cup quarter-finals after penalty shootout</a>
 
-[Atletico move top of La Liga as Alvarez sinks Athletic Club](https://12ft.io/https://www.bbc.com/sport/football/live/c15q9eg73d9t)
-
-[LIVEAustralia lead England in Las Vegas - women's rugby league TestFollow live text and radio commentary as England face Australia in a women's international rugby league fixture in Las Vegas.](https://12ft.io/https://www.bbc.com/sport/rugby-league/live/c5ymv0y043qt)
-
-[Do not share or sell my info](https://12ft.io/https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/)
+2 - <a href='https://www.google.com/search?q=Do+not+share+or+sell+my+info' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/' target='_blank' rel='noopener noreferrer'>Do not share or sell my info</a>
 
 </details>
 
@@ -1782,137 +1601,127 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[Latest Breaking News Today from Fox News](https://12ft.io/https://www.foxnews.com)
+1 - <a href='https://www.google.com/search?q=Latest+Breaking+News+Today+from+Fox+News' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com' target='_blank' rel='noopener noreferrer'>Latest Breaking News Today from Fox News</a>
 
-[Federal judge rules Trump couldn't fire Biden-appointed head of special counsel office](https://12ft.io/https://www.foxnews.com/politics/federal-judge-rules-trumps-firing-head-special-counsel-unlawful-maintain-his-job)
+2 - <a href='https://www.google.com/search?q=Trump+slams+Zelenskyy+for+statement+on+war+with+Russia%3A+%27Will+not+put+up+with+it+much+longer%21%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/trump-hits-zelenskyy-worst-statement-war-russia-says-us-will-not-put-up-it-much-longer' target='_blank' rel='noopener noreferrer'>Trump slams Zelenskyy for statement on war with Russia: 'Will not put up with it much longer!'</a>
 
-[US kills senior military leader of terrorist organization in precision airstrike](https://12ft.io/https://www.foxnews.com/us/us-kills-senior-military-leader-al-qaeda-affiliate-syria)
+3 - <a href='https://www.google.com/search?q=Liberals%27+reaction+to+Trump-Zelenskyy+feud+prompts+critics+to+issue+Obama+reminder' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/world/double-standards-trumps-row-zelenskyy-recalls-obama-biden-humiliation-netanyahu' target='_blank' rel='noopener noreferrer'>Liberals' reaction to Trump-Zelenskyy feud prompts critics to issue Obama reminder</a>
 
-[Teen girls skip Team USA track event, giving 21-year-old trans athlete victory by default](https://12ft.io/https://www.foxnews.com/sports/women-athletes-dont-compete-vs-transgender-team-usa-track-event-giving-default-victory-trans-athlete)
+4 - <a href='https://www.google.com/search?q=EU+spent+more+on+Russian+fossil+fuels+than+Ukraine+aid+in+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/european-union-spent-more-russian-fossil-fuels-than-ukraine-aid-2024' target='_blank' rel='noopener noreferrer'>EU spent more on Russian fossil fuels than Ukraine aid in 2024</a>
 
-[Trump makes English official language of US, revokes Clinton-era executive order](https://12ft.io/https://www.foxnews.com/politics/trump-signs-executive-order-making-english-official-language-us)
+5 - <a href='https://www.google.com/search?q=Dem+who+went+after+justices+in+ethics+crusade+suffers+richly+ironic+twist+of+fate%2C+critics+say' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/flashback-dem-senator-embroiled-conflict-interest-row-targeted-scotus-ethics-crusade' target='_blank' rel='noopener noreferrer'>Dem who went after justices in ethics crusade suffers richly ironic twist of fate, critics say</a>
 
-[WATCH LIVE: Insights into the stories Americans care about on ‘My View with Lara Trump’](https://12ft.io/https://www.foxnews.com/video/5614615980001)
+6 - <a href='https://www.google.com/search?q=Trump+admin+eyes+%27ruthlessly+aggressive%27+response+after+US+citizen+allegedly+killed+by+cartel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/trump-admin-promises-ruthlessly-aggressive-response-suspected-cartel-killing-us-citizen' target='_blank' rel='noopener noreferrer'>Trump admin eyes 'ruthlessly aggressive' response after US citizen allegedly killed by cartel</a>
 
-[Close US ally enthusiastically greets Zelenskyy day after White House clash with Trump](https://12ft.io/https://www.foxnews.com/world/zelenskyy-meets-british-prime-minister-keir-starmer-london-following-trump-oval-office-clash)
+7 - <a href='https://www.google.com/search?q=WWE+legend+Linda+McMahon+confirmed+to+lead+Education+Department' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/wwe-legend-lead-education-department-after-clinching-final-match-senate' target='_blank' rel='noopener noreferrer'>WWE legend Linda McMahon confirmed to lead Education Department</a>
 
-[WATCH FULL INTERVIEW ON ‘SPECIAL REPORT’](https://12ft.io/https://www.foxnews.com/video/6369462611112)
+8 - <a href='https://www.google.com/search?q=White+House+reveals+the+theme+of+President+Trump%27s+address+to+Congress' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/theme-trumps-address-congress-revealed' target='_blank' rel='noopener noreferrer'>White House reveals the theme of President Trump's address to Congress</a>
 
-[Vance steps into the spotlight](https://12ft.io/https://www.foxnews.com/politics/jd-vance-steps-spotlight-defending-trumps-foreign-policy-oval-office-dustup-zelenskyy)
+9 - <a href='https://www.google.com/search?q=Speaker%27s+guest+list+for+Trump%27s+big+address' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/scoop-speaker-johnson-reveals-guest-list-trumps-big-speech-tuesday' target='_blank' rel='noopener noreferrer'>Speaker's guest list for Trump's big address</a>
 
-[Zelenskyy lays out frustration with Trump admin](https://12ft.io/https://www.foxnews.com/world/zelenskyy-says-ire-trump-began-pro-putin-rhetoric)
+10 - <a href='https://www.google.com/search?q=Trump+to+reveal+future+of+Ukraine+minerals+deal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/ukraine-minerals-deal-happen-after-zelenskyy-fiasco-trump-reveal-address-congress' target='_blank' rel='noopener noreferrer'>Trump to reveal future of Ukraine minerals deal</a>
 
-[Trump declares US 'invasion' is 'over' after new month's migrant encounters show record-low](https://12ft.io/https://www.foxnews.com/politics/trump-reports-illegal-immigrant-encounters-historic-lows-during-first-full-month-office)
+11 - <a href='https://www.google.com/search?q=FOX+News+Channel%27s+coverage+of+Trump%27s+address' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/how-watch-what-know-about-trumps-tuesday-address-joint-session-congress' target='_blank' rel='noopener noreferrer'>FOX News Channel's coverage of Trump's address</a>
 
-[Gene Hackman's business partner recalls hilarious way actor paid off golf bet](https://12ft.io/https://www.foxnews.com/entertainment/gene-hackmans-business-partner-couples-death-really-unnerving-waiting-answers)
+12 - <a href='https://www.google.com/search?q=Bill+Murray+unsure+of+Bob+Woodward%27s+Nixon+reporting+after+%27inaccurate%27+Belushi+tell-all' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/media/bill-murray-says-bob-woodwards-nixon-reporting-soiled-because-inaccurate-book-john-belushi' target='_blank' rel='noopener noreferrer'>Bill Murray unsure of Bob Woodward's Nixon reporting after 'inaccurate' Belushi tell-all</a>
 
-[Man who found Gene Hackman, wife releases statement as he swears himself to secrecy](https://12ft.io/https://www.foxnews.com/entertainment/gene-hackmans-911-caller-distraught-over-couples-mysterious-death-says-treated-people-like-gold)
+13 - <a href='https://www.google.com/search?q=Trump+admin+offering+incentive+to+slash+headcount+at+Education+Department+before+deadline' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/us/education-department-offers-staff-25k-incentive-quit-monday-deadline' target='_blank' rel='noopener noreferrer'>Trump admin offering incentive to slash headcount at Education Department before deadline</a>
 
-[Fox News ChannelPay TV Login RequiredLive](https://12ft.io/https://www.foxnews.com/video/5614615980001)
+14 - <a href='https://www.google.com/search?q=Oscar+winner+praised+for+refreshingly+%27pro-family%27+acceptance+speech' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/media/kieran-culkin-praised-pro-family-acceptance-speech-oscars' target='_blank' rel='noopener noreferrer'>Oscar winner praised for refreshingly 'pro-family' acceptance speech</a>
 
-[TUNE INDon't miss President Trump's joint address to Congress this Tuesday at 9 PM ET](https://12ft.io/https://www.foxnews.com)
+15 - <a href='https://www.google.com/search?q=Boyfriend+of+ousted+%27Super+Mayor%27+hit+with+subpoena+days+after+landslide+election+defeat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/us/feds-subpoena-dolton-illinois-records-tied-ousted-super-mayor-tiffany-henyard-boyfriend' target='_blank' rel='noopener noreferrer'>Boyfriend of ousted 'Super Mayor' hit with subpoena days after landslide election defeat</a>
 
-[TUNE INDon’t miss ‘My View with Lara Trump’ on Saturday at 9PM ET on FOX News Channel](https://12ft.io/https://www.foxnews.com/shows/my-view)
+16 - <a href='https://www.google.com/search?q=Trump+addresses+Ukraine+war+as+foreign+company+announces+massive+US+investment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/video/6369565750112' target='_blank' rel='noopener noreferrer'>Trump addresses Ukraine war as foreign company announces massive US investment</a>
 
-[Commerce10 gifts for book lovers that aren't books](https://12ft.io/https://www.foxnews.com/deals/gift-ideas-book-lovers)
+17 - <a href='https://www.google.com/search?q=Fox+News+ChannelPay+TV+Login+RequiredLive' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/video/5614615980001' target='_blank' rel='noopener noreferrer'>Fox News ChannelPay TV Login RequiredLive</a>
 
-[Protesters crash VP Vance's weekend getaway over how he handled Zelenskyy meeting](https://12ft.io/https://www.foxnews.com/politics/jd-vances-visit-vermont-ski-resort-interrupted-pro-ukraine-demonstrators-following-zelenskyy-exchange)
+18 - <a href='https://www.google.com/search?q=TUNE+INVice+President+JD+Vance+joins+%27Hannity%27+tonight+at+9+PM+ET' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/shows/hannity' target='_blank' rel='noopener noreferrer'>TUNE INVice President JD Vance joins 'Hannity' tonight at 9 PM ET</a>
 
-[Dave Portnoy drops in-depth take on Zelenskyy-Trump debacle](https://12ft.io/https://www.foxnews.com/media/dave-portnoy-drops-depth-take-zelenskyy-trump-debacle-felt-like-watching-bravo-tv)
+19 - <a href='https://www.google.com/search?q=Deals16+travel+essentials+you+need+for+your+first+cruise' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/deals/travel-essentials-for-first-cruise' target='_blank' rel='noopener noreferrer'>Deals16 travel essentials you need for your first cruise</a>
 
-[Vatican issues update on Pope Francis after health ‘suddenly worsened’](https://12ft.io/https://www.foxnews.com/world/vatican-gives-health-update-pope-enters-third-week-hospital)
+20 - <a href='https://www.google.com/search?q=Oscars%2C+Hollywood+torched+on+social+media+for+%27nonsense%27+announcement%3A+%27Give+it+back%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/media/oscars-features-indigenous-land-acknowledgement-roasted-performative-nonsense-social-media' target='_blank' rel='noopener noreferrer'>Oscars, Hollywood torched on social media for 'nonsense' announcement: 'Give it back'</a>
 
-[NFL team reportedly acquires star wide receiver in first major trade of the offseason](https://12ft.io/https://www.foxnews.com/sports/49ers-agree-trade-deebo-samuel-commanders-report)
+21 - <a href='https://www.google.com/search?q=Where+Gene+Hackman+and+wife%E2%80%99s+mysterious+death+case+stands' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/entertainment/gene-hackmans-death-where-investigation-stands-challenges-ahead' target='_blank' rel='noopener noreferrer'>Where Gene Hackman and wife’s mysterious death case stands</a>
 
-[World's most infectious disease serves as 'wake-up call' on how to know if you're at risk](https://12ft.io/https://www.foxnews.com/video/6369485653112)
+22 - <a href='https://www.google.com/search?q=Trump+administration+issues+a+demand+to+Zelenskyy+before+it+will+re-engage' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/video/6369559757112' target='_blank' rel='noopener noreferrer'>Trump administration issues a demand to Zelenskyy before it will re-engage</a>
 
-['Grey's Anatomy' star shares warning signs that led to brain tumor diagnosis](https://12ft.io/https://www.foxnews.com/entertainment/greys-anatomy-star-kate-walsh-shares-very-subtle-warning-signs-ahead-brain-tumor-diagnosis)
+23 - <a href='https://www.google.com/search?q=The+Democrats+who+will+skip+Trump%27s+speech+to+Congress%3A+%27Going+to+spew+a+series+of+lies%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/several-democrats-boycott-trumps-pep-rally-speech-congress' target='_blank' rel='noopener noreferrer'>The Democrats who will skip Trump's speech to Congress: 'Going to spew a series of lies'</a>
 
-[Daughter’s heartbreaking update on first Black GOP congresswoman’s cancer battle](https://12ft.io/https://www.foxnews.com/politics/former-gop-congresswomans-brain-cancer-no-longer-responding-treatment-daughter)
+24 - <a href='https://www.google.com/search?q=Pope+Francis+suffers+medical+crises+during+%27complicated%27+afternoon%2C+Vatican+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/world/pope-francis-suffers-2-acute-respiratory-failure-episodes-vatican-says' target='_blank' rel='noopener noreferrer'>Pope Francis suffers medical crises during 'complicated' afternoon, Vatican says</a>
 
-[Toronto fans boo US anthem at WWE as Pat McAfee calls Canada 'terrible'](https://12ft.io/https://www.foxnews.com/sports/toronto-wrestling-fans-boo-us-national-anthem-wwe-elimination-chamber)
+25 - <a href='https://www.google.com/search?q=PLAY+NOW%21Crosswords%2C+Word+Search%2C+Crazy+Crystals%2C+Stack+%26+Match+and+5+Across%21' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/games' target='_blank' rel='noopener noreferrer'>PLAY NOW!Crosswords, Word Search, Crazy Crystals, Stack & Match and 5 Across!</a>
 
-[PLAY NOW!Crosswords, Word Search, Crazy Crystals, Stack & Match and 5 Across!](https://12ft.io/https://www.foxnews.com/games)
+26 - <a href='https://www.google.com/search?q=Eagles+reportedly+letting+6-time+Pro+Bowler+go+after+Super+Bowl+win' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/sports/eagles-releasing-6-time-pro-bowl-corner-darius-slay-create-cap-space-report' target='_blank' rel='noopener noreferrer'>Eagles reportedly letting 6-time Pro Bowler go after Super Bowl win</a>
 
-[Punk legend dies after silently battling stage 4 cancer for years, family says](https://12ft.io/https://www.foxnews.com/entertainment/new-york-dolls-singer-david-johansen-dead-75-after-daughter-pleads-fans-help)
+27 - <a href='https://www.google.com/search?q=Woman%27s+medical+drama+solved+when+she+gets+her+man+%E2%80%94+and+far+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/health/womans-medical-drama-solved-gets-man-more' target='_blank' rel='noopener noreferrer'>Woman's medical drama solved when she gets her man — and far more</a>
 
-[Murdoch Children’s Research Institute trial aims to treat common and dangerous allergy](https://12ft.io/https://www.foxnews.com/video/6369501469112)
+28 - <a href='https://www.google.com/search?q=Trump+border+policies+spur+Central+America+to+step+up%2C+expert+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/central-america-steps-up-house-deported-migrants-after-trump-makes-clear-u-s-wont-doormat-expert' target='_blank' rel='noopener noreferrer'>Trump border policies spur Central America to step up, expert says</a>
 
-[Second Musk email hits federal inboxes but this delivery leaves no wiggle room](https://12ft.io/https://www.foxnews.com/politics/opms-second-email-federal-employees-asks-what-did-last-week-adds-new-requirement-report)
+29 - <a href='https://www.google.com/search?q=Conservatives+applaud+Hegseth+flipping+script+on+Hillary+Clinton+with+one+picture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/conservatives-rally-around-hegseth-after-turns-tables-hillary-clinton-russia-reset-photo' target='_blank' rel='noopener noreferrer'>Conservatives applaud Hegseth flipping script on Hillary Clinton with one picture</a>
 
-[Famed pro snowboarder who started competing at just nine years old dead at 38](https://12ft.io/https://www.foxnews.com/sports/famed-snowboarder-luke-the-dingo-trembath-dead-38-tribute-from-tony-hawk-others-pour)
+30 - <a href='https://www.google.com/search?q=Political+cartoons+of+the+day' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/politics-cartoons-slideshow' target='_blank' rel='noopener noreferrer'>Political cartoons of the day</a>
 
-['Spooky' real estate property in nature-drenched nook has a few strings attached](https://12ft.io/https://www.foxnews.com/travel/spooky-real-estate-property-nature-drenched-spot-has-strings-attached)
+31 - <a href='https://www.google.com/search?q=10+musical+instrument+starter+kits+for+aspiring+musicians' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/deals/instruments-music-starter-kits' target='_blank' rel='noopener noreferrer'>10 musical instrument starter kits for aspiring musicians</a>
 
-[Israel backs Trump envoy's Gaza truce for Muslim, Jewish holidays](https://12ft.io/https://www.foxnews.com/world/israel-agrees-trump-envoys-gaza-ceasefire-proposal-first-phase-expires)
+32 - <a href='https://www.google.com/search?q=New+%27secret%27+ingredient+in+milk+is+a+game-changer+for+kids%2C+mom+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/food-drink/mother-launches-milk-secret-veggie-flavors-says-maha-movements-timing-serendipitous' target='_blank' rel='noopener noreferrer'>New 'secret' ingredient in milk is a game-changer for kids, mom says</a>
 
-[Political cartoons of the day](https://12ft.io/https://www.foxnews.com/politics/politics-cartoons-slideshow)
+33 - <a href='https://www.google.com/search?q=Test+yourself+on+film+feats%2C+basketball+battlegrounds+and+sizzling+speeches' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-film-feats-basketball-battlegrounds-speeches' target='_blank' rel='noopener noreferrer'>Test yourself on film feats, basketball battlegrounds and sizzling speeches</a>
 
-[March is nutrition month – here are 8 nutrition products that can help you live a healthier life](https://12ft.io/https://www.foxnews.com/deals/nutrition-products)
+34 - <a href='https://www.google.com/search?q=Keep+your+kitchen+spotless+with+these+12+cleaning+products' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/deals/kitchen-cleaning-products' target='_blank' rel='noopener noreferrer'>Keep your kitchen spotless with these 12 cleaning products</a>
 
-[New 'secret' ingredient in milk is a game-changer for kids, mom says](https://12ft.io/https://www.foxnews.com/food-drink/mother-launches-milk-secret-veggie-flavors-says-maha-movements-timing-serendipitous)
+35 - <a href='https://www.google.com/search?q=New+York+governor+declines+to+say+whether+Andrew+Cuomo+is+fit+to+serve+as+mayor' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/media/new-york-governor-declines-say-whether-andrew-cuomo-fit-serve-mayor' target='_blank' rel='noopener noreferrer'>New York governor declines to say whether Andrew Cuomo is fit to serve as mayor</a>
 
-[Remember Gene Hackman's highlights? How did 'America's Worst Mayor' fall from grace?](https://12ft.io/https://www.foxnews.com/lifestyle/fox-news-digitals-news-quiz-february-28-2025)
+36 - <a href='https://www.google.com/search?q=Flight+passenger+says+woman+squatted+in+man%27s+seat+before+offering+to+swap+near+a+baby' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/travel/flight-passenger-says-woman-squatted-mans-seat-offering-swap-near-baby' target='_blank' rel='noopener noreferrer'>Flight passenger says woman squatted in man's seat before offering to swap near a baby</a>
 
-[Already thinking about spring? These 10 garden items can help you prepare](https://12ft.io/https://www.foxnews.com/deals/10-spring-garden-items)
+37 - <a href='https://www.google.com/search?q=Border+Patrol%2C+FBI+reveal+how+they+uncovered+Tren+de+Aragua%E2%80%99s+deadly+rise+to+power' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/us/border-patrol-fbi-leaders-who-first-identified-tren-de-aragua-recount-gangs-rise-power' target='_blank' rel='noopener noreferrer'>Border Patrol, FBI reveal how they uncovered Tren de Aragua’s deadly rise to power</a>
 
-[AOC asks NPR host to clarify the 'problem' when he asks about migrant crisis](https://12ft.io/https://www.foxnews.com/media/aoc-asks-npr-clarify-problem-when-host-asks-about-solving-migrant-crisis)
+38 - <a href='https://www.google.com/search?q=Federal+worker+calls+DOGE+emails+asking+for+five+accomplishments+harassment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/media/federal-worker-says-doge-emails-asking-report-five-accomplishments-week-harassment' target='_blank' rel='noopener noreferrer'>Federal worker calls DOGE emails asking for five accomplishments harassment</a>
 
-[Female athletes lead charge at protest against state governor as recall petition surges online](https://12ft.io/https://www.foxnews.com/sports/maine-female-athletes-lead-charge-march-against-mills-amid-opposition-trumps-trans-sports-order)
+39 - <a href='https://www.google.com/search?q=First+lady+Melania+Trump+addresses+revenge+porn+in+first+Capitol+Hill+roundtable' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/melania-trump-speaks-capitol-hill-first-time-roundtable-focused-punishing-revenge-porn' target='_blank' rel='noopener noreferrer'>First lady Melania Trump addresses revenge porn in first Capitol Hill roundtable</a>
 
-[NFL great reacts to Zelenskyy's White House interaction with Trump: 'A bit unreal to watch'](https://12ft.io/https://www.foxnews.com/sports/brett-favre-calls-zelenskyys-white-house-interaction-trump-unreal-igniting-heated-online-debate)
+40 - <a href='https://www.google.com/search?q=Billions+for+illegal+aliens%E2%80%99+healthcare+in+deep+blue+state+triggers+border+state+outcry' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/skyrocketing-healthcare-costs-illegal-immigrants-sparks-border-state-outcry' target='_blank' rel='noopener noreferrer'>Billions for illegal aliens’ healthcare in deep blue state triggers border state outcry</a>
 
-[Man buys sweet treat for one child, not the other two, sparking debate](https://12ft.io/https://www.foxnews.com/food-drink/man-buys-treat-one-child-not-other-two-asking-trouble)
+41 - <a href='https://www.google.com/search?q=Meghan+Markle+admits+to+making+%E2%80%98mistakes%E2%80%99+in+launching+lifestyle+brand' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/entertainment/meghan-markle-admits-making-mistakes-launching-ever-lifestyle-brand' target='_blank' rel='noopener noreferrer'>Meghan Markle admits to making ‘mistakes’ in launching lifestyle brand</a>
 
-[SEE IT:Scientist makes 100-million-year-old 'massive' discovery near coastal town](https://12ft.io/https://www.foxnews.com/travel/ancient-dinosaur-footprint-dating-100-million-years-discovered-near-coastal-town)
+42 - <a href='https://www.google.com/search?q=%27Anora%27+takes+home+top+prize+at+the+Academy+Awards+%E2%80%94+a+look+at+the+complete+list+of+winners' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/entertainment/oscars-2025-winners-losers' target='_blank' rel='noopener noreferrer'>'Anora' takes home top prize at the Academy Awards — a look at the complete list of winners</a>
 
-[The office behind the Epstein doc cover-up — and Pam Bondi is calling them out](https://12ft.io/https://www.foxnews.com/politics/conservatives-explode-botched-epstein-document-rollout-complete-disappointment)
+43 - <a href='https://www.google.com/search?q=Mom+of+former+Heisman+who+threw+away+NFL+career+over+alcohol+abuse+arrested' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/sports/johnny-manziels-mother-arrested-texas-dwi-charge-report' target='_blank' rel='noopener noreferrer'>Mom of former Heisman who threw away NFL career over alcohol abuse arrested</a>
 
-[Former Dem bigwig unloads on party officials for priorities: 'I don't want to hear another word'](https://12ft.io/https://www.foxnews.com/media/ex-chicago-mayor-rips-current-city-leaders-focus-bathroom-locker-room-instead-crime-education)
+44 - <a href='https://www.google.com/search?q=Inside+the+Trump-Zelensky+battle%21+Mike+Rowe+sounds+alarm+on+workforce+concerns' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/video/6369566214112' target='_blank' rel='noopener noreferrer'>Inside the Trump-Zelensky battle! Mike Rowe sounds alarm on workforce concerns</a>
 
-[Classical pianist points finger in 'cold-faced' murder testimony, police immediately make arrest](https://12ft.io/https://www.foxnews.com/us/juilliard-trained-pianist-convicted-murder-after-mid-trial-confession-leads-additional-arrest)
+45 - <a href='https://www.google.com/search?q=Israel+hit+by+terror+attack%2C+marking+first+deadly+assault+since+ceasefire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/category/topic/anti-semitism' target='_blank' rel='noopener noreferrer'>Israel hit by terror attack, marking first deadly assault since ceasefire</a>
 
-[Andrew Cuomo announces return to politics as he seeks to challenge incumbent Dem](https://12ft.io/https://www.foxnews.com/politics/former-gov-andrew-cuomo-launches-nyc-mayoral-bid)
+46 - <a href='https://www.google.com/search?q=The+diet+a+woman+credits+with+healing+her+mind+and+body+%E2%80%94+and+saving+her+life' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/health/carnivore-diet-save-life-after-decades-anorexia' target='_blank' rel='noopener noreferrer'>The diet a woman credits with healing her mind and body — and saving her life</a>
 
-[Ukraine loses hundreds of troops on same day as Zelenskyy's fallout with Trump](https://12ft.io/https://www.foxnews.com/politics/ukraine-loses-220-troops-same-day-trump-zelenskyy-spat)
+47 - <a href='https://www.google.com/search?q=Jimmy+Johnson+retires+from+FOX+Sports+after+incredible+run+as+NFL+analyst' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/sports/jimmy-johnson-retires-from-fox-sports-after-incredible-run-nfl-analyst' target='_blank' rel='noopener noreferrer'>Jimmy Johnson retires from FOX Sports after incredible run as NFL analyst</a>
 
-[How to watch Demi Moore, Ariana Grande and others at the 2025 Oscars](https://12ft.io/https://www.foxnews.com/entertainment/where-to-watch-oscars-2025)
+48 - <a href='https://www.google.com/search?q=REBEKAH+KOFFLER%3ADon%27t+be+fooled+by+China%27s+weapon+masquerading+as+an+app' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/category/tech/artificial-intelligence' target='_blank' rel='noopener noreferrer'>REBEKAH KOFFLER:Don't be fooled by China's weapon masquerading as an app</a>
 
-[Dem governor halts university's plans to fill role that allegedly peddles antisemitism](https://12ft.io/https://www.foxnews.com/category/topic/anti-semitism)
+49 - <a href='https://www.google.com/search?q=KITCHEN+CABINET%3ADelicious+recipes%2C+surprising+power+foods+%26+juicy+secrets+to+eating+better' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/food-drink' target='_blank' rel='noopener noreferrer'>KITCHEN CABINET:Delicious recipes, surprising power foods & juicy secrets to eating better</a>
 
-[The infamous botched music festival is back as founder fans the flames for round 2](https://12ft.io/https://www.foxnews.com/us/convicted-fyre-fest-fraudster-billy-mcfarland-return-mexico-sounds-like-ticking-time-bomb-experts)
+50 - <a href='https://www.google.com/search?q=VACATION+MODE%3ADiscover+your+next+getaway%2C+travel+hacks+%26+expert+recommendations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/travel' target='_blank' rel='noopener noreferrer'>VACATION MODE:Discover your next getaway, travel hacks & expert recommendations</a>
 
-[FOX News Channel has best February in network history](https://12ft.io/https://www.foxnews.com/media/fox-news-channel-has-best-february-network-history-crushes-cnn-msnbc)
+51 - <a href='https://www.google.com/search?q=PICTURE+OF+HEALTH%3ADoctors+on+call+for+you%2C+tips+to+staying+fit+%26+key+warning+signs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/health' target='_blank' rel='noopener noreferrer'>PICTURE OF HEALTH:Doctors on call for you, tips to staying fit & key warning signs</a>
 
-[People are ditching real-life therapists for artificial intelligence](https://12ft.io/https://www.foxnews.com/category/tech/artificial-intelligence)
+52 - <a href='https://www.google.com/search?q=FUN+FACTS%3AIf+Earth+had+a+lifespan+like+a+human%2C+we+would+have+lived+for+only+50+seconds' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/media/fun-facts-animal-most-eyes-world-scallop' target='_blank' rel='noopener noreferrer'>FUN FACTS:If Earth had a lifespan like a human, we would have lived for only 50 seconds</a>
 
-[KITCHEN CABINET:Delicious recipes, surprising power foods & juicy secrets to eating better](https://12ft.io/https://www.foxnews.com/food-drink)
+53 - <a href='https://www.google.com/search?q=5+years+post-COVID%2C+Americans+DIVIDED' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/health/5-years-after-covid-americans-split-whether-still-threat' target='_blank' rel='noopener noreferrer'>5 years post-COVID, Americans DIVIDED</a>
 
-[VACATION MODE:Discover your next getaway, travel hacks & expert recommendations](https://12ft.io/https://www.foxnews.com/travel)
+54 - <a href='https://www.google.com/search?q=Man+overcomes+FEAR+of+FLYING' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/travel/man-lifelong-fear-flying-reveals-americans-shouldnt-worry-expert-weighs' target='_blank' rel='noopener noreferrer'>Man overcomes FEAR of FLYING</a>
 
-[PICTURE OF HEALTH:Doctors on call for you, tips to staying fit & key warning signs](https://12ft.io/https://www.foxnews.com/health)
+55 - <a href='https://www.google.com/search?q=Dietitian+shares+3+EGGLESS+recipes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/food-drink/dietitian-shares-simple-eggless-breakfast-recipes-egg-prices-soar' target='_blank' rel='noopener noreferrer'>Dietitian shares 3 EGGLESS recipes</a>
 
-[FUN FACTS:This word is the longest word you can type with just your left hand](https://12ft.io/https://www.foxnews.com/media/fun-facts-animal-most-eyes-world-scallop)
+56 - <a href='https://www.google.com/search?q=Hackman+death%3A+Forensic+expert+shares+opinion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/entertainment/gene-hackman-wifes-cause-death-forensic-expert-shares-opinion-unusual-circumstances' target='_blank' rel='noopener noreferrer'>Hackman death: Forensic expert shares opinion</a>
 
-[5 years post-COVID, Americans DIVIDED](https://12ft.io/https://www.foxnews.com/health/5-years-after-covid-americans-split-whether-still-threat)
+57 - <a href='https://www.google.com/search?q=Drugs+that+reduce+DEMENTIA+RISK' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/health/drugs-reduce-dementia-risk-others-increase' target='_blank' rel='noopener noreferrer'>Drugs that reduce DEMENTIA RISK</a>
 
-[Man overcomes FEAR of FLYING](https://12ft.io/https://www.foxnews.com/travel/man-lifelong-fear-flying-reveals-americans-shouldnt-worry-expert-weighs)
+58 - <a href='https://www.google.com/search?q=Why+there%27s+always+room+for+DESSERT' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/food-drink/dessert-stomach-brain-say-scientists' target='_blank' rel='noopener noreferrer'>Why there's always room for DESSERT</a>
 
-[NEW details in Hackman, wife's investigation](https://12ft.io/https://www.foxnews.com/entertainment/gene-hackman-wife-could-have-been-dead-weeks-pills-found-scene-something-concern-police)
+59 - <a href='https://www.google.com/search?q=Israel+hit+by+terror+attack%2C+marking+first+deadly+assault+since+ceasefire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/category/topic/anti-semitism' target='_blank' rel='noopener noreferrer'>Israel hit by terror attack, marking first deadly assault since ceasefire</a>
 
-[Dietitian shares 3 EGGLESS recipes](https://12ft.io/https://www.foxnews.com/food-drink/dietitian-shares-simple-eggless-breakfast-recipes-egg-prices-soar)
+60 - <a href='https://www.google.com/search?q=Don%27t+be+fooled+by+China%27s+weapon+masquerading+as+an+app' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/category/tech/artificial-intelligence' target='_blank' rel='noopener noreferrer'>Don't be fooled by China's weapon masquerading as an app</a>
 
-[Blake Lively shut DOWN by judge](https://12ft.io/https://www.foxnews.com/entertainment/blake-lively-shut-down-judge-justin-baldoni-case-overly-intrusive-request)
-
-[Drugs that reduce DEMENTIA RISK](https://12ft.io/https://www.foxnews.com/health/drugs-reduce-dementia-risk-others-increase)
-
-[Why there's always room for DESSERT](https://12ft.io/https://www.foxnews.com/food-drink/dessert-stomach-brain-say-scientists)
-
-[Dem governor halts university's plans to fill role that allegedly peddles antisemitism](https://12ft.io/https://www.foxnews.com/category/topic/anti-semitism)
-
-[People are ditching real-life therapists for artificial intelligence](https://12ft.io/https://www.foxnews.com/category/tech/artificial-intelligence)
-
-[Political cartoons of the day](https://12ft.io/https://www.foxnews.com/politics/politics-cartoons-slideshow)
+61 - <a href='https://www.google.com/search?q=Political+cartoons+of+the+day' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxnews.com/politics/politics-cartoons-slideshow' target='_blank' rel='noopener noreferrer'>Political cartoons of the day</a>
 
 </details>
 
@@ -1922,85 +1731,343 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[Condo crisis brewing as developers cite rising costs to prevent disaster in red haven](https://12ft.io/https://www.foxbusiness.com/media/florida-condo-crisis-brewing-developers-claim-rising-costs-necessary-prevent-disaster)
+1 - <a href='https://www.google.com/search?q=Fox+Business+ChannelPay+TV+Login+Required' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/' target='_blank' rel='noopener noreferrer'>Fox Business ChannelPay TV Login Required</a>
 
-[Flames in the sky as Boeing plane is forced to make emergency landing](https://12ft.io/https://www.foxbusiness.com/video/6369491345112)
+2 - <a href='https://www.google.com/search?q=Trump+announces+massive+investment+from+chipmaking+giant+in+US+manufacturing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/markets/chip-giant-tsmc-invest-100b-us-manufacturing' target='_blank' rel='noopener noreferrer'>Trump announces massive investment from chipmaking giant in US manufacturing</a>
 
-[Fox Business ChannelPay TV Login Required](https://12ft.io/https://www.foxbusiness.com/)
+3 - <a href='https://www.google.com/search?q=Massive+power+outage+at+airport+impacts+thousands+with+extensive+delays' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/massive-power-outage-bwi-airport-impacts-thousands-passengers-extensive-delays' target='_blank' rel='noopener noreferrer'>Massive power outage at airport impacts thousands with extensive delays</a>
 
-[Tech giant reveals likely cause of outage that affected customers nationwide](https://12ft.io/https://www.foxbusiness.com/technology/thousands-microsoft-customers-affected-large-scale-outage)
+4 - <a href='https://www.google.com/search?q=Check+little-known+iPhone+folder+stealing+your+storage+and+delete+everything+in+it' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/video/6369521090112' target='_blank' rel='noopener noreferrer'>Check little-known iPhone folder stealing your storage and delete everything in it</a>
 
-[SEE PICS:Popular sportswear CEO parting ways with 'iconic' horse farm](https://12ft.io/https://www.foxbusiness.com/real-estate/under-armour-ceo-selling-22-million-maryland-horse-farm)
+5 - <a href='https://www.google.com/search?q=Domino%27s+Pizza+launches+new+menu+item+to+compete+with+rivals' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/dominos-pizza-debuts-stuffed-crust-effort-boost-sales' target='_blank' rel='noopener noreferrer'>Domino's Pizza launches new menu item to compete with rivals</a>
 
-[Tech giant reveals likely cause of outage that affected customers nationwide](https://12ft.io/https://www.foxbusiness.com/technology/thousands-microsoft-customers-affected-large-scale-outage)
+6 - <a href='https://www.google.com/search?q=Billionaire+invokes+the+%27Tooth+Fairy%27+for+Trump%27s+crackdown+on+neighboring+nations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/politics/warren-buffett-says-tariffs-economic-act-war-tooth-fairy-doesnt-pay-em' target='_blank' rel='noopener noreferrer'>Billionaire invokes the 'Tooth Fairy' for Trump's crackdown on neighboring nations</a>
 
-[Gene Hackman's net worth after legendary career on the silver screen](https://12ft.io/https://www.foxbusiness.com/entertainment/gene-hackmans-acting-career-spanned-four-decades-what-his-net-worth)
+7 - <a href='https://www.google.com/search?q=What+farmers+think+about+Trump%27s+plan+to+combat+egg+crisis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/farmers-react-trumps-plan-combat-egg-crisis' target='_blank' rel='noopener noreferrer'>What farmers think about Trump's plan to combat egg crisis</a>
 
-[Boxing legend says President Trump is an uppercut above the rest](https://12ft.io/https://www.foxbusiness.com/media/floyd-mayweather-praises-trump-being-best-president-great-businessman)
+8 - <a href='https://www.google.com/search?q=Trump+announces+massive+investment+from+chipmaking+giant+in+US+manufacturing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/markets/chip-giant-tsmc-invest-100b-us-manufacturing' target='_blank' rel='noopener noreferrer'>Trump announces massive investment from chipmaking giant in US manufacturing</a>
 
-[Hollywood actress’s LA home hits the market for whopping price](https://12ft.io/https://www.foxbusiness.com/fox-news-entertainment/nicollette-sheridans-la-home-market-12-9-million)
+9 - <a href='https://www.google.com/search?q=Billionaire+hedge+fund+manager+warns+of+%27economic+heart+attack%27+for+US+economy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/billionaire-hedge-fund-manager-warns-economic-heart-attack-us-economy' target='_blank' rel='noopener noreferrer'>Billionaire hedge fund manager warns of 'economic heart attack' for US economy</a>
 
-[CEO behind DOGE dividend details Trump-backed plan to 'pay restitution' to taxpayer](https://12ft.io/https://www.foxbusiness.com/media/ceo-behind-doge-dividend-details-trump-backed-plan-pay-restitution-taxpayer)
+10 - <a href='https://www.google.com/search?q=Trump+tariffs+against+%27external%27+agricultural+products+to+begin+next+month' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/trump-says-tariffs-external-agricultural-products-begin-april-2' target='_blank' rel='noopener noreferrer'>Trump tariffs against 'external' agricultural products to begin next month</a>
 
-[SEE PICS:Popular sportswear CEO parting ways with 'iconic' horse farm](https://12ft.io/https://www.foxbusiness.com/real-estate/under-armour-ceo-selling-22-million-maryland-horse-farm)
+11 - <a href='https://www.google.com/search?q=Fast+food+CEO+reveals+pricing+strategy+as+Trump%27s+crackdown+hits+this+month' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/chipotle-ceo-details-how-chain-handle-trump-tariff-costs' target='_blank' rel='noopener noreferrer'>Fast food CEO reveals pricing strategy as Trump's crackdown hits this month</a>
 
-[Former energy secretary on how long it will take Trump to get Keystone up and running](https://12ft.io/https://www.foxbusiness.com/media/ex-trump-energy-secretary-shares-how-long-could-take-finish-keystone-pipeline)
+12 - <a href='https://www.google.com/search?q=What+farmers+think+about+Trump%27s+solution+to+combat+egg+crisis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/farmers-react-trumps-plan-combat-egg-crisis' target='_blank' rel='noopener noreferrer'>What farmers think about Trump's solution to combat egg crisis</a>
 
-[Flames in the sky as Boeing plane is forced to make emergency landing](https://12ft.io/https://www.foxbusiness.com/video/6369491345112)
+13 - <a href='https://www.google.com/search?q=Massive+power+outage+at+airport+impacts+thousands+with+extensive+delays' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/massive-power-outage-bwi-airport-impacts-thousands-passengers-extensive-delays' target='_blank' rel='noopener noreferrer'>Massive power outage at airport impacts thousands with extensive delays</a>
 
-[KUDLOW:Biden left Trump a really lousy economy](https://12ft.io/https://www.foxbusiness.com/video/6369410763112)
+14 - <a href='https://www.google.com/search?q=Billionaire+invokes+the+%27Tooth+Fairy%27+for+Trump%27s+crackdown+on+neighboring+nations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/politics/warren-buffett-says-tariffs-economic-act-war-tooth-fairy-doesnt-pay-em' target='_blank' rel='noopener noreferrer'>Billionaire invokes the 'Tooth Fairy' for Trump's crackdown on neighboring nations</a>
 
-[The latest news from Main Street to Wall Street on Fox Business](https://12ft.io/https://www.foxbusiness.com/video/5640669329001)
+15 - <a href='https://www.google.com/search?q=Shark+warns+Trudeau+and+Trump%27s+relationship+has+%27just+gotten+worse%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/media/oleary-warns-trump-trudeau-very-negative-relationship-has-just-gotten-worse' target='_blank' rel='noopener noreferrer'>Shark warns Trudeau and Trump's relationship has 'just gotten worse'</a>
 
-[Restaurant favorites will be wiped 'off the map' nationwide, expert warns](https://12ft.io/https://www.foxbusiness.com/economy/expect-more-restaurant-bankruptcies-2025-expert-says)
+16 - <a href='https://www.google.com/search?q=KUDLOW%3AMineral+deal+is+best+%27security+trip+wire%27+Ukraine+could+hope+for' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/video/6369565694112' target='_blank' rel='noopener noreferrer'>KUDLOW:Mineral deal is best 'security trip wire' Ukraine could hope for</a>
 
-[US investment giant flips script on DEI policies in company-wide email](https://12ft.io/https://www.foxbusiness.com/politics/blackrock-flips-script-dei-policies-company-wide-email-announcing-several-changes)
+17 - <a href='https://www.google.com/search?q=The+latest+news+from+Main+Street+to+Wall+Street+on+Fox+Business' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/video/5640669329001' target='_blank' rel='noopener noreferrer'>The latest news from Main Street to Wall Street on Fox Business</a>
 
-[McDonald's CEO gives three predictions for fast-food restaurant business](https://12ft.io/https://www.foxbusiness.com/lifestyle/mcdonalds-ceo-gives-3-predictions-restaurant-biz-2025)
+18 - <a href='https://www.google.com/search?q=Top+Trump+official+blames+Zelenskyy+for+threatening+deal+after+spat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/politics/treasury-sec-blames-zelenskyy-threatening-peace-deal-he-chose-blow-up' target='_blank' rel='noopener noreferrer'>Top Trump official blames Zelenskyy for threatening deal after spat</a>
 
-[Mark Zuckerberg channels Benson Boone during wife's birthday bash](https://12ft.io/https://www.foxbusiness.com/lifestyle/mark-zuckerberg-channels-musician-benson-boone-during-wifes-birthday-bash)
+19 - <a href='https://www.google.com/search?q=Fast+food+chain%27s+famous+fries+get+%E2%80%98RFK%27+makeover+%E2%80%94+so+what+does+that+mean%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/media/fast-food-chain-says-theyve-rfkd-fries-opting-healthier-cooking-alternative' target='_blank' rel='noopener noreferrer'>Fast food chain's famous fries get ‘RFK' makeover — so what does that mean?</a>
 
-[National retailer is bringing popular eyeglass shops to its stores](https://12ft.io/https://www.foxbusiness.com/retail/target-bringing-warby-parker-eyeglass-shops-stores)
+20 - <a href='https://www.google.com/search?q=World+leader+channels+Trump+with+identical+message+to+voters' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/fox-news-world/just-like-trump-hungarian-leader-orban-wants-more-babies-his-country-offering-big-incentives' target='_blank' rel='noopener noreferrer'>World leader channels Trump with identical message to voters</a>
 
-[Trump slated to host Crypto Summit in first-of-its-kind event at White House](https://12ft.io/https://www.foxbusiness.com/politics/trump-slated-host-crypto-summit-white-house)
+21 - <a href='https://www.google.com/search?q=The+Wall+Street+of+the+South+has+a+hot+luxury+real+estate+market' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/real-estate/palm-beach-wall-street-south-has-hot-luxury-real-estate-market' target='_blank' rel='noopener noreferrer'>The Wall Street of the South has a hot luxury real estate market</a>
 
-[Google officially becomes latest big company to backtrack on DEI programs](https://12ft.io/https://www.foxbusiness.com/media/google-has-officially-begun-unwinding-dei-programs-source)
+22 - <a href='https://www.google.com/search?q=Track+the+US+national+debt%27s+rapid+rise+in+real+time' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/us-national-debt-tracker' target='_blank' rel='noopener noreferrer'>Track the US national debt's rapid rise in real time</a>
 
-[Portnoy gives details of being asked to join Trump’s commerce department](https://12ft.io/https://www.foxbusiness.com/media/portnoy-calls-out-elon-musk-running-doge-while-tesla-stock-drops-says-shareholders-entitled-ask)
+23 - <a href='https://www.google.com/search?q=Dow+falls+649+points%2C+S%26P%2C+Nasdaq+slide+on+tariff+fears' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/markets/dow-falls-649-points-sp-nasdaq-slide-tariff-fears' target='_blank' rel='noopener noreferrer'>Dow falls 649 points, S&P, Nasdaq slide on tariff fears</a>
 
-[Gold prices see massive vote of confidence on central bank demand](https://12ft.io/https://www.foxbusiness.com/markets/why-gold-prices-could-hit-3000-despite-volatility)
+24 - <a href='https://www.google.com/search?q=Trump+admin+ditches+%27outrageous%27+Biden-era+rule+for+money-making+Americans' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/small-business/trump-praises-treasury-departments-move-suspend-enforcement-boi-requirements' target='_blank' rel='noopener noreferrer'>Trump admin ditches 'outrageous' Biden-era rule for money-making Americans</a>
 
-[Americans shying away from buying homes as sales fall to record low](https://12ft.io/https://www.foxbusiness.com/economy/us-pending-home-sales-fall-record-low-january)
+25 - <a href='https://www.google.com/search?q=CEO+of+major+grocer+resigns+after+investigation+into+his+%27personal+conduct%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/kroger-ceo-resigns-after-board-investigation-his-personal-conduct' target='_blank' rel='noopener noreferrer'>CEO of major grocer resigns after investigation into his 'personal conduct'</a>
 
-[Social Security benefits to rise for some public pension recipients](https://12ft.io/https://www.foxbusiness.com/economy/social-security-payments-increase-public-pension-recipients)
+26 - <a href='https://www.google.com/search?q=Trump+tariffs+on+Mexico%2C+Canada%2C+China+just+hours+away+from+hitting' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/politics/trump-tariffs-mexico-canada-china-hours-away-from-hitting-midnight' target='_blank' rel='noopener noreferrer'>Trump tariffs on Mexico, Canada, China just hours away from hitting</a>
 
-[Musk urges 'top notch' retired air traffic controllers to return to work](https://12ft.io/https://www.foxbusiness.com/lifestyle/elon-musk-wants-top-notch-retired-air-traffic-controllers-consider-returning-work)
+27 - <a href='https://www.google.com/search?q=Domino%27s+launches+new+menu+item+to+compete+with+rivals' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/dominos-pizza-debuts-stuffed-crust-effort-boost-sales' target='_blank' rel='noopener noreferrer'>Domino's launches new menu item to compete with rivals</a>
 
-[Inflation gauge favored by Fed showed prices grew as expected in January](https://12ft.io/https://www.foxbusiness.com/economy/january-2025-pce)
+28 - <a href='https://www.google.com/search?q=Musk+welcomes+14th+child%2C+his+fourth+baby+with+Neuralink+director' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/business-leaders/baby-14-neuralink-director-shivon-zilis-elon-musk-welcome-fourth-child-together' target='_blank' rel='noopener noreferrer'>Musk welcomes 14th child, his fourth baby with Neuralink director</a>
 
-[Trump announces when tariffs against Mexico, Canada will go into effect](https://12ft.io/https://www.foxbusiness.com/politics/mexico-canada-tariffs-implemented-due-unacceptable-drug-flow-trump-says)
+29 - <a href='https://www.google.com/search?q=Gene+Hackman%27s+net+worth+after+legendary+career+on+the+silver+screen' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/entertainment/gene-hackmans-acting-career-spanned-four-decades-what-his-net-worth' target='_blank' rel='noopener noreferrer'>Gene Hackman's net worth after legendary career on the silver screen</a>
 
-[Companies building robots to combat loneliness epidemic and bring emotional support](https://12ft.io/https://www.foxbusiness.com/technology/companies-building-robots-combat-loneliness-epidemic-bring-emotional-support)
+30 - <a href='https://www.google.com/search?q=Volkswagen+to+recall+more+than+60%2C000+electric+cars+over+display+issue' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/volkswagen-recall-more-than-60000-electric-cars-over-display-issue' target='_blank' rel='noopener noreferrer'>Volkswagen to recall more than 60,000 electric cars over display issue</a>
 
-[Eggs are not the only expensive food as another American staple sees price hike](https://12ft.io/https://www.foxbusiness.com/economy/eggs-not-only-expensive-food-beef-prices-also-rise)
+31 - <a href='https://www.google.com/search?q=Trump+slated+to+host+Crypto+Summit+in+first-of-its-kind+event+at+White+House' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/politics/trump-slated-host-crypto-summit-white-house' target='_blank' rel='noopener noreferrer'>Trump slated to host Crypto Summit in first-of-its-kind event at White House</a>
 
-[Former SpaceX employee shares what working under Elon Musk is really like](https://12ft.io/https://www.foxbusiness.com/media/former-spacex-employee-divulges-what-working-under-elon-musk-really-like)
+32 - <a href='https://www.google.com/search?q=Portnoy+gives+details+of+being+asked+to+join+Trump%E2%80%99s+commerce+department' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/media/portnoy-calls-out-elon-musk-running-doge-while-tesla-stock-drops-says-shareholders-entitled-ask' target='_blank' rel='noopener noreferrer'>Portnoy gives details of being asked to join Trump’s commerce department</a>
 
-[Mortgage rates fall to lowest level in over two months as inventory improves](https://12ft.io/https://www.foxbusiness.com/economy/mortgage-rates-2-27-25)
+33 - <a href='https://www.google.com/search?q=Gold+prices+see+massive+vote+of+confidence+on+central+bank+demand' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/markets/why-gold-prices-could-hit-3000-despite-volatility' target='_blank' rel='noopener noreferrer'>Gold prices see massive vote of confidence on central bank demand</a>
 
-[Medical research giant touts massive new $27B investment in America](https://12ft.io/https://www.foxbusiness.com/economy/eli-lilly-investing-27b-more-us-manufacturing)
+34 - <a href='https://www.google.com/search?q=Americans+shying+away+from+buying+homes+as+sales+fall+to+record+low' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/us-pending-home-sales-fall-record-low-january' target='_blank' rel='noopener noreferrer'>Americans shying away from buying homes as sales fall to record low</a>
 
-[Americans' retirement balances jump as 'golden years' funds near record territory](https://12ft.io/https://www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity)
+35 - <a href='https://www.google.com/search?q=Social+Security+benefits+to+rise+for+some+public+pension+recipients' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/social-security-payments-increase-public-pension-recipients' target='_blank' rel='noopener noreferrer'>Social Security benefits to rise for some public pension recipients</a>
 
-[What happened to the economy during Biden's final months in office? New numbers released](https://12ft.io/https://www.foxbusiness.com/economy/us-economy-gdp-q4-2024-2nd-estimate)
+36 - <a href='https://www.google.com/search?q=Musk+urges+%27top+notch%27+retired+air+traffic+controllers+to+return+to+work' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/lifestyle/elon-musk-wants-top-notch-retired-air-traffic-controllers-consider-returning-work' target='_blank' rel='noopener noreferrer'>Musk urges 'top notch' retired air traffic controllers to return to work</a>
 
-[Subway to bring back discounted footlong sandwiches](https://12ft.io/https://www.foxbusiness.com/lifestyle/subway-bring-back-discounted-footlong-sandwiches)
+37 - <a href='https://www.google.com/search?q=Inflation+gauge+favored+by+Fed+showed+prices+grew+as+expected+in+January' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/january-2025-pce' target='_blank' rel='noopener noreferrer'>Inflation gauge favored by Fed showed prices grew as expected in January</a>
 
-[Costco announces big expansion across America — see where new stores will open](https://12ft.io/https://www.foxbusiness.com/economy/costco-announces-9-new-stores-opening-2025-starting-6-march)
+38 - <a href='https://www.google.com/search?q=Trump+announces+when+tariffs+against+Mexico%2C+Canada+will+go+into+effect' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/politics/mexico-canada-tariffs-implemented-due-unacceptable-drug-flow-trump-says' target='_blank' rel='noopener noreferrer'>Trump announces when tariffs against Mexico, Canada will go into effect</a>
 
-[The 'world-class talent' who's actually leading DOGE — and it isn't Elon Musk](https://12ft.io/https://www.foxbusiness.com/politics/who-doges-newly-identified-administrator-amy-gleason-world-class-talent)
+39 - <a href='https://www.google.com/search?q=Companies+building+robots+to+combat+loneliness+epidemic+and+bring+emotional+support' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/technology/companies-building-robots-combat-loneliness-epidemic-bring-emotional-support' target='_blank' rel='noopener noreferrer'>Companies building robots to combat loneliness epidemic and bring emotional support</a>
 
-[Who gets stuck with the bill for hiked prices on imported Canadian oil?](https://12ft.io/https://www.foxbusiness.com/politics/who-gets-stuck-bill-tariffs-imported-canadian-oil)
+40 - <a href='https://www.google.com/search?q=Eggs+are+not+the+only+expensive+food+as+another+American+staple+sees+price+hike' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/eggs-not-only-expensive-food-beef-prices-also-rise' target='_blank' rel='noopener noreferrer'>Eggs are not the only expensive food as another American staple sees price hike</a>
+
+41 - <a href='https://www.google.com/search?q=Americans%27+retirement+balances+jump+as+%27golden+years%27+funds+near+record+territory' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/personal-finance/401k-balances-hit-second-highest-record-fidelity' target='_blank' rel='noopener noreferrer'>Americans' retirement balances jump as 'golden years' funds near record territory</a>
+
+42 - <a href='https://www.google.com/search?q=What+happened+to+the+economy+during+Biden%27s+final+months+in+office%3F+New+numbers+released' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.foxbusiness.com/economy/us-economy-gdp-q4-2024-2nd-estimate' target='_blank' rel='noopener noreferrer'>What happened to the economy during Biden's final months in office? New numbers released</a>
+
+</details>
+
+# Wall Street Journal
+
+<details>
+<summary>View Articles</summary>
+<br>
+
+1 - <a href='https://www.google.com/search?q=Personal+Tech+by+Joanna+Stern' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/news/author/joanna-stern?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Personal Tech by Joanna Stern</a>
+
+2 - <a href='https://www.google.com/search?q=Family+%26+Tech+by+Julie+Jargon' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/news/author/julie-jargon?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Family & Tech by Julie Jargon</a>
+
+3 - <a href='https://www.google.com/search?q=Personal+Tech+by+Nicole+Nguyen' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/news/author/nicole-nguyen?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Personal Tech by Nicole Nguyen</a>
+
+4 - <a href='https://www.google.com/search?q=All+Things+with+Kim+Strassel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/news/types/all-things-with-kim-strassel?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>All Things with Kim Strassel</a>
+
+5 - <a href='https://www.google.com/search?q=Off+Brand+by+Rory+Satran' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/news/author/rory-satran?mod=nav_top_subsection' target='_blank' rel='noopener noreferrer'>Off Brand by Rory Satran</a>
+
+6 - <a href='https://www.google.com/search?q=Trump+Says+Canada%2C+Mexico+Tariffs+Will+Take+Effect+Tuesday' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/economy/trade/trump-tariffs-canada-mexico-china-trade-4e610130?mod=WSJ_home_mediumtopper_pos_1' target='_blank' rel='noopener noreferrer'>Trump Says Canada, Mexico Tariffs Will Take Effect Tuesday</a>
+
+7 - <a href='https://www.google.com/search?q=Stock+indexes+tumble+after+president+says+there+is+%E2%80%98no+room+left%E2%80%99+for+negotiation' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/economy/trade/trump-tariffs-canada-mexico-china-trade-4e610130' target='_blank' rel='noopener noreferrer'>Stock indexes tumble after president says there is ‘no room left’ for negotiation</a>
+
+8 - <a href='https://www.google.com/search?q=Inside+One+CEO%E2%80%99s+Impossible+Mission+to+Stay+Ahead+of+Trump%E2%80%99s+Tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/a-manufacturer-tried-to-get-ahead-of-trumps-tariffs-it-still-got-whipsawed-371e6f05' target='_blank' rel='noopener noreferrer'>Inside One CEO’s Impossible Mission to Stay Ahead of Trump’s Tariffs</a>
+
+9 - <a href='https://www.google.com/search?q=Nasdaq+Leads+Indexes+Lower+With++2.6%25+Drop' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-03-03-2025?mod=WSJ_home_mediumtopper_pos_2' target='_blank' rel='noopener noreferrer'>Nasdaq Leads Indexes Lower With  2.6% Drop</a>
+
+10 - <a href='https://www.google.com/search?q=How+Much+Do+Tariffs+Raise+Prices%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/economy/trade/how-do-tariffs-affect-prices-trump-plan-009aa14e?mod=WSJ_home_mediumtopper_pos_3' target='_blank' rel='noopener noreferrer'>How Much Do Tariffs Raise Prices?</a>
+
+11 - <a href='https://www.google.com/search?q=On+Another+Tariff+Eve%2C+Here+Is+the+Impact+to+U.S.+Autos' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/autos/on-another-tariff-eve-here-is-the-impact-to-u-s-autos-c6592b0a?mod=WSJ_home_mediumtopper_pos_4' target='_blank' rel='noopener noreferrer'>On Another Tariff Eve, Here Is the Impact to U.S. Autos</a>
+
+12 - <a href='https://www.google.com/search?q=U.S.+Hitting+Brakes+on+Flow+of+Arms+to+Ukraine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/politics/national-security/u-s-hitting-brakes-on-flow-of-arms-to-ukraine-980a71d1?mod=hp_lead_pos1' target='_blank' rel='noopener noreferrer'>U.S. Hitting Brakes on Flow of Arms to Ukraine</a>
+
+13 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Embrace+of+Russia+Rocks+NATO' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/world/europe/trumps-embrace-of-russia-rocks-nato-alliance-9cc0d63a?mod=hp_lead_pos2' target='_blank' rel='noopener noreferrer'>Trump’s Embrace of Russia Rocks NATO</a>
+
+14 - <a href='https://www.google.com/search?q=European+Defense+Stocks+Surge+as+Leaders+Aim+to+Broker+Peace+Plan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-03-03-2025/card/european-defense-stocks-surge-after-leaders-aim-to-broker-ukraine-peace-plan-iBNOEZ9egXgqNYTxaaaB' target='_blank' rel='noopener noreferrer'>European Defense Stocks Surge as Leaders Aim to Broker Peace Plan</a>
+
+15 - <a href='https://www.google.com/search?q=Linda+McMahon+Is+Confirmed+as+Trump%E2%80%99s+Education+Secretary' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/politics/policy/linda-mcmahon-education-secretary-trump-d7ac5f3b?mod=hp_lead_pos3' target='_blank' rel='noopener noreferrer'>Linda McMahon Is Confirmed as Trump’s Education Secretary</a>
+
+16 - <a href='https://www.google.com/search?q=Trump+Has+Glossed+Over+High+Prices.+Republicans+Worry+It+Will+Cost+Them.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/politics/policy/trump-lower-prices-inflation-republican-concern-a5bf923a?mod=hp_lead_pos4' target='_blank' rel='noopener noreferrer'>Trump Has Glossed Over High Prices. Republicans Worry It Will Cost Them.</a>
+
+17 - <a href='https://www.google.com/search?q=Kroger+CEO+Resigns+After+Probe+Into+Personal+Conduct' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/retail/kroger-ceo-rodney-mcmullen-resigns-after-investigation-of-personal-conduct-507398ad?mod=hp_lead_pos5' target='_blank' rel='noopener noreferrer'>Kroger CEO Resigns After Probe Into Personal Conduct</a>
+
+18 - <a href='https://www.google.com/search?q=Trump%2C+TSMC+Announce+%24100+Billion+Investment+in+U.S.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399?mod=hp_lead_pos6' target='_blank' rel='noopener noreferrer'>Trump, TSMC Announce $100 Billion Investment in U.S.</a>
+
+19 - <a href='https://www.google.com/search?q=The+D.C.+Power+Broker+Embroiled+in+a+Global+Hacking+Scandal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/who-is-justin-peterson-119ca3ba?mod=hp_lead_pos7' target='_blank' rel='noopener noreferrer'>The D.C. Power Broker Embroiled in a Global Hacking Scandal</a>
+
+20 - <a href='https://www.google.com/search?q=Home+Values+About+to+Fall%3F+It+Depends+on+the+Location' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/economy/housing/are-homes-values-about-to-fall-it-depends-on-the-location-f61e8ea5?mod=hp_lead_pos8' target='_blank' rel='noopener noreferrer'>Home Values About to Fall? It Depends on the Location</a>
+
+21 - <a href='https://www.google.com/search?q=Home-Selling+Season+Starts+After+L.A.+Wildfires%E2%80%94and+There+Is+Demand' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/real-estate/home-selling-season-starts-after-l-a-wildfiresand-there-is-demand-ade29d97' target='_blank' rel='noopener noreferrer'>Home-Selling Season Starts After L.A. Wildfires—and There Is Demand</a>
+
+22 - <a href='https://www.google.com/search?q=RFK+Jr.+and+His+Allies+Target+Trump%E2%80%99s+Beloved+Soda' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/health/rfk-jr-and-his-allies-target-trumps-beloved-soda-8f65b234?mod=hp_lead_pos9' target='_blank' rel='noopener noreferrer'>RFK Jr. and His Allies Target Trump’s Beloved Soda</a>
+
+23 - <a href='https://www.google.com/search?q=Emulsifiers+Make+Food+More+Appealing.+Do+They+Make+You+Sick%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/health/wellness/emulsifiers-make-food-more-appealing-do-they-also-make-you-sick-be0850ae' target='_blank' rel='noopener noreferrer'>Emulsifiers Make Food More Appealing. Do They Make You Sick?</a>
+
+24 - <a href='https://www.google.com/search?q=MLB+Plots+a+New+TV+Model+After+Striking+Out+With+ESPN' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/sports/baseball/major-league-baseball-espn-tv-deal-0e63bd7a?mod=hp_lead_pos10' target='_blank' rel='noopener noreferrer'>MLB Plots a New TV Model After Striking Out With ESPN</a>
+
+25 - <a href='https://www.google.com/search?q=Waiting+for+a+Book+in+Paperback%3F+Good+Luck' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/media/waiting-for-the-paperback-good-luck-7e698165?mod=hp_lead_pos11' target='_blank' rel='noopener noreferrer'>Waiting for a Book in Paperback? Good Luck</a>
+
+26 - <a href='https://www.google.com/search?q=North+Korea+Is+Open.+Who%E2%80%99s+Going%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/lifestyle/north-korea-tourism-tours-travel-97b7d838?mod=hp_featst_pos3' target='_blank' rel='noopener noreferrer'>North Korea Is Open. Who’s Going?</a>
+
+27 - <a href='https://www.google.com/search?q=The+Rowdy+Rebirth+of+Rick+Pitino+and+St.+John%E2%80%99s+Basketball' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/sports/basketball/rick-pitino-st-johns-basketball-big-east-d12f5f6b?mod=hp_featst_pos4' target='_blank' rel='noopener noreferrer'>The Rowdy Rebirth of Rick Pitino and St. John’s Basketball</a>
+
+28 - <a href='https://www.google.com/search?q=Fourth+of+July+Parade+Shooting+Suspect+Pleads+Guilty+to+Murder' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/us-news/july-fourth-highland-park-parade-shooting-suspect-robert-crimo-pleads-guilty-to-murder-70abbed3?mod=hp_featst_pos5' target='_blank' rel='noopener noreferrer'>Fourth of July Parade Shooting Suspect Pleads Guilty to Murder</a>
+
+29 - <a href='https://www.google.com/search?q=Warren+Buffett+Knew+Nothing+About+This+Business.+It+Made+Him+Billions.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/warren-buffett-berkshire-letter-rv-pete-liegl-f3519820?mod=wsjhp_columnists_pos_1' target='_blank' rel='noopener noreferrer'>Warren Buffett Knew Nothing About This Business. It Made Him Billions.</a>
+
+30 - <a href='https://www.google.com/search?q=Budget+Cuts+Can+Solve+Trump%E2%80%99s+Trade+Deficit+Problem' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/economy/trade/budget-cuts-can-solve-trumps-trade-deficit-problem-60365d8c?mod=wsjhp_columnists_pos_2' target='_blank' rel='noopener noreferrer'>Budget Cuts Can Solve Trump’s Trade Deficit Problem</a>
+
+31 - <a href='https://www.google.com/search?q=Protect+Yourself+From+Tax+Identity+Theft.+Here%E2%80%99s+How+I+Did.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/personal-finance/taxes/tax-identity-theft-ip-pin-irs-ab021643?mod=wsjhp_columnists_pos_3' target='_blank' rel='noopener noreferrer'>Protect Yourself From Tax Identity Theft. Here’s How I Did.</a>
+
+32 - <a href='https://www.google.com/search?q=A+Major+Night+for+%E2%80%98Anora%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/arts-culture/film/2025-oscars-academy-awards-best-picture-anora-highlights-e69ef2e6?mod=hp_lista_pos1' target='_blank' rel='noopener noreferrer'>A Major Night for ‘Anora’</a>
+
+33 - <a href='https://www.google.com/search?q=See+the+Best+Red+Carpet+Looks' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/story/oscars-2025-red-carpet-c0dd99ca' target='_blank' rel='noopener noreferrer'>See the Best Red Carpet Looks</a>
+
+34 - <a href='https://www.google.com/search?q=The+Full+List+of+Winners' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/livecoverage/oscars-2025-red-carpet-winners-losers/card/oscars-2025-winners-list-updating-live-R0YPRr1vK4pUi6qt9pMK' target='_blank' rel='noopener noreferrer'>The Full List of Winners</a>
+
+35 - <a href='https://www.google.com/search?q=Tracking+the+Court+Cases+Challenging+Trump%E2%80%99s+Agenda' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/us-news/law/trump-legal-challenges-tracker-b9e959bd?mod=hp_lista_pos2' target='_blank' rel='noopener noreferrer'>Tracking the Court Cases Challenging Trump’s Agenda</a>
+
+36 - <a href='https://www.google.com/search?q=Barrage+of+Executive+Orders+Overwhelms+Trump+Opponents' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/politics/elections/all-gas-executive-orders-put-trumps-opponents-on-back-foot-ddae594b?mod=hp_lista_pos3' target='_blank' rel='noopener noreferrer'>Barrage of Executive Orders Overwhelms Trump Opponents</a>
+
+37 - <a href='https://www.google.com/search?q=Southwest+Airlines+Promised+to+Take+Care+of+Employees%E2%80%94Until+It+Couldn%E2%80%99t' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/airlines/southwest-airlines-promised-to-take-care-of-employeesuntil-it-couldnt-6ce62e93?mod=lead_feature_below_a_pos1' target='_blank' rel='noopener noreferrer'>Southwest Airlines Promised to Take Care of Employees—Until It Couldn’t</a>
+
+38 - <a href='https://www.google.com/search?q=Forget+McDonald%E2%80%99s.+This+Chinese+Fast-Food+Chain+Is+Now+the+World%E2%80%99s+Biggest.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/retail/forget-mcdonalds-this-chinese-fast-food-chain-is-now-the-worlds-biggest-24b911b9?mod=lead_feature_below_a_pos2' target='_blank' rel='noopener noreferrer'>Forget McDonald’s. This Chinese Fast-Food Chain Is Now the World’s Biggest.</a>
+
+39 - <a href='https://www.google.com/search?q=Trump+Administration+Curbs+Enforcement+of+the+Corporate+Transparency+Act' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/articles/trump-administration-curbs-enforcement-of-the-corporate-transparency-act-4ea50e81?mod=lead_feature_below_a_pos3' target='_blank' rel='noopener noreferrer'>Trump Administration Curbs Enforcement of the Corporate Transparency Act</a>
+
+40 - <a href='https://www.google.com/search?q=The+Las+Vegas+Area+Is+Getting+Two+Pricey+Home+Listings' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/real-estate/luxury-homes/the-las-vegas-area-is-getting-two-pricey-home-listings-3fc99f88?mod=hp_listb_pos1' target='_blank' rel='noopener noreferrer'>The Las Vegas Area Is Getting Two Pricey Home Listings</a>
+
+41 - <a href='https://www.google.com/search?q=Car+Plows+Into+Crowd+in+Germany%2C+Leaving+Two+Dead' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/world/europe/car-plows-into-crowd-in-germany-leaving-at-least-one-dead-e1b7227f?mod=hp_listb_pos2' target='_blank' rel='noopener noreferrer'>Car Plows Into Crowd in Germany, Leaving Two Dead</a>
+
+42 - <a href='https://www.google.com/search?q=The+%E2%80%98Hustling+Expert%E2%80%99+Behind+Argentina%E2%80%99s+%24250+Million+Crypto+Scandal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/finance/who-is-hayden-davis-argentina-milei-meme-coin-d4181560?mod=hp_listb_pos3' target='_blank' rel='noopener noreferrer'>The ‘Hustling Expert’ Behind Argentina’s $250 Million Crypto Scandal</a>
+
+43 - <a href='https://www.google.com/search?q=This+Top+Fashion+Designer+Thinks+Men%E2%80%99s+Pants+Are+Too+Tight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/style/fashion/alessandro-sartori-zegna-turturro-routine-ddf2a3e9?mod=hp_listc_pos1' target='_blank' rel='noopener noreferrer'>This Top Fashion Designer Thinks Men’s Pants Are Too Tight</a>
+
+44 - <a href='https://www.google.com/search?q=%E2%80%98The+Technological+Republic%E2%80%99%3A+Power+in+a+Silicon+World' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/arts-culture/books/the-technological-republic-review-power-in-a-silicon-world-19adbb1b?mod=hp_listc_pos2' target='_blank' rel='noopener noreferrer'>‘The Technological Republic’: Power in a Silicon World</a>
+
+45 - <a href='https://www.google.com/search?q=%E2%80%98The+Narrative+Brain%E2%80%99%3A+The+Sense+in+a+Story' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/arts-culture/books/the-narrative-brain-review-the-sense-in-a-story-ad19909b?mod=hp_listc_pos3' target='_blank' rel='noopener noreferrer'>‘The Narrative Brain’: The Sense in a Story</a>
+
+46 - <a href='https://www.google.com/search?q=These+are+the+accounts+that+offer+the+best+interest+rates+%E2%80%94+without+burdensome+fees%2C+gimmicks+or+other+hassles' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=wsj_hp_buyside_pos1' target='_blank' rel='noopener noreferrer'>These are the accounts that offer the best interest rates — without burdensome fees, gimmicks or other hassles</a>
+
+47 - <a href='https://www.google.com/search?q=Socking+away+money+for+something+special+next+year%3F+Don%27t+wait.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/buyside/personal-finance/banking/best-1-year-cd-rate?mod=wsj_hp_buyside_pos2' target='_blank' rel='noopener noreferrer'>Socking away money for something special next year? Don't wait.</a>
+
+48 - <a href='https://www.google.com/search?q=These+Are+the+Best+Stand+Mixers+for+Every+Type+of+Cooking+and+Baking' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/buyside/home-products-decor/kitchen/best-stand-mixer?mod=wsj_hp_buyside_pos3' target='_blank' rel='noopener noreferrer'>These Are the Best Stand Mixers for Every Type of Cooking and Baking</a>
+
+49 - <a href='https://www.google.com/search?q=The+Debate+Over+Elbridge+Colby' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/opinion/the-debate-over-elbridge-colby-2017511f?mod=hp_opin_pos_1' target='_blank' rel='noopener noreferrer'>The Debate Over Elbridge Colby</a>
+
+50 - <a href='https://www.google.com/search?q=The+NBA%E2%80%99s+Biggest+Rivalry+Was+Dead+and+Buried.+Then+Two+Trades+in+Five+Days+Brought+It+Back+to+Life.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/sports/basketball/nba-trades-luka-doncic-jimmy-butler-63879018?mod=wknd_pos1' target='_blank' rel='noopener noreferrer'>The NBA’s Biggest Rivalry Was Dead and Buried. Then Two Trades in Five Days Brought It Back to Life.</a>
+
+51 - <a href='https://www.google.com/search?q=Are+Home+Values+About+to+Fall%3F+It+Depends+on+the+Location' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/economy/housing/are-homes-values-about-to-fall-it-depends-on-the-location-f61e8ea5?mod=hp_trendingnow_article_pos1' target='_blank' rel='noopener noreferrer'>Are Home Values About to Fall? It Depends on the Location</a>
+
+52 - <a href='https://www.google.com/search?q=Kroger+CEO+Rodney+McMullen+Resigns+After+Investigation+Into+Personal+Conduct' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/retail/kroger-ceo-rodney-mcmullen-resigns-after-investigation-of-personal-conduct-507398ad?mod=hp_trendingnow_article_pos4' target='_blank' rel='noopener noreferrer'>Kroger CEO Rodney McMullen Resigns After Investigation Into Personal Conduct</a>
+
+53 - <a href='https://www.google.com/search?q=The+7+Best+Hardside+Suitcases+for+Every+Traveler' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/buyside/travel/travel-gear/best-hardside-suitcase?mod=wsj_hp_rr_buyside_pos1' target='_blank' rel='noopener noreferrer'>The 7 Best Hardside Suitcases for Every Traveler</a>
+
+54 - <a href='https://www.google.com/search?q=These+Are+the+Hand+Creams+That+Make+the+Biggest+Difference' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/buyside/wellness/personal-care/best-hand-cream?mod=wsj_hp_rr_buyside_pos2' target='_blank' rel='noopener noreferrer'>These Are the Hand Creams That Make the Biggest Difference</a>
+
+55 - <a href='https://www.google.com/search?q=I+Write+About+Travel+Gear+for+a+Living%E2%80%94Here%E2%80%99s+What+I+Pack+for+Every+Trip' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/buyside/travel/travel-gear/travel-packing-list?mod=wsj_hp_rr_buyside_pos3' target='_blank' rel='noopener noreferrer'>I Write About Travel Gear for a Living—Here’s What I Pack for Every Trip</a>
+
+56 - <a href='https://www.google.com/search?q=Gavin+Newsom+Tips+His+Hat+to+the+%E2%80%98MAGA+Movement%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/opinion/gavin-newsom-tips-his-hat-to-the-maga-movement-california-politics-80b89b41?mod=opinion_trendingnow_article_pos2' target='_blank' rel='noopener noreferrer'>Gavin Newsom Tips His Hat to the ‘MAGA Movement’</a>
+
+57 - <a href='https://www.google.com/search?q=The+Night+I+Left+Gene+Hackman+Alone' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/opinion/the-night-i-left-gene-hackman-alone-hoosiers-actor-film-norman-dale-68f20e6a?mod=opinion_trendingnow_article_pos3' target='_blank' rel='noopener noreferrer'>The Night I Left Gene Hackman Alone</a>
+
+58 - <a href='https://www.google.com/search?q=Just+When+We+Need+Them%2C+the+Media%E2%80%99s+Credibility+Hits+Bottom' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/opinion/just-when-we-need-them-the-medias-credibility-hits-bottom-79b11b8f?mod=opinion_trendingnow_article_pos4' target='_blank' rel='noopener noreferrer'>Just When We Need Them, the Media’s Credibility Hits Bottom</a>
+
+59 - <a href='https://www.google.com/search?q=How+to+Protect+NATO+and+Other+Alliances+From+Trump' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/opinion/how-to-protect-nato-and-other-alliances-from-trump-nato-eu-german-france-war-russia-637c6db2?mod=opinion_trendingnow_article_pos5' target='_blank' rel='noopener noreferrer'>How to Protect NATO and Other Alliances From Trump</a>
+
+60 - <a href='https://www.google.com/search?q=It%E2%80%99s+the+Year+2030.+What+Will+Artificial+Intelligence+Look+Like%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/tech/ai/future-of-ai-2030-experts-654fcbfe?mod=hp_jr_pos1' target='_blank' rel='noopener noreferrer'>It’s the Year 2030. What Will Artificial Intelligence Look Like?</a>
+
+61 - <a href='https://www.google.com/search?q=Will+AI+Make+Job+Recruiting+More+Efficient%E2%80%94but+Less+Fair%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/tech/ai/ai-jobs-recruiting-apps-considerations-84061b8f' target='_blank' rel='noopener noreferrer'>Will AI Make Job Recruiting More Efficient—but Less Fair?</a>
+
+62 - <a href='https://www.google.com/search?q=So%2C+You+Think+You+Know+ChatGPT%3F+Take+Our+Quiz+and+Find+Out' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/tech/ai/chatgpt-ai-quiz-6ed85029' target='_blank' rel='noopener noreferrer'>So, You Think You Know ChatGPT? Take Our Quiz and Find Out</a>
+
+63 - <a href='https://www.google.com/search?q=The+Little-Known+Company+That+Gives+Its+Employees+a+Real+Voice' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/prologis-employee-engagement-70e9cead?mod=hp_jr_pos2' target='_blank' rel='noopener noreferrer'>The Little-Known Company That Gives Its Employees a Real Voice</a>
+
+64 - <a href='https://www.google.com/search?q=Want+to+Be+a+Better+Boss+or+Team+Player%3F+Watch+%E2%80%9812+Angry+Men%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.wsj.com/business/c-suite/leadership-12-angry-men-lessons-a7e7e0cb?mod=hp_jr_pos3' target='_blank' rel='noopener noreferrer'>Want to Be a Better Boss or Team Player? Watch ‘12 Angry Men’</a>
+
+</details>
+
+# Barrons
+
+<details>
+<summary>View Articles</summary>
+<br>
+
+1 - <a href='https://www.google.com/search?q=Nasdaq+Drops+2.6%25%2C+Dow+Falls+650+Points+After+Trump+Confirms+Tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/livecoverage/stock-market-today-030325?mod=hp_LEDE_B_1' target='_blank' rel='noopener noreferrer'>Nasdaq Drops 2.6%, Dow Falls 650 Points After Trump Confirms Tariffs</a>
+
+2 - <a href='https://www.google.com/search?q=Trump+Says+%27No+Room+Left%27+for+Mexico%2C+Canada+to+Make+a+Deal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trumps-tariffs-canada-mexico-imports-4ff09ed7?mod=hp_LEDE_B_1_B_1' target='_blank' rel='noopener noreferrer'>Trump Says 'No Room Left' for Mexico, Canada to Make a Deal</a>
+
+3 - <a href='https://www.google.com/search?q=Deere%2C+Farm+Stocks+Drop+on+Food+Levies' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-tariffs-news-stock-deere-8cd9e6ad?mod=hp_LEDE_B_1_B_2' target='_blank' rel='noopener noreferrer'>Deere, Farm Stocks Drop on Food Levies</a>
+
+4 - <a href='https://www.google.com/search?q=Tariffs+Are+an+%E2%80%98Act+of+War%2C%E2%80%99+Buffett+Says.+What+They+Mean+for+the+Stock+Market.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-tariffs-warren-buffett-stock-market-a27a2b95?mod=hp_LEDE_B_1_B_3' target='_blank' rel='noopener noreferrer'>Tariffs Are an ‘Act of War,’ Buffett Says. What They Mean for the Stock Market.</a>
+
+5 - <a href='https://www.google.com/search?q=Why+Japanese+Auto+Makers+Could+Win' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/japan-autos-stocks-win-trump-trade-policies-tariffs-4b7de265?mod=hp_LEDE_B_1_B_4' target='_blank' rel='noopener noreferrer'>Why Japanese Auto Makers Could Win</a>
+
+6 - <a href='https://www.google.com/search?q=Taiwan+Semiconductor+to+Invest+%24100+Billion+in+U.S.+Chip+Plants' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/tsmc-stock-plants-investment-70582877?mod=hp_WIND_A_1_1' target='_blank' rel='noopener noreferrer'>Taiwan Semiconductor to Invest $100 Billion in U.S. Chip Plants</a>
+
+7 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Crypto+Reserve+Has+a+Problem.+Red+States+Don%E2%80%99t+Want+It.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-crypto-reserve-xrp-congress-434b98ef?mod=hp_WIND_A_1_2' target='_blank' rel='noopener noreferrer'>Trump’s Crypto Reserve Has a Problem. Red States Don’t Want It.</a>
+
+8 - <a href='https://www.google.com/search?q=Oil+Stocks+Fall+Hard+After+OPEC+Move+to+Boost+Production' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/opec-news-oil-prices-exxon-1feb7ea6?mod=hp_WIND_A_1_3' target='_blank' rel='noopener noreferrer'>Oil Stocks Fall Hard After OPEC Move to Boost Production</a>
+
+9 - <a href='https://www.google.com/search?q=Tesla+Stock+Typically+Drops+After+Musk%E2%80%99s+Big+Predictions.+10+Cases.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/tesla-stock-price-today-musk-prediction-57c1646e?mod=hp_WIND_A_1_4' target='_blank' rel='noopener noreferrer'>Tesla Stock Typically Drops After Musk’s Big Predictions. 10 Cases.</a>
+
+10 - <a href='https://www.google.com/search?q=Nvidia+Stock+Slips+Ahead+of+Tariff+Imposition.+Its+AI+Chips+Are+Still+Reaching+China.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-64db8502?mod=hp_WIND_A_1_5' target='_blank' rel='noopener noreferrer'>Nvidia Stock Slips Ahead of Tariff Imposition. Its AI Chips Are Still Reaching China.</a>
+
+11 - <a href='https://www.google.com/search?q=Okta%E2%80%99s+Earnings+Beat+Estimates.+The+CEO+Is+Optimistic+About+AI.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/okta-stock-price-earnings-e78af1ff?mod=hp_WIND_A_1_6' target='_blank' rel='noopener noreferrer'>Okta’s Earnings Beat Estimates. The CEO Is Optimistic About AI.</a>
+
+12 - <a href='https://www.google.com/search?q=Yeti+Stock+Is+Beaten+Up.+It%E2%80%99s+More+Durable+Than+It+Looks.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/buy-yeti-stock-price-pick-e468a7c7?mod=hp_STOCKPICKS_1' target='_blank' rel='noopener noreferrer'>Yeti Stock Is Beaten Up. It’s More Durable Than It Looks.</a>
+
+13 - <a href='https://www.google.com/search?q=Comcast+Is+a+Complicated+Company.+Its+Stock+Presents+a+Clear+and+Simple+Opportunity.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/buy-comcast-stock-price-pick-c849db17?mod=hp_STOCKPICKS_2' target='_blank' rel='noopener noreferrer'>Comcast Is a Complicated Company. Its Stock Presents a Clear and Simple Opportunity.</a>
+
+14 - <a href='https://www.google.com/search?q=TJX+Offers+Plenty+of+Bargains.+Its+Stock+May+Be+Its+Best+Deal.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/buy-tjx-maxx-stock-price-pick-1c773c06?mod=hp_STOCKPICKS_3' target='_blank' rel='noopener noreferrer'>TJX Offers Plenty of Bargains. Its Stock May Be Its Best Deal.</a>
+
+15 - <a href='https://www.google.com/search?q=Americans+Are+Spoiling+Their+Pets.+Buy+This+Gourmet+Meal+Maker%E2%80%99s+Stock.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/buy-freshpet-stock-price-pick-5e88eb80?mod=hp_STOCKPICKS_4' target='_blank' rel='noopener noreferrer'>Americans Are Spoiling Their Pets. Buy This Gourmet Meal Maker’s Stock.</a>
+
+16 - <a href='https://www.google.com/search?q=This+Garbage+Stock+Isn%E2%80%99t+Garbage.+Why+It%E2%80%99s+Time+to+Buy+GFL+Now.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/buy-gfl-environmental-stock-price-pick-c6734e38?mod=hp_STOCKPICKS_5' target='_blank' rel='noopener noreferrer'>This Garbage Stock Isn’t Garbage. Why It’s Time to Buy GFL Now.</a>
+
+17 - <a href='https://www.google.com/search?q=DOGE+Is+Targeting+Government+Contractors.+Their+Stocks+Should+Be+Fine.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/doge-government-contractors-stocks-1a4a81fa?mod=hp_FEEDS_1_TECHNOLOGY_1' target='_blank' rel='noopener noreferrer'>DOGE Is Targeting Government Contractors. Their Stocks Should Be Fine.</a>
+
+18 - <a href='https://www.google.com/search?q=Qualcomm+Faces+Life+After+Apple.+This+Is+How+It+Is+Striking+Back.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/qualcomm-stock-apple-chips-modem-2e9111c0?mod=hp_FEEDS_1_TECHNOLOGY_2' target='_blank' rel='noopener noreferrer'>Qualcomm Faces Life After Apple. This Is How It Is Striking Back.</a>
+
+19 - <a href='https://www.google.com/search?q=AppLovin+Bounces+Back.+More+Cash+Is+Ready+for+Stock+Buybacks.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/applovin-stock-buybacks-6c686376?mod=hp_FEEDS_1_TECHNOLOGY_3' target='_blank' rel='noopener noreferrer'>AppLovin Bounces Back. More Cash Is Ready for Stock Buybacks.</a>
+
+20 - <a href='https://www.google.com/search?q=Palantir+Stock%E2%80%99s+Pullback+Is+an+%E2%80%98Opportunity%2C%E2%80%99+Says+Bull' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/palantir-stock-opportunity-bull-52a1134c?mod=hp_FEEDS_1_TECHNOLOGY_4' target='_blank' rel='noopener noreferrer'>Palantir Stock’s Pullback Is an ‘Opportunity,’ Says Bull</a>
+
+21 - <a href='https://www.google.com/search?q=Sunnova+Energy+Stock+Sinks+on+%E2%80%98Substantial+Doubt%E2%80%99+About+Continuing+as+a+Going+Concern' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/sunnova-energy-stock-going-concern-doubt-db053f9c?mod=hp_FEEDS_2_ENERGY_1' target='_blank' rel='noopener noreferrer'>Sunnova Energy Stock Sinks on ‘Substantial Doubt’ About Continuing as a Going Concern</a>
+
+22 - <a href='https://www.google.com/search?q=Berkshire+Stock+Now+Trades+Near+Its+Intrinsic+Value%3A+Analysis' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/berkshire-intrinsic-value-stock-buffett-69d5ac61?mod=hp_FEEDS_2_ENERGY_2' target='_blank' rel='noopener noreferrer'>Berkshire Stock Now Trades Near Its Intrinsic Value: Analysis</a>
+
+23 - <a href='https://www.google.com/search?q=Trump+Vowed+to+Lower+Home+Prices.+He+Could+Push+Them+Up.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-house-prices-tariffs-deportations-fe89d86d?mod=hp_FEEDS_3_REALESTATE_1' target='_blank' rel='noopener noreferrer'>Trump Vowed to Lower Home Prices. He Could Push Them Up.</a>
+
+24 - <a href='https://www.google.com/search?q=Nvidia%2C+Dell%2C+Tesla%2C+HP+Inc.%2C+Acadia+Healthcare%2C+NetApp%2C+Duolingo%2C+SoundHound%2C+and+More+Stock+Market+Movers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/stock-market-movers-2ecf7d1d?mod=hp_FEEDS_3_REALESTATE_2' target='_blank' rel='noopener noreferrer'>Nvidia, Dell, Tesla, HP Inc., Acadia Healthcare, NetApp, Duolingo, SoundHound, and More Stock Market Movers</a>
+
+25 - <a href='https://www.google.com/search?q=CRH+Posts+Solid+Earnings.+There+Was+Good+News+About+U.S.+Construction.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/crh-results-stock-economy-779d71b9?mod=hp_FEEDS_3_REALESTATE_3' target='_blank' rel='noopener noreferrer'>CRH Posts Solid Earnings. There Was Good News About U.S. Construction.</a>
+
+26 - <a href='https://www.google.com/search?q=Nvidia%2C+Intel%2C+Tesla%2C+MicroStrategy%2C+Super+Micro%2C+Palantir%2C+AppLovin%2C+Sunnova%2C+and+More+Stock+Market+Movers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/stock-market-movers-abf97e44?mod=hp_FEEDS_4_AUTOS_1' target='_blank' rel='noopener noreferrer'>Nvidia, Intel, Tesla, MicroStrategy, Super Micro, Palantir, AppLovin, Sunnova, and More Stock Market Movers</a>
+
+27 - <a href='https://www.google.com/search?q=Why+Japanese+Auto+Makers+Could+Win+From+Trump%E2%80%99s+Trade+Policies' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/japan-autos-stocks-win-trump-trade-policies-tariffs-4b7de265?mod=hp_FEEDS_4_AUTOS_2' target='_blank' rel='noopener noreferrer'>Why Japanese Auto Makers Could Win From Trump’s Trade Policies</a>
+
+28 - <a href='https://www.google.com/search?q=Tesla+at+%24700+a+Share%3F+It%E2%80%99s+Possible+With+%E2%80%98Outstanding+Execution.%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/tesla-stock-700-musk-execution-d6116ea2?mod=hp_FEEDS_4_AUTOS_3' target='_blank' rel='noopener noreferrer'>Tesla at $700 a Share? It’s Possible With ‘Outstanding Execution.’</a>
+
+29 - <a href='https://www.google.com/search?q=Trump+Assails+Zelensky.+Ukraine+Is+Part+of+a+Global+Power+Shift.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-russia-ukraine-minerals-economy-00ad385b?mod=hp_MAGAZINE_2' target='_blank' rel='noopener noreferrer'>Trump Assails Zelensky. Ukraine Is Part of a Global Power Shift.</a>
+
+30 - <a href='https://www.google.com/search?q=Are+Social+Security+Checks+Safe+From+DOGE%E2%80%99s+Cuts%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/social-security-checks-doge-cuts-musk-0862aa39?mod=hp_MAGAZINE_3' target='_blank' rel='noopener noreferrer'>Are Social Security Checks Safe From DOGE’s Cuts?</a>
+
+31 - <a href='https://www.google.com/search?q=Chinese+Stocks+Are+Beating+U.S.+Ones.+What+to+Buy.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/china-trump-tariffs-trade-stocks-bargains-7c4bb398?mod=hp_MAGAZINE_1' target='_blank' rel='noopener noreferrer'>Chinese Stocks Are Beating U.S. Ones. What to Buy.</a>
+
+32 - <a href='https://www.google.com/search?q=China+Holds+Hundreds+of+Billions+in+U.S.+Treasuries.+How+Trump%E2%80%99s+Tariffs+Could+Change+That.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/treasury-purchases-china-japan-trump-07fafc5a?mod=hp_COMMENTARY_1' target='_blank' rel='noopener noreferrer'>China Holds Hundreds of Billions in U.S. Treasuries. How Trump’s Tariffs Could Change That.</a>
+
+33 - <a href='https://www.google.com/search?q=Europe+Contemplates+Peace+Without+a+Dividend' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/europe-pay-for-ukraine-peace-deal-c4dc9dc2?mod=hp_COMMENTARY_2' target='_blank' rel='noopener noreferrer'>Europe Contemplates Peace Without a Dividend</a>
+
+34 - <a href='https://www.google.com/search?q=Trump+Is+Focused+on+Ukraine%E2%80%99s+Critical+Minerals.+Here%E2%80%99s+What+Ukraine+Really+Has.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/ukraine-rare-earths-critical-minerals-deal-trump-42f7e640?mod=hp_COMMENTARY_3' target='_blank' rel='noopener noreferrer'>Trump Is Focused on Ukraine’s Critical Minerals. Here’s What Ukraine Really Has.</a>
+
+35 - <a href='https://www.google.com/search?q=The+U.S.+Is+Shutting+a+Door+to+the+World' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-spheres-of-influence-multipolar-world-e2148aa7?mod=hp_COMMENTARY_4' target='_blank' rel='noopener noreferrer'>The U.S. Is Shutting a Door to the World</a>
+
+36 - <a href='https://www.google.com/search?q=Politics+Comes+for+U.S.+LNG.+It+Will+Reshape+the+Market.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/lng-us-exports-trump-deals-712eefdc?mod=hp_COMMENTARY_5' target='_blank' rel='noopener noreferrer'>Politics Comes for U.S. LNG. It Will Reshape the Market.</a>
+
+37 - <a href='https://www.google.com/search?q=A+Tribute+to+Richard+Parsons%3A+He+Lived+His+Best+CEO+Life%E2%80%94and+More' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/richard-dick-parsons-tribute-5421dcc5?mod=hp_CEOTHOUGHTLEADERS_1' target='_blank' rel='noopener noreferrer'>A Tribute to Richard Parsons: He Lived His Best CEO Life—and More</a>
+
+38 - <a href='https://www.google.com/search?q=AT%26T+Is+Red-Hot+Again.+CEO+John+Stankey+Says+It%E2%80%99s+Just+the+Beginning.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/att-ceo-john-stankey-378759ed?mod=hp_CEOTHOUGHTLEADERS_2' target='_blank' rel='noopener noreferrer'>AT&T Is Red-Hot Again. CEO John Stankey Says It’s Just the Beginning.</a>
+
+39 - <a href='https://www.google.com/search?q=Carlyle%E2%80%99s%C2%A0Top+Execs+Like+Higher+Rates+and+Private+Equity.+Plus%2C+Trump+Talk.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/carlyle-trump-david-rubenstein-harvey-schwartz-377e5ef3?mod=hp_CEOTHOUGHTLEADERS_3' target='_blank' rel='noopener noreferrer'>Carlyle’s Top Execs Like Higher Rates and Private Equity. Plus, Trump Talk.</a>
+
+40 - <a href='https://www.google.com/search?q=Healthcare+Stocks%27+Dismal+Year+Is+an+Opportunity%2C+Says+This+Analyst' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/healthcare-stocks-to-buy-47a833fa?mod=hp_CEOTHOUGHTLEADERS_4' target='_blank' rel='noopener noreferrer'>Healthcare Stocks' Dismal Year Is an Opportunity, Says This Analyst</a>
+
+41 - <a href='https://www.google.com/search?q=CEO+of+Social+Media+Darling+Bluesky+Tells+Why+Its+Time+Has+Come' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/bluesky-social-media-ceo-bcb5133a?mod=hp_CEOTHOUGHTLEADERS_5' target='_blank' rel='noopener noreferrer'>CEO of Social Media Darling Bluesky Tells Why Its Time Has Come</a>
+
+42 - <a href='https://www.google.com/search?q=You+Saved+for+Retirement.+Now+the+Tricky+Part%3A+Spending+Your+Money.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/retirement-savings-spending-f0ed42a4?mod=hp_RETIREMENTANDWELLBEING_1' target='_blank' rel='noopener noreferrer'>You Saved for Retirement. Now the Tricky Part: Spending Your Money.</a>
+
+43 - <a href='https://www.google.com/search?q=Betterment+Beefs+Up+RIA+Custody+Offering+With+Addition+of+Solo+401%28k%29' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/advisor/articles/betterment-advisor-solutions-launches-solo-401k-2ad2fcee?mod=hp_RETIREMENTANDWELLBEING_2' target='_blank' rel='noopener noreferrer'>Betterment Beefs Up RIA Custody Offering With Addition of Solo 401(k)</a>
+
+44 - <a href='https://www.google.com/search?q=Social+Security%2C+CFPB+Push+to+Cut+Jobs+Soon%E2%80%94as+Judges+Push+Back+on+Legality' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/social-security-jobs-layoffs-26d02e26?mod=hp_RETIREMENTANDWELLBEING_3' target='_blank' rel='noopener noreferrer'>Social Security, CFPB Push to Cut Jobs Soon—as Judges Push Back on Legality</a>
+
+45 - <a href='https://www.google.com/search?q=In+Sign+of+Fee+Wars%2C+Schwab+Slashes+Expenses+on+Income+ETF' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/advisor/articles/schwab-cuts-fee-international-dividend-etf-03b91174?mod=hp_RETIREMENTANDWELLBEING_4' target='_blank' rel='noopener noreferrer'>In Sign of Fee Wars, Schwab Slashes Expenses on Income ETF</a>
+
+46 - <a href='https://www.google.com/search?q=The+Number+of+401%28k%29+Millionaires+Soars.+The+2+Big+Reasons+Why.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/advisor/articles/fidelity-401k-millionaires-retirement-savings-71eb4f3a?mod=hp_RETIREMENTANDWELLBEING_5' target='_blank' rel='noopener noreferrer'>The Number of 401(k) Millionaires Soars. The 2 Big Reasons Why.</a>
+
+47 - <a href='https://www.google.com/search?q=Here%E2%80%99s+Why+Morgan+Stanley+Is+Trying+to+Appeal+a+Court+Ruling+It+Won' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/advisor/articles/morgan-stanley-financial-advisor-compensation-dispute-f3064568?mod=hp_BARRONSADVISOR_1' target='_blank' rel='noopener noreferrer'>Here’s Why Morgan Stanley Is Trying to Appeal a Court Ruling It Won</a>
+
+48 - <a href='https://www.google.com/search?q=The+Next+Phase+of+Wealth+Management+Consolidation+Is+Here.+How+to+Be+a+Winner.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/advisor/articles/ria-wealth-management-consolidation-mergers-22c4fe21?mod=hp_BARRONSADVISOR_2' target='_blank' rel='noopener noreferrer'>The Next Phase of Wealth Management Consolidation Is Here. How to Be a Winner.</a>
+
+49 - <a href='https://www.google.com/search?q=Trump+Advisers+Want+to+Strip+Public+Spending+from+GDP+Tally.+Why+It+makes+No+Sense.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/lutnick-government-spending-gdp-calculation-economy-aaa2b8c6?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>Trump Advisers Want to Strip Public Spending from GDP Tally. Why It makes No Sense.</a>
+
+50 - <a href='https://www.google.com/search?q=How+Economists+Would+Enact+Trump%E2%80%99s+Trade+Goals.+Hint%3A+Not+Like+This.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-tariffs-economists-b111de07?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>How Economists Would Enact Trump’s Trade Goals. Hint: Not Like This.</a>
+
+51 - <a href='https://www.google.com/search?q=The+10+Stocks+Hedge+Funds+Love%E2%80%94+and+Hate%E2%80%94the+Most' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/short-intrest-stocks-hedge-funds-70bf905a?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>The 10 Stocks Hedge Funds Love— and Hate—the Most</a>
+
+52 - <a href='https://www.google.com/search?q=Trump-Zelensky+Dustup+Boosts+Defense+Stocks.+Why+BAE+Systems+Is+the+Big+Winner.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trump-zelensky-ukraine-defense-stocks-bae-edited-80a520fd?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>Trump-Zelensky Dustup Boosts Defense Stocks. Why BAE Systems Is the Big Winner.</a>
+
+53 - <a href='https://www.google.com/search?q=Trump+Confirms+Tariffs+on+Canada+and+Mexico+Imports' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/trumps-tariffs-canada-mexico-imports-4ff09ed7?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>Trump Confirms Tariffs on Canada and Mexico Imports</a>
+
+54 - <a href='https://www.google.com/search?q=Semi+Stocks+Are+Still+Under+Pressure.+Why+This+Analyst+Is+Bullish.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/semi-stocks-nvidia-marvell-broadcom-6cebb79e?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>Semi Stocks Are Still Under Pressure. Why This Analyst Is Bullish.</a>
+
+55 - <a href='https://www.google.com/search?q=Super+Micro+Stock+Slips.+It+Faces+This+Worry+After+SMCI+Delisting+Drama.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.barrons.com/articles/smci-stock-price-today-super-micro-delisting-9a789944?mod=hp_latestnews' target='_blank' rel='noopener noreferrer'>Super Micro Stock Slips. It Faces This Worry After SMCI Delisting Drama.</a>
 
 </details>
 
@@ -2010,77 +2077,124 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[Northern Lights Forecast: These 9 States Could See Aurora Borealis Tonight](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/northern-lights-forecast-these-9-states-could-see-aurora-borealis-tonight/)
+1 - <a href='https://www.google.com/search?q=Major+Storm+Sweeping+Across+U.S.+Marks+First+Test+For+Weakened+NOAA%E2%80%94Here%E2%80%99s+What+To+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/mollybohannon/2025/03/03/major-storm-sweeping-across-us-marks-first-test-for-weakened-noaa-heres-what-to-know/' target='_blank' rel='noopener noreferrer'>Major Storm Sweeping Across U.S. Marks First Test For Weakened NOAA—Here’s What To Know</a>
 
-[Former Gov. Andrew Cuomo Announces Bid For New York City Mayor](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/former-gov-andrew-cuomo-announces-bid-for-new-york-city-mayor/)
+2 - <a href='https://www.google.com/search?q=Nvidia+Falls+9%25+As+Trump%E2%80%99s+Tariffs+Rout+Stocks' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/dereksaul/2025/03/03/nvidia-falls-9-as-trumps-tariffs-pledge-routs-stocks-on-monday/' target='_blank' rel='noopener noreferrer'>Nvidia Falls 9% As Trump’s Tariffs Rout Stocks</a>
 
-[Zelenskyy Says He’ll Sign Minerals Deal And Urges US To ‘Stand More Firmly’ For Ukraine After Oval Office Clash](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/zelenskyy-says-hell-sign-minerals-deal-and-urges-us-to-stand-more-firmly-for-ukraine-after-oval-office-clash/)
+3 - <a href='https://www.google.com/search?q=Trump+Confirms+25%25+Tariffs+On+Canada+And+Mexico+Will+Start+Tomorrow%E2%80%94Here%E2%80%99s+How+They+Could+Impact+Prices' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/saradorn/2025/03/03/trump-confirms-25-tariffs-on-canada-and-mexico-will-start-tomorrow-heres-how-they-could-impact-prices/' target='_blank' rel='noopener noreferrer'>Trump Confirms 25% Tariffs On Canada And Mexico Will Start Tomorrow—Here’s How They Could Impact Prices</a>
 
-[State Street Drops Corporate Board Diversity Requirement: Here Are All The Companies Cutting DEI Programs](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/state-street-drops-corporate-board-diversity-requirement-here-are-all-the-companies-cutting-dei-programs/)
+4 - <a href='https://www.google.com/search?q=Pope+Francis+Suffers+Two+Breathing+Setbacks+With+Prognosis+%E2%80%98Guarded%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/antoniopequenoiv/2025/03/03/pope-francis-suffers-two-breathing-setbacks-with-prognosis-guarded/' target='_blank' rel='noopener noreferrer'>Pope Francis Suffers Two Breathing Setbacks With Prognosis ‘Guarded’</a>
 
-[Epstein Files Land No New Revelations—Despite Big Promises Throughout Campaign](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/epstein-files-land-no-new-revelations-despite-big-promises-throughout-campaign/)
+5 - <a href='https://www.google.com/search?q=Treasury+Declares+New+Ownership+Reporting+Law++Will+Only+Apply+To++Foreign+Companies' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/kellyphillipserb/2025/03/03/treasury-declares-new-ownership-reporting-law--will-only-apply-to--foreign-companies/' target='_blank' rel='noopener noreferrer'>Treasury Declares New Ownership Reporting Law  Will Only Apply To  Foreign Companies</a>
 
-[Who’s Presenting At The Oscars? Selena Gomez, Oprah Winfrey And More Will Reveal Academy Award Winners](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/whos-presenting-at-the-oscars-selena-gomez-oprah-winfrey-and-more-will-reveal-academy-award-winners/)
+6 - <a href='https://www.google.com/search?q=Some+Federal+Agencies+Offer+Staff+%2425%2C000+Or+More+To+Quit%E2%80%94As+Trump+Aims+To+Cut+Workforce' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/saradorn/2025/03/03/some-federal-agencies-offer-staff-25000-or-more-to-quit-as-trump-aims-to-cut-workforce/' target='_blank' rel='noopener noreferrer'>Some Federal Agencies Offer Staff $25,000 Or More To Quit—As Trump Aims To Cut Workforce</a>
 
-[When Are The Oscars? Here’s How To Watch The Academy Awards On Sunday](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/when-are-the-oscars-heres-how-to-watch-the-academy-awards-on-sunday/)
+7 - <a href='https://www.google.com/search?q=Northern+Lights+Forecast%3A+These+States+Might+See+Aurora+Borealis+Tonight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/antoniopequenoiv/2025/03/03/northern-lights-forecast-these-states-might-see-aurora-borealis-tonight/' target='_blank' rel='noopener noreferrer'>Northern Lights Forecast: These States Might See Aurora Borealis Tonight</a>
 
-[Here Are The Biggest Performers At 2025 Oscars: Ariana Grande, Doja Cat, Cynthia Erivo And More](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/01/here-are-the-biggest-performers-at-2025-oscars-ariana-grande-doja-cat-cynthia-erivo-and-more/)
+8 - <a href='https://www.google.com/search?q=Will+Trump+Freeze+Ukraine+Aid%3F+Meeting+Today+Could+Decide%2C+Report+Says.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/mollybohannon/2025/03/03/will-trump-freeze-ukraine-aid-meeting-today-could-decide-report-says/' target='_blank' rel='noopener noreferrer'>Will Trump Freeze Ukraine Aid? Meeting Today Could Decide, Report Says.</a>
 
-[Zelenskyy Stands His Ground In First Interview Since Fiery Trump Meeting: 'Not Sure That We Did Something Bad'](https://12ft.io/https://www.forbes.com/sites/antoniopequenoiv/2025/02/28/zelenskyy-stands-his-ground-in-first-interview-since-fiery-trump-meeting-not-sure-that-we-did-something-bad/)
+9 - <a href='https://www.google.com/search?q=Target+Loses+Web+Traffic+As+Costco+Gains+On+Feb.+28+Economic+Blackout+Day' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/pamdanziger/2025/03/03/target-loses-and-costco-wins-in-web-traffic-on-feb-28-economic-blackout-day/' target='_blank' rel='noopener noreferrer'>Target Loses Web Traffic As Costco Gains On Feb. 28 Economic Blackout Day</a>
 
-[Gene Hackman And Wife Tested Negative For Carbon Monoxide In Initial Tests](https://12ft.io/https://www.forbes.com/sites/mollybohannon/2025/02/28/gene-hackman-and-wife-tested-negative-for-carbon-monoxide-in-initial-tests/)
+10 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Crypto+Reserve+Hit+With+Unexpected+Backlash+From+Billionaire+Allies' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/dereksaul/2025/03/03/trumps-crypto-reserve-hit-with-unexpected-backlash-from-billionaire-allies/' target='_blank' rel='noopener noreferrer'>Trump’s Crypto Reserve Hit With Unexpected Backlash From Billionaire Allies</a>
 
-[Joe Rogan Interviews Elon Musk: Here Are The Key Moments](https://12ft.io/https://www.forbes.com/sites/antoniopequenoiv/2025/02/28/joe-rogan-interviews-elon-musk-here-are-the-key-moments/)
+11 - <a href='https://www.google.com/search?q=Trump+Lashes+Out+Over+Claims+Putin%E2%80%99s+%E2%80%98Happy%E2%80%99+About+Zelenskyy+Shouting+Match' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/alisondurkee/2025/03/03/trump-lashes-out-over-claims-putins-happy-about-zelenskyy-shouting-match/' target='_blank' rel='noopener noreferrer'>Trump Lashes Out Over Claims Putin’s ‘Happy’ About Zelenskyy Shouting Match</a>
 
-[Musk Reportedly Planning New Starlink Deal With FAA—Raising New Conflict-Of-Interest Concerns](https://12ft.io/https://www.forbes.com/sites/saradorn/2025/02/28/musk-reportedly-planning-new-starlink-deal-with-faa-raising-new-conflict-of-interest-concerns/)
+12 - <a href='https://www.google.com/search?q=Biggest+Oscar+Moments%3A+Brody+And+Berry%E2%80%99s+Oscar+Kiss+Call+Back%2C+Conan%E2%80%99s+Drake+Jibe%2C+And+Adam+Sandler%E2%80%99s+Sweatshirt' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/siladityaray/2025/03/03/biggest-oscar-moments-brody-and-berrys-oscar-kiss-call-back-conans-drake-jibe-and-adam-sandlers-sweatshirt/' target='_blank' rel='noopener noreferrer'>Biggest Oscar Moments: Brody And Berry’s Oscar Kiss Call Back, Conan’s Drake Jibe, And Adam Sandler’s Sweatshirt</a>
 
-[Elon Musk Calls Running DOGE The 'Most Absurd Outcome' He Could 'Possibly Imagine'](https://12ft.io/https://www.forbes.com/sites/dereksaul/2025/02/28/elon-musk-calls-running-doge-the-most-absurd-outcome-he-could-possibly-imagine/)
+13 - <a href='https://www.google.com/search?q=Magnitude+3.9+Earthquake+Shakes+Los+Angeles+After+Oscars%E2%80%94No+Major+Damage+Reported' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/siladityaray/2025/03/03/magnitude-39-earthquake-shakes-los-angeles-no-major-damage-reported/' target='_blank' rel='noopener noreferrer'>Magnitude 3.9 Earthquake Shakes Los Angeles After Oscars—No Major Damage Reported</a>
 
-[Why The Stock Market Slumped In Trump’s First Month—Even After Inflation Boost](https://12ft.io/https://www.forbes.com/sites/dereksaul/2025/02/28/why-the-stock-market-slumped-in-trumps-first-month-even-after-inflation-boost/)
+14 - <a href='https://www.google.com/search?q=Oscar+Winners%3A+%E2%80%98Anora%E2%80%99+Wins+Best+Picture+While+Adrien+Brody+And+Mikey+Madison+Take+Home+Top+Acting+Honors' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/siladityaray/2025/03/02/oscar-winners-anora-wins-best-picture-while-adrien-brody-and-mikey-madison-take-home-top-acting-honors/' target='_blank' rel='noopener noreferrer'>Oscar Winners: ‘Anora’ Wins Best Picture While Adrien Brody And Mikey Madison Take Home Top Acting Honors</a>
 
-[Kanye West Wears Swastika T-Shirt Around Los Angeles, Report Says](https://12ft.io/https://www.forbes.com/sites/conormurray/2025/02/28/kanye-west-wears-swastika-t-shirt-around-los-angeles-report-says/)
+15 - <a href='https://www.google.com/search?q=Elon+Musk%E2%80%99s+Federal+Worker+Emails%3A+Hegseth+Directs+Defense+Employees+To+Respond+As+Workers+Report+Second+Week+Of+Musk-Led+Email+Request' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/alisondurkee/2025/03/02/elon-musks-federal-worker-emails-hegseth-directs-defense-employees-to-respond-as-workers-report-second-week-of-musk-led-email-request/' target='_blank' rel='noopener noreferrer'>Elon Musk’s Federal Worker Emails: Hegseth Directs Defense Employees To Respond As Workers Report Second Week Of Musk-Led Email Request</a>
 
-[Trump, Zelenskyy, Vance Face Off In Oval Office Shouting Match—Here’s Everything They Said](https://12ft.io/https://www.forbes.com/sites/mollybohannon/2025/02/28/trump-zelenskyy-vance-face-off-in-oval-office-shouting-match-heres-everything-they-said/)
+16 - <a href='https://www.google.com/search?q=Trump+Announces+%E2%80%98Crypto+Strategic+Reserve%E2%80%99%E2%80%94Here%E2%80%99s+What+To+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/alisondurkee/2025/03/02/trump-announces-strategic-crypto-reserve-heres-what-to-know/' target='_blank' rel='noopener noreferrer'>Trump Announces ‘Crypto Strategic Reserve’—Here’s What To Know</a>
 
-[Target To Face Single-Day Feb. 28 Economic Boycott And 40-Day ‘Fast’](https://12ft.io/https://www.forbes.com/sites/pamdanziger/2025/02/28/target-to-bear-the-brunt-of-the-economic-blackout-with-40-day-target-fast-to-follow/)
+17 - <a href='https://www.google.com/search?q=More+Than+40%25+Of+Republicans+See+Russia+As+%E2%80%98Friendly%2C%E2%80%99+Poll+Finds%E2%80%94As+Americans+Largely+Think+Trump+Backs+Moscow+In+War+With+Ukraine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/alisondurkee/2025/03/02/more-than-40-of-republicans-see-russia-as-friendly-poll-finds-as-americans-largely-think-trump-backs-moscow-in-war-with-ukraine/' target='_blank' rel='noopener noreferrer'>More Than 40% Of Republicans See Russia As ‘Friendly,’ Poll Finds—As Americans Largely Think Trump Backs Moscow In War With Ukraine</a>
 
-[Justin Baldoni Vs. Blake Lively Feud Explained: Lively Hires Former CIA Official For Legal Communications](https://12ft.io/https://www.forbes.com/sites/maryroeloffs/2025/02/28/justin-baldoni-vs-blake-lively-feud-explained-lively-hires-former-cia-official-for-legal-communications/)
+18 - <a href='https://www.google.com/search?q=Russia+Says+Trump%E2%80%99s+Foreign+Policy+%E2%80%98Largely+Aligns+With+Our+Vision%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/alisondurkee/2025/03/02/russia-says-trumps-foreign-policy-largely-aligns-with-our-vision-after-zelenskyy-argument/' target='_blank' rel='noopener noreferrer'>Russia Says Trump’s Foreign Policy ‘Largely Aligns With Our Vision’</a>
 
-[Trump-Zelenskyy Talks End Early After Trump Threatens Him In Tense Live Meeting: ‘Make A Deal Or We’re Out’](https://12ft.io/https://www.forbes.com/sites/tylerroush/2025/02/28/trump-threatens-zelensky-during-tense-live-meeting-make-a-deal-or-were-out/)
+19 - <a href='https://www.google.com/search?q=When+Are+The+Oscars%3F+Here%E2%80%99s+How+To+Watch+The+Academy+Awards+Tonight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/02/when-are-the-oscars-heres-how-to-watch-the-academy-awards-tonight/' target='_blank' rel='noopener noreferrer'>When Are The Oscars? Here’s How To Watch The Academy Awards Tonight</a>
 
-[Court Rules Against Trump’s Appeal On Birthright Citizenship: Here’s Where Trump And Musk Are Winning—And Losing—In Court](https://12ft.io/https://www.forbes.com/sites/alisondurkee/2025/02/28/judge-rules-against-mass-firing-order-heres-where-trump-and-musk-are-winning-and-losing-in-court/)
+20 - <a href='https://www.google.com/search?q=Who%E2%80%99s+Presenting+At+The+Oscars%3F+Harrison+Ford+Drops+Out%E2%80%94As+Selena+Gomez%2C+Oprah+Winfrey+And+More+Will+Reveal+Academy+Award+Winners' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/02/whos-presenting-at-the-oscars-harrison-ford-drops-out-as-selena-gomez-oprah-winfrey-and-more-will-reveal-academy-award-winners/' target='_blank' rel='noopener noreferrer'>Who’s Presenting At The Oscars? Harrison Ford Drops Out—As Selena Gomez, Oprah Winfrey And More Will Reveal Academy Award Winners</a>
 
-[Conservatives—From DeSantis To Ben Shapiro—Blast Arrival Of Andrew Tate, Allegedly Helped By Trump](https://12ft.io/https://www.forbes.com/sites/saradorn/2025/02/28/conservatives-from-desantis-to-ben-shapiro-blast-arrival-of-andrew-tate-allegedly-helped-by-trump/)
+21 - <a href='https://www.google.com/search?q=What+Are+The+Top+Oscars+Nominees%3F+%E2%80%98Emilia+P%C3%A9rez%E2%80%99+Leads+With+13+Nods%2C+%E2%80%98The+Brutalist%E2%80%99+And+%E2%80%98Wicked%E2%80%99+Get+10' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/conormurray/2025/03/02/what-are-the-top-oscars-nominees-emilia-prez-leads-with-13-nods-the-brutalist-and-wicked-get-10/' target='_blank' rel='noopener noreferrer'>What Are The Top Oscars Nominees? ‘Emilia Pérez’ Leads With 13 Nods, ‘The Brutalist’ And ‘Wicked’ Get 10</a>
 
-[Why The Financial Markets Are The Only Real Check On Trump](https://12ft.io/https://www.forbes.com/sites/sergeiklebnikov/2025/03/01/why-the-financial-markets-are-the-only-real-check-on-trump/)
+22 - <a href='https://www.google.com/search?q=How+Underage+Creators+Became+A+Threat+To+Lucy+Guo%E2%80%99s+OnlyFans+Rival' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/iainmartin/2025/03/03/how-underage-creators-became-a-threat-to-lucy-guos-onlyfans-rival/' target='_blank' rel='noopener noreferrer'>How Underage Creators Became A Threat To Lucy Guo’s OnlyFans Rival</a>
 
-[Billionaires Don’t Want Trump’s Golden Visa](https://12ft.io/https://www.forbes.com/sites/forbeswealthteam/2025/02/28/billionaires-dont-want-trumps-golden-visa/)
+23 - <a href='https://www.google.com/search?q=New+Data+Shows+Just+How+Badly+OpenAI+And+Perplexity+Are+Screwing+Over+Publishers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/rashishrivastava/2025/03/03/openai-perplexity-ai-search-traffic-report/' target='_blank' rel='noopener noreferrer'>New Data Shows Just How Badly OpenAI And Perplexity Are Screwing Over Publishers</a>
 
-[2025 Best In State Wealth Management Teams List](https://12ft.io/https://www.forbes.com/lists/wealth-management-teams-best-in-state/)
+24 - <a href='https://www.google.com/search?q=2025+Best+In+State+Wealth+Management+Teams+List' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/lists/wealth-management-teams-best-in-state/' target='_blank' rel='noopener noreferrer'>2025 Best In State Wealth Management Teams List</a>
 
-[C-Suite Data Reveals AI’s Nuanced Impact & A Quest To Quantify It](https://12ft.io/https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/)
+25 - <a href='https://www.google.com/search?q=C-Suite+Data+Reveals+AI%E2%80%99s+Nuanced+Impact+%26+A+Quest+To+Quantify+It' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/' target='_blank' rel='noopener noreferrer'>C-Suite Data Reveals AI’s Nuanced Impact & A Quest To Quantify It</a>
 
-[WATCHA $3 Billion First Responder-Friendly Firm That Believes In A 'Protection-First Approach' To Financial Security](https://12ft.io/https://www.forbes.com/video/64b1ed45-bdcc-4506-abb8-9e226a2df987/)
+26 - <a href='https://www.google.com/search?q=WATCHHow+Your+Business+Can+Make+Money+On+LinkedIn' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/video/c9b0872d-6f28-491d-a5ba-451ecbe7f0cd/' target='_blank' rel='noopener noreferrer'>WATCHHow Your Business Can Make Money On LinkedIn</a>
 
-[How 4AM Skin Built A Brand Identity In A Crowded Beauty Industry](https://12ft.io/https://www.forbes.com/video/e861ee80-19cd-4302-9a35-2db0255da2e6/)
+27 - <a href='https://www.google.com/search?q=A+%243+Billion+First+Responder-Friendly+Firm+That+Believes+In+A+%27Protection-First+Approach%27+To+Financial+Security' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/video/64b1ed45-bdcc-4506-abb8-9e226a2df987/' target='_blank' rel='noopener noreferrer'>A $3 Billion First Responder-Friendly Firm That Believes In A 'Protection-First Approach' To Financial Security</a>
 
-[After-Year-End Tax Strategies For Small Businesses](https://12ft.io/https://www.forbes.com/video/06d48853-510d-430e-9ca4-5d426709346a/)
+28 - <a href='https://www.google.com/search?q=How+4AM+Skin+Built+A+Brand+Identity+In+A+Crowded+Beauty+Industry' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/video/e861ee80-19cd-4302-9a35-2db0255da2e6/' target='_blank' rel='noopener noreferrer'>How 4AM Skin Built A Brand Identity In A Crowded Beauty Industry</a>
 
-[Tax Breaks: The Tax View From The Top Of The World Edition](https://12ft.io/https://www.forbes.com/video/740b2370-d710-4ef8-b519-b814cf421108/)
+29 - <a href='https://www.google.com/search?q=After-Year-End+Tax+Strategies+For+Small+Businesses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/video/06d48853-510d-430e-9ca4-5d426709346a/' target='_blank' rel='noopener noreferrer'>After-Year-End Tax Strategies For Small Businesses</a>
 
-[Forbes CryptoAsset & Blockchain Advisor](https://12ft.io/https://www.forbes.com/newsletters/forbescryptoassetadvisor/)
+30 - <a href='https://www.google.com/search?q=Forbes+CryptoAsset+%26+Blockchain+Advisor' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/newsletters/forbescryptoassetadvisor/' target='_blank' rel='noopener noreferrer'>Forbes CryptoAsset & Blockchain Advisor</a>
 
-[Forbes Quote of the Day](https://12ft.io/https://www.forbes.com/quotes/)
+31 - <a href='https://www.google.com/search?q=Forbes+Quote+of+the+Day' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/quotes/' target='_blank' rel='noopener noreferrer'>Forbes Quote of the Day</a>
 
-[Share a News Tip with Forbes](https://12ft.io/https://www.forbes.com/tips/)
+32 - <a href='https://www.google.com/search?q=Share+a+News+Tip+with+Forbes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/tips/' target='_blank' rel='noopener noreferrer'>Share a News Tip with Forbes</a>
 
-[Do Not Sell or Share My Personal Information](https://12ft.io/https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true)
+33 - <a href='https://www.google.com/search?q=Do+Not+Sell+or+Share+My+Personal+Information' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true' target='_blank' rel='noopener noreferrer'>Do Not Sell or Share My Personal Information</a>
 
-[Limit the Use of My Sensitive Personal Information](https://12ft.io/https://www.forbes.com/consent/editprivacy/?consent_limit=true)
+34 - <a href='https://www.google.com/search?q=Limit+the+Use+of+My+Sensitive+Personal+Information' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.forbes.com/consent/editprivacy/?consent_limit=true' target='_blank' rel='noopener noreferrer'>Limit the Use of My Sensitive Personal Information</a>
 
-[Do Not Sell or Share My Personal Information](https://12ft.io/https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true)
+</details>
 
-[Limit the Use of My Sensitive Personal Information](https://12ft.io/https://www.forbes.com/consent/editprivacy/?consent_limit=true)
+# Newsweek
+
+<details>
+<summary>View Articles</summary>
+<br>
+
+1 - <a href='https://www.google.com/search?q=Stocks+Plummet+After+Trump+Confirms+Mexico%2C+Canada+Tariffs+to+Go+Forward' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/stocks-plummet-after-trump-confirms-mexico-canada-tariffs-go-forward-2038978' target='_blank' rel='noopener noreferrer'>Stocks Plummet After Trump Confirms Mexico, Canada Tariffs to Go Forward</a>
+
+2 - <a href='https://www.google.com/search?q=It%27s+a+bit+different+when+the+buck+stops+at+you%2C+huh%2C+Bobby%3F++Suddenly%2C+the+science+and+statistics+make+sense+now.%0A%F0%9F%99%84' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/robert-f-kennedy-jr-measles-vaccine-anti-vax-mmr-texas-2038672' target='_blank' rel='noopener noreferrer'>It's a bit different when the buck stops at you, huh, Bobby?  Suddenly, the science and statistics make sense now.
+🙄</a>
+
+3 - <a href='https://www.google.com/search?q=So+petty.....This+is+what+an+illegitimate+presidency+looks+like.How+far+we+have+fallen+as+a+nation.+%F0%9F%98%9E' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/us-considering-easing-sanctions-russia-after-trump-zelensky-meltdown-2038972' target='_blank' rel='noopener noreferrer'>So petty.....This is what an illegitimate presidency looks like.How far we have fallen as a nation. 😞</a>
+
+4 - <a href='https://www.google.com/search?q=If+it+was+another+newcomer%2C+don%27t+forget+to+thank+the+liberals.+And+they+wonder+why+the+AfD+is+gaining+popularity%2C+really%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/car-drives-people-german-city-reports-2038678' target='_blank' rel='noopener noreferrer'>If it was another newcomer, don't forget to thank the liberals. And they wonder why the AfD is gaining popularity, really?</a>
+
+5 - <a href='https://www.google.com/search?q=Makes+sense+now+why+President+Musk+got+rid+of+the+consumer+protection+agency.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/florida-insurance-scandal-huge-impact-homeowners-2037711' target='_blank' rel='noopener noreferrer'>Makes sense now why President Musk got rid of the consumer protection agency.</a>
+
+6 - <a href='https://www.google.com/search?q=Donald+Trump+to+Replace+Benjamin+Franklin+on+%24100+Bill+Under+GOP+Proposal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/donald-trump-benjamin-franklin-100-bill-gop-proposal-2038753' target='_blank' rel='noopener noreferrer'>Donald Trump to Replace Benjamin Franklin on $100 Bill Under GOP Proposal</a>
+
+7 - <a href='https://www.google.com/search?q=IRS+Gives+Tax+Refund+Update+as+Over+%24100B+Returned' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/irs-tax-refund-update-100-billion-returned-2038736' target='_blank' rel='noopener noreferrer'>IRS Gives Tax Refund Update as Over $100B Returned</a>
+
+8 - <a href='https://www.google.com/search?q=JD+Vance+Accosted+While+Skiing+in+Vermont' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/jd-vance-accosted-while-skiing-vermont-2038664' target='_blank' rel='noopener noreferrer'>JD Vance Accosted While Skiing in Vermont</a>
+
+9 - <a href='https://www.google.com/search?q=Texas+Republican+Repeatedly+Heckled+at+Tense+Town+Hall%3A+%27Vote+You+Out%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/texas-republican-keith-self-heckled-town-hall-2038624' target='_blank' rel='noopener noreferrer'>Texas Republican Repeatedly Heckled at Tense Town Hall: 'Vote You Out'</a>
+
+10 - <a href='https://www.google.com/search?q=Lip+Reader+Reveals+What+Demi+Moore+Said+When+Mikey+Madison+Won+Oscar+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/demi-moore-mikey-madison-oscars-2025-2038569' target='_blank' rel='noopener noreferrer'>Lip Reader Reveals What Demi Moore Said When Mikey Madison Won Oscar 2025</a>
+
+11 - <a href='https://www.google.com/search?q=Oscars+2025%3A+Complete+List+of+Winners+at+the+97th+Annual+Academy+Awards%E2%80%94Plus+Best+Moments' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/oscar-winners-best-moments-academy-awards-2025-2038531' target='_blank' rel='noopener noreferrer'>Oscars 2025: Complete List of Winners at the 97th Annual Academy Awards—Plus Best Moments</a>
+
+12 - <a href='https://www.google.com/search?q=UP+IN+FLAMES%3A+How+failing+electrical+infrastructure+continues+to+put+the+U.S.+at+risk+of+deadly+fires' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/2025/03/07/issue.html' target='_blank' rel='noopener noreferrer'>UP IN FLAMES: How failing electrical infrastructure continues to put the U.S. at risk of deadly fires</a>
+
+13 - <a href='https://www.google.com/search?q=Q%26A%3A+Carl+Zimmer+on+airborne+diseases%3A+%22These+are+all+big+concerns%22' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/2025/03/07/carl-zimmer-science-journalist-airborne-illness-covid-2031287.html' target='_blank' rel='noopener noreferrer'>Q&A: Carl Zimmer on airborne diseases: "These are all big concerns"</a>
+
+14 - <a href='https://www.google.com/search?q=How+Middle+Managers+Can+Convince+Execs+to+Soften+RTO+Mandates' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/rto-return-office-mandates-middle-management-reactions-strategies-2038850' target='_blank' rel='noopener noreferrer'>How Middle Managers Can Convince Execs to Soften RTO Mandates</a>
+
+15 - <a href='https://www.google.com/search?q=Florida+Housing+Market+Suffers+Wave+of+Cancellations+as+Deals+Fall+Through' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/florida-housing-market-suffers-wave-cancellations-deals-fall-through-2038599' target='_blank' rel='noopener noreferrer'>Florida Housing Market Suffers Wave of Cancellations as Deals Fall Through</a>
+
+16 - <a href='https://www.google.com/search?q=Elon+Musk%27s+Social+Security+Remark+Rebuked+by+Alexandria+Ocasio-Cortez' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/elon-musks-social-security-remark-rebuked-alexandria-ocasio-cortez-2038384' target='_blank' rel='noopener noreferrer'>Elon Musk's Social Security Remark Rebuked by Alexandria Ocasio-Cortez</a>
+
+17 - <a href='https://www.google.com/search?q=Is+the+Housing+Market+Going+to+Crash+in+2025%3F+What+to+Know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/housing-market-crash-2025-buying-homes-2038062' target='_blank' rel='noopener noreferrer'>Is the Housing Market Going to Crash in 2025? What to Know</a>
+
+18 - <a href='https://www.google.com/search?q=US+Postal+Service+Launches+New+Forever+Stamps' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/new-forever-stamps-appalachian-trail-2038213' target='_blank' rel='noopener noreferrer'>US Postal Service Launches New Forever Stamps</a>
+
+19 - <a href='https://www.google.com/search?q=Auroras%3A+How+To+See+Northern+Lights+Over+the+US+Tomorrow' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/aurora-northern-lights-how-see-us-2038699' target='_blank' rel='noopener noreferrer'>Auroras: How To See Northern Lights Over the US Tomorrow</a>
+
+20 - <a href='https://www.google.com/search?q=Trump%27s+Strategic+Crypto+Reserve+to+Hold+Assets+Backed+by+His+Crypto+Czar' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/david-sacks-crypto-reserve-donald-trump-bitcoin-solana-2038902' target='_blank' rel='noopener noreferrer'>Trump's Strategic Crypto Reserve to Hold Assets Backed by His Crypto Czar</a>
+
+21 - <a href='https://www.google.com/search?q=Digital%2B+Monthly+%28Ad+Free+Trial%29%241.00' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.newsweek.com/subscribe' target='_blank' rel='noopener noreferrer'>Digital+ Monthly (Ad Free Trial)$1.00</a>
 
 </details>
 
@@ -2090,141 +2204,95 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[S&P 500 surges 1% Friday to end stormy February as investors look past Trump-Zelenskyy clash](https://12ft.io/https://www.cnbc.com/2025/02/27/stock-market-today-live-updates.html)
+1 - <a href='https://www.google.com/search?q=Stock+futures+rise+after+Monday%E2%80%99s+big+sell-off%3B+Trump%E2%80%99s+Mexico+and+Canada+tariffs+loom' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/stock-market-today-live-updates.html' target='_blank' rel='noopener noreferrer'>Stock futures rise after Monday’s big sell-off; Trump’s Mexico and Canada tariffs loom</a>
 
-[Trump objected to Zelenskyy's tone and body language in Oval Office clash, White House says](https://12ft.io/https://www.cnbc.com/2025/03/01/trump-zelenskyy-white-house-tone-elon-musk.html)
+2 - <a href='https://www.google.com/search?q=Trump+dashes+hopes+for+last-minute+Canada+and+Mexico+deal+ahead+of+25%25+tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/trump-dashes-hope-for-last-minute-canada-and-mexico-deal-ahead-of-25percent-tariffs.html' target='_blank' rel='noopener noreferrer'>Trump dashes hopes for last-minute Canada and Mexico deal ahead of 25% tariffs</a>
 
-[Watch: Trump-Zelenskyy Oval Office meeting explodes into shouting match](https://12ft.io/https://www.cnbc.com/2025/02/28/trump-vance-and-zelenskyy-clash-at-white-house-ukraine-meeting.html)
+3 - <a href='https://www.google.com/search?q=Trump+tariffs+will+raise+gasoline+and+electricity+prices+in+the+U.S.%2C+Canada+energy+minister+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/trump-tariffs-will-raise-gasoline-electricity-prices-canada-minister.html' target='_blank' rel='noopener noreferrer'>Trump tariffs will raise gasoline and electricity prices in the U.S., Canada energy minister says</a>
 
-[Zelenskyy seeks support at emergency European summit after Trump clash](https://12ft.io/https://www.cnbc.com/2025/03/01/zelenskyy-seeks-support-at-emergency-european-summit-after-bruising-trump-encounter.html)
+4 - <a href='https://www.google.com/search?q=Nvidia%27s+unofficial+exports+to+China+face+scrutiny+after+arrest+of+silicon+smugglers+in+Singapore' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/nvidia-unofficial-exports-to-china-face-scrutiny-after-singapore-arrests.html' target='_blank' rel='noopener noreferrer'>Nvidia's unofficial exports to China face scrutiny after arrest of silicon smugglers in Singapore</a>
 
-[NATO's Rutte urges Zelenskyy to mend his relationship with Trump](https://12ft.io/https://www.cnbc.com/2025/03/01/natos-rutte-urges-zelenskyy-to-mend-his-relationship-with-trump.html)
+5 - <a href='https://www.google.com/search?q=Nvidia+shares+fall+9%25+on+tariff+fears' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/nvidia-shares-fall-9percent-on-tariff-fears.html' target='_blank' rel='noopener noreferrer'>Nvidia shares fall 9% on tariff fears</a>
 
-[Microsoft resolves global outage that left tens of thousands unable to access email and other apps](https://12ft.io/https://www.cnbc.com/2025/03/01/reported-global-microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps.html)
+6 - <a href='https://www.google.com/search?q=Asia-Pacific+markets+set+to+track+Wall+Street+declines+as+Trump+tariffs+dent+sentiment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/04/asia-markets-today-live-updates-trump-tariffs.html' target='_blank' rel='noopener noreferrer'>Asia-Pacific markets set to track Wall Street declines as Trump tariffs dent sentiment</a>
 
-[Another 'near miss': Citigroup mistakenly credited a customer account with $81 trillion](https://12ft.io/https://www.cnbc.com/2025/03/01/citigroup-mistakenly-credited-a-customer-account-with-81-trillion.html)
+7 - <a href='https://www.google.com/search?q=23andMe+special+committee+again+rejects+CEO+Wojcicki%27s+take-private+offer' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/23andme-special-committee-rejects-ceo-wojcicki-second-takeover-offer.html' target='_blank' rel='noopener noreferrer'>23andMe special committee again rejects CEO Wojcicki's take-private offer</a>
 
-[Microsoft resolves outage that left thousands unable to access email, other apps](https://12ft.io/https://www.cnbc.com/2025/03/01/reported-global-microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps.html)
+8 - <a href='https://www.google.com/search?q=Huawei+charts+global+comeback+with+pricey+phones+%E2%80%94+but+major+challenges+remain' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/04/huawei-charts-cautious-global-comeback-but-major-challenges-remain.html' target='_blank' rel='noopener noreferrer'>Huawei charts global comeback with pricey phones — but major challenges remain</a>
 
-[Michelin-star chef: This 'vanity' is the No. 1 thing home cooks waste money on](https://12ft.io/https://www.cnbc.com/2025/03/01/michelin-star-chef-this-is-the-no-1-thing-home-cooks-waste-money-on.html)
+9 - <a href='https://www.google.com/search?q=This+brain+hack+can+help+you+maintain+good+habits%2C+says+expert' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/04/psychology-expert-this-brain-hack-can-help-maintain-new-habits.html' target='_blank' rel='noopener noreferrer'>This brain hack can help you maintain good habits, says expert</a>
 
-[Trump objected to Zelenskyy tone and body language in clash, White House says](https://12ft.io/https://www.cnbc.com/2025/03/01/trump-zelenskyy-white-house-tone-elon-musk.html)
+10 - <a href='https://www.google.com/search?q=AI+cloud+provider+CoreWeave+files+for+IPO' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/ai-cloud-provider-coreweave-files-for-ipo.html' target='_blank' rel='noopener noreferrer'>AI cloud provider CoreWeave files for IPO</a>
 
-[Former New York Gov. Andrew Cuomo launches campaign for NYC mayor](https://12ft.io/https://www.cnbc.com/2025/03/01/former-ny-gov-andrew-cuomo-launches-campaign-for-nyc-mayor.html)
+11 - <a href='https://www.google.com/search?q=How+much+does+Apple%27s+staggered+AI+rollout+really+matter+to+the+stock%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/how-much-does-apples-staggered-ai-rollout-really-matter-to-the-stock.html' target='_blank' rel='noopener noreferrer'>How much does Apple's staggered AI rollout really matter to the stock?</a>
 
-[Another 'near miss': Citigroup mistakenly credited a customer account with $81 trillion](https://12ft.io/https://www.cnbc.com/2025/03/01/citigroup-mistakenly-credited-a-customer-account-with-81-trillion.html)
+12 - <a href='https://www.google.com/search?q=Social+Security+plans+to+cut+7%2C000+workers.+Experts+worry+that+may+affect+benefits' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/social-security-plans-to-cut-about-7000-workers-that-may-affect-benefits.html' target='_blank' rel='noopener noreferrer'>Social Security plans to cut 7,000 workers. Experts worry that may affect benefits</a>
 
-[Buying small caps to find an Nvidia is risky. 5 questions to answer before starting](https://12ft.io/https://www.cnbc.com/2025/03/01/buying-small-caps-to-find-an-nvidia-is-risky-5-questions-before-starting.html)
+13 - <a href='https://www.google.com/search?q=Chart+watchers+worry+the+S%26P+500+could+soon+test+its+200-day+moving+average' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/chart-watchers-worry-sp-500-could-soon-test-200-day-moving-average.html' target='_blank' rel='noopener noreferrer'>Chart watchers worry the S&P 500 could soon test its 200-day moving average</a>
 
-[Tax breaks, free college: How a Kansas town is enticing people to move there](https://12ft.io/https://www.cnbc.com/2025/03/01/neodesha-kansas-offers-incentives-to-entice-people-to-move-there.html)
+14 - <a href='https://www.google.com/search?q=Nvidia+gets+swept+up+the+uncertainty+hitting+Wall+Street.+Here+is+what%27s+going+on' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/nvidia-gets-swept-up-in-a-wave-of-uncertainty-hitting-wall-street-here-is-whats-going-on.html' target='_blank' rel='noopener noreferrer'>Nvidia gets swept up the uncertainty hitting Wall Street. Here is what's going on</a>
 
-[Social Security may see 'interruption of benefits' due to DOGE: ex-commissioner](https://12ft.io/https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html)
+15 - <a href='https://www.google.com/search?q=Student+loan+borrowers+pursuing+PSLF+are+%27panicking%2C%27+expert+says.+What+to+know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/student-loan-borrowers-pursuing-pslf-are-panicking-heres-what-to-know.html' target='_blank' rel='noopener noreferrer'>Student loan borrowers pursuing PSLF are 'panicking,' expert says. What to know</a>
 
-[People who are truly content with life do these 10 little things every day, says happiness expert](https://12ft.io/https://www.cnbc.com/2025/03/01/ivy-league-happiness-expert-what-people-who-are-truly-content-in-life-do-every-day.html)
+16 - <a href='https://www.google.com/search?q=Private+credit+is+becoming+more+accessible+to+retail+investors.+What+to+know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/what-to-know-about-investing-in-private-credit.html' target='_blank' rel='noopener noreferrer'>Private credit is becoming more accessible to retail investors. What to know</a>
 
-[Power stock at center of AI trade fades as investors await a data center deal](https://12ft.io/https://www.cnbc.com/2025/03/01/vistra-ai-shares-are-fading-as-investors-await-a-data-center-deal.html)
+17 - <a href='https://www.google.com/search?q=Stocks+fail+to+build+on+Friday%27s+rally+%E2%80%94+plus%2C+how+tariffs+are+impacting+businesses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/wall-street-fails-to-build-on-fridays-rally-plus-how-tariffs-are-impacting-business-decisions.html' target='_blank' rel='noopener noreferrer'>Stocks fail to build on Friday's rally — plus, how tariffs are impacting businesses</a>
 
-[These S&P 500 stocks are deeply oversold and may be due for a rebound](https://12ft.io/https://www.cnbc.com/2025/03/01/these-sp-500-stocks-are-deeply-oversold-and-may-be-due-for-a-rebound.html)
+18 - <a href='https://www.google.com/search?q=Watch+live%3A+Trump+expected+to+announce+%24100+billion+investment+in+U.S.+by+TSMC' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/watch-live-trump-100-billion-investment-tsmc.html' target='_blank' rel='noopener noreferrer'>Watch live: Trump expected to announce $100 billion investment in U.S. by TSMC</a>
 
-[These are Morgan Stanley's favorite stocks coming out of earnings](https://12ft.io/https://www.cnbc.com/2025/03/01/morgan-stanley-top-stocks-with-more-room-to-run.html)
+19 - <a href='https://www.google.com/search?q=Kieran+Culkin+tried+to+quit+his+Oscar-winning+role%3A+%27I+had+a+panic%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/kieran-culkin-tried-to-quit-his-oscar-winning-role-i-had-a-panic.html' target='_blank' rel='noopener noreferrer'>Kieran Culkin tried to quit his Oscar-winning role: 'I had a panic'</a>
 
-[With $1 billion in salary IOUs, Dodgers spark new questions about MLB's fairness](https://12ft.io/https://www.cnbc.com/2025/03/01/dodgers-deferred-salaries-spark-mlb-salary-cap-questions.html)
+20 - <a href='https://www.google.com/search?q=Goldman+adds+new+stocks+to+its+best-of-the-best+stock+list' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/goldman-adds-new-stocks-to-its-best-of-the-best-stock-list.html' target='_blank' rel='noopener noreferrer'>Goldman adds new stocks to its best-of-the-best stock list</a>
 
-[Why nursing homes and hospice are so expensive in the U.S.](https://12ft.io/https://www.cnbc.com/2025/03/01/why-nursing-homes-and-hospice-are-so-expensive-in-the-us.html)
+21 - <a href='https://www.google.com/search?q=Inflation+will+move+toward+2%25%2C+but+risks+to+outlook+are+rising%2C+says+Musalem' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/inflation-will-move-toward-2percent-target-but-risks-to-outlook-are-rising-says-feds-musalem.html' target='_blank' rel='noopener noreferrer'>Inflation will move toward 2%, but risks to outlook are rising, says Musalem</a>
 
-[How a $5 million fix turned Paramount's 'Sonic' into a billion-dollar franchise](https://12ft.io/https://www.cnbc.com/2025/03/01/paramount-sonic-fix-billion-dollar-franchise.html)
+22 - <a href='https://www.google.com/search?q=Serena+Williams+joins+WNBA+ownership+group+in+Toronto' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/serena-williams-wnba-ownership-group-toronto.html' target='_blank' rel='noopener noreferrer'>Serena Williams joins WNBA ownership group in Toronto</a>
 
-[Zelenskyy won't apologize to Trump, but calls clash 'not good for both sides'](https://12ft.io/https://www.cnbc.com/2025/02/28/zelenskyy-does-not-apologize-for-trump-clash-not-good-for-both-sides.html)
+23 - <a href='https://www.google.com/search?q=One+group+of+stocks+is+off+to+a+hot+start+this+year.+How+to+play+it+from+here' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/one-group-of-stocks-is-off-to-a-hot-start-this-year-how-to-play-it-from-here.html' target='_blank' rel='noopener noreferrer'>One group of stocks is off to a hot start this year. How to play it from here</a>
 
-[Amazon eyes global expansion for its Temu, Shein competitor](https://12ft.io/https://www.cnbc.com/2025/02/28/amazon-eyes-global-expansion-for-its-temu-shein-competitor.html)
+24 - <a href='https://www.google.com/search?q=Trump+announces+%24100+billion+investment+in+U.S.+from+TSMC' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/tsmc-to-announce-100-billion-investment-in-us-chip-plants.html' target='_blank' rel='noopener noreferrer'>Trump announces $100 billion investment in U.S. from TSMC</a>
 
-[As the price of bitcoin falls, you can leverage this tax 'loophole,' experts say](https://12ft.io/https://www.cnbc.com/2025/02/28/price-of-bitcoin-tax-loophole.html)
+25 - <a href='https://www.google.com/search?q=Stocks+making+the+biggest+moves+midday%3A+Intel%2C+Nvidia%2C+AppLovin+and+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/stocks-making-the-biggest-moves-midday-intc-nvda-app.html' target='_blank' rel='noopener noreferrer'>Stocks making the biggest moves midday: Intel, Nvidia, AppLovin and more</a>
 
-[Black woman who retired at 30: FIRE is 'not just for white guys'](https://12ft.io/https://www.cnbc.com/2025/02/28/black-woman-who-retired-at-30-fire-is-not-just-for-white-guys.html)
+26 - <a href='https://www.google.com/search?q=Amazon-backed+AI+firm+Anthropic+valued+at+%2461.5+billion+after+latest+round' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/amazon-backed-ai-firm-anthropic-valued-at-61point5-billion-after-latest-round.html' target='_blank' rel='noopener noreferrer'>Amazon-backed AI firm Anthropic valued at $61.5 billion after latest round</a>
 
-[S&P 500 could get a seasonal boost in March after a tough February](https://12ft.io/https://www.cnbc.com/2025/02/28/sp-500-could-get-a-seasonal-boost-in-march-after-a-tough-february.html)
+27 - <a href='https://www.google.com/search?q=These+4+stocks+have+limited+exposure+to+Trump%27s+tariffs+set+to+start+Tuesday' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/these-4-stocks-have-limited-exposure-to-trumps-new-tariffs.html' target='_blank' rel='noopener noreferrer'>These 4 stocks have limited exposure to Trump's tariffs set to start Tuesday</a>
 
-[Intel delays Ohio chip plant opening to next decade, was to start production by 2026](https://12ft.io/https://www.cnbc.com/2025/02/28/intel-delays-ohio-plant-opening-to-2030-production-was-to-start-2026.html)
+28 - <a href='https://www.google.com/search?q=Three+stocks+that+could+reenergize+the+AI+trade+this+week' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/three-stocks-that-could-re-energize-the-ai-trade-this-week.html' target='_blank' rel='noopener noreferrer'>Three stocks that could reenergize the AI trade this week</a>
 
-[Earnings season is winding down. These S&P 500 companies have hiked dividends](https://12ft.io/https://www.cnbc.com/2025/02/28/earnings-season-is-winding-down-and-these-sp-500-companies-have-hiked-their-dividends.html)
+29 - <a href='https://www.google.com/search?q=China%27s+Oppo+taps+Google+for+privacy+AI+push%2C+taking+page+from+Apple%27s+playbook' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/chinas-oppo-taps-google-for-privacy-ai-push-taking-page-from-apple.html' target='_blank' rel='noopener noreferrer'>China's Oppo taps Google for privacy AI push, taking page from Apple's playbook</a>
 
-[Block's 28% plunge in February leads fintech sell-off, while Stripe valuation jumps](https://12ft.io/https://www.cnbc.com/2025/02/28/block-plunge-in-february-leads-fintech-selloff-stripe-valuation-jumps.html)
+30 - <a href='https://www.google.com/search?q=Treasury+Department+halts+BOI+reporting+enforcement+for+millions+of+businesses' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/treasury-department-boi-reporting-deadline.html' target='_blank' rel='noopener noreferrer'>Treasury Department halts BOI reporting enforcement for millions of businesses</a>
 
-[FAA clears SpaceX for another Starship test flight after explosion in January](https://12ft.io/https://www.cnbc.com/2025/02/28/faa-clears-spacex-for-starship-test-flight-after-explosion-in-january.html)
+31 - <a href='https://www.google.com/search?q=%27What+Europe+needs+is+a+DOGE%2C%27+Deutsche+Telekom+CEO+says+in+plea+for+deregulation' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/mwc-deutsche-telekom-ceo-says-europe-needs-its-own-doge.html' target='_blank' rel='noopener noreferrer'>'What Europe needs is a DOGE,' Deutsche Telekom CEO says in plea for deregulation</a>
 
-[The first quarter is on track for negative GDP growth, Atlanta Fed indicator says](https://12ft.io/https://www.cnbc.com/2025/02/28/the-first-quarter-is-on-track-for-negative-gdp-growth-atlanta-fed-indicator-says-.html)
+32 - <a href='https://www.google.com/search?q=Bitcoin+tumbles+9%25%2C+reversing+most+of+the+rally+from+Trump%27s+crypto+reserve+announcement' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/crypto-market-today.html' target='_blank' rel='noopener noreferrer'>Bitcoin tumbles 9%, reversing most of the rally from Trump's crypto reserve announcement</a>
 
-[How a small business community in California looks to rebuild after wildfires](https://12ft.io/https://www.cnbc.com/2025/02/28/altadenas-diverse-small-business-community-looks-to-rebuild-after-deadly-la-wildfires.html)
+33 - <a href='https://www.google.com/search?q=Leon+Cooperman+says+he%27s+selling+into+market+strength+and+holding+lots+of+cash' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/leon-cooperman-is-selling-into-market-strength-and-holding-lots-of-cash.html' target='_blank' rel='noopener noreferrer'>Leon Cooperman says he's selling into market strength and holding lots of cash</a>
 
-[40-year-old's company could bring in $120 million this year: Her best advice](https://12ft.io/https://www.cnbc.com/2025/02/28/advice-from-ceo-of-company-projected-to-bring-in-120-million-in-2025.html)
+34 - <a href='https://www.google.com/search?q=Bitcoin+gives+back+gains+driven+by+President+Trump%27s+crypto+reserve+announcement%3A+CNBC+Crypto+World' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/video/2025/03/03/bitcoin-gives-back-gains-president-trump-crypto-reserve-crypto-world.html' target='_blank' rel='noopener noreferrer'>Bitcoin gives back gains driven by President Trump's crypto reserve announcement: CNBC Crypto World</a>
 
-[Trump's latest midday surprise briefly jolts the market — plus, our February movers](https://12ft.io/https://www.cnbc.com/2025/02/28/trumps-midday-surprise-briefly-jolts-the-market-plus-february-winners-and-losers.html)
+35 - <a href='https://www.google.com/search?q=%27Reverse+Robin+Hood+scam%27+or+windfall+for+middle+class%3F+Lawmakers+debate+Trump+tax+plan+extensions' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/who-benefits-from-trump-tax-cuts-and-jobs-act-extension.html' target='_blank' rel='noopener noreferrer'>'Reverse Robin Hood scam' or windfall for middle class? Lawmakers debate Trump tax plan extensions</a>
 
-[Amazon's most powerful new Alexa features being powered by Anthropic's AI: sources](https://12ft.io/https://www.cnbc.com/2025/02/28/amazon-most-powerful-new-alexa-features-being-powered-by-anthropic-ai.html)
+36 - <a href='https://www.google.com/search?q=Top+FBI+official+forced+out+after+criticizing+Trump+pursuit+of+agents+who+investigated+Jan.+6' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/top-fbi-official-forced-out-after-criticizing-trump-pursuit-of-agents-who-investigated-jan-6.html' target='_blank' rel='noopener noreferrer'>Top FBI official forced out after criticizing Trump pursuit of agents who investigated Jan. 6</a>
 
-[Charts indicate S&P 500 sell-off could turn into correction, says Carter Worth](https://12ft.io/https://www.cnbc.com/2025/02/28/charts-indicate-sp-500-sell-off-could-turn-into-a-full-blown-correction-says-carter-worth.html)
+37 - <a href='https://www.google.com/search?q=Kroger+Chairman+and+CEO+resigns+following+investigation+into+personal+conduct' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/kroger-chairman-and-ceo-resigns-following-investigation-into-personal-conduct.html' target='_blank' rel='noopener noreferrer'>Kroger Chairman and CEO resigns following investigation into personal conduct</a>
 
-[Social Security may see 'interruption of benefits' due to DOGE actions: former commissioner](https://12ft.io/https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html)
+38 - <a href='https://www.google.com/search?q=Why+foreign+retailers+like+Primark+and+Mango+are+expanding+across+the+U.S.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/03/foreign-retailers-primark-mango-uniqlo-expand-in-the-us.html' target='_blank' rel='noopener noreferrer'>Why foreign retailers like Primark and Mango are expanding across the U.S.</a>
 
-[Buy these top stock picks coming out of earnings, Morgan Stanley says](https://12ft.io/https://www.cnbc.com/2025/03/01/morgan-stanley-top-stocks-with-more-room-to-run.html)
+39 - <a href='https://www.google.com/search?q=Oscars+2025%3A+%27Anora%27+cleans+up%2C+Adrien+Brody+and+Zoe+Saldana+make+history' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/02/oscar-awards-live-updates-complete-list-of-winners.html' target='_blank' rel='noopener noreferrer'>Oscars 2025: 'Anora' cleans up, Adrien Brody and Zoe Saldana make history</a>
 
-[Former New York Gov. Andrew Cuomo launches campaign for NYC mayor in bid to oust Eric Adams](https://12ft.io/https://www.cnbc.com/2025/03/01/former-ny-gov-andrew-cuomo-launches-campaign-for-nyc-mayor.html)
+40 - <a href='https://www.google.com/search?q=Tax+breaks%2C+child+care+and+free+college%3A+How+a+Kansas+town+is+enticing+people+to+move+there' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/01/neodesha-kansas-offers-incentives-to-entice-people-to-move-there.html' target='_blank' rel='noopener noreferrer'>Tax breaks, child care and free college: How a Kansas town is enticing people to move there</a>
 
-[S&P 500 surges 1% Friday to end stormy February as investors look past Trump-Zelenskyy clash](https://12ft.io/https://www.cnbc.com/2025/02/27/stock-market-today-live-updates.html)
+41 - <a href='https://www.google.com/search?q=Get+free+breakfast%2C+room+upgrades+and+more+with+the+best+hotel+credit+cards' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/select/best-hotel-credit-cards/' target='_blank' rel='noopener noreferrer'>Get free breakfast, room upgrades and more with the best hotel credit cards</a>
 
-[The first quarter is on track for negative GDP growth, Atlanta Fed indicator says](https://12ft.io/https://www.cnbc.com/2025/02/28/the-first-quarter-is-on-track-for-negative-gdp-growth-atlanta-fed-indicator-says-.html)
+42 - <a href='https://www.google.com/search?q=S%26P+500+posts+biggest+loss+since+December+as+Trump+says+tariffs+will+proceed' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/02/stock-futures-rise-slightly-in-overnight-trading-as-investors-await-tariff-news-live-updates.html' target='_blank' rel='noopener noreferrer'>S&P 500 posts biggest loss since December as Trump says tariffs will proceed</a>
 
-[These S&P 500 stocks are deeply oversold and may be due for a rebound](https://12ft.io/https://www.cnbc.com/2025/03/01/these-sp-500-stocks-are-deeply-oversold-and-may-be-due-for-a-rebound.html)
+43 - <a href='https://www.google.com/search?q=Social+Security+may+see+%27interruption+of+benefits%27+due+to+DOGE+actions%3A+Former+commissioner' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html' target='_blank' rel='noopener noreferrer'>Social Security may see 'interruption of benefits' due to DOGE actions: Former commissioner</a>
 
-[Pope Francis has a stable a day after a respiratory crisis, spent 'long periods' off noninvasive ventilator](https://12ft.io/https://www.cnbc.com/2025/02/28/pope-had-a-bronchial-spasm-and-his-prognosis-remains-guarded-vatican-says.html)
+44 - <a href='https://www.google.com/search?q=Monday%2C+March+3%2C+2025%3A+The+Club+says+this+retailer+will+benefit+from+tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/video/2025/03/03/monday-march-3-2025-the-club-says-this-retailer-will-benefit-from-tariffs.html' target='_blank' rel='noopener noreferrer'>Monday, March 3, 2025: The Club says this retailer will benefit from tariffs</a>
 
-[What's inside the $200,000 Oscars gift bag given to Timothée Chalamet, Ariana Grande and more](https://12ft.io/https://www.cnbc.com/2025/02/28/oscars-2025-heres-whats-inside-the-200000-oscars-gift-bag-.html)
-
-[How a $5 million fix turned Paramount Pictures's 'Sonic' into a billion-dollar franchise](https://12ft.io/https://www.cnbc.com/2025/03/01/paramount-sonic-fix-billion-dollar-franchise.html)
-
-[Fed's favorite core inflation measure hits 2.6% in January, as expected](https://12ft.io/https://www.cnbc.com/2025/02/28/pce-inflation-january-2025-.html)
-
-[U.S. federal workers hit with second wave of emails demanding job details](https://12ft.io/https://www.cnbc.com/2025/03/01/us-federal-workers-hit-with-second-wave-of-emails-demanding-job-details.html)
-
-[Trump administration, Musk’s DOGE plan to fire nearly all CFPB staff and wind down agency, workers say](https://12ft.io/https://www.cnbc.com/2025/02/28/cfpb-leaders-and-elon-musk-doge-planned-to-fire-nearly-all-staff.html)
-
-[Power stock at the center of the AI trade is fading as investors await a data center deal](https://12ft.io/https://www.cnbc.com/2025/03/01/vistra-ai-shares-are-fading-as-investors-await-a-data-center-deal.html)
-
-[How the German Autobahn ended up without speed limits](https://12ft.io/https://www.cnbc.com/2025/02/28/how-the-german-autobahn-ended-up-without-speed-limits.html)
-
-[Michelin-star chef says this is the No. 1 thing home cooks waste money on](https://12ft.io/https://www.cnbc.com/2025/03/01/michelin-star-chef-this-is-the-no-1-thing-home-cooks-waste-money-on.html)
-
-[Buying small caps to find the next Nvidia can be risky. 5 questions to answer before starting](https://12ft.io/https://www.cnbc.com/2025/03/01/buying-small-caps-to-find-an-nvidia-is-risky-5-questions-before-starting.html)
-
-[FedEx cargo plane makes emergency landing in New Jersey following bird strike and engine fire](https://12ft.io/https://www.cnbc.com/2025/03/01/fedex-cargo-plane-makes-emergency-landing-following-bird-strike-engine-fire.html)
-
-[Amazon eyes global expansion for its Temu, Shein competitor](https://12ft.io/https://www.cnbc.com/2025/02/28/amazon-eyes-global-expansion-for-its-temu-shein-competitor.html)
-
-[Get free breakfast, room upgrades and more with the best hotel credit cards](https://12ft.io/https://www.cnbc.com/select/best-hotel-credit-cards/)
-
-[Activist Elliott takes a stake in Aspen Technology and pushes back on an offer from Emerson](https://12ft.io/https://www.cnbc.com/2025/03/01/activist-elliott-takes-a-stake-in-aspen-technology-and-pushes-back-on-an-offer-from-emerson.html)
-
-[Power stock at the center of the AI trade is fading as impatient investors await a data center deal](https://12ft.io/https://www.cnbc.com/2025/03/01/vistra-ai-shares-are-fading-as-investors-await-a-data-center-deal.html)
-
-[S&P 500 could get a seasonal boost in March after a tough February](https://12ft.io/https://www.cnbc.com/2025/02/28/sp-500-could-get-a-seasonal-boost-in-march-after-a-tough-february.html)
-
-[Charts indicate S&P 500 sell-off could turn into a full-blown correction, says Carter Worth](https://12ft.io/https://www.cnbc.com/2025/02/28/charts-indicate-sp-500-sell-off-could-turn-into-a-full-blown-correction-says-carter-worth.html)
-
-[The first quarter is on track for negative GDP growth, Atlanta Fed indicator says](https://12ft.io/https://www.cnbc.com/2025/02/28/the-first-quarter-is-on-track-for-negative-gdp-growth-atlanta-fed-indicator-says-.html)
-
-[Social Security may see 'interruption of benefits' due to DOGE actions: former commissioner](https://12ft.io/https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html)
-
-[Microsoft resolves global outage that left tens of thousands unable to access email and other apps](https://12ft.io/https://www.cnbc.com/2025/03/01/reported-global-microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps.html)
-
-[To influence people, use 6 phrases, says leadership expert: ‘Just a few words’ can make a difference](https://12ft.io/https://www.cnbc.com/2025/02/28/to-influence-people-use-these-phrases-says-expert.html)
-
-[Another 'near miss': Citigroup mistakenly credited a customer account with $81 trillion](https://12ft.io/https://www.cnbc.com/2025/03/01/citigroup-mistakenly-credited-a-customer-account-with-81-trillion.html)
-
-[Trump objected to Zelenskyy's tone and body language in Oval Office clash, White House says](https://12ft.io/https://www.cnbc.com/2025/03/01/trump-zelenskyy-white-house-tone-elon-musk.html)
-
-[Friday, February 28, 2025: The Club breaks down why it bought more of this restaurant stock](https://12ft.io/https://www.cnbc.com/video/2025/02/28/friday-february-28-2025-the-club-breaks-down-why-it-bought-more-of-this-restaurant-stock.html)
-
-[How to Start a Side Hustle: A CNBC Make It Course](https://12ft.io/https://www.cnbc.com/video/2025/02/18/how-to-start-a-side-hustle-a-cnbc-make-it-course.html)
+45 - <a href='https://www.google.com/search?q=How+to+Start+a+Side+Hustle%3A+A+CNBC+Make+It+Course' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.cnbc.com/video/2025/02/18/how-to-start-a-side-hustle-a-cnbc-make-it-course.html' target='_blank' rel='noopener noreferrer'>How to Start a Side Hustle: A CNBC Make It Course</a>
 
 </details>
 
@@ -2234,7 +2302,7 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[My Life With Shen Yun](https://12ft.io/https://www.theepochtimes.com/epochtv/my-life-with-shen-yun-lillian-parker-reflects-on-her-7-years-touring-with-the-company-5765190)
+1 - <a href='https://www.google.com/search?q=My+Life+With+Shen+Yun' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.theepochtimes.com/epochtv/my-life-with-shen-yun-lillian-parker-reflects-on-her-7-years-touring-with-the-company-5765190' target='_blank' rel='noopener noreferrer'>My Life With Shen Yun</a>
 
 </details>
 
@@ -2244,271 +2312,159 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[The MorningMake sense of the day’s news and ideas.](https://12ft.io/https://www.nytimes.com/newsletters/morning-briefing)
+1 - <a href='https://www.google.com/search?q=The+MorningMake+sense+of+the+day%E2%80%99s+news+and+ideas.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/morning-briefing' target='_blank' rel='noopener noreferrer'>The MorningMake sense of the day’s news and ideas.</a>
 
-[The UpshotAnalysis that explains politics, policy and everyday life.](https://12ft.io/https://www.nytimes.com/newsletters/upshot)
+2 - <a href='https://www.google.com/search?q=The+UpshotAnalysis+that+explains+politics%2C+policy+and+everyday+life.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/upshot' target='_blank' rel='noopener noreferrer'>The UpshotAnalysis that explains politics, policy and everyday life.</a>
 
-[The DailyThe biggest stories of our time, in 20 minutes a day.](https://12ft.io/https://www.nytimes.com/column/the-daily)
+3 - <a href='https://www.google.com/search?q=The+DailyThe+biggest+stories+of+our+time%2C+in+20+minutes+a+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/the-daily' target='_blank' rel='noopener noreferrer'>The DailyThe biggest stories of our time, in 20 minutes a day.</a>
 
-[The Run-UpOn the campaign trail with Astead Herndon.](https://12ft.io/https://www.nytimes.com/column/election-run-up-podcast)
+4 - <a href='https://www.google.com/search?q=The+Run-UpOn+the+campaign+trail+with+Astead+Herndon.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/election-run-up-podcast' target='_blank' rel='noopener noreferrer'>The Run-UpOn the campaign trail with Astead Herndon.</a>
 
-[Morning Briefing: EuropeGet what you need to know to start your day.](https://12ft.io/https://www.nytimes.com/newsletters/morning-briefing-europe)
+5 - <a href='https://www.google.com/search?q=Morning+Briefing%3A+EuropeGet+what+you+need+to+know+to+start+your+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/morning-briefing-europe' target='_blank' rel='noopener noreferrer'>Morning Briefing: EuropeGet what you need to know to start your day.</a>
 
-[The InterpreterOriginal analysis on the week’s biggest global stories.](https://12ft.io/https://www.nytimes.com/newsletters/the-interpreter)
+6 - <a href='https://www.google.com/search?q=The+InterpreterOriginal+analysis+on+the+week%E2%80%99s+biggest+global+stories.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/the-interpreter' target='_blank' rel='noopener noreferrer'>The InterpreterOriginal analysis on the week’s biggest global stories.</a>
 
-[Your Places: Global UpdateThe latest news for any part of the world you select.](https://12ft.io/https://www.nytimes.com/newsletters/your-places-global-update)
+7 - <a href='https://www.google.com/search?q=Your+Places%3A+Global+UpdateThe+latest+news+for+any+part+of+the+world+you+select.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/your-places-global-update' target='_blank' rel='noopener noreferrer'>Your Places: Global UpdateThe latest news for any part of the world you select.</a>
 
-[Canada LetterBackstories and analysis from our Canadian correspondents.](https://12ft.io/https://www.nytimes.com/newsletters/canada-letter)
+8 - <a href='https://www.google.com/search?q=Canada+LetterBackstories+and+analysis+from+our+Canadian+correspondents.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/canada-letter' target='_blank' rel='noopener noreferrer'>Canada LetterBackstories and analysis from our Canadian correspondents.</a>
 
-[DealBookThe most crucial business and policy news you need to know.](https://12ft.io/https://www.nytimes.com/newsletters/dealbook)
+9 - <a href='https://www.google.com/search?q=DealBookThe+most+crucial+business+and+policy+news+you+need+to+know.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/dealbook' target='_blank' rel='noopener noreferrer'>DealBookThe most crucial business and policy news you need to know.</a>
 
-[Hard ForkOur tech journalists help you make sense of the rapidly changing tech world.](https://12ft.io/https://www.nytimes.com/column/hard-fork)
+10 - <a href='https://www.google.com/search?q=Hard+ForkOur+tech+journalists+help+you+make+sense+of+the+rapidly+changing+tech+world.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/hard-fork' target='_blank' rel='noopener noreferrer'>Hard ForkOur tech journalists help you make sense of the rapidly changing tech world.</a>
 
-[100 Best Books of the 21st Century](https://12ft.io/https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html)
+11 - <a href='https://www.google.com/search?q=100+Best+Books+of+the+21st+Century' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html' target='_blank' rel='noopener noreferrer'>100 Best Books of the 21st Century</a>
 
-[5 Minutes to Make You Love Music](https://12ft.io/https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html)
+12 - <a href='https://www.google.com/search?q=5+Minutes+to+Make+You+Love+Music' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html' target='_blank' rel='noopener noreferrer'>5 Minutes to Make You Love Music</a>
 
-[Read Like the WindBook recommendations from our critics.](https://12ft.io/https://www.nytimes.com/newsletters/read-like-the-wind)
+13 - <a href='https://www.google.com/search?q=Read+Like+the+WindBook+recommendations+from+our+critics.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/read-like-the-wind' target='_blank' rel='noopener noreferrer'>Read Like the WindBook recommendations from our critics.</a>
 
-[WatchingStreaming TV and movie recommendations.](https://12ft.io/https://www.nytimes.com/newsletters/watching)
+14 - <a href='https://www.google.com/search?q=WatchingStreaming+TV+and+movie+recommendations.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/watching' target='_blank' rel='noopener noreferrer'>WatchingStreaming TV and movie recommendations.</a>
 
-[Book ReviewThe podcast that takes you inside the literary world.](https://12ft.io/https://www.nytimes.com/column/book-review-podcast)
+15 - <a href='https://www.google.com/search?q=Book+ReviewThe+podcast+that+takes+you+inside+the+literary+world.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/book-review-podcast' target='_blank' rel='noopener noreferrer'>Book ReviewThe podcast that takes you inside the literary world.</a>
 
-[PopcastPop music news, new songs and albums, and artists of note.](https://12ft.io/https://www.nytimes.com/column/popcast-pop-music-podcast)
+16 - <a href='https://www.google.com/search?q=PopcastPop+music+news%2C+new+songs+and+albums%2C+and+artists+of+note.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/popcast-pop-music-podcast' target='_blank' rel='noopener noreferrer'>PopcastPop music news, new songs and albums, and artists of note.</a>
 
-[Open ThreadThe latest news on what we wear, by our chief fashion critic.](https://12ft.io/https://www.nytimes.com/newsletters/open-thread-fashion)
+17 - <a href='https://www.google.com/search?q=Open+ThreadThe+latest+news+on+what+we+wear%2C+by+our+chief+fashion+critic.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/open-thread-fashion' target='_blank' rel='noopener noreferrer'>Open ThreadThe latest news on what we wear, by our chief fashion critic.</a>
 
-[WellEssential news and guidance to live your healthiest life.](https://12ft.io/https://www.nytimes.com/newsletters/well)
+18 - <a href='https://www.google.com/search?q=WellEssential+news+and+guidance+to+live+your+healthiest+life.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/well' target='_blank' rel='noopener noreferrer'>WellEssential news and guidance to live your healthiest life.</a>
 
-[Modern LoveThe complicated love lives of real people.](https://12ft.io/https://www.nytimes.com/column/modern-love-podcast)
+19 - <a href='https://www.google.com/search?q=Modern+LoveThe+complicated+love+lives+of+real+people.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/modern-love-podcast' target='_blank' rel='noopener noreferrer'>Modern LoveThe complicated love lives of real people.</a>
 
-[Matter of OpinionThoughts, aloud. With Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen.](https://12ft.io/https://www.nytimes.com/column/matter-of-opinion)
+20 - <a href='https://www.google.com/search?q=Matter+of+OpinionThoughts%2C+aloud.+With+Michelle+Cottle%2C+Ross+Douthat%2C+Carlos+Lozada+and+Lydia+Polgreen.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/matter-of-opinion' target='_blank' rel='noopener noreferrer'>Matter of OpinionThoughts, aloud. With Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen.</a>
 
-[The Ezra Klein ShowDiscussions of ideas that matter, plus book recommendations.](https://12ft.io/https://www.nytimes.com/column/ezra-klein-podcast)
+21 - <a href='https://www.google.com/search?q=The+Ezra+Klein+ShowDiscussions+of+ideas+that+matter%2C+plus+book+recommendations.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/ezra-klein-podcast' target='_blank' rel='noopener noreferrer'>The Ezra Klein ShowDiscussions of ideas that matter, plus book recommendations.</a>
 
-[AudioPodcasts and narrated articles covering news, tech, culture and more.](https://12ft.io/https://www.nytimes.com/spotlight/podcasts)
+22 - <a href='https://www.google.com/search?q=AudioPodcasts+and+narrated+articles+covering+news%2C+tech%2C+culture+and+more.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/spotlight/podcasts' target='_blank' rel='noopener noreferrer'>AudioPodcasts and narrated articles covering news, tech, culture and more.</a>
 
-[Download the Audio app on iOS.](https://12ft.io/https://www.nytimes.com/audio/app)
+23 - <a href='https://www.google.com/search?q=Download+the+Audio+app+on+iOS.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/audio/app' target='_blank' rel='noopener noreferrer'>Download the Audio app on iOS.</a>
 
-[The InterviewConversations with the world’s most fascinating people.](https://12ft.io/https://www.nytimes.com/column/the-interview)
+24 - <a href='https://www.google.com/search?q=The+InterviewConversations+with+the+world%E2%80%99s+most+fascinating+people.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/the-interview' target='_blank' rel='noopener noreferrer'>The InterviewConversations with the world’s most fascinating people.</a>
 
-[The HeadlinesYour morning listen. Top stories, in 10 minutes.](https://12ft.io/https://www.nytimes.com/column/the-headlines)
+25 - <a href='https://www.google.com/search?q=The+HeadlinesYour+morning+listen.+Top+stories%2C+in+10+minutes.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/column/the-headlines' target='_blank' rel='noopener noreferrer'>The HeadlinesYour morning listen. Top stories, in 10 minutes.</a>
 
-[Serial: The Good WhaleA Hollywood orca's real-life odyssey back to the ocean.](https://12ft.io/https://www.nytimes.com/interactive/2024/podcasts/serial-good-whale.html)
+26 - <a href='https://www.google.com/search?q=Serial%3A+The+Good+WhaleA+Hollywood+orca%27s+real-life+odyssey+back+to+the+ocean.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/interactive/2024/podcasts/serial-good-whale.html' target='_blank' rel='noopener noreferrer'>Serial: The Good WhaleA Hollywood orca's real-life odyssey back to the ocean.</a>
 
-[AudioOur editors share their favorite listens from the New York Times Audio app.](https://12ft.io/https://www.nytimes.com/newsletters/audio)
+27 - <a href='https://www.google.com/search?q=AudioOur+editors+share+their+favorite+listens+from+the+New+York+Times+Audio+app.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/audio' target='_blank' rel='noopener noreferrer'>AudioOur editors share their favorite listens from the New York Times Audio app.</a>
 
-[GamesWord games, logic puzzles and crosswords, including an extensive archive.](https://12ft.io/https://www.nytimes.com/crosswords)
+28 - <a href='https://www.google.com/search?q=GamesWord+games%2C+logic+puzzles+and+crosswords%2C+including+an+extensive+archive.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/crosswords' target='_blank' rel='noopener noreferrer'>GamesWord games, logic puzzles and crosswords, including an extensive archive.</a>
 
-[Take the Puzzle Personality Quiz](https://12ft.io/https://www.nytimes.com/puzzle-personality)
+29 - <a href='https://www.google.com/search?q=Take+the+Puzzle+Personality+Quiz' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/puzzle-personality' target='_blank' rel='noopener noreferrer'>Take the Puzzle Personality Quiz</a>
 
-[GameplayPuzzles, brain teasers, solving tips and more.](https://12ft.io/https://www.nytimes.com/newsletters/gameplay)
+30 - <a href='https://www.google.com/search?q=GameplayPuzzles%2C+brain+teasers%2C+solving+tips+and+more.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/gameplay' target='_blank' rel='noopener noreferrer'>GameplayPuzzles, brain teasers, solving tips and more.</a>
 
-[Easy ModeGet an easy version of one of the hardest crossword puzzles of the week.](https://12ft.io/https://www.nytimes.com/newsletters/easy-mode)
+31 - <a href='https://www.google.com/search?q=Easy+ModeGet+an+easy+version+of+one+of+the+hardest+crossword+puzzles+of+the+week.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/easy-mode' target='_blank' rel='noopener noreferrer'>Easy ModeGet an easy version of one of the hardest crossword puzzles of the week.</a>
 
-[The Cooking NewsletterNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.](https://12ft.io/https://www.nytimes.com/newsletters/cooking)
+32 - <a href='https://www.google.com/search?q=The+Cooking+NewsletterNew+recipes%2C+easy+dinner+ideas+and+smart+kitchen+tips+from+Melissa+Clark%2C+Sam+Sifton+and+our+New+York+Times+Cooking+editors.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/cooking' target='_blank' rel='noopener noreferrer'>The Cooking NewsletterNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.</a>
 
-[The VeggieDelicious vegetarian recipes and tips from Tanya Sichynsky.](https://12ft.io/https://www.nytimes.com/newsletters/the-veggie)
+33 - <a href='https://www.google.com/search?q=The+VeggieDelicious+vegetarian+recipes+and+tips+from+Tanya+Sichynsky.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/the-veggie' target='_blank' rel='noopener noreferrer'>The VeggieDelicious vegetarian recipes and tips from Tanya Sichynsky.</a>
 
-[Five Weeknight DishesDinner ideas for busy people from Emily Weinstein.](https://12ft.io/https://www.nytimes.com/newsletters/five-weeknight-dishes)
+34 - <a href='https://www.google.com/search?q=Five+Weeknight+DishesDinner+ideas+for+busy+people+from+Emily+Weinstein.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/five-weeknight-dishes' target='_blank' rel='noopener noreferrer'>Five Weeknight DishesDinner ideas for busy people from Emily Weinstein.</a>
 
-[WirecutterReviews and recommendations for thousands of products.](https://12ft.io/https://www.nytimes.com/wirecutter)
+35 - <a href='https://www.google.com/search?q=WirecutterReviews+and+recommendations+for+thousands+of+products.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/wirecutter' target='_blank' rel='noopener noreferrer'>WirecutterReviews and recommendations for thousands of products.</a>
 
-[The RecommendationThe best independent reviews, expert advice and intensively researched deals.](https://12ft.io/https://www.nytimes.com/newsletters/the-recommendation)
+36 - <a href='https://www.google.com/search?q=The+RecommendationThe+best+independent+reviews%2C+expert+advice+and+intensively+researched+deals.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/the-recommendation' target='_blank' rel='noopener noreferrer'>The RecommendationThe best independent reviews, expert advice and intensively researched deals.</a>
 
-[Clean EverythingStep-by-step advice on how to keep everything in your home squeaky clean.](https://12ft.io/https://www.nytimes.com/newsletters/clean-everything)
+37 - <a href='https://www.google.com/search?q=Clean+EverythingStep-by-step+advice+on+how+to+keep+everything+in+your+home+squeaky+clean.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/newsletters/clean-everything' target='_blank' rel='noopener noreferrer'>Clean EverythingStep-by-step advice on how to keep everything in your home squeaky clean.</a>
 
-[The AthleticPersonalized coverage of your sports teams and leagues.](https://12ft.io/https://www.nytimes.com/athletic/)
+38 - <a href='https://www.google.com/search?q=The+AthleticPersonalized+coverage+of+your+sports+teams+and+leagues.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/athletic/' target='_blank' rel='noopener noreferrer'>The AthleticPersonalized coverage of your sports teams and leagues.</a>
 
-[The PulseDelivering the top stories in sports, Sunday to Friday.](https://12ft.io/https://www.nytimes.com/athletic/newsletters/the-pulse/)
+39 - <a href='https://www.google.com/search?q=The+PulseDelivering+the+top+stories+in+sports%2C+Sunday+to+Friday.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/athletic/newsletters/the-pulse/' target='_blank' rel='noopener noreferrer'>The PulseDelivering the top stories in sports, Sunday to Friday.</a>
 
-[Scoop CityThe top stories in the NFL, from Jacob Robinson with Dianna Russini.](https://12ft.io/https://www.nytimes.com/athletic/newsletters/scoop-city/)
+40 - <a href='https://www.google.com/search?q=Scoop+CityThe+top+stories+in+the+NFL%2C+from+Jacob+Robinson+with+Dianna+Russini.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/athletic/newsletters/scoop-city/' target='_blank' rel='noopener noreferrer'>Scoop CityThe top stories in the NFL, from Jacob Robinson with Dianna Russini.</a>
 
-[The MorningMake sense of the day’s news and ideas.](https://12ft.io/https://www.nytimes.com/newsletters/morning-briefing)
+41 - <a href='https://www.google.com/search?q=LIVEMarch+3%2C+2025%2C+7%3A02+p.m.+ETNo+Last-Minute+Deal+for+Canada+and+Mexico+to+Avoid+Tariffs%2C+Trump+SaysWith+just+hours+until+tariffs+were+set+to+take+effect%2C+President+Trump+said+there+was+no+chance+for+either+country+to+strike+a+deal+to+avert+the+levies.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/live/2025/03/03/us/trump-news-congress' target='_blank' rel='noopener noreferrer'>LIVEMarch 3, 2025, 7:02 p.m. ETNo Last-Minute Deal for Canada and Mexico to Avoid Tariffs, Trump SaysWith just hours until tariffs were set to take effect, President Trump said there was no chance for either country to strike a deal to avert the levies.</a>
 
-[The UpshotAnalysis that explains politics, policy and everyday life.](https://12ft.io/https://www.nytimes.com/newsletters/upshot)
+42 - <a href='https://www.google.com/search?q=What%E2%80%99s+Behind+Trump%E2%80%99s+Love-Hate+Relationship+With+CanadaCanada+is+one+of+the+United+States%E2%80%99+largest+trading+partners%2C+but+President+Trump+wants+to+either+take+it+or+leave+it.5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/us/politics/trump-canada-trade-tariffs.html' target='_blank' rel='noopener noreferrer'>What’s Behind Trump’s Love-Hate Relationship With CanadaCanada is one of the United States’ largest trading partners, but President Trump wants to either take it or leave it.5 min read</a>
 
-[The DailyThe biggest stories of our time, in 20 minutes a day.](https://12ft.io/https://www.nytimes.com/column/the-daily)
+43 - <a href='https://www.google.com/search?q=Stocks+Post+Biggest+Loss+of+the+Year+on+Trump%E2%80%99s+Tariff+Plans2+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/business/stock-market-today.html' target='_blank' rel='noopener noreferrer'>Stocks Post Biggest Loss of the Year on Trump’s Tariff Plans2 min read</a>
 
-[The Run-UpOn the campaign trail with Astead Herndon.](https://12ft.io/https://www.nytimes.com/column/election-run-up-podcast)
+44 - <a href='https://www.google.com/search?q=A+Key+Interest+Rate+Falls%2C+but+Not+for+the+Reasons+Trump+Wanted3+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/business/treasury-bond-yields-trump-economy.html' target='_blank' rel='noopener noreferrer'>A Key Interest Rate Falls, but Not for the Reasons Trump Wanted3 min read</a>
 
-[Morning Briefing: EuropeGet what you need to know to start your day.](https://12ft.io/https://www.nytimes.com/newsletters/morning-briefing-europe)
+45 - <a href='https://www.google.com/search?q=For+Elon+Musk%E2%80%99s+Tesla-Owning+Critics%2C+Buyer%E2%80%99s+Remorse+Sinks+InThe+backlash+against+the+electric+vehicle+company+has+intensified+as+the+billionaire+ally+of+President+Trump+exerts+his+power+over+the+federal+government.6+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/business/tesla-boycott-elon-musk.html' target='_blank' rel='noopener noreferrer'>For Elon Musk’s Tesla-Owning Critics, Buyer’s Remorse Sinks InThe backlash against the electric vehicle company has intensified as the billionaire ally of President Trump exerts his power over the federal government.6 min read</a>
 
-[The InterpreterOriginal analysis on the week’s biggest global stories.](https://12ft.io/https://www.nytimes.com/newsletters/the-interpreter)
+46 - <a href='https://www.google.com/search?q=On+PoliticsNewsletterSocial+Security+and+Sex+Robots%3A+Musk+Veers+Off+Script+With+Joe+RoganElon+Musk%E2%80%99s+three-hour+interview+on+%E2%80%9CThe+Joe+Rogan+Experience%E2%80%9D+offered+a+window+into+his+worldview+that+was+by+turns+crude+and+contradictory.5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/us/politics/elon-musk-joe-rogan-podcast.html' target='_blank' rel='noopener noreferrer'>On PoliticsNewsletterSocial Security and Sex Robots: Musk Veers Off Script With Joe RoganElon Musk’s three-hour interview on “The Joe Rogan Experience” offered a window into his worldview that was by turns crude and contradictory.5 min read</a>
 
-[Your Places: Global UpdateThe latest news for any part of the world you select.](https://12ft.io/https://www.nytimes.com/newsletters/your-places-global-update)
+47 - <a href='https://www.google.com/search?q=A+Thousand+Snipers+in+the+Sky%3A+The+New+War+in+UkraineThe+conflict+is+deadlier+than+ever%2C+and+drones+do+most+of+the+killing+on+the+front+lines.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/interactive/2025/03/03/world/europe/ukraine-russia-war-drones-deaths.html' target='_blank' rel='noopener noreferrer'>A Thousand Snipers in the Sky: The New War in UkraineThe conflict is deadlier than ever, and drones do most of the killing on the front lines.</a>
 
-[Canada LetterBackstories and analysis from our Canadian correspondents.](https://12ft.io/https://www.nytimes.com/newsletters/canada-letter)
+48 - <a href='https://www.google.com/search?q=Zelensky+Turns+to+Diplomacy+in+a+War+With+%E2%80%98a+Long+Way+to+Go%E2%80%99After+a+clash+with+President+Trump%2C+President+Volodymyr+Zelensky+of+Ukraine+is+trying+to+shore+up+European+support+and+smooth+over+relations+with+Washington.5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/world/europe/zelensky-ukraine-russia-putin.html' target='_blank' rel='noopener noreferrer'>Zelensky Turns to Diplomacy in a War With ‘a Long Way to Go’After a clash with President Trump, President Volodymyr Zelensky of Ukraine is trying to shore up European support and smooth over relations with Washington.5 min read</a>
 
-[DealBookThe most crucial business and policy news you need to know.](https://12ft.io/https://www.nytimes.com/newsletters/dealbook)
+49 - <a href='https://www.google.com/search?q=Europe+Faces+a+Huge+Bill+to+Defend+Ukraine.+Investors+Are+Thrilled.2+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/business/dealbook/europe-ukraine-defense-stock-market.html' target='_blank' rel='noopener noreferrer'>Europe Faces a Huge Bill to Defend Ukraine. Investors Are Thrilled.2 min read</a>
 
-[Hard ForkOur tech journalists help you make sense of the rapidly changing tech world.](https://12ft.io/https://www.nytimes.com/column/hard-fork)
+50 - <a href='https://www.google.com/search?q=Best+and+Worst+Moments+From+the+OscarsThere+was+plenty+to+take+in%3A+A+%E2%80%9CWicked%E2%80%9D+opener%2C+Conan+O%E2%80%99Brien+gags+and+memorable+speeches+both+good+and+bad.+Viewers+on+Hulu+saw+almost+all+of+it.10+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/movies/oscars-moments-best-worst.html' target='_blank' rel='noopener noreferrer'>Best and Worst Moments From the OscarsThere was plenty to take in: A “Wicked” opener, Conan O’Brien gags and memorable speeches both good and bad. Viewers on Hulu saw almost all of it.10 min read</a>
 
-[100 Best Books of the 21st Century](https://12ft.io/https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html)
+51 - <a href='https://www.google.com/search?q=Why+Demi+Moore%E2%80%99s+Oscar+Loss+to+Mikey+Madison+Stings+for+Some+Fans3+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/movies/demi-moore-oscars-snub.html' target='_blank' rel='noopener noreferrer'>Why Demi Moore’s Oscar Loss to Mikey Madison Stings for Some Fans3 min read</a>
 
-[5 Minutes to Make You Love Music](https://12ft.io/https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html)
+52 - <a href='https://www.google.com/search?q=Sean+Baker%E2%80%99s+Oscars+Battle+Cry+%28and+Mine%29%3A+Don%E2%80%99t+Abandon+the+Big+ScreenThe+director+of+the+best+picture+winner%2C+%E2%80%9CAnora%2C%E2%80%9D+urged+viewers+to+keep+seeing+films+in+theaters.+Our+critic+Manohla+Dargis+hopes+the+industry+listens.4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/movies/sean-baker-oscars-speech.html' target='_blank' rel='noopener noreferrer'>Sean Baker’s Oscars Battle Cry (and Mine): Don’t Abandon the Big ScreenThe director of the best picture winner, “Anora,” urged viewers to keep seeing films in theaters. Our critic Manohla Dargis hopes the industry listens.4 min read</a>
 
-[Read Like the WindBook recommendations from our critics.](https://12ft.io/https://www.nytimes.com/newsletters/read-like-the-wind)
+53 - <a href='https://www.google.com/search?q=21+Unforgettable+Looks+at+the+Oscars4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/style/oscars-2025-red-carpet-fashion.html' target='_blank' rel='noopener noreferrer'>21 Unforgettable Looks at the Oscars4 min read</a>
 
-[WatchingStreaming TV and movie recommendations.](https://12ft.io/https://www.nytimes.com/newsletters/watching)
+54 - <a href='https://www.google.com/search?q=Got+a+Tip%3FThe+Times+offers+several+ways+to+send+important+information+confidentially+%E2%80%BA' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/tips' target='_blank' rel='noopener noreferrer'>Got a Tip?The Times offers several ways to send important information confidentially ›</a>
 
-[Book ReviewThe podcast that takes you inside the literary world.](https://12ft.io/https://www.nytimes.com/column/book-review-podcast)
+55 - <a href='https://www.google.com/search?q=AnalysisRunning+for+N.Y.C.+Mayor%2C+Cuomo+Also+Has+a+Message+for+National+DemocratsAttacking+the+Democratic+Party%E2%80%99s+leadership+as+he+declared+his+candidacy%2C+former+Gov.+Andrew+Cuomo+had+a+wider+audience%2C+and+his+own+ambitions%2C+in+mind.5+min+readShuran+Huang+for+The+New+York+Times' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/us/politics/andrew-cuomo-ny-mayor-democrats.html' target='_blank' rel='noopener noreferrer'>AnalysisRunning for N.Y.C. Mayor, Cuomo Also Has a Message for National DemocratsAttacking the Democratic Party’s leadership as he declared his candidacy, former Gov. Andrew Cuomo had a wider audience, and his own ambitions, in mind.5 min readShuran Huang for The New York Times</a>
 
-[PopcastPop music news, new songs and albums, and artists of note.](https://12ft.io/https://www.nytimes.com/column/popcast-pop-music-podcast)
+56 - <a href='https://www.google.com/search?q=Steven+RattnerWhat+Big-Business+Leaders%2C+Including+Democrats%2C+Say+Privately+About+Trump5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/trump-wall-street-biden-big-business.html' target='_blank' rel='noopener noreferrer'>Steven RattnerWhat Big-Business Leaders, Including Democrats, Say Privately About Trump5 min read</a>
 
-[Open ThreadThe latest news on what we wear, by our chief fashion critic.](https://12ft.io/https://www.nytimes.com/newsletters/open-thread-fashion)
+57 - <a href='https://www.google.com/search?q=Amanda+Su+and+Alexander+StocktonMeanwhile+%E2%80%A6+This+Is+What+the+Democrats+Are+Doing%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/democrats-elections-resistance.html' target='_blank' rel='noopener noreferrer'>Amanda Su and Alexander StocktonMeanwhile … This Is What the Democrats Are Doing?</a>
 
-[WellEssential news and guidance to live your healthiest life.](https://12ft.io/https://www.nytimes.com/newsletters/well)
+58 - <a href='https://www.google.com/search?q=Dmytro+KulebaThis+Is+Europe%E2%80%99s+War+Now4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/ukraine-war-zelensky-trump.html' target='_blank' rel='noopener noreferrer'>Dmytro KulebaThis Is Europe’s War Now4 min read</a>
 
-[Modern LoveThe complicated love lives of real people.](https://12ft.io/https://www.nytimes.com/column/modern-love-podcast)
+59 - <a href='https://www.google.com/search?q=Margaret+RenklTruths+to+Remember+in+a+Time+of+Lies5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/trump-truth-lies.html' target='_blank' rel='noopener noreferrer'>Margaret RenklTruths to Remember in a Time of Lies5 min read</a>
 
-[Matter of OpinionThoughts, aloud. With Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen.](https://12ft.io/https://www.nytimes.com/column/matter-of-opinion)
+60 - <a href='https://www.google.com/search?q=Anna+MarksThe+Oscars%3A+Too+Much+but+Also+Affirming4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/live/2025/02/25/opinion/thepoint/oscar-ceremony-highlights' target='_blank' rel='noopener noreferrer'>Anna MarksThe Oscars: Too Much but Also Affirming4 min read</a>
 
-[The Ezra Klein ShowDiscussions of ideas that matter, plus book recommendations.](https://12ft.io/https://www.nytimes.com/column/ezra-klein-podcast)
+61 - <a href='https://www.google.com/search?q=Letters+From+Our+ReadersThe+%E2%80%98Disgraceful+Display%E2%80%99+in+the+Oval+Office5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/trump-vance-zelensky.html' target='_blank' rel='noopener noreferrer'>Letters From Our ReadersThe ‘Disgraceful Display’ in the Oval Office5 min read</a>
 
-[AudioPodcasts and narrated articles covering news, tech, culture and more.](https://12ft.io/https://www.nytimes.com/spotlight/podcasts)
+62 - <a href='https://www.google.com/search?q=W.+Ian+Lipkin+and+Ralph+BaricRecent+Virus+Research+Should+Raise+Alarm4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/risky-virus-research.html' target='_blank' rel='noopener noreferrer'>W. Ian Lipkin and Ralph BaricRecent Virus Research Should Raise Alarm4 min read</a>
 
-[Download the Audio app on iOS.](https://12ft.io/https://www.nytimes.com/audio/app)
+63 - <a href='https://www.google.com/search?q=Patrick+Healy+and+Tressie+McMillan+CottomWhat+Man%E2%80%99s+Man+Politics+Is+Doing+to+America' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/trumps-masculinity-democrats.html' target='_blank' rel='noopener noreferrer'>Patrick Healy and Tressie McMillan CottomWhat Man’s Man Politics Is Doing to America</a>
 
-[The InterviewConversations with the world’s most fascinating people.](https://12ft.io/https://www.nytimes.com/column/the-interview)
+64 - <a href='https://www.google.com/search?q=Gregory+MakoffArgentina%E2%80%99s+Chain+Saw+Won%E2%80%99t+Work+in+Trump%E2%80%99s+America5+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/opinion/trump-milei-musk-argentina.html' target='_blank' rel='noopener noreferrer'>Gregory MakoffArgentina’s Chain Saw Won’t Work in Trump’s America5 min read</a>
 
-[The HeadlinesYour morning listen. Top stories, in 10 minutes.](https://12ft.io/https://www.nytimes.com/column/the-headlines)
+65 - <a href='https://www.google.com/search?q=Joseph+HeathThe+Democrats+Need+a+Project+2029.+Here%E2%80%99s+a+Start.6+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/02/opinion/democrats-project-2029.html' target='_blank' rel='noopener noreferrer'>Joseph HeathThe Democrats Need a Project 2029. Here’s a Start.6 min read</a>
 
-[Serial: The Good WhaleA Hollywood orca's real-life odyssey back to the ocean.](https://12ft.io/https://www.nytimes.com/interactive/2024/podcasts/serial-good-whale.html)
+66 - <a href='https://www.google.com/search?q=Michael+R.+JacksonThe+Resistance+Spell+of+%E2%80%98Wicked%E2%80%995+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/02/opinion/wicked-resistance-anti-authoritarian.html' target='_blank' rel='noopener noreferrer'>Michael R. JacksonThe Resistance Spell of ‘Wicked’5 min read</a>
 
-[AudioOur editors share their favorite listens from the New York Times Audio app.](https://12ft.io/https://www.nytimes.com/newsletters/audio)
+67 - <a href='https://www.google.com/search?q=Peter+Wehner%E2%80%98My+Problem+Was+Not+With+Grief+With+a+Capital+G.+My+Problem+Was+That+Eric+Was+Dead.%E2%80%9918+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/02/opinion/wolterstorff-god-faith-death.html' target='_blank' rel='noopener noreferrer'>Peter Wehner‘My Problem Was Not With Grief With a Capital G. My Problem Was That Eric Was Dead.’18 min read</a>
 
-[GamesWord games, logic puzzles and crosswords, including an extensive archive.](https://12ft.io/https://www.nytimes.com/crosswords)
+68 - <a href='https://www.google.com/search?q=The+EveningNewsletterPresident+Trump+Says+Tariffs+Are+ComingAlso%2C+Andrew+Cuomo+enters+the+race+for+New+York+City+mayor+as+a+front-runner+and+more+news.6+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/briefing/trump-tariffs-canada-mexico-ukraine-zelensky-diplomacy.html' target='_blank' rel='noopener noreferrer'>The EveningNewsletterPresident Trump Says Tariffs Are ComingAlso, Andrew Cuomo enters the race for New York City mayor as a front-runner and more news.6 min read</a>
 
-[Take the Puzzle Personality Quiz](https://12ft.io/https://www.nytimes.com/puzzle-personality)
+69 - <a href='https://www.google.com/search?q=Bronx+Day+Care+Owner+Gets+45+Years+in+Fentanyl+Death+of+1-Year-OldGrei+Mendez+received+the+sentence+after+having+pleaded+guilty+to+possessing+and+conspiring+to+distribute+narcotics+resulting+in+serious+injury+and+death.4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/nyregion/grei-mendez-day-care-fentanyl-sentence.html' target='_blank' rel='noopener noreferrer'>Bronx Day Care Owner Gets 45 Years in Fentanyl Death of 1-Year-OldGrei Mendez received the sentence after having pleaded guilty to possessing and conspiring to distribute narcotics resulting in serious injury and death.4 min read</a>
 
-[GameplayPuzzles, brain teasers, solving tips and more.](https://12ft.io/https://www.nytimes.com/newsletters/gameplay)
+70 - <a href='https://www.google.com/search?q=Old-Fashioned+Train+Heists+Yield+Modern-Day+Loot%3A+Nike+Air+JordansTransnational+gangs+have+been+targeting+sneakers%2C+wireless+gaming+headsets+and+other+modern+merchandise+transported+by+rail%2C+according+to+federal+prosecutors.4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/us/train-bandits-mojave-desert-arizona.html' target='_blank' rel='noopener noreferrer'>Old-Fashioned Train Heists Yield Modern-Day Loot: Nike Air JordansTransnational gangs have been targeting sneakers, wireless gaming headsets and other modern merchandise transported by rail, according to federal prosecutors.4 min read</a>
 
-[Easy ModeGet an easy version of one of the hardest crossword puzzles of the week.](https://12ft.io/https://www.nytimes.com/newsletters/easy-mode)
+71 - <a href='https://www.google.com/search?q=Pope+Francis+Experiences+Another+Setback+With+Respiratory+CrisesThe+Vatican+said+that+Monday%E2%80%99s+two+crises+were+caused+by+a+significant+accumulation+of+mucus+in+his+bronchial+tubes.2+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/world/europe/pope-francis-respiratory-crisis.html' target='_blank' rel='noopener noreferrer'>Pope Francis Experiences Another Setback With Respiratory CrisesThe Vatican said that Monday’s two crises were caused by a significant accumulation of mucus in his bronchial tubes.2 min read</a>
 
-[The Cooking NewsletterNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.](https://12ft.io/https://www.nytimes.com/newsletters/cooking)
+72 - <a href='https://www.google.com/search?q=Brandon+Bell%2FGetty+ImagesWatch+SpaceX%E2%80%99s+8th+Starship+Rocket+Test+FlightToday%E2%80%99s+trip+to+space+will+largely+be+a+do-over+of+the+seventh+flight%2C+in+which+part+of+the+aircraft+blew+up+over+the+Caribbean.4+min+read' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html' target='_blank' rel='noopener noreferrer'>Brandon Bell/Getty ImagesWatch SpaceX’s 8th Starship Rocket Test FlightToday’s trip to space will largely be a do-over of the seventh flight, in which part of the aircraft blew up over the Caribbean.4 min read</a>
 
-[The VeggieDelicious vegetarian recipes and tips from Tanya Sichynsky.](https://12ft.io/https://www.nytimes.com/newsletters/the-veggie)
+73 - <a href='https://www.google.com/search?q=A+New+York+Apartment+Turned+Barbie+DollhouseThe+performance+artist+Gage+Spex+has+amassed+a+collection+of+over+200+carefully+styled+toys.2+min+readAllison+Lippy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/2025/02/26/t-magazine/gage-spex-barbie-doll-collection.html' target='_blank' rel='noopener noreferrer'>A New York Apartment Turned Barbie DollhouseThe performance artist Gage Spex has amassed a collection of over 200 carefully styled toys.2 min readAllison Lippy</a>
 
-[Five Weeknight DishesDinner ideas for busy people from Emily Weinstein.](https://12ft.io/https://www.nytimes.com/newsletters/five-weeknight-dishes)
+74 - <a href='https://www.google.com/search?q=WordleGuess+the+5-letter+word+with+6+chances.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/games/wordle/index.html' target='_blank' rel='noopener noreferrer'>WordleGuess the 5-letter word with 6 chances.</a>
 
-[WirecutterReviews and recommendations for thousands of products.](https://12ft.io/https://www.nytimes.com/wirecutter)
+75 - <a href='https://www.google.com/search?q=ConnectionsGroup+words+that+share+a+common+thread.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/games/connections?GAMES_connectionsRollout_1130=1_ConnectionsV2' target='_blank' rel='noopener noreferrer'>ConnectionsGroup words that share a common thread.</a>
 
-[The RecommendationThe best independent reviews, expert advice and intensively researched deals.](https://12ft.io/https://www.nytimes.com/newsletters/the-recommendation)
+76 - <a href='https://www.google.com/search?q=StrandsUncover+hidden+words+and+reveal+the+theme.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/games/strands' target='_blank' rel='noopener noreferrer'>StrandsUncover hidden words and reveal the theme.</a>
 
-[Clean EverythingStep-by-step advice on how to keep everything in your home squeaky clean.](https://12ft.io/https://www.nytimes.com/newsletters/clean-everything)
-
-[The AthleticPersonalized coverage of your sports teams and leagues.](https://12ft.io/https://www.nytimes.com/athletic/)
-
-[The PulseDelivering the top stories in sports, Sunday to Friday.](https://12ft.io/https://www.nytimes.com/athletic/newsletters/the-pulse/)
-
-[Scoop CityThe top stories in the NFL, from Jacob Robinson with Dianna Russini.](https://12ft.io/https://www.nytimes.com/athletic/newsletters/scoop-city/)
-
-[How Zelensky’s Oval Office Meeting Turned Into a Showdown With TrumpThe question hovering over Washington was whether the confrontation between President Trump and Volodymyr Zelensky was an outburst or planned.7 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/zelensky-showdown-trump.html)
-
-[European Leaders Line Up to Support Ukraine After Blowup With Trump](https://12ft.io/https://www.nytimes.com/live/2025/03/01/us/trump-zelensky-news)
-
-[AnalysisTrump’s Dressing Down of Zelensky Plays Into Putin’s War AimsPresident Vladimir Putin of Russia could prolong the fight in Ukraine after the public blowup between President Trump and President Volodymyr Zelensky.5 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/world/europe/trump-zelensky-putin.html)
-
-[Shocked by Trump, Zelensky and Ukraine Try to Forge a Path Forward6 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/world/europe/trump-zelensky-us-ukraine-russia-meeting.html)
-
-[‘Why Don’t You Wear a Suit?’: A Right-Wing News Outlet Questions Zelensky3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/brian-glenn-zelensky-suit.html)
-
-[In N.Y.C.’s Ukrainian Enclaves, Trump’s Rebuke Stirs Complex Feelings3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/nyregion/in-nycs-ukrainian-enclaves-trumps-outburst-stirs-complex-feelings.html)
-
-[The Stock Market Was One of Trump’s Favorite Talking Points. Not Lately.Since his inauguration in January, President Trump has been relatively muted about the stock market. Investors are getting worried about an impending sell-off.4 min read](https://12ft.io/https://www.nytimes.com/interactive/2025/03/01/business/trump-stock-market.html)
-
-[Trump Signs Order to Designate English as Official Language of the U.S.The order President Trump signed did not require changes to federal programs but was a victory for America’s English-only movement.3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/trump-order-english-official-language.html)
-
-[Trump Picks Another Trade Fight With Canada Over Lumber3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/business/economy/trump-trade-canada-lumber.html)
-
-[Hundreds Gather at National Parks Across U.S. to Protest Job Cuts3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/national-parks-trump-protests.html)
-
-[Cuomo Enters N.Y.C. Mayor’s Race, Upending Contest to Unseat Eric AdamsThe comeback attempt, three years after Andrew Cuomo resigned as governor in scandal, will test New Yorkers’ appetite for second chances, and change.6 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/nyregion/andrew-cuomo-mayor-nyc.html)
-
-[Cuomo’s Foes Look to Renew Focus on Sexual Harassment Scandal5 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/nyregion/cuomo-sexual-harassment-women.html)
-
-[Johnny Milano for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/nyregion/andrew-cuomo-mayor-nyc.html)
-
-[Got a Tip?The Times offers several ways to send important information confidentially ›](https://12ft.io/https://www.nytimes.com/tips)
-
-[Pentagon Sending Combat Forces to Border in Line With Trump DirectiveThe mobilization indicates President Trump is breaking with recent practice of limiting deployments along the U.S.-Mexico border mostly to small numbers.3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/military-border-immigration.html)
-
-[Canada Curbed Illegal Migration to the U.S. Now People Are Heading to Canada.6 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/world/canada/canada-us-border-immigration.html)
-
-[Paul Ratje for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/military-border-immigration.html)
-
-[Lawsuit Against Panama Challenges Detention of Trump Deportees5 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/world/americas/panama-migrants-us-lawsuit.html)
-
-[Honduras Moves to Extradite Man Accused of Killing Iowa Woman4 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/honduras-extradition-eswin-mejia.html)
-
-[Jarring End to a Quiet Life](https://12ft.io/https://www.nytimes.com/2025/02/28/movies/gene-hackman-death-new-mexico.html)
-
-[Mystery of Gene Hackman’s Death Brings Grief and Bewilderment to Santa FeResidents mourning the actor and his wife, Betsy Arakawa, are consumed by the unusual circumstances surrounding their deaths and why they weren’t discovered sooner.4 min readAdria Malcolm for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/us/gene-hackman-death-mystery-santa-fe.html)
-
-[THE INTERVIEWGov. Maura Healey Wants Democrats to Put Up a FightPhilip Montgomery for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/magazine/maura-healey-interview.html)
-
-[IDEASWe’re in the Zero Sum Era. How Do We Get Out?Zero-sum thinking has spread like a mind virus, from geopolitics to pop culture.9 min readPhoto illustration by Pablo Delcan](https://12ft.io/https://www.nytimes.com/2025/03/01/world/asia/trump-zero-sum-world.html)
-
-[Did You Follow the News This Week? Take Our Quiz.](https://12ft.io/https://www.nytimes.com/interactive/2025/02/28/briefing/quiz-trump-measles-hackman-germany.html)
-
-[Play Flashback, Your Weekly History Quiz](https://12ft.io/https://www.nytimes.com/interactive/2025/02/28/upshot/flashback.html)
-
-[David Johansen, Who Fronted the New York Dolls and More, Dies at 75In the 1970s, he and the transgressive Dolls were proto-punk pioneers. As the pompadoured Buster Poindexter, his cover of “Hot Hot Hot” became a party anthem.6 min readSara Krulwich/The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/arts/music/david-johansen-dead.html)
-
-[How Fungi Move Among UsUnderground fungal networks are “living algorithms” that quietly help regulate Earth’s climate. Now scientists know what makes them so efficient.3 min readCorentin Bisot - AMOLF/VU Amsterdam](https://12ft.io/https://www.nytimes.com/2025/03/01/science/climate-mycorrhizal-fungus-networks.html)
-
-[What Republican Men Think About Trump and MasculinityPresident Trump’s re-election seemed to signify a backlash to gender roles. But men who voted for him say that’s not necessarily what they want, a survey and interviews suggest.6 min readChase Castor for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/upshot/trump-men-masculinity-gender.html)
-
-[Hazel Dukes, Longtime Civil Rights Stalwart, Dies at 92She was president of the national N.A.A.C.P. in the early 1990s and headed the organization’s New York State Conference from 1977 until her death.5 min readGabriela Bhaskar for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/nyregion/hazel-n-dukes-dead.html)
-
-[Inside the Democratic Disaster That Didn’t Happen in NovemberThe party’s storehouse of voter information required an extraordinary intervention to keep running, people involved said. A meltdown could have crippled its campaigns.6 min readMichelle Gustafson for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/us/politics/democrats-voter-data.html)
-
-[A Look at Oscar Nominees and Their Film JourneysActors and directors nominated for prizes at the Academy Awards opened up about their work.](https://12ft.io/https://www.nytimes.com/card/2025/03/01/arts/httpswwwnytimescomcarddatesectionlook-at-oscar-nominees-and-their-film-journeys)
-
-[Maureen DowdTrump Is Rootin’ for Putin4 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/trump-is-rootin-for-putin.html)
-
-[Michael IdovI Loved ‘Anora’ but I Still Hope It Loses at the Oscars6 min readIllustration by The New York Times; source photograph by Neon](https://12ft.io/https://www.nytimes.com/2025/02/27/opinion/anora-oscars-russian-propaganda.html)
-
-[Ross DouthatTrump and Vance Are Stripping Away Illusions and Pretenses4 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/trump-vance-zelensky.html)
-
-[Jamelle BouieWe Need to Talk About the Lying7 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/columnists/trumps-lies-and-broken-promises.html)
-
-[Brian GoldstoneA Working Mother of 4 Sleeps in a Car With Her Kids. This Is a Broken America.7 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/crisis-working-homeless.html)
-
-[Julian Brave NoiseCatI Told a Native Story That Earned an Oscar Nomination. There Are So Many More to Tell.5 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/oscar-sugarcane-nomination.html)
-
-[The Ezra Klein ShowThe Dark Heart of Trump’s Foreign Policy48 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/ezra-klein-podcast-fareed-zakaria.html)
-
-[New York Times Opinion‘This Is Not Just About Ukraine’: 10 Columnists and Writers Rate Trump’s Actions in Month One](https://12ft.io/https://www.nytimes.com/interactive/2025/03/01/opinion/trump-administration-first-month.html)
-
-[Jessica GroseHair Transplants and the New Male Vanity5 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/opinion/hair-transplants-male-vanity.html)
-
-[Bret StephensA Day of American Infamy4 min read](https://12ft.io/https://www.nytimes.com/2025/02/28/opinion/a-day-of-american-infamy.html)
-
-[M. GessenPutin Is Ready to Carve Up the World. Trump Just Handed Him the Knife.6 min read](https://12ft.io/https://www.nytimes.com/2025/02/28/opinion/putin-trump-ukraine.html)
-
-[Thomas L. FriedmanThis Has Never Happened With an American President Before2 min read](https://12ft.io/https://www.nytimes.com/2025/02/28/opinion/trump-zelensky.html)
-
-[Wildfires Break Out in the Carolinas, Prompting EvacuationsGusty winds combined with dry air and unusually high temperatures were fueling the rapid spread of fires on Saturday in North and South Carolina.2 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/fire-north-carolina.html)
-
-[Fugitive in 1982 Bombing Lived as Dead Classmate in New Mexico, U.S. SaysStephen Craig Campbell, the man accused of the bombing, hid as Walter Lee Coffman, who has been dead for almost 50 years, the authorities said.3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/us/stephen-campbell-fugitive-wyoming-bombing-arrested.html)
-
-[Why Do S.U.V.s Look Like Trucks Again?For decades, carlike curves were in. Now, buyers are interested in sport utility vehicles that feature right-angles and off-road cred.5 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/business/suvs-trucks-design.html)
-
-[Leah Millis/ReutersAngie Stone, Hip-Hop Pioneer Turned Neo-Soul Singer, Dies at 63After having success as a member of the Sequence, an early female rap group, she re-emerged in the 1990s as a practitioner of sultry, laid-back R&B.3 min read](https://12ft.io/https://www.nytimes.com/2025/03/01/arts/music/angie-stone-dead.html)
-
-[The Rings Adriana Paz Keeps CloseThe Mexican actress, a star in the Oscar nominated film “Emilia Perez,” wears them to tether her to home, especially when work has taken her away.3 min readAlicia Vera for The New York Times](https://12ft.io/https://www.nytimes.com/2025/03/01/style/the-rings-adriana-paz-keeps-close.html)
-
-[WordleGuess the 5-letter word with 6 chances.](https://12ft.io/https://www.nytimes.com/games/wordle/index.html)
-
-[ConnectionsGroup words that share a common thread.](https://12ft.io/https://www.nytimes.com/games/connections?GAMES_connectionsRollout_1130=1_ConnectionsV2)
-
-[StrandsUncover hidden words and reveal the theme.](https://12ft.io/https://www.nytimes.com/games/strands)
-
-[Spelling BeeHow many words can you make with 7 letters?](https://12ft.io/https://www.nytimes.com/puzzles/spelling-bee)
-
-[The CrosswordGet clued in with wordplay, every day.](https://12ft.io/https://www.nytimes.com/crosswords)
+77 - <a href='https://www.google.com/search?q=Spelling+BeeHow+many+words+can+you+make+with+7+letters%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.nytimes.com/puzzles/spelling-bee' target='_blank' rel='noopener noreferrer'>Spelling BeeHow many words can you make with 7 letters?</a>
 
 </details>
 
@@ -2518,61 +2474,67 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[Flying to spring break destinations more expensive this yearThere's high demand right now for warm weather getaways. And prices are up, but deals are out there.](https://12ft.io/https://finance.yahoo.com/news/spring-break-2025-hot-tips-for-warm-vacations-141542541.html)
+1 - <a href='https://www.google.com/search?q=THE+LATESTTrump+says+tariffs+on+Canada%2C+Mexico+will+go+forward+on+Tuesday' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/live/live-trump-tariffs-set-to-take-effect-on-canada-mexico-as-trump-says-no-room-left-for-delay-191201689.html' target='_blank' rel='noopener noreferrer'>THE LATESTTrump says tariffs on Canada, Mexico will go forward on Tuesday</a>
 
-[Finally for homebuyers: 'A step in the right direction'](https://12ft.io/https://finance.yahoo.com/news/finally-for-homebuyers-a-step-in-the-right-direction-123549408.html)
+2 - <a href='https://www.google.com/search?q=Trump%3A+%27No+room+left+for+Canada+or+Mexico%2C%27+25%25+tariffs+set+to+take+effectTrump+barreled+ahead+with+a+Tuesday+deadline+for+broad+tariffs+on+Canada+and+Mexico+and+moved+to+double+duties+on+China.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/trump-set-to-plow-ahead-with-new-tariffs-that-could-surpass-what-he-did-in-his-entire-first-term-152627150.html' target='_blank' rel='noopener noreferrer'>Trump: 'No room left for Canada or Mexico,' 25% tariffs set to take effectTrump barreled ahead with a Tuesday deadline for broad tariffs on Canada and Mexico and moved to double duties on China.</a>
 
-[Commentary: Maybe the Biden economy wasn't so bad after all?](https://12ft.io/https://finance.yahoo.com/news/this-week-in-trumponomics-maybe-the-biden-economy-wasnt-so-bad-after-all-150007188.html)
+3 - <a href='https://www.google.com/search?q=Canada+is+ready+to+retaliate+against+US+tariffs%2C+foreign+minister+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/canada-ready-retaliate-against-us-204055399.html' target='_blank' rel='noopener noreferrer'>Canada is ready to retaliate against US tariffs, foreign minister says</a>
 
-[All the tariff threats: What Trump is promising between now and April](https://12ft.io/https://finance.yahoo.com/news/all-the-presidents-tariff-threats-what-trump-is-promising-between-now-and-april-170756821.html)
+4 - <a href='https://www.google.com/search?q=S%26P+500+posts+worst+day+of+2025+as+Trump+forges+ahead+on+tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-sp-500-posts-worst-day-of-2025-after-trump-forges-ahead-on-tariffs-210816608.html' target='_blank' rel='noopener noreferrer'>S&P 500 posts worst day of 2025 as Trump forges ahead on tariffs</a>
 
-[Hooters' problems pose a test for securitizations](https://12ft.io/https://finance.yahoo.com/news/hooters-problems-pose-test-securitizations-200000138.html)
+5 - <a href='https://www.google.com/search?q=Nvidia+closes+at+lowest+level+in+months+amid+chip+smuggling+report' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/nvidia-stock-tumbles-over-8-to-close-at-lowest-level-since-september-164735459.html' target='_blank' rel='noopener noreferrer'>Nvidia closes at lowest level in months amid chip smuggling report</a>
 
-[New Musk-inspired email to federal workers seeks weekly reports](https://12ft.io/https://finance.yahoo.com/news/musk-inspired-email-federal-workers-162233131.html)
+6 - <a href='https://www.google.com/search?q=Nvidia-backed+cloud+firm+CoreWeave+files+for+US+IPO' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/cloud-firm-coreweave-files-us-220829985.html' target='_blank' rel='noopener noreferrer'>Nvidia-backed cloud firm CoreWeave files for US IPO</a>
 
-[Panama's $10 billion copper mine faces tough road to restart](https://12ft.io/https://finance.yahoo.com/news/panama-president-exploring-novel-ideas-163807479.html)
+7 - <a href='https://www.google.com/search?q=Trump+says+tariffs+on+agricultural+imports+to+start+April+2' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/trump-says-tariffs-agricultural-imports-190249621.html' target='_blank' rel='noopener noreferrer'>Trump says tariffs on agricultural imports to start April 2</a>
 
-[The Chinese EV maker threatening Ford and GM](https://12ft.io/https://finance.yahoo.com/news/chinese-ev-maker-threatening-ford-020000279.html)
+8 - <a href='https://www.google.com/search?q=Canada%2C+Mexico+currencies+drop+as+Trump+confirms+pending+tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/canada-mexico-currencies-drop-trump-202130187.html' target='_blank' rel='noopener noreferrer'>Canada, Mexico currencies drop as Trump confirms pending tariffs</a>
 
-[Car insurance rates are climbing. Here are 11 ways to save.](https://12ft.io/https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-increase-155452394.html)
+9 - <a href='https://www.google.com/search?q=Prices+rose+along+border+ahead+of+Trump+tariffs.+Now%2C+disruption+looms.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/prices-rose-along-border-ahead-213851337.html' target='_blank' rel='noopener noreferrer'>Prices rose along border ahead of Trump tariffs. Now, disruption looms.</a>
 
-[Report: SoftBank in talks to borrow $16 billion to fund AI](https://12ft.io/https://finance.yahoo.com/news/softbank-talks-borrow-16-billion-170211343.html)
+10 - <a href='https://www.google.com/search?q=Morgan+Stanley+raises+Tesla+price+target+to+%24430' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/morgan-stanley-sees-tesla-stock-reaching-430-reinstates-as-top-pick-over-ai-robotics-play-212959864.html' target='_blank' rel='noopener noreferrer'>Morgan Stanley raises Tesla price target to $430</a>
 
-[A Trader’s Guide for China’s Closely Watched Policy Meeting](https://12ft.io/https://finance.yahoo.com/news/trader-guide-china-closely-watched-000000766.html)
+11 - <a href='https://www.google.com/search?q=Commentary%3A+What+Elon+Musk%27s+critics+are+getting+wrong' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/commentary-what-elon-musks-critics-are-getting-wrong-211017163.html' target='_blank' rel='noopener noreferrer'>Commentary: What Elon Musk's critics are getting wrong</a>
 
-[Trump takes actions to increase lumber supplies and curb wood imports](https://12ft.io/https://finance.yahoo.com/news/trump-takes-actions-increase-lumber-233040004.html)
+12 - <a href='https://www.google.com/search?q=Trump+says+Japan%2C+China+cannot+keep+reducing+value+of+their+currencies' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/trump-says-japan-china-cannot-234823070.html' target='_blank' rel='noopener noreferrer'>Trump says Japan, China cannot keep reducing value of their currencies</a>
 
-[Trump Orders Investigation Into Lumber Ahead of Likely Tariffs](https://12ft.io/https://finance.yahoo.com/news/trump-orders-investigation-lumber-ahead-231542861.html)
+13 - <a href='https://www.google.com/search?q=Oil+Holds+Losses+Near+Three-Month+Low+After+OPEC%2B+Signals+Hike' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/oil-holds-losses-near-three-232942420.html' target='_blank' rel='noopener noreferrer'>Oil Holds Losses Near Three-Month Low After OPEC+ Signals Hike</a>
 
-[Coal’s Four-Year Lows Hide a Coming Global Supply Squeeze](https://12ft.io/https://finance.yahoo.com/news/coal-four-lows-hide-coming-230327317.html)
+14 - <a href='https://www.google.com/search?q=GSA+to+Nix+SEC%E2%80%99s+LA%2C+Philadelphia+Leases+With+Telework+Possible' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/gsa-nix-sec-la-philadelphia-232843706.html' target='_blank' rel='noopener noreferrer'>GSA to Nix SEC’s LA, Philadelphia Leases With Telework Possible</a>
 
-[Samsung Broadens AI Phone Lineup With $300 5G Galaxy Models](https://12ft.io/https://finance.yahoo.com/news/samsung-broadens-ai-phone-lineup-230000155.html)
+15 - <a href='https://www.google.com/search?q=Asian+Stocks+to+Decline+as+Tariffs+Spark+US+Rout%3A+Markets+Wrap' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/asian-stocks-decline-tariffs-spark-224603908.html' target='_blank' rel='noopener noreferrer'>Asian Stocks to Decline as Tariffs Spark US Rout: Markets Wrap</a>
 
-[What Analysts Think of Broadcom Stock Ahead of Earnings](https://12ft.io/https://finance.yahoo.com/news/analysts-think-broadcom-stock-ahead-195652551.html)
+16 - <a href='https://www.google.com/search?q=Republicans+in+Congress+Turn%C2%A0Up+Scrutiny+of+Fed+as+Inflation+Persists' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/republicans-congress-turn-scrutiny-fed-231901043.html' target='_blank' rel='noopener noreferrer'>Republicans in Congress Turn Up Scrutiny of Fed as Inflation Persists</a>
 
-[Uruguay’s President Orsi Takes Office in Shift to the Left](https://12ft.io/https://finance.yahoo.com/news/uruguay-orsi-become-president-saturday-130000555.html)
+17 - <a href='https://www.google.com/search?q=US+Import+Taxes+of+More+Than+50%25+May+%E2%80%98Ravage%E2%80%99+Canadian+Lumber' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/us-import-taxes-more-50-231021953.html' target='_blank' rel='noopener noreferrer'>US Import Taxes of More Than 50% May ‘Ravage’ Canadian Lumber</a>
 
-[Magnificent Seven Stocks: Nvidia Slides But Tesla Reverses Higher](https://12ft.io/https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/magnificent-seven-stocks-.html)
+18 - <a href='https://www.google.com/search?q=Blackstone%E2%80%99s+Schwarzman+Says+AI+Tech+Power+Will+Be+Remarkable' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/blackstone-schwarzman-says-ai-tech-230931339.html' target='_blank' rel='noopener noreferrer'>Blackstone’s Schwarzman Says AI Tech Power Will Be Remarkable</a>
 
-[S&P 500 Gains and Losses Today: Indexes Rally To Pare February Losses](https://12ft.io/https://finance.yahoo.com/news/p-500-gains-losses-today-220408345.html)
+19 - <a href='https://www.google.com/search?q=Nvidia-Backed+CoreWeave+Files+for+IPO%2C+Shows+Growing+Revenue' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/nvidia-backed-coreweave-files-ipo-221314619.html' target='_blank' rel='noopener noreferrer'>Nvidia-Backed CoreWeave Files for IPO, Shows Growing Revenue</a>
 
-[Intel delays $28 billion Ohio chip factories to 2030](https://12ft.io/https://finance.yahoo.com/news/intel-delays-28-billion-ohio-151421518.html)
+20 - <a href='https://www.google.com/search?q=36-Year-Old+Sitting+On+%242.5M+IRA+Asks+Reddit%3A+%27Do+I+Risk+It+For+Growth+Or+Settle+For+Safety%3F%27+Experts+And+Amateurs+Clash' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/36-old-sitting-2-5m-164515695.html' target='_blank' rel='noopener noreferrer'>36-Year-Old Sitting On $2.5M IRA Asks Reddit: 'Do I Risk It For Growth Or Settle For Safety?' Experts And Amateurs Clash</a>
 
-[Instant View: Wall Street shakes off Trump-Zelenskiy clash after dip](https://12ft.io/https://finance.yahoo.com/news/instant-view-trump-zelenskiy-clash-191031712.html)
+21 - <a href='https://www.google.com/search?q=Nvidia%27s+Earnings+Roared+Higher+to+Record+Levels.+So%2C+Why+Isn%27t+the+Stock+Soaring%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/nvidias-earnings-roared-higher-record-233000884.html' target='_blank' rel='noopener noreferrer'>Nvidia's Earnings Roared Higher to Record Levels. So, Why Isn't the Stock Soaring?</a>
 
-[Morningstar | A Weekly Summary of Stock Ideas and Developments in the Companies We Cover](https://12ft.io/https://finance.yahoo.com/research/reports/MS_1268530_StockPicks_1740797070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei)
+22 - <a href='https://www.google.com/search?q=TKer%3A+It%27s+OK+to+have+emotions+%E2%80%94+just+don%27t+let+them+near+your+stock+portfolio' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/tker-its-ok-to-have-emotions--just-dont-let-them-near-your-stock-portfolio-194517184.html' target='_blank' rel='noopener noreferrer'>TKer: It's OK to have emotions — just don't let them near your stock portfolio</a>
 
-[Stock market today: Dow, S&P 500, Nasdaq rally to cap volatile week, losing month](https://12ft.io/https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-to-cap-volatile-week-losing-month-143154388.html)
+23 - <a href='https://www.google.com/search?q=Elon+Musk+Made+a+Big+Prediction+About+Tesla.+What+History+Says+Happens+to+the+Stock+Next.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/m/4efffc1f-5748-30d2-b29f-e1091ac7b3c2/elon-musk-made-a-big.html' target='_blank' rel='noopener noreferrer'>Elon Musk Made a Big Prediction About Tesla. What History Says Happens to the Stock Next.</a>
 
-[Nvidia's Q4 success fueled by hyperscalers. Analyst explains.Nvidia (NVDA) experienced another impressive quarter — topping fourth quarter revenue and earnings estimates — largely driven by a handful of key customers. A significant portion of its success has been tied to cloud service hyperscalers. WestEnd Capital Management senior equity analyst Ali Mogharabi joins Market Domination Overtime's Julie Hyman and Josh Lipton to discuss the current state of Nvidia’s demand in the AI data center landscape. “In terms of the overall spending cycle, I think we're still far from the peak," Mogharabi says. "However, you know, based on the Q4 numbers and also on the guidance, it seems like the demand for Blackwell [GPUs], their latest one, is very, very strong — and one can only assume that actually is coming from the hyperscalers." When asked about the competitive risk from Nvidia’s own customers, Mogharabi states, "that's how we're seeing it, especially with with two of the hyperscalers: Alphabet's (GOOG, GOOGL), the Google Cloud, and also Amazon (AMZN), the AWS. They have actually been utilizing their own chips, their in-house chips for a long time, especially Google." Additionally, Mogharabi speaks on artificial intelligence advancements tying into customized chips. "At the same time, I do think that demand for more customized chips could actually increase, but you still need all of that computing power for a few reasons, right?" Mogharabi believes "as inference continues to improve, the application of all of this AI technology widens.” Watch Yahoo Finance's full Nvidia earnings special here or catch the replay on streaming platforms at 8 pm E.T. This post was written by Josh Lynch](https://12ft.io/https://finance.yahoo.com/video/nvidias-q4-success-fueled-hyperscalers-224800935.html)
+24 - <a href='https://www.google.com/search?q=Trump+names+cryptocurrencies+in+strategic+reserve%2C+sending+prices+up' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/trump-names-cryptocurrencies-strategic-prices-160454350.html' target='_blank' rel='noopener noreferrer'>Trump names cryptocurrencies in strategic reserve, sending prices up</a>
 
-['Too tight' monetary policy contributing to economic slowdown woes](https://12ft.io/https://finance.yahoo.com/video/too-tight-monetary-policy-contributing-164800541.html)
+25 - <a href='https://www.google.com/search?q=Analyst+Report%3A+C.H.+Robinson+Worldwide%2C+Inc.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/research/reports/MS_0P000000YD_AnalystReport_1741035093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei' target='_blank' rel='noopener noreferrer'>Analyst Report: C.H. Robinson Worldwide, Inc.</a>
 
-[How Tractor Supply could ride 'egg-flation' wave](https://12ft.io/https://finance.yahoo.com/video/tractor-supply-could-ride-egg-183043388.html)
+26 - <a href='https://www.google.com/search?q=Euro+firms+on+Ukraine+hopes%2C+Trump+knocks+Mexican+peso+and+Canadian+dollar' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/news/euro-rebounds-europes-ukraine-peace-014736356.html' target='_blank' rel='noopener noreferrer'>Euro firms on Ukraine hopes, Trump knocks Mexican peso and Canadian dollar</a>
 
-[Why 'boring' stocks are the secret to stability in a volatile market](https://12ft.io/https://finance.yahoo.com/video/why-boring-stocks-secret-stability-140034778.html)
+27 - <a href='https://www.google.com/search?q=Why+%27near-term%27+but+not+%27broad-based%27+inflation+is+on+the+horizonInflation+concerns+persist+as+recent+trends+indicate+a+complex+scenario.+Invesco+global+market+strategist+Brian+Levitt+joins+Market+Domination+anchors+Josh+Lipton+and+Julie+Hyman+to+discuss+the+balancing+act+between+inflation+and+growth.+%22If+you%27ve+been+watching+the+breakevens+the+way+I+have+in+the+short+term+%E2%80%94+so+one-year+%5Bto%5D+three-year+breakevens+%E2%80%94+those+had+moved+up.+Meaning+we%27re+going+to+have+some+near-term+inflation+for+obvious+reasons%2C%22+Levitt+says.+%22The+good+news+for+investors+%E2%80%94+and+the+good+news+for+the+Federal+Reserve+%E2%80%94+is+that+the+10-year+%28%5ETNX%29%2C+while+it%27s+moved+towards+the+higher+end+of+where+it+typically+is%2C+it%27s+still+below+2.5%25%2C%22+he+adds.+Levitt+also+explains+that+while+tariffs+may+temporarily+increase+prices%2C+they+aren%27t+expected+to+cause+widespread+inflation.+%22I+don%27t+think+it%27s+broad-based+inflation%2C%22+he+says.+%22If+you+remember%2C+in+2019%2C+the+Federal+Reserve+actually+lowered+interest+rates.%22+Watch+the+video+above+to+hear+Levitt%27s+insights+on+economic+growth+and+the+importance+of+clarity+amid+ongoing+policy+uncertainty.+To+watch+more+expert+insights+and+analysis+on+the+latest+market+action%2C+check+out+more+Market+Domination%26nbsp%3Bhere.+This+post+was+written+by+Josh+Lynch' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/video/why-near-term-not-broad-223000478.html' target='_blank' rel='noopener noreferrer'>Why 'near-term' but not 'broad-based' inflation is on the horizonInflation concerns persist as recent trends indicate a complex scenario. Invesco global market strategist Brian Levitt joins Market Domination anchors Josh Lipton and Julie Hyman to discuss the balancing act between inflation and growth. "If you've been watching the breakevens the way I have in the short term — so one-year [to] three-year breakevens — those had moved up. Meaning we're going to have some near-term inflation for obvious reasons," Levitt says. "The good news for investors — and the good news for the Federal Reserve — is that the 10-year (^TNX), while it's moved towards the higher end of where it typically is, it's still below 2.5%," he adds. Levitt also explains that while tariffs may temporarily increase prices, they aren't expected to cause widespread inflation. "I don't think it's broad-based inflation," he says. "If you remember, in 2019, the Federal Reserve actually lowered interest rates." Watch the video above to hear Levitt's insights on economic growth and the importance of clarity amid ongoing policy uncertainty. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here. This post was written by Josh Lynch</a>
 
-[Former BET CEO's game-changing advice for aspiring leaders](https://12ft.io/https://finance.yahoo.com/video/former-bet-ceos-game-changing-183024898.html)
+28 - <a href='https://www.google.com/search?q=Tesla%27s+valuation+is+coming+into+question+by+this+teacher+union' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/video/teslas-valuation-coming-teacher-union-224000459.html' target='_blank' rel='noopener noreferrer'>Tesla's valuation is coming into question by this teacher union</a>
+
+29 - <a href='https://www.google.com/search?q=Trump+tariffs+could+eclipse+economic+impact+of+entire+first+term' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/video/trump-tariffs-could-eclipse-economic-164319809.html' target='_blank' rel='noopener noreferrer'>Trump tariffs could eclipse economic impact of entire first term</a>
+
+30 - <a href='https://www.google.com/search?q=Small+caps+are+not+the+place+to+%27hide%27+right+now' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/video/small-caps-not-place-hide-221031124.html' target='_blank' rel='noopener noreferrer'>Small caps are not the place to 'hide' right now</a>
+
+31 - <a href='https://www.google.com/search?q=Trump+announces+new+US+strategic+crypto+reserve%3A+What+to+know' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://finance.yahoo.com/video/trump-announces-us-strategic-crypto-174101491.html' target='_blank' rel='noopener noreferrer'>Trump announces new US strategic crypto reserve: What to know</a>
 
 </details>
 

@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import os
 from links_dicts import link_dictionaries  # Importing link dictionaries from links_dict.py
 from gen_md import generate_markdown_from_json
+import re
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -62,28 +63,40 @@ def clean_text(text):
     # This function can be customized to clean text if necessary
     return text.strip()
 
+import re
+from bs4 import BeautifulSoup
+from datetime import datetime
+
 def extract_hyperlinks(filename, base_url, links):
     with open(filename, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
     
     links_data = {}
+
     for a_tag in soup.find_all("a", href=True):
         text = clean_text(a_tag.get_text(strip=True))
         href = a_tag["href"]
+
+        # Reject URLs with double slashes after https://
+        if re.search(r"https:///{2,}", href):  
+            continue  # Skip this link
         
         # Check if the link matches any of the pre-defined websites
         for name, base_url in links.items():
-            if href.startswith(base_url) or href.startswith("/"):  # Check if the link starts with the base URL
-                if href.startswith("/"):  # Handle relative URLs by prepending base URL
-                    if base_url.endswith("/"):
-                        base_url = base_url.rstrip("/")
-                    href = base_url + href
+            if href.startswith(base_url) or href.startswith("/"):
+                if href.startswith("/"):  # Handle relative URLs
+                    href = base_url.rstrip("/") + href
                 
                 # Only store links with at least 5 words in text
                 if len(text.split()) >= 5:
                     if name not in links_data:
-                        links_data[name] = []  # Initialize the list if not already there
+                        links_data[name] = []  # Initialize list if not present
                     
+                    # Ensure no duplicate headlines or links
+                    if any(entry["headline"] == text or entry["link"] == href for entry in links_data[name]):
+                        continue  # Skip if duplicate
+                    
+                    # Add the link
                     links_data[name].append({
                         "date": datetime.now().strftime("%Y-%m-%d"),
                         "headline": text,
@@ -92,6 +105,7 @@ def extract_hyperlinks(filename, base_url, links):
                 break  # Move to the next link once a match is found
     
     return links_data
+
 
 def load_existing_links(filename):
     if os.path.exists(filename):

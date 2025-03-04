@@ -1,7 +1,7 @@
 +++ 
 author = "cletus"
-title = "Foreign - 2025-03-01"
-date = "2025-03-01"
+title = "Foreign - 2025-03-03"
+date = "2025-03-03"
 description = "Foreign news for today"
 tags = [
     "Foreign",
@@ -14,614 +14,345 @@ tags = [
 <summary>View Articles</summary>
 <br>
 
-[Guterres urges parties to find a way forward on next phase of Gaza ceasefire](https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160691)
+1 - <a href='https://www.google.com/search?q=%E2%80%98Dangerous+nuclear+rhetoric+and+threats%E2%80%99+trigger+stark+wake-up+call%3A+UN+chief' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160736' target='_blank' rel='noopener noreferrer'>‘Dangerous nuclear rhetoric and threats’ trigger stark wake-up call: UN chief</a>
 
-[‘This is our land’ – Building Gaza’s future from the wreckage of war](https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160661)
+2 - <a href='https://www.google.com/search?q=Food+prices+soar+as+Israel+blocks+aid+into+Gaza' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160731' target='_blank' rel='noopener noreferrer'>Food prices soar as Israel blocks aid into Gaza</a>
 
-[Bahrain’s pearling legacy: Reviving a millennia-old culture](https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160491)
+3 - <a href='https://www.google.com/search?q=Nuclear+energy+watchdog+chief+raises+%E2%80%98serious%E2%80%99+safety+concerns+over+sites+in+Ukraine+and+Iran' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160721' target='_blank' rel='noopener noreferrer'>Nuclear energy watchdog chief raises ‘serious’ safety concerns over sites in Ukraine and Iran</a>
 
-[‘A litany of human suffering’ in Myanmar, warns UN rights chief](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160686)
+4 - <a href='https://www.google.com/search?q=Oceans+of+opportunity+squeezed+dry+by+unsustainable+use' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160716' target='_blank' rel='noopener noreferrer'>Oceans of opportunity squeezed dry by unsustainable use</a>
 
-[Global biodiversity agreement mobilises $200 billion boost for nature](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160676)
+5 - <a href='https://www.google.com/search?q=DR+Congo%3A+Clean+water+%E2%80%98a+lifeline%E2%80%99+for+around+364%2C000+children+a+day+in+Goma' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160706' target='_blank' rel='noopener noreferrer'>DR Congo: Clean water ‘a lifeline’ for around 364,000 children a day in Goma</a>
 
-[Children already dying in Sudan’s stricken Zamzam camp: WFP](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160666)
+6 - <a href='https://www.google.com/search?q=First+Person%3A+Voices+of+the+forgotten+in+Haiti%2C+%E2%80%98crying+out+in+the+silence+of+distress%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160711' target='_blank' rel='noopener noreferrer'>First Person: Voices of the forgotten in Haiti, ‘crying out in the silence of distress’</a>
 
-[Alarming trends in nuclear material trafficking highlight urgent security gaps](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160656)
+7 - <a href='https://www.google.com/search?q=%E2%80%98Naked+struggle+for+power+and+resources%E2%80%99+leaves+civilians+paying+unbearable+price%3A+UN+human+rights+chief' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160701' target='_blank' rel='noopener noreferrer'>‘Naked struggle for power and resources’ leaves civilians paying unbearable price: UN human rights chief</a>
 
-[US aid cuts will make world ‘less healthy, less safe and less prosperous’: Guterres](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160646)
+8 - <a href='https://www.google.com/search?q=US+cuts+mean+%E2%80%98essential%E2%80%99+UN+mental+health+teams+in+Ukraine+risk+closure' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160681' target='_blank' rel='noopener noreferrer'>US cuts mean ‘essential’ UN mental health teams in Ukraine risk closure</a>
 
-[Haiti: Massive surge in child armed group recruitment, warns UNICEF](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160641)
+9 - <a href='https://www.google.com/search?q=Ukrainians+continue+to+flee+the+frontline%2C+as+war+stretches+into+fourth+year' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160601' target='_blank' rel='noopener noreferrer'>Ukrainians continue to flee the frontline, as war stretches into fourth year</a>
 
-[Gaza: Unified Arab position will ‘help guide the way forward’](https://12ft.io/https://news.un.org/en/news/en/story/2025/02/1160636)
+10 - <a href='https://www.google.com/search?q=Guterres+urges+parties+to+find+a+way+forward+on+next+phase+of+Gaza+ceasefire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/story/2025/03/1160691' target='_blank' rel='noopener noreferrer'>Guterres urges parties to find a way forward on next phase of Gaza ceasefire</a>
 
-[Democratic People’s Republic of Korea](https://12ft.io/https://news.un.org/en/news/en/focus/democratic-peoples-republic-korea)
+11 - <a href='https://www.google.com/search?q=Democratic+People%E2%80%99s+Republic+of+Korea' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/en/focus/democratic-peoples-republic-korea' target='_blank' rel='noopener noreferrer'>Democratic People’s Republic of Korea</a>
 
-[AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+News+Alerts)
+12 - <a href='https://www.google.com/search?q=AP+News+AlertsKeep+your+pulse+on+the+news+with+breaking+news+alerts+from+The+AP.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+News+Alerts' target='_blank' rel='noopener noreferrer'>AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.</a>
 
-[The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Morning+Wire+Subscribers)
+13 - <a href='https://www.google.com/search?q=The+Morning+WireOur+flagship+newsletter+breaks+down+the+biggest+headlines+of+the+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Morning+Wire+Subscribers' target='_blank' rel='noopener noreferrer'>The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.</a>
 
-[Ground GameExclusive insights and key stories from the world of politics.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Ground_Game)
+14 - <a href='https://www.google.com/search?q=Ground+GameExclusive+insights+and+key+stories+from+the+world+of+politics.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Ground_Game' target='_blank' rel='noopener noreferrer'>Ground GameExclusive insights and key stories from the world of politics.</a>
 
-[Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Beyond+the+Story)
+15 - <a href='https://www.google.com/search?q=Beyond+the+StoryExecutive+Editor+Julie+Pace+brings+you+behind+the+scenes+of+the+AP+newsroom.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Beyond+the+Story' target='_blank' rel='noopener noreferrer'>Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.</a>
 
-[AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+Entertainment+Wire)
+16 - <a href='https://www.google.com/search?q=AP+Entertainment+WireGet+AP%27s+first+personalized+newsletter+delivering+you+entertainment+news+twice+a+week.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+Entertainment+Wire' target='_blank' rel='noopener noreferrer'>AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.</a>
 
-[AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts)
+17 - <a href='https://www.google.com/search?q=AP+Top+25+Women%27s+Basketball+Poll+AlertsWomen%27s+college+basketball+poll+alerts+and+updates.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts' target='_blank' rel='noopener noreferrer'>AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.</a>
 
-[World of FaithtestComprehensive global coverage of how religion shapes our world.](https://12ft.io/https://news.un.org/en/news/newsletters?id=World+of+Faith)
+18 - <a href='https://www.google.com/search?q=World+of+FaithComprehensive+global+coverage+of+how+religion+shapes+our+world.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=World+of+Faith' target='_blank' rel='noopener noreferrer'>World of FaithComprehensive global coverage of how religion shapes our world.</a>
 
-[AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+News+Alerts)
+19 - <a href='https://www.google.com/search?q=The+Morning+WireOur+flagship+newsletter+breaks+down+the+biggest+headlines+of+the+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Morning+Wire+Subscribers' target='_blank' rel='noopener noreferrer'>The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.</a>
 
-[The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Morning+Wire+Subscribers)
+20 - <a href='https://www.google.com/search?q=The+Afternoon+WireGet+caught+up+on+what+you+may+have+missed+throughout+the+day.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Afternoon+Wire' target='_blank' rel='noopener noreferrer'>The Afternoon WireGet caught up on what you may have missed throughout the day.</a>
 
-[Ground GameExclusive insights and key stories from the world of politics.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Ground_Game)
+21 - <a href='https://www.google.com/search?q=Test+Your+News+I.Q.+%E2%80%94+take+today%E2%80%99s+quiz' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/quizzes' target='_blank' rel='noopener noreferrer'>Test Your News I.Q. — take today’s quiz</a>
 
-[Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Beyond+the+Story)
+22 - <a href='https://www.google.com/search?q=Ground+GameExclusive+insights+and+key+stories+from+the+world+of+politics.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Ground_Game' target='_blank' rel='noopener noreferrer'>Ground GameExclusive insights and key stories from the world of politics.</a>
 
-[AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+Entertainment+Wire)
+23 - <a href='https://www.google.com/search?q=AP+Top+25+Poll+AlertsGet+email+alerts+for+every+college+football+Top+25+Poll+release.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_CFB_Top_25_Poll_Alerts' target='_blank' rel='noopener noreferrer'>AP Top 25 Poll AlertsGet email alerts for every college football Top 25 Poll release.</a>
 
-[AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts)
+24 - <a href='https://www.google.com/search?q=The+Sports+WireYour+home+base+for+in-depth+reporting+from+the+world+of+sports.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Sports+HQ' target='_blank' rel='noopener noreferrer'>The Sports WireYour home base for in-depth reporting from the world of sports.</a>
 
-[World of FaithtestComprehensive global coverage of how religion shapes our world.](https://12ft.io/https://news.un.org/en/news/newsletters?id=World+of+Faith)
+25 - <a href='https://www.google.com/search?q=AP+Entertainment+WireGet+AP%27s+first+personalized+newsletter+delivering+you+entertainment+news+twice+a+week.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+Entertainment+Wire' target='_blank' rel='noopener noreferrer'>AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.</a>
 
-[AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+News+Alerts)
+26 - <a href='https://www.google.com/search?q=AP+News+AlertsKeep+your+pulse+on+the+news+with+breaking+news+alerts+from+The+AP.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+News+Alerts' target='_blank' rel='noopener noreferrer'>AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.</a>
 
-[The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Morning+Wire+Subscribers)
+27 - <a href='https://www.google.com/search?q=Beyond+the+StoryExecutive+Editor+Julie+Pace+brings+you+behind+the+scenes+of+the+AP+newsroom.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Beyond+the+Story' target='_blank' rel='noopener noreferrer'>Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.</a>
 
-[Ground GameExclusive insights and key stories from the world of politics.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Ground_Game)
+28 - <a href='https://www.google.com/search?q=AP+Top+25+Women%27s+Basketball+Poll+AlertsWomen%27s+college+basketball+poll+alerts+and+updates.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts' target='_blank' rel='noopener noreferrer'>AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.</a>
 
-[Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Beyond+the+Story)
+29 - <a href='https://www.google.com/search?q=The+World+in+PicturesGet+The+AP%E2%80%99s+most+compelling+photographs+sent+directly+to+your+inbox.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=Photo+Gallery' target='_blank' rel='noopener noreferrer'>The World in PicturesGet The AP’s most compelling photographs sent directly to your inbox.</a>
 
-[AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+Entertainment+Wire)
+30 - <a href='https://www.google.com/search?q=World+of+FaithComprehensive+global+coverage+of+how+religion+shapes+our+world.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/newsletters?id=World+of+Faith' target='_blank' rel='noopener noreferrer'>World of FaithComprehensive global coverage of how religion shapes our world.</a>
 
-[AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts)
+31 - <a href='https://www.google.com/search?q=Give+a+GiftGive+a+Gift' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/gift-subscriptions/?tpcc=navbar_gift' target='_blank' rel='noopener noreferrer'>Give a GiftGive a Gift</a>
 
-[World of FaithtestComprehensive global coverage of how religion shapes our world.](https://12ft.io/https://news.un.org/en/news/newsletters?id=World+of+Faith)
+32 - <a href='https://www.google.com/search?q=Crisis+in+the+Middle+East' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/projects/israel-hamas-war/' target='_blank' rel='noopener noreferrer'>Crisis in the Middle East</a>
 
-[AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+News+Alerts)
+33 - <a href='https://www.google.com/search?q=Read+Trump+and+Zelensky%E2%80%99s+Fiery+Oval+Office+Exchange' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-zelensky-meeting-transcript-full-text-video-oval-office/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Read Trump and Zelensky’s Fiery Oval Office Exchange</a>
 
-[The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Morning+Wire+Subscribers)
+34 - <a href='https://www.google.com/search?q=Ukraine%E2%80%99s+Minerals+Won%E2%80%99t+Solve+U.S.+Supply+Chain+Problems' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/ukraine-critical-minerals-trump-supply-chains-russia-war/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Ukraine’s Minerals Won’t Solve U.S. Supply Chain Problems</a>
 
-[Ground GameExclusive insights and key stories from the world of politics.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Ground_Game)
+35 - <a href='https://www.google.com/search?q=Europe+Is+Now+Led+by+Its+North' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/europe-led-north-baltics-nordics-ukraine/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Europe Is Now Led by Its North</a>
 
-[Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://12ft.io/https://news.un.org/en/news/newsletters?id=Beyond+the+Story)
+36 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Concert+of+Kingpins+Won%E2%80%99t+Work' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/trumps-concert-of-kingpins-wont-work/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Trump’s Concert of Kingpins Won’t Work</a>
 
-[AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP+Entertainment+Wire)
+37 - <a href='https://www.google.com/search?q=The+Speech+That+Stunned+Europe' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/18/vance-speech-munich-full-text-read-transcript-europe/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>The Speech That Stunned Europe</a>
 
-[AP Top 25 Women's Basketball Poll AlertsWomen's college basketball poll alerts and updates.](https://12ft.io/https://news.un.org/en/news/newsletters?id=AP_Womens_BBall_Top_25_Poll_Alerts)
+38 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Angry+Meeting+With+Zelensky+Prompts+Reactions+Worldwide' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-zelensky-white-house-meeting-ukraine-global-reaction/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Trump’s Angry Meeting With Zelensky Prompts Reactions Worldwide</a>
 
-[World of FaithtestComprehensive global coverage of how religion shapes our world.](https://12ft.io/https://news.un.org/en/news/newsletters?id=World+of+Faith)
+39 - <a href='https://www.google.com/search?q=Mexico+Tariffs+Put+Guacamole+on+the+Chopping+Block' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/mexico-tariffs-trump-groceries-avocado-food/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Mexico Tariffs Put Guacamole on the Chopping Block</a>
 
-[Give a GiftGive a Gift](https://12ft.io/https://news.un.org/en/news/gift-subscriptions/?tpcc=navbar_gift)
+40 - <a href='https://www.google.com/search?q=Trump+and+George+W.+Bush%E2%80%99s+Common+Cause' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/trump-george-w-bush-anti-intellectualism-expertise-war/?tpcc=recirc_trending062921' target='_blank' rel='noopener noreferrer'>Trump and George W. Bush’s Common Cause</a>
 
-[Give a GiftGive a Gift](https://12ft.io/https://news.un.org/en/news/gift-subscriptions/?tpcc=navbar_gift)
+41 - <a href='https://www.google.com/search?q=%C2%BFQui%C3%A9n+se+unir%C3%A1+a+la+%E2%80%98coalici%C3%B3n+de+los+dispuestos%E2%80%99+de+Europa+para+ayudar+a+Ucrania%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/es/2025/03/03/espanol/mundo/ucrania-rusia-europa-plan-defensa.html' target='_blank' rel='noopener noreferrer'>¿Quién se unirá a la ‘coalición de los dispuestos’ de Europa para ayudar a Ucrania?</a>
 
-[Crisis in the Middle East](https://12ft.io/https://news.un.org/en/news/projects/israel-hamas-war/)
+42 - <a href='https://www.google.com/search?q=Discovering+Maastricht%E2%80%99s+Hidden+History%2C+Underground' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/arts/design/maastricht-netherlands-underground-history.html' target='_blank' rel='noopener noreferrer'>Discovering Maastricht’s Hidden History, Underground</a>
 
-[Read Trump and Zelensky’s Fiery Oval Office Exchange](https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-zelensky-meeting-transcript-full-text-video-oval-office/?tpcc=recirc_trending062921)
+43 - <a href='https://www.google.com/search?q=What%E2%80%99s+Behind+Trump%E2%80%99s+Love-Hate+Relationship+With+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/us/politics/trump-canada-trade-tariffs.html' target='_blank' rel='noopener noreferrer'>What’s Behind Trump’s Love-Hate Relationship With Canada</a>
 
-[Trump’s Angry Meeting With Zelensky Prompts Reactions Worldwide](https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-zelensky-white-house-meeting-ukraine-global-reaction/?tpcc=recirc_trending062921)
+44 - <a href='https://www.google.com/search?q=Zelensky+Turns+to+Diplomacy+in+a+War+With+%E2%80%98a+Long+Way+to+Go%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/world/europe/zelensky-ukraine-russia-putin.html' target='_blank' rel='noopener noreferrer'>Zelensky Turns to Diplomacy in a War With ‘a Long Way to Go’</a>
 
-[The Perils of a Reality TV Presidency](https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-zelensky-television-presidency-diplomacy/?tpcc=recirc_trending062921)
+45 - <a href='https://www.google.com/search?q=Pete+Hegseth+ordena+al+Pent%C3%A1gono+detener+las+ciberoperaciones+contra+Rusia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/es/2025/03/03/espanol/estados-unidos/rusia-putin-trump-hegseth-pentagono.html' target='_blank' rel='noopener noreferrer'>Pete Hegseth ordena al Pentágono detener las ciberoperaciones contra Rusia</a>
 
-[The Long, Destructive Shadow of Obama’s Russia Doctrine](https://12ft.io/https://news.un.org/en/news/2023/07/11/obama-russia-ukraine-war-putin-2014-crimea-georgia-biden/?tpcc=recirc_trending062921)
+46 - <a href='https://www.google.com/search?q=En+la+frontera+mexicana%2C+antes+abarrotada%2C+quedan+pocos+migrantes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/es/2025/03/03/espanol/america-latina/frontera-mexico-migrantes.html' target='_blank' rel='noopener noreferrer'>En la frontera mexicana, antes abarrotada, quedan pocos migrantes</a>
 
-[The Stubborn Legend of a Western ‘Coup’ in Ukraine](https://12ft.io/https://news.un.org/en/news/2024/08/04/ukraine-maidan-revolution-russia-coup-myth-yanukovych/?tpcc=recirc_trending062921)
+47 - <a href='https://www.google.com/search?q=On+Mexico%E2%80%99s+Once-Packed+Border%2C+Few+Migrants+Remain' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/world/americas/mexico-border-migration-trump-tariffs-deadline.html' target='_blank' rel='noopener noreferrer'>On Mexico’s Once-Packed Border, Few Migrants Remain</a>
 
-[Latin America Recalibrates After Trump’s Pivot to Russia](https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-russia-latin-america-ukraine-talks-brazil-lula-un/?tpcc=recirc_trending062921)
+48 - <a href='https://www.google.com/search?q=The+Scramble+After+a+White+House+Showdown%2C+and+R.F.K.+Jr.%E2%80%99s+Measles+Response' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/podcasts/the-headlines/zelensky-trump-europe-rfk-jr-measles.html' target='_blank' rel='noopener noreferrer'>The Scramble After a White House Showdown, and R.F.K. Jr.’s Measles Response</a>
 
-[The Speech That Stunned Europe](https://12ft.io/https://news.un.org/en/news/2025/02/18/vance-speech-munich-full-text-read-transcript-europe/?tpcc=recirc_trending062921)
+49 - <a href='https://www.google.com/search?q=The+Fallout+From+Zelensky+and+Trump%E2%80%99s+Oval+Office+Meltdown' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/podcasts/the-daily/zelensky-trumps-oval-office.html' target='_blank' rel='noopener noreferrer'>The Fallout From Zelensky and Trump’s Oval Office Meltdown</a>
 
-[Trump Picks Another Trade Fight With Canada Over Lumber](https://12ft.io/https://news.un.org/en/news/2025/03/01/business/economy/trump-trade-canada-lumber.html)
+50 - <a href='https://www.google.com/search?q=Who+Will+Join+Europe%E2%80%99s+%E2%80%98Coalition+of+the+Willing%E2%80%99+to+Help+Ukraine%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/world/europe/europe-ukraine-russia.html' target='_blank' rel='noopener noreferrer'>Who Will Join Europe’s ‘Coalition of the Willing’ to Help Ukraine?</a>
 
-[Lawsuit Against Panama Challenges Detention of Trump Deportees](https://12ft.io/https://news.un.org/en/news/2025/03/01/world/americas/panama-migrants-us-lawsuit.html)
+51 - <a href='https://www.google.com/search?q=Markets+sink+as+Trump+confirms+tariffs+on+Canada%2C+Mexico+and+ChinaThe+US+president+has+repeatedly+threatened+to+tax+imports+from+two+of+the+country%27s+closest+neighbours.11+mins+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cn48q3150dxo' target='_blank' rel='noopener noreferrer'>Markets sink as Trump confirms tariffs on Canada, Mexico and ChinaThe US president has repeatedly threatened to tax imports from two of the country's closest neighbours.11 mins agoWorld</a>
 
-[Trump está dispuesto a sacrificar a Ucrania por un objetivo mayor](https://12ft.io/https://news.un.org/en/news/es/2025/03/01/espanol/estados-unidos/trump-zelenski-ucrania-rusia.html)
+52 - <a href='https://www.google.com/search?q=Trump+condemns+Zelensky+remarks+that+war%27s+end+is+%27far+away%27Trump+has+also+criticised+a+UK-led+European+summit+which+pledged+to+boost+Ukrainian+defences.3+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cy0dkzrer18o' target='_blank' rel='noopener noreferrer'>Trump condemns Zelensky remarks that war's end is 'far away'Trump has also criticised a UK-led European summit which pledged to boost Ukrainian defences.3 hrs agoEurope</a>
 
-[Honduras Moves to Extradite Man Accused of Killing Iowa Woman](https://12ft.io/https://news.un.org/en/news/2025/03/01/us/politics/honduras-extradition-eswin-mejia.html)
+53 - <a href='https://www.google.com/search?q=Five+things+we%27ve+learned+from+Meghan%27s+interview+ahead+of+Netflix+seriesWhat+can+we+expect+from+the+new+TV+series+from+the+Duchess+of+Sussex%3F5+hrs+agoUK' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/ce8y0ld2ngyo' target='_blank' rel='noopener noreferrer'>Five things we've learned from Meghan's interview ahead of Netflix seriesWhat can we expect from the new TV series from the Duchess of Sussex?5 hrs agoUK</a>
 
-[How Zelensky’s Oval Office Meeting Turned into a Showdown With Trump](https://12ft.io/https://news.un.org/en/news/2025/03/01/us/politics/zelensky-showdown-trump.html)
+54 - <a href='https://www.google.com/search?q=Illinois+man+pleads+guilty+to+2022+Highland+Park+mass+shootingRobert+Crimo+III+entered+the+guilty+plea+moments+before+opening+arguments+in+his+trial.7+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c78e7gjz387o' target='_blank' rel='noopener noreferrer'>Illinois man pleads guilty to 2022 Highland Park mass shootingRobert Crimo III entered the guilty plea moments before opening arguments in his trial.7 hrs agoUS & Canada</a>
 
-[Shocked by Trump, Zelensky and Ukraine Try to Forge a Path Forward](https://12ft.io/https://news.un.org/en/news/2025/03/01/world/europe/trump-zelensky-us-ukraine-russia-meeting.html)
+55 - <a href='https://www.google.com/search?q=Hegseth+orders+pause+in+US+cyber-offensive+against+RussiaThe+reported+directive+from+the+defence+secretary+comes+during+an+American+push+to+end+the+war+in+Ukraine.13+hrs+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c2er34w0jgdo' target='_blank' rel='noopener noreferrer'>Hegseth orders pause in US cyber-offensive against RussiaThe reported directive from the defence secretary comes during an American push to end the war in Ukraine.13 hrs agoWorld</a>
 
-[Trump’s Dressing Down of Zelensky Plays Into Putin’s War Aims](https://12ft.io/https://news.un.org/en/news/2025/03/01/world/europe/trump-zelensky-putin.html)
+56 - <a href='https://www.google.com/search?q=%27It+never+should+have+happened%27%3A+Americans+frustrated+by+Trump-Zelensky+spatAmerican+voters+expressed+frustration+at+one+or+both+leaders+for+their+roles+in+the+dispute+that+shocked+the+world.4+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cvg17jmm5vxo' target='_blank' rel='noopener noreferrer'>'It never should have happened': Americans frustrated by Trump-Zelensky spatAmerican voters expressed frustration at one or both leaders for their roles in the dispute that shocked the world.4 hrs agoUS & Canada</a>
 
-[The Dark Heart of Trump’s Foreign Policy](https://12ft.io/https://news.un.org/en/news/2025/03/01/opinion/ezra-klein-podcast-fareed-zakaria.html)
+57 - <a href='https://www.google.com/search?q=Melania+Trump+urges+lawmakers+to+sign+bill+combatting+revenge-pornThe+first+lady+said+it+was+%22heartbreaking%22+that+young+teens+were+subjected+to+malicious+online+content.2+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c8d41zv4ng2o' target='_blank' rel='noopener noreferrer'>Melania Trump urges lawmakers to sign bill combatting revenge-pornThe first lady said it was "heartbreaking" that young teens were subjected to malicious online content.2 hrs ago</a>
 
-[Trump Is Rootin’ for Putin](https://12ft.io/https://news.un.org/en/news/2025/03/01/opinion/trump-is-rootin-for-putin.html)
+58 - <a href='https://www.google.com/search?q=Anora+sweeps+the+board+at+the+OscarsThe+whirlwind+drama+wins+five+prizes%2C+including+best+actress+for+25-year-old+newcomer+Mikey+Madison.19+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cly8v12p228o' target='_blank' rel='noopener noreferrer'>Anora sweeps the board at the OscarsThe whirlwind drama wins five prizes, including best actress for 25-year-old newcomer Mikey Madison.19 hrs agoCulture</a>
 
-[Trump and Vance Are Stripping Away Foreign Policy Illusions](https://12ft.io/https://news.un.org/en/news/2025/03/01/opinion/trump-vance-zelensky.html)
+59 - <a href='https://www.google.com/search?q=Behind+the+Gates%3A+Inside+the+wealthy+black+community+that+inspired+a+soap+opera%22You%27ve+got+to+have+money+-+lots+of+it%2C%22+says+one+resident+of+the+suburb+that+has+inspired+a+ground-breaking+soap+opera.14+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cn8r0513n5vo' target='_blank' rel='noopener noreferrer'>Behind the Gates: Inside the wealthy black community that inspired a soap opera"You've got to have money - lots of it," says one resident of the suburb that has inspired a ground-breaking soap opera.14 hrs agoUS & Canada</a>
 
-[How Zelensky's clothing choice may have fuelled Oval Office spatThe Ukrainian president's casual dress has long been an issue on the US right, and came up before the Oval Office feud3 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r9yvqzpo)
+60 - <a href='https://www.google.com/search?q=Provocative+Trump+statements+about+Canada+loom+large+as+Trudeau+meets+KingThe+outgoing+PM+said+he+would+stand+up+for+Canadian+sovereignty+during+his+audience+with+Charles.11+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cddy2q2z8dzo' target='_blank' rel='noopener noreferrer'>Provocative Trump statements about Canada loom large as Trudeau meets KingThe outgoing PM said he would stand up for Canadian sovereignty during his audience with Charles.11 hrs agoUS & Canada</a>
 
-[Most Republicans laud Trump after Zelensky showdown, but some express dismayThe majority of Republicans say Zelensky was at fault for the spat, but one accused the president of "embracing Putin".4 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/cnvz566n523o)
+61 - <a href='https://www.google.com/search?q=USAID+cuts+shutter+India%27s+first+clinic+for+transgender+peopleThe+Mitr+Clinic+in+Hyderabad+offered+medical+care+to+thousands+of+transgender+people+in+India.13+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c62zvlgqzdpo' target='_blank' rel='noopener noreferrer'>USAID cuts shutter India's first clinic for transgender peopleThe Mitr Clinic in Hyderabad offered medical care to thousands of transgender people in India.13 hrs agoAsia</a>
 
-[Watch: Angry exchanges between Trump and Zelensky at White HouseThe US president accused the Ukrainian leader of being disrespectful in a tense meeting in the Oval Office.1 day agoWorld](https://12ft.io/https://news.un.org/en/news/news/videos/cdel2npwe50o)
+62 - <a href='https://www.google.com/search?q=Should+Canada+become+the+51st+US+state%3F+Trump+fans+are+unsureThe+BBC+asked+Maga+supporters+if+they+understood+why+Canadians+might+be+annoyed+by+Trump%E2%80%99s+51st+state+jibes.21+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cvg58d7938yo' target='_blank' rel='noopener noreferrer'>Should Canada become the 51st US state? Trump fans are unsureThe BBC asked Maga supporters if they understood why Canadians might be annoyed by Trump’s 51st state jibes.21 hrs agoUS & Canada</a>
 
-[R&B hitmaker Angie Stone dead in car crashThe Wish I Didn't Miss You singer was involved in a collision in Alabama following a performance.5 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r2nk4yyo)
+63 - <a href='https://www.google.com/search?q=Watch%3A+Flames+shoot+from+plane+engine+after+bird+strikeVideo+captured+from+the+ground+shows+a+FedEx+cargo+jet+returning+to+Newark+Airport+in+New+Jersey+to+make+an+emergency+landing.6+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cjrynxdx7xqo' target='_blank' rel='noopener noreferrer'>Watch: Flames shoot from plane engine after bird strikeVideo captured from the ground shows a FedEx cargo jet returning to Newark Airport in New Jersey to make an emergency landing.6 hrs agoUS & Canada</a>
 
-[Gene Hackman loved acting but 'hated everything that went with it'Those who knew him discuss his brilliance, as well as his disdain for the trappings of Hollywood.2 hrs agoCulture](https://12ft.io/https://news.un.org/en/news/news/articles/cvgwwyrnpzdo)
+64 - <a href='https://www.google.com/search?q=From+wedding+videos+to+four+Oscars%3A+Anora+director+speaks+to+the+BBCBaker+is+the+first+person+to+win+four+Oscars+for+one+film%2C+including+Best+Director.14+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cg4kvg02w7ko' target='_blank' rel='noopener noreferrer'>From wedding videos to four Oscars: Anora director speaks to the BBCBaker is the first person to win four Oscars for one film, including Best Director.14 hrs agoCulture</a>
 
-[Most Republicans laud Trump after Zelensky showdown, but some express dismayThe majority of Republicans say Zelensky was at fault for the spat, but one accused the president of "embracing Putin".4 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/cnvz566n523o)
+65 - <a href='https://www.google.com/search?q=Watch%3A+Stars+celebrate+at+glitzy+Oscars+after+partyAward+winners+and+nominees+headed+for+a+night+of+partying+across+Los+Angeles+after+the+Oscars+ceremony+concluded.11+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/c0mwrjegvk0o' target='_blank' rel='noopener noreferrer'>Watch: Stars celebrate at glitzy Oscars after partyAward winners and nominees headed for a night of partying across Los Angeles after the Oscars ceremony concluded.11 hrs ago</a>
 
-[In the US, DEI is under attack. But under a different name, it might live onDonald Trump has promised to "terminate" diversity programmes. But a rebrand might yet save them.1 hr agoBBC InDepth](https://12ft.io/https://news.un.org/en/news/news/articles/c24110m30ddo)
+66 - <a href='https://www.google.com/search?q=Firefighters+tackle+dozens+of+wildfires+in+CarolinasOne+blaze+led+to+evacuations+in+South+Carolina+near+the+coastal+city+of+Myrtle+Beach.1+day+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/c33715jp6n4o' target='_blank' rel='noopener noreferrer'>Firefighters tackle dozens of wildfires in CarolinasOne blaze led to evacuations in South Carolina near the coastal city of Myrtle Beach.1 day agoUS & Canada</a>
 
-[Former Governor Andrew Cuomo announces run for New York City mayorIt marks a potential political comeback after Cuomo resigned amid a barrage of sexual assault claims.7 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c0egl7l40z7o)
+67 - <a href='https://www.google.com/search?q=Watch%3A+Protesters+target+JD+Vance+in+VermontThe+vice-president+and+his+family+reportedly+moved+to+an+undisclosed+location+from+their+planned+ski+resort+as+a+result.2+days+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/c2ljkny0j00o' target='_blank' rel='noopener noreferrer'>Watch: Protesters target JD Vance in VermontThe vice-president and his family reportedly moved to an undisclosed location from their planned ski resort as a result.2 days agoUS & Canada</a>
 
-[Watch: Angry exchanges between Trump and Zelensky at White HouseThe US president accused the Ukrainian leader of being disrespectful in a tense meeting in the Oval Office.1 day agoWorld](https://12ft.io/https://news.un.org/en/news/news/videos/cdel2npwe50o)
+68 - <a href='https://www.google.com/search?q=Stars+turn+on+the+style+on+Oscars+red+carpet+-+in+picturesSee+all+the+looks+as+celebrities+arrive+for+Hollywood+biggest+night.1+day+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cdrx55zkv6xo' target='_blank' rel='noopener noreferrer'>Stars turn on the style on Oscars red carpet - in picturesSee all the looks as celebrities arrive for Hollywood biggest night.1 day agoCulture</a>
 
-[Cuts to national parks and forests met with backlashEmployees who maintained America's most wild places say they are concerned for public safety and for wildlife.21 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/czx7kez4vx2o)
+69 - <a href='https://www.google.com/search?q=The+full+list+of+Oscar+winnersAnora+scooped+the+most+honours%2C+while+Conclave%2C+The+Brutalist%2C+Wicked+and+Emilia+P%C3%A9rez+also+took+prizes.20+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c1mngz9zreno' target='_blank' rel='noopener noreferrer'>The full list of Oscar winnersAnora scooped the most honours, while Conclave, The Brutalist, Wicked and Emilia Pérez also took prizes.20 hrs agoCulture</a>
 
-[Pilates, painting and bike rides: Gene Hackman's life in Santa FeAfter leaving Hollywood, Gene Hackman retired in Santa Fe, New Mexico, where he became a fixture in the community.15 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c36w7e4kglzo)
+70 - <a href='https://www.google.com/search?q=Morgan+Freeman+leads+Oscars+tribute+to+%27dear+friend%27+Gene+HackmanFreeman+said+Hollywood+had+lost+%22a+giant%22%2C+days+after+Hackman+and+his+wife+were+found+dead+at+their+home.20+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cgj5819dnpqo' target='_blank' rel='noopener noreferrer'>Morgan Freeman leads Oscars tribute to 'dear friend' Gene HackmanFreeman said Hollywood had lost "a giant", days after Hackman and his wife were found dead at their home.20 hrs agoUS & Canada</a>
 
-[Trump to order English as official US languageThe United States has never had an official language since it was founded nearly 250 years ago.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/cn9v1l80350o)
+71 - <a href='https://www.google.com/search?q=Gene+Hackman+loved+acting+but+%27hated+everything+that+went+with+it%27Those+who+knew+him+discuss+his+brilliance%2C+as+well+as+his+disdain+for+the+trappings+of+Hollywood.2+days+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cvgwwyrnpzdo' target='_blank' rel='noopener noreferrer'>Gene Hackman loved acting but 'hated everything that went with it'Those who knew him discuss his brilliance, as well as his disdain for the trappings of Hollywood.2 days agoCulture</a>
 
-[Illinois man convicted for hate crime murder of Palestinian boyProsecutors said the man targeted the six-year-old and his mother over their Muslim faith following the Israel-Hamas war.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/cyveq30lmdlo)
+72 - <a href='https://www.google.com/search?q=In+the+US%2C+DEI+is+under+attack.+But+under+a+different+name%2C+it+might+live+onDonald+Trump+has+promised+to+%22terminate%22+diversity+programmes.+But+a+rebrand+might+yet+save+them.2+days+agoBBC+InDepth' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c24110m30ddo' target='_blank' rel='noopener noreferrer'>In the US, DEI is under attack. But under a different name, it might live onDonald Trump has promised to "terminate" diversity programmes. But a rebrand might yet save them.2 days agoBBC InDepth</a>
 
-[US judge says mass firings of some federal workers likely illegalThousands of workers have been fired by the Trump administration as part of its effort to slash the federal workforce.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/clydd7zeye7o)
+73 - <a href='https://www.google.com/search?q=2+hrs+agoRising+egg+prices+in+the+US+spark+chicken+rental+trendThe+service+provides+hens%2C+feed%2C+and+support+for+six+months%2C+allowing+customers+to+collect+fresh+eggs+at+home.2+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cyvemrjzq55o' target='_blank' rel='noopener noreferrer'>2 hrs agoRising egg prices in the US spark chicken rental trendThe service provides hens, feed, and support for six months, allowing customers to collect fresh eggs at home.2 hrs agoUS & Canada</a>
 
-[Moment Zelensky walks out of White House as press conference is cancelledThe president ignored the questions that were shouted as he was leaving the White House.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/videos/crewqz93yzqo)
+74 - <a href='https://www.google.com/search?q=5+hrs+agoEarthquake+hits+Hollywood+as+stars+gather+for+Oscars+afterpartyThe+relatively+minor+quake+struck+at+around+22%3A00+local+time+as+stars+gathered+at+the+Vanity+Fair+afterparty.5+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cd0nlk3vg1lo' target='_blank' rel='noopener noreferrer'>5 hrs agoEarthquake hits Hollywood as stars gather for Oscars afterpartyThe relatively minor quake struck at around 22:00 local time as stars gathered at the Vanity Fair afterparty.5 hrs agoUS & Canada</a>
 
-[Watch: Decoding the PM's meeting with Donald TrumpThe handshake, the jokes and diplomacy by flattery - analysing Starmer's first visit to the White House.2 days agoPolitics](https://12ft.io/https://news.un.org/en/news/news/videos/c0rzzjq4vpvo)
+75 - <a href='https://www.google.com/search?q=Trump+condemns+Zelensky+remarks+that+war%27s+end+is+%27far+away%27Trump+has+also+criticised+a+UK-led+European+summit+which+pledged+to+boost+Ukrainian+defences.3+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cy0dkzrer18o' target='_blank' rel='noopener noreferrer'>Trump condemns Zelensky remarks that war's end is 'far away'Trump has also criticised a UK-led European summit which pledged to boost Ukrainian defences.3 hrs agoEurope</a>
 
-[BBC Verify: Viral Donald Trump Jr audio highly likely AI fakeA clip of Donald Trump Jr allegedly saying on his podcast that the US should have sent arms to Russia rather than Ukraine was very likely generated with AI, experts say.2 days agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/videos/c36wwzpj1w7o)
+76 - <a href='https://www.google.com/search?q=Macron+floats+one-month+Ukraine+truce%3A+Would+it+work%3FBBC+diplomatic+correspondent+James+Landale+considers+the+idea+suggested+by+the+French+president.3+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/ckg1r4g08kwo' target='_blank' rel='noopener noreferrer'>Macron floats one-month Ukraine truce: Would it work?BBC diplomatic correspondent James Landale considers the idea suggested by the French president.3 hrs agoEurope</a>
 
-[Watch: Trump welcomes Starmer to the White HouseThe highly anticipated meeting between the two leaders began with a question and answer with the press.2 days agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/videos/c0mwwpwrw14o)
+77 - <a href='https://www.google.com/search?q=Pope+Francis+%27alert%27+after+respiratory+failureThe+Pope+resumes+mechanical+ventilation+after+suffering+two+%22acute+respiratory+failures%22+on+Monday.2+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/crmjk9mjnwmo' target='_blank' rel='noopener noreferrer'>Pope Francis 'alert' after respiratory failureThe Pope resumes mechanical ventilation after suffering two "acute respiratory failures" on Monday.2 hrs agoEurope</a>
 
-['Did I say that?' - Trump asked about calling Zelensky a 'dictator'2 days ago](https://12ft.io/https://news.un.org/en/news/news/videos/c4geek2z41no)
+78 - <a href='https://www.google.com/search?q=Rising+egg+prices+in+the+US+spark+chicken+rental+trendThe+service+provides+hens%2C+feed%2C+and+support+for+six+months%2C+allowing+customers+to+collect+fresh+eggs+at+home.2+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cyvemrjzq55o' target='_blank' rel='noopener noreferrer'>Rising egg prices in the US spark chicken rental trendThe service provides hens, feed, and support for six months, allowing customers to collect fresh eggs at home.2 hrs agoUS & Canada</a>
 
-[Vance took the lead attacking Zelensky. Why?Is the US vice-president doing Trump's bidding or looking to the future?8 hrs ago](https://12ft.io/https://news.un.org/en/news/news/articles/cewkg71d8rlo)
+79 - <a href='https://www.google.com/search?q=Gaza+ceasefire+in+peril+as+Israel+and+Hamas+hit+impasseConcern+grows+after+Israel+said+it+would+block+aid+to+Gaza+unless+Hamas+accepted+a+new+US+proposal.8+hrs+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/ckgz7p85mdgo' target='_blank' rel='noopener noreferrer'>Gaza ceasefire in peril as Israel and Hamas hit impasseConcern grows after Israel said it would block aid to Gaza unless Hamas accepted a new US proposal.8 hrs agoWorld</a>
 
-[What it was like in the room during Oval Office shouting matchBBC reporters witnessed the extraordinary exchange between Donald Trump and  Volodymyr Zelensky firsthand.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c2019j0w9glo)
+80 - <a href='https://www.google.com/search?q=Markets+sink+as+Trump+confirms+tariffs+on+Canada%2C+Mexico+and+ChinaThe+US+president+has+repeatedly+threatened+to+tax+imports+from+two+of+the+country%27s+closest+neighbours.14+mins+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cn48q3150dxo' target='_blank' rel='noopener noreferrer'>Markets sink as Trump confirms tariffs on Canada, Mexico and ChinaThe US president has repeatedly threatened to tax imports from two of the country's closest neighbours.14 mins agoWorld</a>
 
-[Key takeaways from Starmer's talks with TrumpA surprise letter from King Charles III to a possible trade deal - the key moments from Starmer's visit to the White House.2 days agoPolitics](https://12ft.io/https://news.un.org/en/news/news/articles/cvgee7rl24ro)
+81 - <a href='https://www.google.com/search?q=Mother+on+trial+over+abduction+of+six-year-old+daughter+in+South+AfricaJoshlin+Smith+has+been+missing+for+over+a+year+after+she+disappeared+outside+her+home+in+Saldanha+Bay14+hrs+agoAfrica' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cm2dy4446d7o' target='_blank' rel='noopener noreferrer'>Mother on trial over abduction of six-year-old daughter in South AfricaJoshlin Smith has been missing for over a year after she disappeared outside her home in Saldanha Bay14 hrs agoAfrica</a>
 
-[Analysis: Any UK deal with Trump is all about avoiding tariffsA deal to avoid further trade barriers appears very much on the cards, but challenges remain.2 days agoBusiness](https://12ft.io/https://news.un.org/en/news/news/articles/cedll3282qzo)
+82 - <a href='https://www.google.com/search?q=Thousands+evacuated+as+Japan%27s+biggest+fire+in+decades+continues+to+burnAt+least+one+person+has+died+and+more+than+80+buildings+have+been+damaged+in+the+blaze.12+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c89ypkq72d0o' target='_blank' rel='noopener noreferrer'>Thousands evacuated as Japan's biggest fire in decades continues to burnAt least one person has died and more than 80 buildings have been damaged in the blaze.12 hrs agoAsia</a>
 
-[2 hrs ago'They don't belong in the Med': Future of homeless orcas still uncertainAnimal rights campaigners and marine zoo official say Mediterranean is 'too warm' for killer whales.2 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/ceqjrnjvrv4o)
+83 - <a href='https://www.google.com/search?q=Nigerian+Muslims+arrested+for+eating+in+public+during+RamadanA+total+of+25+people+are+arrested+for+either+not+fasting+or+selling+food+during+the+fasting+month.11+hrs+agoAfrica' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/c7890jkn3g2o' target='_blank' rel='noopener noreferrer'>Nigerian Muslims arrested for eating in public during RamadanA total of 25 people are arrested for either not fasting or selling food during the fasting month.11 hrs agoAfrica</a>
 
-[5 hrs agoR&B hitmaker Angie Stone dead in car crashThe Wish I Didn't Miss You singer was involved in a collision in Alabama following a performance.5 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r2nk4yyo)
+84 - <a href='https://www.google.com/search?q=Blatter+and+Platini+back+in+court+in+Swiss+Fifa+fraud+caseEx-Fifa+head+Sepp+Blatter+and+French+football+great+Michel+Platini+were+cleared+in+2022%2C+but+prosecutors+appealed.10+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/ce349pj3e5do' target='_blank' rel='noopener noreferrer'>Blatter and Platini back in court in Swiss Fifa fraud caseEx-Fifa head Sepp Blatter and French football great Michel Platini were cleared in 2022, but prosecutors appealed.10 hrs agoEurope</a>
 
-[7 hrs agoFormer Governor Andrew Cuomo announces run for New York City mayorIt marks a potential political comeback after Cuomo resigned amid a barrage of sexual assault claims.7 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c0egl7l40z7o)
+85 - <a href='https://www.google.com/search?q=What+hurdles+does+Europe%27s+peace+plan+for+Ukraine+face%3FWhatever+words+are+used+to+frame+the+plan%2C+enormous+challenges+lie+ahead%2C+the+BBC%27s+Frank+Gardner+writes.6+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cwygwrzjxqzo' target='_blank' rel='noopener noreferrer'>What hurdles does Europe's peace plan for Ukraine face?Whatever words are used to frame the plan, enormous challenges lie ahead, the BBC's Frank Gardner writes.6 hrs agoEurope</a>
 
-[15 hrs agoPilates, painting and bike rides: Gene Hackman's life in Santa FeAfter leaving Hollywood, Gene Hackman retired in Santa Fe, New Mexico, where he became a fixture in the community.15 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c36w7e4kglzo)
+86 - <a href='https://www.google.com/search?q=Afghans+hiding+in+Pakistan+live+in+fear+of+forced+deportationPakistani+officials+have+set+a+deadline+to+expel+foreign+nationals+living+illegally+in+the+country.23+hrs+agoAsia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cgl00ler0rno' target='_blank' rel='noopener noreferrer'>Afghans hiding in Pakistan live in fear of forced deportationPakistani officials have set a deadline to expel foreign nationals living illegally in the country.23 hrs agoAsia</a>
 
-[18 hrs agoRFK's measles response under scrutiny as deadly outbreak frightens Texas parentsLocal health experts wish US Health Secretary Robert Kennedy would emphasize the importance of vaccines.18 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/cvgeq3y1825o)
+87 - <a href='https://www.google.com/search?q=Planes+are+having+their+GPS+hacked.+Could+new+clocks+keep+them+safe%3FHow+a+new+atomic+clock+might+be+the+way+to+tackle+attacks+on+plane+GPS+systems23+hrs+agoBBC+InDepth' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cq6yg204pvmo' target='_blank' rel='noopener noreferrer'>Planes are having their GPS hacked. Could new clocks keep them safe?How a new atomic clock might be the way to tackle attacks on plane GPS systems23 hrs agoBBC InDepth</a>
 
-[21 hrs agoCuts to national parks and forests met with backlashEmployees who maintained America's most wild places say they are concerned for public safety and for wildlife.21 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/czx7kez4vx2o)
+88 - <a href='https://www.google.com/search?q=A+payback+kiss%2C+a+surprise+win%2C+and+defying+gravity+at+the+OscarsIt%27s+the+biggest+night+in+Hollywood+-+here+are+some+of+the+top+moments+from+Sunday+night%27s+show.18+hrs+agoCulture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cwye725dj2xo' target='_blank' rel='noopener noreferrer'>A payback kiss, a surprise win, and defying gravity at the OscarsIt's the biggest night in Hollywood - here are some of the top moments from Sunday night's show.18 hrs agoCulture</a>
 
-[1 day agoTrump accuses Zelensky of 'gambling with World War Three'The US president clashes with Ukraine's leader in a fiery Oval Office exchange over ending the war with Russia.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c9dejydynngo)
+89 - <a href='https://www.google.com/search?q=Switzerland+targets+rich+tourists+but+at+what+cost%3FSwitzerland%27s+already+upmarket+tourism+sector+is+trying+to+attract+more+high+rollers.24+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cq8yy09we1eo' target='_blank' rel='noopener noreferrer'>Switzerland targets rich tourists but at what cost?Switzerland's already upmarket tourism sector is trying to attract more high rollers.24 hrs agoEurope</a>
 
-[1 day ago'Unpleasant to see' - Ukrainians react to Trump and Zelensky's spatThe meeting, which was meant to end with a minerals deal signing, instead descended into an argument over the Ukraine war.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/videos/cqly6ydypzro)
+90 - <a href='https://www.google.com/search?q=Watch%3A+Standout+moments+from+the+Oscars+2025Anora+sweeps+the+Oscars+with+five+awards+including+best+picture+and+best+actress+for+star+Mikey+Madison.19+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cp8ydeglqveo' target='_blank' rel='noopener noreferrer'>Watch: Standout moments from the Oscars 2025Anora sweeps the Oscars with five awards including best picture and best actress for star Mikey Madison.19 hrs ago</a>
 
-[1 day agoHackman and wife likely died 10 days before bodies found, sheriff saysUS investigators are still trying to establish how Oscar-winning actor Gene Hackman and his wife Betsy died.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/cqlyy1rld0ko)
+91 - <a href='https://www.google.com/search?q=Watch%3A+Zelensky+quizzed+about+minerals+deal+and+peace+planThe+Ukrainian+president+speaks+about+the+mineral+deal%2C+his+recent+meeting+at+the+White+House%2C+and+the+possibility+of+a+truce.16+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cvgw91rvn8xo' target='_blank' rel='noopener noreferrer'>Watch: Zelensky quizzed about minerals deal and peace planThe Ukrainian president speaks about the mineral deal, his recent meeting at the White House, and the possibility of a truce.16 hrs ago</a>
 
-[Zelensky wants US to 'stand more firmly' on Ukraine's sideUS support is crucial, Zelensky says hours after the bust-up with Trump at the White House.5 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/cvgeqr0vg0no)
+92 - <a href='https://www.google.com/search?q=Watch%3A+Stars+celebrate+at+glitzy+Oscars+after+partyAward+winners+and+nominees+headed+for+a+night+of+partying+across+Los+Angeles+after+the+Oscars+ceremony+concluded.11+hrs+ago' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/c0mwrjegvk0o' target='_blank' rel='noopener noreferrer'>Watch: Stars celebrate at glitzy Oscars after partyAward winners and nominees headed for a night of partying across Los Angeles after the Oscars ceremony concluded.11 hrs ago</a>
 
-[How Zelensky's clothing choice may have fuelled Oval Office spatThe Ukrainian president's casual dress has long been an issue on the US right, and came up before the Oval Office feud3 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r9yvqzpo)
+93 - <a href='https://www.google.com/search?q=Watch%3A+Protesters+target+JD+Vance+in+VermontThe+vice-president+and+his+family+reportedly+moved+to+an+undisclosed+location+from+their+planned+ski+resort+as+a+result.2+days+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/c2ljkny0j00o' target='_blank' rel='noopener noreferrer'>Watch: Protesters target JD Vance in VermontThe vice-president and his family reportedly moved to an undisclosed location from their planned ski resort as a result.2 days agoUS & Canada</a>
 
-[Kurdish group PKK declares ceasefire with TurkeyThe PKK calls for the release of its jailed leader Abdullah Ocalan to lead a process of disarmament.2 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/cgkmg3kmmero)
+94 - <a href='https://www.google.com/search?q=Watch%3A+Angry+exchanges+between+Trump+and+Zelensky+at+White+HouseThe+US+president+accused+the+Ukrainian+leader+of+being+disrespectful+in+a+tense+meeting+in+the+Oval+Office.3+days+agoWorld' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/videos/cdel2npwe50o' target='_blank' rel='noopener noreferrer'>Watch: Angry exchanges between Trump and Zelensky at White HouseThe US president accused the Ukrainian leader of being disrespectful in a tense meeting in the Oval Office.3 days agoWorld</a>
 
-[How to watch the Oscars and who is nominatedWho will win, what can we expect and what has caused the most controversy this awards season?2 hrs agoCulture](https://12ft.io/https://news.un.org/en/news/news/articles/c93kq2kldrqo)
+95 - <a href='https://www.google.com/search?q=19+mins+agoGhanaian+MPs+reintroduce+controversial+anti-LGBT+billThe+bill+prescribes+a+three-year+jail+term+for+people+who+identify+as+gay+and+five+to+10+years+for+promoters+and+advocates.19+mins+agoAfrica' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cdjy91gr48lo' target='_blank' rel='noopener noreferrer'>19 mins agoGhanaian MPs reintroduce controversial anti-LGBT billThe bill prescribes a three-year jail term for people who identify as gay and five to 10 years for promoters and advocates.19 mins agoAfrica</a>
 
-[Hackman and wife likely died 10 days before bodies found, sheriff saysUS investigators are still trying to establish how Oscar-winning actor Gene Hackman and his wife Betsy died.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/cqlyy1rld0ko)
+96 - <a href='https://www.google.com/search?q=2+hrs+agoTwo+dead+after+car+drives+into+crowd+in+GermanySeveral+more+people+have+been+injured%2C+police+say%2C+and+one+suspect%2C+a+German+man%2C+has+been+arrested.2+hrs+agoEurope' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cvge70y4q91o' target='_blank' rel='noopener noreferrer'>2 hrs agoTwo dead after car drives into crowd in GermanySeveral more people have been injured, police say, and one suspect, a German man, has been arrested.2 hrs agoEurope</a>
 
-[How Zelensky's clothing choice may have fuelled Oval Office spatThe Ukrainian president's casual dress has long been an issue on the US right, and came up before the Oval Office feud3 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r9yvqzpo)
+97 - <a href='https://www.google.com/search?q=3+hrs+agoIsraeli+police+say+one+killed+in+Haifa+bus+station+knife+attackSeveral+others+were+hurt+in+the+rare+attack+by+a+member+of+Israel%27s+Druze+community.3+hrs+agoMiddle+East' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cgm1jl2g4lwo' target='_blank' rel='noopener noreferrer'>3 hrs agoIsraeli police say one killed in Haifa bus station knife attackSeveral others were hurt in the rare attack by a member of Israel's Druze community.3 hrs agoMiddle East</a>
 
-[Israel approves extension of Gaza ceasefireIsrael proposes a six-week truce covering Muslim Ramadan and Jewish Passover - but Hamas has not yet commented.42 mins agoMiddle East](https://12ft.io/https://news.un.org/en/news/news/articles/c9q4w99je78o)
+98 - <a href='https://www.google.com/search?q=4+hrs+ago%27It+never+should+have+happened%27%3A+Americans+frustrated+by+Trump-Zelensky+spatAmerican+voters+expressed+frustration+at+one+or+both+leaders+for+their+roles+in+the+dispute+that+shocked+the+world.4+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cvg17jmm5vxo' target='_blank' rel='noopener noreferrer'>4 hrs ago'It never should have happened': Americans frustrated by Trump-Zelensky spatAmerican voters expressed frustration at one or both leaders for their roles in the dispute that shocked the world.4 hrs agoUS & Canada</a>
 
-[R&B hitmaker Angie Stone dead in car crashThe Wish I Didn't Miss You singer was involved in a collision in Alabama following a performance.5 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r2nk4yyo)
+99 - <a href='https://www.google.com/search?q=5+hrs+agoEarthquake+hits+Hollywood+as+stars+gather+for+Oscars+afterpartyThe+relatively+minor+quake+struck+at+around+22%3A00+local+time+as+stars+gathered+at+the+Vanity+Fair+afterparty.5+hrs+agoUS+%26+Canada' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/articles/cd0nlk3vg1lo' target='_blank' rel='noopener noreferrer'>5 hrs agoEarthquake hits Hollywood as stars gather for Oscars afterpartyThe relatively minor quake struck at around 22:00 local time as stars gathered at the Vanity Fair afterparty.5 hrs agoUS & Canada</a>
 
-[Kurdish group PKK declares ceasefire with TurkeyThe PKK calls for the release of its jailed leader Abdullah Ocalan to lead a process of disarmament.2 hrs agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/cgkmg3kmmero)
+100 - <a href='https://www.google.com/search?q=Cobra+Gold+2024%3A+Multinational+forces+unite+in+military+drills' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/cobra-gold-2024-multinational-forces-unite-in-military-drills/' target='_blank' rel='noopener noreferrer'>Cobra Gold 2024: Multinational forces unite in military drills</a>
 
-[Vance took the lead attacking Zelensky. Why?Is the US vice-president doing Trump's bidding or looking to the future?8 hrs ago](https://12ft.io/https://news.un.org/en/news/news/articles/cewkg71d8rlo)
+101 - <a href='https://www.google.com/search?q=Gabon%27s+military+leader+announces+he+will+run+for+president' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/gabons-military-leader-announces-he-will-run-for-president/' target='_blank' rel='noopener noreferrer'>Gabon's military leader announces he will run for president</a>
 
-[Jeremy Bowen: Trump-Zelensky row signals looming crisis between Europe and USDoubts are growing about the US commitment to European security outside Ukraine.1 day agoWorld](https://12ft.io/https://news.un.org/en/news/news/articles/c2d4e395jxeo)
+102 - <a href='https://www.google.com/search?q=Middle+East%3A+Gaza+residents+try+to+mark+Ramadan+amid+shortages' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/middle-east-gaza-residents-try-to-mark-ramadan-amid-shortages/' target='_blank' rel='noopener noreferrer'>Middle East: Gaza residents try to mark Ramadan amid shortages</a>
 
-[Steve Rosenberg: Vladimir Putin can afford to sit back and watch events unfoldA breakdown in relations between Ukraine and the US is potentially very serious for Kyiv, but very positive for Moscow.16 hrs agoEurope](https://12ft.io/https://news.un.org/en/news/news/articles/czjenv29jgdo)
+103 - <a href='https://www.google.com/search?q=Libya+to+hold+first+oil+exploration+bidding+round+in+17+years' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/libya-to-hold-first-oil-exploration-bidding-round-in-17-years/' target='_blank' rel='noopener noreferrer'>Libya to hold first oil exploration bidding round in 17 years</a>
 
-[Bus crash kills at least 37 in BoliviaAbout 30 people were also injured after two buses collided early on Saturday, police say.10 hrs agoLatin America](https://12ft.io/https://news.un.org/en/news/news/articles/c4g02qx349do)
+104 - <a href='https://www.google.com/search?q=Rare+painting+by+British+street+artist+Banksy+goes+on+auction+in+London' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/rare-painting-by-british-street-artist-banksy-goes-on-auction-in-london/' target='_blank' rel='noopener noreferrer'>Rare painting by British street artist Banksy goes on auction in London</a>
 
-[Four dead and several missing after India avalancheA rescue operation is under way after the avalanche swept away road construction workers in the village of Mana.13 hrs agoAsia](https://12ft.io/https://news.un.org/en/news/news/articles/c1mne8lj4kxo)
+105 - <a href='https://www.google.com/search?q=South+Africa%3A+United+Nations%27+WFP+closes+office+in+Southern+Africa+due+to+funding' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/south-africa-united-nations-wfp-closes-office-in-southern-africa-due-to-funding/' target='_blank' rel='noopener noreferrer'>South Africa: United Nations' WFP closes office in Southern Africa due to funding</a>
 
-[They lost their families in a plane crash - then came the online hateFamilies of those killed in the Jeju Air crash have been smeared as "fake victims" and "scammers".3 hrs agoAsia](https://12ft.io/https://news.un.org/en/news/news/articles/cx28n141209o)
+106 - <a href='https://www.google.com/search?q=Breaking+stigma%2C+building+hope%3A+Gloria+Nawanyaga%E2%80%99s+fight+for+inclusion+and+empowerment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/breaking-stigma-building-hope-gloria-nawanyagas-fight-for-inclusion-and-empowerment/' target='_blank' rel='noopener noreferrer'>Breaking stigma, building hope: Gloria Nawanyaga’s fight for inclusion and empowerment</a>
 
-[His name was in a child abuse diary - now his family listen to 'vile' testimonyFormer surgeon Joël Le Scouarnec is accused of abusing hundreds of patients, most of them children, including Mauricette Vinet's grandson2 hrs agoEurope](https://12ft.io/https://news.un.org/en/news/news/articles/ce34v17dw53o)
+107 - <a href='https://www.google.com/search?q=Blatter+and+Platini+back+in+Swiss+court+in+new+trial+over+FIFA+fraud+case' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/blatter-and-platini-back-in-swiss-court-in-new-trial-over-fifa-fraud-case/' target='_blank' rel='noopener noreferrer'>Blatter and Platini back in Swiss court in new trial over FIFA fraud case</a>
 
-['They don't belong in the Med': Future of homeless orcas still uncertainAnimal rights campaigners and marine zoo official say Mediterranean is 'too warm' for killer whales.2 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/ceqjrnjvrv4o)
+108 - <a href='https://www.google.com/search?q=Russia+%3A+after+Trump+dispute%2C+Kremlin+claims+Zelensky+is+against+peace+efforts' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/russia-after-trump-dispute-kremlin-claims-zelensky-is-against-peace-efforts/' target='_blank' rel='noopener noreferrer'>Russia : after Trump dispute, Kremlin claims Zelensky is against peace efforts</a>
 
-[In the US, DEI is under attack. But under a different name, it might live onDonald Trump has promised to "terminate" diversity programmes. But a rebrand might yet save them.1 hr agoBBC InDepth](https://12ft.io/https://news.un.org/en/news/news/articles/c24110m30ddo)
+109 - <a href='https://www.google.com/search?q=Pics+of+the+day%3A+March+03%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/pics-of-the-day-march-03-2025/' target='_blank' rel='noopener noreferrer'>Pics of the day: March 03, 2025</a>
 
-['Trump and Vance were so rude': Ukrainians react to disastrous White House meetingThe more the country is attacked, the more unity there is, people in Kyiv tell the BBC.15 hrs agoEurope](https://12ft.io/https://news.un.org/en/news/news/articles/cgr2g4n4wvdo)
+110 - <a href='https://www.google.com/search?q=Kenya%3A+Runners+head+to+town+of+Iten+to+up+their+game' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/kenya-runners-head-to-town-of-iten-to-up-their-game/' target='_blank' rel='noopener noreferrer'>Kenya: Runners head to town of Iten to up their game</a>
 
-[Watch: Rare planetary parade caught on camera by our expert stargazersThree astronomers tell the BBC what planets are on display in the sky above the UK this week.1 day agoScience & Environment](https://12ft.io/https://news.un.org/en/news/news/videos/ckgd2zk9k9go)
+111 - <a href='https://www.google.com/search?q=ECOWAS+team+leaves+Guinea-Bissau+after+threat+of+expulsion' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/ecowas-team-leaves-guinea-bissau-after-threat-of-expulsion/' target='_blank' rel='noopener noreferrer'>ECOWAS team leaves Guinea-Bissau after threat of expulsion</a>
 
-[Watch: Angry exchanges between Trump and Zelensky at White HouseThe US president accused the Ukrainian leader of being disrespectful in a tense meeting in the Oval Office.1 day agoWorld](https://12ft.io/https://news.un.org/en/news/news/videos/cdel2npwe50o)
+112 - <a href='https://www.google.com/search?q=Excelsa+coffee%3A+a+game-changer+for+South+Sudan%27s+agricultural+sector' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/excelsa-coffee-a-game-changer-for-south-sudans-agricultural-sector/' target='_blank' rel='noopener noreferrer'>Excelsa coffee: a game-changer for South Sudan's agricultural sector</a>
 
-[Watch: Firefighters seen tackling Czech train fire in drone videoFirefighters in the Czech Republic have been tackling a huge fire after a train derailed.1 day agoEurope](https://12ft.io/https://news.un.org/en/news/news/videos/c5y2pdz5wwyo)
+113 - <a href='https://www.google.com/search?q=Israeli+prime+minister+appears+in+court+as+his+corruption+trial+resumes' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/israeli-prime-minister-appears-in-court-as-his-corruption-trial-resumes/' target='_blank' rel='noopener noreferrer'>Israeli prime minister appears in court as his corruption trial resumes</a>
 
-[Watch: Demolition takes down record-breaking rollercoasterOnce the world's tallest rollercoaster at 456ft (139m), Kingda Ka was demolished at Six Flags in New Jersey.1 day agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/videos/c204400nq16o)
+114 - <a href='https://www.google.com/search?q=Egypt+condemns+Israel%E2%80%99s+aid+blockade+as+ceasefire+talks+stall' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/egypt-condemns-israels-aid-blockade-as-ceasefire-talks-stall/' target='_blank' rel='noopener noreferrer'>Egypt condemns Israel’s aid blockade as ceasefire talks stall</a>
 
-[42 mins agoIsrael approves extension of Gaza ceasefireIsrael proposes a six-week truce covering Muslim Ramadan and Jewish Passover - but Hamas has not yet commented.42 mins agoMiddle East](https://12ft.io/https://news.un.org/en/news/news/articles/c9q4w99je78o)
+115 - <a href='https://www.google.com/search?q=featured11%3A05Can+aid+be+reimagined+to+deliver+meaningful+value%3F+%7BBusiness+Africa%7D' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/27/can-aid-be-reimagined-to-deliver-meaningful-value-business-africa/' target='_blank' rel='noopener noreferrer'>featured11:05Can aid be reimagined to deliver meaningful value? {Business Africa}</a>
 
-[2 hrs ago'They don't belong in the Med': Future of homeless orcas still uncertainAnimal rights campaigners and marine zoo official say Mediterranean is 'too warm' for killer whales.2 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/ceqjrnjvrv4o)
+116 - <a href='https://www.google.com/search?q=featured11%3A02Senegal%E2%80%99s+Debt+and+Deficit%3A+A+Harsh+Economic+Reality+%5BBusiness+Africa%5D' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/20/senegals-debt-and-deficit-a-harsh-economic-reality-business-africa/' target='_blank' rel='noopener noreferrer'>featured11:02Senegal’s Debt and Deficit: A Harsh Economic Reality [Business Africa]</a>
 
-[2 hrs agoHis name was in a child abuse diary - now his family listen to 'vile' testimonyFormer surgeon Joël Le Scouarnec is accused of abusing hundreds of patients, most of them children, including Mauricette Vinet's grandson2 hrs agoEurope](https://12ft.io/https://news.un.org/en/news/news/articles/ce34v17dw53o)
+117 - <a href='https://www.google.com/search?q=featured11%3A04How+AI+is+breaking+language+barriers+in+Africa+%7BBusiness+Africa%7D' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/13/how-ai-is-breaking-language-barriers-in-africa-business-africa/' target='_blank' rel='noopener noreferrer'>featured11:04How AI is breaking language barriers in Africa {Business Africa}</a>
 
-[3 hrs agoThey lost their families in a plane crash - then came the online hateFamilies of those killed in the Jeju Air crash have been smeared as "fake victims" and "scammers".3 hrs agoAsia](https://12ft.io/https://news.un.org/en/news/news/articles/cx28n141209o)
+118 - <a href='https://www.google.com/search?q=featured11%3A03Five+years+later%2C+is+the+AfCFTA+already+failing%3F+%7BBusiness+Africa%7D' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/06/five-years-later-is-the-afcfta-already-failing-business-africa/' target='_blank' rel='noopener noreferrer'>featured11:03Five years later, is the AfCFTA already failing? {Business Africa}</a>
 
-[5 hrs agoR&B hitmaker Angie Stone dead in car crashThe Wish I Didn't Miss You singer was involved in a collision in Alabama following a performance.5 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c1d4r2nk4yyo)
+119 - <a href='https://www.google.com/search?q=SA%3A+Cardinal+Brislin+leads+prayer+for+Pope+Francis+in+Johannesburg' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/sa-cardinal-brislin-leads-prayer-for-pope-francis-in-johannesburg/' target='_blank' rel='noopener noreferrer'>SA: Cardinal Brislin leads prayer for Pope Francis in Johannesburg</a>
 
-[7 hrs agoFormer Governor Andrew Cuomo announces run for New York City mayorIt marks a potential political comeback after Cuomo resigned amid a barrage of sexual assault claims.7 hrs agoUS & Canada](https://12ft.io/https://news.un.org/en/news/news/articles/c0egl7l40z7o)
+120 - <a href='https://www.google.com/search?q=Kenyan+conservationists+push+for+wildlife+corridors+amid+shrinking+habitats' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/kenyan-conservationists-push-for-wildlife-corridors-amid-shrinking-habitats/' target='_blank' rel='noopener noreferrer'>Kenyan conservationists push for wildlife corridors amid shrinking habitats</a>
 
-[8 hrs agoGaza ceasefire deal hits critical moment as first phase endsTalks on phase two of the agreement to release all hostages and the withdrawal of Israeli troops have barely begun.8 hrs agoMiddle East](https://12ft.io/https://news.un.org/en/news/news/articles/c74kzjvypgeo)
+121 - <a href='https://www.google.com/search?q=FIFA+and+IFAB+introduce+key+changes+to+football%E2%80%99s+laws' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/03/fifa-and-ifab-introduce-key-changes-to-footballs-laws/' target='_blank' rel='noopener noreferrer'>FIFA and IFAB introduce key changes to football’s laws</a>
 
-[8 hrs agoPope is 'stable' after breathing crisis, Vatican saysThe Pope has been battling pneumonia for two weeks and suffered an "isolated" breathing crisis on Friday.8 hrs agoEurope](https://12ft.io/https://news.un.org/en/news/news/articles/cd655917g6qo)
+122 - <a href='https://www.google.com/search?q=New+study+explains+why+is+Mars+red' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/26/new-study-explains-why-is-mars-red/' target='_blank' rel='noopener noreferrer'>New study explains why is Mars red</a>
 
-[8 hrs agoTwo dead after vehicle crashes into house in DonegalThe crash happened in the townland of Baltoney, Gortahork, on Friday night at about 21:30 local time.8 hrs agoEurope](https://12ft.io/https://news.un.org/en/news/news/articles/cy05yqz1kq2o)
+123 - <a href='https://www.google.com/search?q=Abigail+Kwartekaa+Quartey%3A+Breaking+Barriers+in+Ghanaian+Boxing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/24/abigail-kwartekaa-quartey-breaking-barriers-in-ghanaian-boxing/' target='_blank' rel='noopener noreferrer'>Abigail Kwartekaa Quartey: Breaking Barriers in Ghanaian Boxing</a>
 
-[European officials reaffirm support for Ukraine after Trump spat](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/02/europe-rallies-to-ukraines-side-as-more-officials-reaffirm-support-after-trump-spat)
+124 - <a href='https://www.google.com/search?q=Why+have+Rwanda-backed+rebels+seized+2+Congolese+cities+and+is+there+an+end+...' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/18/why-have-rwanda-backed-rebels-seized-2-congolese-cities-and-is-there-an-end-in-sight/' target='_blank' rel='noopener noreferrer'>Why have Rwanda-backed rebels seized 2 Congolese cities and is there an end ...</a>
 
-[Thrilling Judo in Tashkent and the Grand Opening of Diyora Keldiyorova Dojo](https://12ft.io/https://news.un.org/en/news/2025/03/01/thrilling-judo-in-tashkent-and-the-grand-opening-of-diyora-keldiyorova-dojo)
+125 - <a href='https://www.google.com/search?q=Pics+of+the+day%3A+February+20%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/21/pics-of-the-day-february-20-2025/' target='_blank' rel='noopener noreferrer'>Pics of the day: February 20, 2025</a>
 
-[Packed programme as Venice Carnival enters its last weekend](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/packed-programme-of-festivities-as-venice-carnival-enters-its-last-weekend)
+126 - <a href='https://www.google.com/search?q=Pics+of+the+day%3A+January+31%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/01/31/pics-of-the-day-january-31-2025/' target='_blank' rel='noopener noreferrer'>Pics of the day: January 31, 2025</a>
 
-[Ukrainians react to Zelenskyy-Trump row in the Oval Office](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/ukrainians-rally-around-zelenskyy-after-fiery-spat-with-trump-in-oval-office)
+127 - <a href='https://www.google.com/search?q=Botswana+secures+enhanced+10-year+diamond+deal+with+De+Beers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/26/botswana-secures-enhanced-10-year-diamond-deal-with-de-beers/' target='_blank' rel='noopener noreferrer'>Botswana secures enhanced 10-year diamond deal with De Beers</a>
 
-[No CommentNo agenda, no argument, no bias, No Comment. Get the story without commentary.](https://12ft.io/https://news.un.org/en/news/nocomment)
+128 - <a href='https://www.google.com/search?q=Nigeria%27s+GDP+growth+accelerates+to+3.84%25+in+fourth+quarter+of+2024' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/26/nigerias-gdp-growth-accelerates-to-384-in-fourth-quarter-of-2024/' target='_blank' rel='noopener noreferrer'>Nigeria's GDP growth accelerates to 3.84% in fourth quarter of 2024</a>
 
-[European officials reaffirm support for Ukraine after Trump spat](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/02/europe-rallies-to-ukraines-side-as-more-officials-reaffirm-support-after-trump-spat)
+129 - <a href='https://www.google.com/search?q=Go+to+videoClashes+at+mass+protest+in+Athens+on+deadly+train+crash+anniversary28%2F02+-+15%3A23' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/28/clashes-at-mass-protest-in-athens-on-deadly-train-crash-anniversary/' target='_blank' rel='noopener noreferrer'>Go to videoClashes at mass protest in Athens on deadly train crash anniversary28/02 - 15:23</a>
 
-[Thrilling Judo in Tashkent and the Grand Opening of Diyora Keldiyorova Dojo](https://12ft.io/https://news.un.org/en/news/2025/03/01/thrilling-judo-in-tashkent-and-the-grand-opening-of-diyora-keldiyorova-dojo)
+130 - <a href='https://www.google.com/search?q=Go+to+videoProtests+erupt+as+Iowa+bill+threatens+gender+identity+protections28%2F02+-+11%3A26' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/28/protests-erupt-as-iowa-bill-threatens-gender-identity-protections/' target='_blank' rel='noopener noreferrer'>Go to videoProtests erupt as Iowa bill threatens gender identity protections28/02 - 11:26</a>
 
-[Packed programme as Venice Carnival enters its last weekend](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/packed-programme-of-festivities-as-venice-carnival-enters-its-last-weekend)
+131 - <a href='https://www.google.com/search?q=Go+to+videoHorse+rescued+from+freezing+pond+in+New+York+by+police+and+neighbours27%2F02+-+11%3A40' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/27/horse-rescued-from-freezing-pond-in-new-york-by-police-and-neighbours/' target='_blank' rel='noopener noreferrer'>Go to videoHorse rescued from freezing pond in New York by police and neighbours27/02 - 11:40</a>
 
-[Ukrainians react to Zelenskyy-Trump row in the Oval Office](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/ukrainians-rally-around-zelenskyy-after-fiery-spat-with-trump-in-oval-office)
+132 - <a href='https://www.google.com/search?q=Go+to+videoColombian+man+arrested+for+hiding+cocaine+under+toupee+at+Cartagena+airport26%2F02+-+11%3A55' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/26/colombian-man-arrested-for-hiding-cocaine-under-toupee-at-cartagena-airport/' target='_blank' rel='noopener noreferrer'>Go to videoColombian man arrested for hiding cocaine under toupee at Cartagena airport26/02 - 11:55</a>
 
-[No CommentNo agenda, no argument, no bias, No Comment. Get the story without commentary.](https://12ft.io/https://news.un.org/en/news/nocomment)
+133 - <a href='https://www.google.com/search?q=Go+to+videoAid+enters+Gaza+through+Rafah+as+Palestinians+struggle+to+access+supplies25%2F02+-+13%3A43' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/25/aid-enters-gaza-through-rafah-as-palestinians-struggle-to-access-supplies/' target='_blank' rel='noopener noreferrer'>Go to videoAid enters Gaza through Rafah as Palestinians struggle to access supplies25/02 - 13:43</a>
 
-[Europe at the crossroads: UK loans Ukraine £2.6 bn for defence - live](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/europe-at-the-crossroads-zelenskyytrump-breakdown-live-updates)
+134 - <a href='https://www.google.com/search?q=Opening+of+FIFA+talent+academy+marks+a+new+era+for+Mauritania+football' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/28/opening-of-fifa-talent-academy-marks-a-mew-era-for-mauritania-football/' target='_blank' rel='noopener noreferrer'>Opening of FIFA talent academy marks a new era for Mauritania football</a>
 
-[Zelenskyy repeats demands for security guarantees after Trump spat](https://12ft.io/https://news.un.org/en/news/2025/03/01/zelenskyy-repeats-demands-for-security-guarantees-after-oval-office-spat-with-trump)
+135 - <a href='https://www.google.com/search?q=Rain+washes+out+Champions+Trophy+game+between+South+Africa+and+Australia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/25/rain-washes-out-champions-trophy-game-between-south-africa-and-australia/' target='_blank' rel='noopener noreferrer'>Rain washes out Champions Trophy game between South Africa and Australia</a>
 
-[European leaders unite behind Ukraine following Trump-Zelenskyy row](https://12ft.io/https://news.un.org/en/news/2025/02/28/after-zelenskyy-and-trump-argue-eu-leaders-voice-their-full-support-for-ukraine)
+136 - <a href='https://www.google.com/search?q=Traditional+coppercraft+in+Tunisia+under+threat' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/02/traditional-coppercraft-in-tunisia-under-threat/' target='_blank' rel='noopener noreferrer'>Traditional coppercraft in Tunisia under threat</a>
 
-[Europe on the brink: US-Ukraine rift puts spotlight on continent](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/europe-on-the-brink-us-ukraine-rift-puts-spotlight-on-continent)
+137 - <a href='https://www.google.com/search?q=Pan-African+film+festival+in+Ouagadougou+showcases+bold+cinema' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/03/01/pan-african-film-festival-in-ouagadougou-showcases-bold-cinema/' target='_blank' rel='noopener noreferrer'>Pan-African film festival in Ouagadougou showcases bold cinema</a>
 
-[Concerns regarding US aid to Ukraine, Euronews' Sasha Vakulina says](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/big-concerns-regarding-us-aid-to-ukraine-euronews-sasha-vakulina-says)
+138 - <a href='https://www.google.com/search?q=Rio%E2%80%99s+%E2%80%98Suburban+Madness%E2%80%99+Carnival+Fosters+Inclusion+Through+Samba' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/02/28/rios-suburban-madness-carnival-fosters-inclusion-through-samba/' target='_blank' rel='noopener noreferrer'>Rio’s ‘Suburban Madness’ Carnival Fosters Inclusion Through Samba</a>
 
-[Ukrainians react to Zelenskyy-Trump row in the Oval Office](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/ukrainians-rally-around-zelenskyy-after-fiery-spat-with-trump-in-oval-office)
+139 - <a href='https://www.google.com/search?q=Trump+says+Microsoft+is+one+of+the+companies+eyeing+TikTok' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/01/28/trump-says-microsoft-is-one-of-the-companies-eyeing-tiktok/' target='_blank' rel='noopener noreferrer'>Trump says Microsoft is one of the companies eyeing TikTok</a>
 
-[European officials reaffirm support for Ukraine after Trump spat](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/02/europe-rallies-to-ukraines-side-as-more-officials-reaffirm-support-after-trump-spat)
+140 - <a href='https://www.google.com/search?q=What+is+DeepSeek%2C+the+Chinese+AI+company+upending+the+stock+market%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2025/01/28/what-is-deepseek-the-chinese-ai-company-upending-the-stock-market/' target='_blank' rel='noopener noreferrer'>What is DeepSeek, the Chinese AI company upending the stock market?</a>
 
-[Ukraine deal off, Trump says after public spat with Zelenskyy](https://12ft.io/https://news.un.org/en/news/2025/02/28/take-the-deal-or-were-out-trump-tells-zelenskyy)
+141 - <a href='https://www.google.com/search?q=Africa+in+2024%3A+Battling+Climate+Extremes+and+Seeking+Global+Action' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2024/12/20/africa-in-2024-battling-climate-extremes-and-seeking-global-action/' target='_blank' rel='noopener noreferrer'>Africa in 2024: Battling Climate Extremes and Seeking Global Action</a>
 
-[Several injured after drone attack on medical facility in Kharkiv](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/at-least-seven-injured-after-drone-attack-on-medical-facility-in-kharkiv)
+142 - <a href='https://www.google.com/search?q=South+Africa%27s+refurbished+Digital+Dome+set+to+open+in+February+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/2024/11/14/south-africas-refurbished-digital-dome-set-to-open-in-february-2025/' target='_blank' rel='noopener noreferrer'>South Africa's refurbished Digital Dome set to open in February 2025</a>
 
-[Press Review: European media reacts to White House spat](https://12ft.io/https://news.un.org/en/news/2025/03/01/press-review-european-media-reacts-to-white-house-spat)
+143 - <a href='https://www.google.com/search?q=Opinion%7CChina+is+ready+to+be+an+anchor+in+a+brave+new+multipolar+worldWhat+seems+clear+from+Munich+Security+Conference+talk+is+an+evolution+towards+a+pluralistic+world+order.+We+need+an+effective+governance+framework.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/china-opinion/article/3300441/china-ready-be-anchor-brave-new-multipolar-world' target='_blank' rel='noopener noreferrer'>Opinion|China is ready to be an anchor in a brave new multipolar worldWhat seems clear from Munich Security Conference talk is an evolution towards a pluralistic world order. We need an effective governance framework.</a>
 
-[Zelenskyy repeats demands for security guarantees after Trump spat](https://12ft.io/https://news.un.org/en/news/2025/03/01/zelenskyy-repeats-demands-for-security-guarantees-after-oval-office-spat-with-trump)
+144 - <a href='https://www.google.com/search?q=Brics+more+relevant+than+ever%2C+summit+host+Brazil+says+amid+Trump+tariff+threats' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3300141/brics-more-relevant-ever-summit-host-brazil-says-amid-trumps-tariff-threats' target='_blank' rel='noopener noreferrer'>Brics more relevant than ever, summit host Brazil says amid Trump tariff threats</a>
 
-['No progress' on second ceasefire phase in Gaza, says Hamas](https://12ft.io/https://news.un.org/en/news/2025/03/01/hamas-says-theres-been-no-progress-on-second-ceasefire-phase-in-indirect-talks-with-israel)
+145 - <a href='https://www.google.com/search?q=How+DeepSeek+could+give+China+the+soft+power+edge+it%E2%80%99s+looking+for' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3299018/deepseek-may-give-china-soft-power-edge-its-looking-particularly-global-south' target='_blank' rel='noopener noreferrer'>How DeepSeek could give China the soft power edge it’s looking for</a>
 
-[PKK militants declare ceasefire after 40-year insurgency in Turkey](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/pkk-militant-group-declares-ceasefire-after-40-year-insurgency-against-turkish-state)
+146 - <a href='https://www.google.com/search?q=Brics+summit+to+tackle+AI+governance%2C+global+health+and+financial+reform%3A+BrazilNote+from+bloc%E2%80%99s+chair+this+year+reflects+plan+to+promote+equitable+global+governance+rather+than+control+by+%E2%80%98just+big+corporations%E2%80%99.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3298605/brics-summit-tackle-ai-governance-global-health-and-financial-reform-brazil' target='_blank' rel='noopener noreferrer'>Brics summit to tackle AI governance, global health and financial reform: BrazilNote from bloc’s chair this year reflects plan to promote equitable global governance rather than control by ‘just big corporations’.</a>
 
-[Fever-free Pope in stable condition but ‘prognosis remains reserved’](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/quiet-night-for-pope-vatican-he-is-resting)
+147 - <a href='https://www.google.com/search?q=Brics+beckons%3A+would+the+Philippines+joining+mend+its+ties+with+China%3FA+senator+is+urging+Manila+to+join+the+bloc+and+adopt+a+more+balanced+foreign+policy+amid+the+%E2%80%98inevitable%E2%80%99+march+to+a+more+multipolar+world.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3297899/philippines-brics-would-joining-mend-ties-china' target='_blank' rel='noopener noreferrer'>Brics beckons: would the Philippines joining mend its ties with China?A senator is urging Manila to join the bloc and adopt a more balanced foreign policy amid the ‘inevitable’ march to a more multipolar world.</a>
 
-[Packed programme as Venice Carnival enters its last weekend](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/packed-programme-of-festivities-as-venice-carnival-enters-its-last-weekend)
+148 - <a href='https://www.google.com/search?q=Why+Panama%E2%80%99s+belt+and+road+exit+is+just+the+start+of+Trump%E2%80%99s+%E2%80%98weak+link%E2%80%99+planInstead+of+direct+confrontation%2C+the+US+may+target+frameworks+involving+China%2C+such+as+Brics%2C+to+preserve+its+global+power%2C+say+analysts.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3297834/why-panamas-belt-and-road-exit-just-start-trumps-weak-link-plan-china' target='_blank' rel='noopener noreferrer'>Why Panama’s belt and road exit is just the start of Trump’s ‘weak link’ planInstead of direct confrontation, the US may target frameworks involving China, such as Brics, to preserve its global power, say analysts.</a>
 
-[Europe NewsEuropean officials reaffirm support for Ukraine after Trump spat](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/02/europe-rallies-to-ukraines-side-as-more-officials-reaffirm-support-after-trump-spat)
+149 - <a href='https://www.google.com/search?q=Opinion%7CHow+Trump+is+creating+a+more+peaceful+and+cooperative+multipolar+worldWhile+Trump+escalates+tensions+with+friends+and+foes+alike%2C+global+realities+could+force+his+hand+towards+cooperation.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3297132/how-trump-creating-more-peaceful-and-cooperative-multipolar-world' target='_blank' rel='noopener noreferrer'>Opinion|How Trump is creating a more peaceful and cooperative multipolar worldWhile Trump escalates tensions with friends and foes alike, global realities could force his hand towards cooperation.</a>
 
-[SportThrilling Judo in Tashkent and the Grand Opening of Diyora Keldiyorova Dojo](https://12ft.io/https://news.un.org/en/news/2025/03/01/thrilling-judo-in-tashkent-and-the-grand-opening-of-diyora-keldiyorova-dojo)
+150 - <a href='https://www.google.com/search?q=China+and+India+agree+to+resume+direct+flights+and+deepen+river+cooperationAfter+Sun+Weidong+and+Vikram+Misri+meet+in+Beijing%2C+Asian+neighbours+say+they+will+negotiate+to+resume+Indian+pilgrimages+to+Tibet.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3296548/china-india-agree-resume-direct-flights-and-deepen-river-cooperation-amid-dam-tension' target='_blank' rel='noopener noreferrer'>China and India agree to resume direct flights and deepen river cooperationAfter Sun Weidong and Vikram Misri meet in Beijing, Asian neighbours say they will negotiate to resume Indian pilgrimages to Tibet.</a>
 
-[Europe NewsPacked programme as Venice Carnival enters its last weekend](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/packed-programme-of-festivities-as-venice-carnival-enters-its-last-weekend)
+151 - <a href='https://www.google.com/search?q=Opinion%7CTrump%E2%80%99s+America+will+be+forced+to+grapple+with+a+rising+BricsBrics+has+become+an+alternative+power+base+outside+the+reach+of+the+US+and+its+allies%2C+and+a+rising+counterweight+to+US+influence+globally.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3296226/trumps-america-will-be-forced-grapple-rising-brics' target='_blank' rel='noopener noreferrer'>Opinion|Trump’s America will be forced to grapple with a rising BricsBrics has become an alternative power base outside the reach of the US and its allies, and a rising counterweight to US influence globally.</a>
 
-[Europe NewsUkrainians react to Zelenskyy-Trump row in the Oval Office](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/ukrainians-rally-around-zelenskyy-after-fiery-spat-with-trump-in-oval-office)
+152 - <a href='https://www.google.com/search?q=Opinion%7CIn+the+global+marathon+for+tech+supremacy%2C+Brics%E2%80%99+size+mattersCollaborative%2C+flexible+Brics+gives+leading+members+China+and+Russia+a+significant+advantage+over+the+increasingly+defensive+and+restrictive+West.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3294902/global-marathon-tech-supremacy-brics-size-matters' target='_blank' rel='noopener noreferrer'>Opinion|In the global marathon for tech supremacy, Brics’ size mattersCollaborative, flexible Brics gives leading members China and Russia a significant advantage over the increasingly defensive and restrictive West.</a>
 
-[WorldLatest news bulletin | March 1st – Evening](https://12ft.io/https://news.un.org/en/news/video/2025/03/01/latest-news-bulletin-march-1st-evening)
+153 - <a href='https://www.google.com/search?q=Opinion%7CAs+the+rules-based+order+declines%2C+hegemony+takes+on+a+new+formFrom+new+development+models+to+shifting+norms%2C+global+power+is+now+increasingly+shared+and+contested+across+different+regions+and+actors.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3295126/rules-based-order-declines-hegemony-takes-new-form' target='_blank' rel='noopener noreferrer'>Opinion|As the rules-based order declines, hegemony takes on a new formFrom new development models to shifting norms, global power is now increasingly shared and contested across different regions and actors.</a>
 
-[CDU and SPD start talks in bid to form next German government](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/28/cdu-and-spd-start-talks-in-bid-to-form-next-german-government)
+154 - <a href='https://www.google.com/search?q=Opinion%7CIn+joining+Brics%2C+Indonesia+is+showing+itself+to+be+strategic+trailblazerWhat+Indonesia+has+gained+is+strategic+autonomy%2C+clout+with+the+US+and+within+Asean%2C+and+a+bigger+voice+on+the+global+stage.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/asia-opinion/article/3294760/joining-brics-indonesia-not-suddenly-anti-us-or-pro-china' target='_blank' rel='noopener noreferrer'>Opinion|In joining Brics, Indonesia is showing itself to be strategic trailblazerWhat Indonesia has gained is strategic autonomy, clout with the US and within Asean, and a bigger voice on the global stage.</a>
 
-[Where does Germany’s election result leave its climate ambitions?](https://12ft.io/https://news.un.org/en/news/green/2025/02/26/heat-pumps-evs-and-net-zero-what-does-the-german-election-result-mean-for-climate-action)
+155 - <a href='https://www.google.com/search?q=Closer+India-China+ties%3A+an+unintended+consequence+of+Trump%E2%80%99s+tariffs+threats%3FA+shared+economic+adversary+could+drive+the+two+Asian+giants+to+strengthen+their+Brics+ties%2C+but+the+way+forward+is+far+from+clear.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3295260/closer-india-china-ties-unintended-consequence-trumps-tariffs-threats' target='_blank' rel='noopener noreferrer'>Closer India-China ties: an unintended consequence of Trump’s tariffs threats?A shared economic adversary could drive the two Asian giants to strengthen their Brics ties, but the way forward is far from clear.</a>
 
-[What's at stake for Europe after the German election?](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/25/whats-at-stake-for-europe-after-the-german-election)
+156 - <a href='https://www.google.com/search?q=Russia%2C+Iran+to+boost+military+and+trade+ties+in+%E2%80%98real+breakthrough%E2%80%99+pactBoth+countries+signed+a+broad+cooperation+pact+in+the+face+of+stinging+Western+sanctions.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/world/russia-central-asia/article/3295273/russia-iran-boost-military-and-trade-ties-real-breakthrough-pact' target='_blank' rel='noopener noreferrer'>Russia, Iran to boost military and trade ties in ‘real breakthrough’ pactBoth countries signed a broad cooperation pact in the face of stinging Western sanctions.</a>
 
-[AfD's Krah to join German parliament despite controversial past](https://12ft.io/https://news.un.org/en/news/2025/02/25/afds-krah-to-join-german-parliament-despite-controversial-past)
+157 - <a href='https://www.google.com/search?q=Opinion%7CWhy+Southeast+Asia%E2%80%99s+participation+in+Brics+mattersWith+Indonesia+joining+the+grouping+and+Malaysia+and+Thailand+as+partner+countries%2C+Brics+has+acquired+not+just+mineral-rich+members+but+also+key+Asean+voices.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/asia-opinion/article/3294105/indonesia-brics-adding-southeast-asia-its-power-base' target='_blank' rel='noopener noreferrer'>Opinion|Why Southeast Asia’s participation in Brics mattersWith Indonesia joining the grouping and Malaysia and Thailand as partner countries, Brics has acquired not just mineral-rich members but also key Asean voices.</a>
 
-[Brussels, my love? Who is Friedrich Merz?](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/brussels-my-love-is-germany-back-in-the-eu-driving-seat)
+158 - <a href='https://www.google.com/search?q=Indonesia+to+keep+pushing+for+South+China+Sea+code%2C+expand+defence+tiesForeign+minister+Sugiono+outlined+Jakarta%E2%80%99s+diplomatic+agenda+that+included+peaceful+conflict+resolution+and+continued+support+for+Gaza.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/asia/southeast-asia/article/3294211/indonesia-keep-pushing-south-china-sea-code-conduct-expand-defence-ties' target='_blank' rel='noopener noreferrer'>Indonesia to keep pushing for South China Sea code, expand defence tiesForeign minister Sugiono outlined Jakarta’s diplomatic agenda that included peaceful conflict resolution and continued support for Gaza.</a>
 
-[Olaf Scholz to join key European leaders at London defence summit](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/28/olaf-scholz-to-join-key-european-leaders-at-london-defence-summit)
+159 - <a href='https://www.google.com/search?q=US+urged+to+bolster+Global+South+ties+to+counter+China-Russia+partnershipWashington+must+build+up+relations+with+%E2%80%98global+swing+states%E2%80%99+and+offer+a+more+%E2%80%98affirmative+and+assertive%E2%80%99+trade+policy%2C+say+authors.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/article/3293979/us-urged-bolster-global-south-ties-counter-china-russia-partnership' target='_blank' rel='noopener noreferrer'>US urged to bolster Global South ties to counter China-Russia partnershipWashington must build up relations with ‘global swing states’ and offer a more ‘affirmative and assertive’ trade policy, say authors.</a>
 
-[Belgian Audi factory closes, leaving thousands of workers jobless](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/28/thousands-of-workers-lose-their-jobs-as-audi-brussels-closes-its-doors)
+160 - <a href='https://www.google.com/search?q=Is+Indonesia%E2%80%99s+Brics+entry+a+%E2%80%98strategic+hedge%E2%80%99+or+challenge+to+US+interests%3FThe+move%2C+championed+by+Prabowo%2C+reflects+a+bid+to+elevate+Indonesia%E2%80%99s+global+standing+%E2%80%93+but+could+complicate+ties+with+the+US+under+Trump.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3293828/indonesia-brics-strategic-hedge-or-challenge-us-interests' target='_blank' rel='noopener noreferrer'>Is Indonesia’s Brics entry a ‘strategic hedge’ or challenge to US interests?The move, championed by Prabowo, reflects a bid to elevate Indonesia’s global standing – but could complicate ties with the US under Trump.</a>
 
-[EU and India aim to sign a free trade agreement by year's end](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/28/the-eu-and-india-aim-to-sign-a-free-trade-agreement-by-the-end-of-the-year)
+161 - <a href='https://www.google.com/search?q=Indonesia+joins+Brics+as+newest+full+member%3A+Brazil+foreign+ministryAddition+of+world%E2%80%99s+fourth-most+populous+nation+to+group+of+major+emerging+national+economies+hailed+as+%E2%80%98deepening%E2%80%99+Global+South+cooperation.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3293658/indonesia-joins-brics-newest-full-member-brazil-foreign-ministry-says' target='_blank' rel='noopener noreferrer'>Indonesia joins Brics as newest full member: Brazil foreign ministryAddition of world’s fourth-most populous nation to group of major emerging national economies hailed as ‘deepening’ Global South cooperation.</a>
 
-[EU must be 'stronger, bolder, faster' on Ukraine minerals - key MEP](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/28/eu-must-be-stronger-bolder-faster-on-ukraine-minerals-key-mep-says)
+162 - <a href='https://www.google.com/search?q=Macroscope%7CRising+%E2%80%98United+States+of+Eurasia%E2%80%99+will+need+a+development+bank+to+support+itFrom+Eurasia%E2%80%99s+vast+potential+to+growing+new+development+banks%2C+emerging+market+economies+are+carrying+more+weight+in+a+global+economy.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/china-opinion/article/3293195/rising-united-states-eurasia-will-need-development-bank-support-it' target='_blank' rel='noopener noreferrer'>Macroscope|Rising ‘United States of Eurasia’ will need a development bank to support itFrom Eurasia’s vast potential to growing new development banks, emerging market economies are carrying more weight in a global economy.</a>
 
-[Has Europe got anything to show for its Ukraine diplomatic flurry?](https://12ft.io/https://news.un.org/en/news/my-europe/2025/02/28/europes-diplomatic-flurry-over-ukraine-continues-but-prospect-for-quick-breakthrough-low)
+163 - <a href='https://www.google.com/search?q=Opinion%7CHow+Global+South+can+resist+US+hegemony+and+its+isolationismOpen+engagement+is+key+to+countering+both+Donald+Trump%E2%80%99s+transactional+nationalism+and+the+US+establishment%E2%80%99s+drive+for+global+hegemony.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3293002/how-global-south-can-resist-us-hegemony-and-its-isolationism' target='_blank' rel='noopener noreferrer'>Opinion|How Global South can resist US hegemony and its isolationismOpen engagement is key to countering both Donald Trump’s transactional nationalism and the US establishment’s drive for global hegemony.</a>
 
-[European leaders unite behind Ukraine following Trump-Zelenskyy row](https://12ft.io/https://news.un.org/en/news/2025/02/28/after-zelenskyy-and-trump-argue-eu-leaders-voice-their-full-support-for-ukraine)
+164 - <a href='https://www.google.com/search?q=Vietnam%E2%80%99s+hesitation+on+Brics+highlights+delicate+US+ties%2C+economic+considerationVietnam%E2%80%99s+delay+in+joining+Brics+reflects+its+balance+between+strengthening+ties+with+the+US+and+the+potential+benefits+of+aligning+with+a+bloc+seen+as+a+US+counterweight.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3293207/vietnams-strategic-hesitation-brics-highlights-delicate-us-ties-and-economic-considerations' target='_blank' rel='noopener noreferrer'>Vietnam’s hesitation on Brics highlights delicate US ties, economic considerationVietnam’s delay in joining Brics reflects its balance between strengthening ties with the US and the potential benefits of aligning with a bloc seen as a US counterweight.</a>
 
-[Zelenskyy repeats demands for security guarantees after Trump spat](https://12ft.io/https://news.un.org/en/news/2025/03/01/zelenskyy-repeats-demands-for-security-guarantees-after-oval-office-spat-with-trump)
+165 - <a href='https://www.google.com/search?q=My+Take%7CHow+America+ended+up+creating+the+adversarial+Brics+of+todayWhat+began+as+a+newfangled+investment+theme+for+emerging+economies+now+holds+hope+for+those+trying+to+flee+US+financial+coercion+and+abuse.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/article/3293041/how-america-ended-creating-adversarial-brics-today' target='_blank' rel='noopener noreferrer'>My Take|How America ended up creating the adversarial Brics of todayWhat began as a newfangled investment theme for emerging economies now holds hope for those trying to flee US financial coercion and abuse.</a>
 
-[Why an unusual mountain in China has become a tourist sensation](https://12ft.io/https://news.un.org/en/news/travel/2025/02/25/so-magical-and-cute-why-an-oddly-shaped-puppy-mountain-in-china-is-drawing-crowds)
+166 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+pick+of+Rubio+as+top+US+diplomat+leaves+Latin+America+bracingLong-time+outspoken+China+critic+raises+concerns+in+region+he+might+press+governments+to+choose+sides+between+Washington+and+Beijing.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3292807/donald-trumps-choice-marco-rubio-top-us-diplomat-leaves-latin-america-bracing' target='_blank' rel='noopener noreferrer'>Trump’s pick of Rubio as top US diplomat leaves Latin America bracingLong-time outspoken China critic raises concerns in region he might press governments to choose sides between Washington and Beijing.</a>
 
-[Europe at the crossroads: UK loans Ukraine £2.6 bn for defence - live](https://12ft.io/https://news.un.org/en/news/my-europe/2025/03/01/europe-at-the-crossroads-zelenskyytrump-breakdown-live-updates)
+167 - <a href='https://www.google.com/search?q=Opinion%7CTrump%E2%80%99s+threats+won%E2%80%99t+hold+back+Brics+push+to+de-dollariseUS+dominance+is+pervasive+but+not+infallible%2C+and+a+divided+Brics+can+still+find+common+ground+in+the+pursuit+of+a+multipolar+global+order.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3292754/trumps-threats-wont-hold-back-brics-push-de-dollarise' target='_blank' rel='noopener noreferrer'>Opinion|Trump’s threats won’t hold back Brics push to de-dollariseUS dominance is pervasive but not infallible, and a divided Brics can still find common ground in the pursuit of a multipolar global order.</a>
 
-[Direct ferry linking Scotland to France sets sights on 2025 launch](https://12ft.io/https://news.un.org/en/news/travel/2025/02/27/fancy-a-ferry-from-scotland-to-france-project-brave-wants-to-take-you-there-in-2025)
+168 - <a href='https://www.google.com/search?q=Opinion%7CBesides+the+border%2C+4+issues+obstruct+warmer+China-India+tiesBoth+nations+share+similarities+but+also+sharp+differences+in+how+they+see+the+international+order%2C+its+future%2C+multipolarity+and+the+Global+South.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/opinion/asia-opinion/article/3291770/besides-border-4-issues-obstruct-warmer-china-india-ties' target='_blank' rel='noopener noreferrer'>Opinion|Besides the border, 4 issues obstruct warmer China-India tiesBoth nations share similarities but also sharp differences in how they see the international order, its future, multipolarity and the Global South.</a>
 
-['Xoves de Comadres' in Verín kicks off Spanish Carnival season](https://12ft.io/https://news.un.org/en/news/video/2025/02/28/xoves-de-comadres-in-verin-marks-beginning-of-spanish-carnival-season)
+169 - <a href='https://www.google.com/search?q=Asian+Angle%7CWhy+Asean%E2%80%99s+neutrality+is+our+greatest+asset+in+a+divided+worldAs+Malaysia+prepares+to+assume+the+2025+Asean+chair%2C+its+trade+minister+argues+for+a+unified+approach+to+navigate+the+US-China+rivalry.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/week-asia/opinion/article/3290622/why-aseans-neutrality-our-greatest-asset-divided-world' target='_blank' rel='noopener noreferrer'>Asian Angle|Why Asean’s neutrality is our greatest asset in a divided worldAs Malaysia prepares to assume the 2025 Asean chair, its trade minister argues for a unified approach to navigate the US-China rivalry.</a>
 
-[In Spain's Verín, thousands celebrated 'Xoves de Comadres,' marking the start of the Spanish Carnival with restaurant dinners, charanga bands and elaborate costumes.](https://12ft.io/https://news.un.org/en/news/video/2025/02/28/xoves-de-comadres-in-verin-marks-beginning-of-spanish-carnival-season)
-
-[Latest news bulletin | March 1st – Midday](https://12ft.io/https://news.un.org/en/news/video/2025/03/01/latest-news-bulletin-march-1st-midday)
-
-[Latest news bulletin | March 1st – Morning](https://12ft.io/https://news.un.org/en/news/video/2025/03/01/latest-news-bulletin-march-1st-morning)
-
-[Trump says Ukraine is to either make peace or keep fighting alone](https://12ft.io/https://news.un.org/en/news/video/2025/03/01/trump-says-ukraine-is-to-either-make-peace-or-keep-fighting-alone)
-
-[“It’s a very tricky path”: What Trump could mean for the Irish economy](https://12ft.io/https://news.un.org/en/news/video/2025/02/28/its-a-very-tricky-path-what-trump-could-mean-for-the-irish-economy)
-
-[Judo Grand Slam 2025: Incredible Uzbek spectacle as Japanese women do the clean sweep](https://12ft.io/https://news.un.org/en/news/video/2025/02/28/judo-grand-slam-2025-incredible-uzbek-spectacle-as-japanese-women-do-the-clean-sweep)
-
-[Ukraine: The last standoff before peace?](https://12ft.io/https://news.un.org/en/news/2025/02/24/ukraine-the-last-standoff-before-peace)
-
-[Shaping tomorrow's connectivityIn partnership withMedia City](https://12ft.io/https://news.un.org/en/news/business/2025/02/26/unleashing-the-power-of-5g-and-beyond)
-
-[Astana's smart city initiatives lead Kazakhstan's tech-driven futureIn partnership withMDQ](https://12ft.io/https://news.un.org/en/news/business/2025/02/26/how-digital-innovation-is-transforming-urban-life-and-driving-economic-growth-in-astana)
-
-[The Big Question: Is Trump Europe’s biggest economic worry of 2025?](https://12ft.io/https://news.un.org/en/news/business/2025/02/24/now-or-never-moment-is-it-all-economic-doom-and-gloom-for-europe-in-2025)
-
-[Oscars 2025 predictions: Who will, could and should win?](https://12ft.io/https://news.un.org/en/news/culture/2025/02/28/oscars-2025-predictions-who-will-could-and-should-win)
-
-[Filmmakers support 'My Favourite Cake' directors before trial in Iran](https://12ft.io/https://news.un.org/en/news/culture/2025/02/28/global-filmmaking-community-support-iranian-directors-before-propaganda-trial-starts-in-ir)
-
-[Citigroup credits client’s account with $81tn in ’fat finger’ mistake](https://12ft.io/https://news.un.org/en/news/business/2025/02/28/citigroup-credited-clients-account-with-81tn-in-a-fat-finger-mistake)
-
-[Oscars 2025: Ranking every Best Picture winner since 2010](https://12ft.io/https://news.un.org/en/news/culture/2025/02/27/oscars-2025-from-the-kings-speech-to-oppenheimer-ranking-the-best-picture-winners-since-20)
-
-[That's a wrap: The Top 10 Berlinale movies to look out for in 2025](https://12ft.io/https://news.un.org/en/news/culture/2025/02/25/dreams-diamonds-and-dystopias-euronews-cultures-top-10-movies-from-berlinale-2025)
-
-[NASA data shows asteroid may hit one of world’s most populated regions](https://12ft.io/https://news.un.org/en/news/next/2025/02/19/asteroid-2024-yr4-could-hit-one-of-the-worlds-most-populated-regions-new-nasa-data-shows)
-
-[Healthy ageing more dependent on life factors than your genes](https://12ft.io/https://news.un.org/en/news/health/2025/02/19/scientists-find-lifestyle-and-living-conditions-has-greater-impact-on-healthy-ageing-than-)
-
-[Clashes at mass protest in Athens on deadly train crash anniversary](https://12ft.io/https://news.un.org/en/news/video/2025/02/28/clashes-at-mass-protest-in-athens-on-deadly-train-crash-anniversary)
-
-[Protests erupt over Iowa bill on gender identity protections](https://12ft.io/https://news.un.org/en/news/video/2025/02/28/protests-erupt-as-iowa-bill-threatens-gender-identity-protections)
-
-[Horse rescued from pond in New York by police and neighbours](https://12ft.io/https://news.un.org/en/news/video/2025/02/27/horse-rescued-from-freezing-pond-in-new-york-by-police-and-neighbours)
-
-[How do Europe's top five economies compare based on job postings?](https://12ft.io/https://news.un.org/en/news/business/2025/03/01/job-trends-why-are-italy-and-spain-hiring-while-the-uk-germany-and-france-slow)
-
-[German manufacturing woes continue to keep unemployment rate high](https://12ft.io/https://news.un.org/en/news/business/2025/02/28/german-manufacturing-woes-continue-to-keep-unemployment-rate-high)
-
-[Foreign workers help Spain's economic growth outpace rest of Europe](https://12ft.io/https://news.un.org/en/news/business/2025/02/28/foreign-workers-help-spains-economic-growth-outpace-the-rest-of-europe)
-
-[Nothing lost in translation as Duolingo sees robust growth in 2024](https://12ft.io/https://news.un.org/en/news/business/2025/02/28/nothing-lost-in-translation-as-duolingo-sees-robust-growth-in-2024)
-
-[My Interrail trip took me through 200 years of train travel](https://12ft.io/https://news.un.org/en/news/travel/2025/03/01/what-my-interrail-trip-across-europe-taught-me-about-the-past-present-and-future-of-train-)
-
-[Sydney, Paris, Rome: The world’s most cinematic locations revealed](https://12ft.io/https://news.un.org/en/news/travel/2025/02/28/from-oscar-winners-to-blockbusters-what-are-the-worlds-most-cinematic-destinations)
-
-[Tourist paradise, developer haven: Santorini's illegal building crisis](https://12ft.io/https://news.un.org/en/news/travel/2025/02/28/santorini-illegal-pools-buildings-earthquake-risk)
-
-[Why does Greenland want more tourists?](https://12ft.io/https://news.un.org/en/news/travel/2025/02/27/greenlands-big-tourism-push-why-the-worlds-largest-island-wants-more-visitors)
-
-[EU lawmakers claim US visit helped smooth differences on tech rules](https://12ft.io/https://news.un.org/en/news/next/2025/02/28/eu-lawmakers-claim-us-visit-helped-smooth-differences-on-tech-regulation)
-
-[Zuckerberg's Meta to release standalone AI app](https://12ft.io/https://news.un.org/en/news/next/2025/02/28/zuckerbergs-meta-to-release-direct-competitor-to-openais-chatgpt)
-
-[Cloud certification should mimic French scheme, says nationalist MEP](https://12ft.io/https://news.un.org/en/news/next/2025/02/27/eu-cloud-certification-should-mimic-french-scheme-says-nationalist-lawmaker)
-
-[Amazon unveils an AI-powered version of its voice assistant Alexa](https://12ft.io/https://news.un.org/en/news/next/2025/02/27/your-new-best-friend-amazon-unveils-an-ai-powered-version-of-its-famous-voice-assistant-al)
-
-[César Awards 2025: Who swept the board at France’s Oscars?](https://12ft.io/https://news.un.org/en/news/culture/2025/03/01/cesar-awards-2025-the-redemption-of-emilia-perez-the-french-oscars-big-winner)
-
-[Wonderful wallpaper: meet the designers changing homes from inside out](https://12ft.io/https://news.un.org/en/news/culture/2025/03/01/wonderful-wallpaper-meet-the-designers-leading-change-on-the-home-front)
-
-[Razzies 2025: The anti-Oscars name Worst Picture of the year...](https://12ft.io/https://news.un.org/en/news/culture/2025/02/28/razzies-2025-the-anti-oscars-name-worst-picture-of-the-year-madame-web-honoured)
-
-[US bans most books featuring race and gender themes says new study](https://12ft.io/https://news.un.org/en/news/culture/2025/02/28/new-data-shows-us-authorities-ban-majority-of-books-with-race-and-gender-themes)
-
-[From Czechia to the UK, here’s how beavers are winning people over](https://12ft.io/https://news.un.org/en/news/green/2025/03/01/czechias-1m-dam-built-for-free-by-beavers-heres-where-else-theyre-doing-good-work)
-
-[Has climate change pushed back Earth’s next ice age?](https://12ft.io/https://news.un.org/en/news/green/2025/02/28/human-caused-emissions-have-delayed-earths-next-ice-age-study-says-but-by-how-long)
-
-[UN biodiversity talks end with $200 billion deal to protect nature](https://12ft.io/https://news.un.org/en/news/green/2025/02/28/cop16-biodiversity-financing-agreed)
-
-[Why climate change could be adding years to your body](https://12ft.io/https://news.un.org/en/news/green/2025/02/27/living-in-a-hot-climate-you-could-be-ageing-faster-than-you-think)
-
-[Big pharma urges Commission to slow down new critical medicines rules](https://12ft.io/https://news.un.org/en/news/health/2025/02/28/big-pharma-urges-commission-to-slow-down-on-new-critical-medicines-rules)
-
-[France bans nicotine pouch sales. Where does the rest of Europe stand?](https://12ft.io/https://news.un.org/en/news/health/2025/02/28/france-has-just-banned-nicotine-pouch-sales-where-else-in-europe-are-they-restricted)
-
-[As measles cases rise in the US, what’s the global situation?](https://12ft.io/https://news.un.org/en/news/health/2025/02/27/a-measles-outbreak-is-growing-in-the-us-whats-the-situation-worldwide)
-
-[Demand for specialised medical care to ease suffering is surging](https://12ft.io/https://news.un.org/en/news/health/2025/02/27/demand-for-palliative-care-is-surging-worldwide-as-people-live-longer-but-unhealthier-live)
-
-[Pan-African film festival in Ouagadougou showcases bold cinema](https://12ft.io/https://news.un.org/en/news/2025/03/01/pan-african-film-festival-in-ouagadougou-showcases-bold-cinema/)
-
-[Zelenskyy insists that Kyiv wants a peace deal](https://12ft.io/https://news.un.org/en/news/2025/03/01/zelenskyy-insists-that-kyiv-wants-a-peace-deal/)
-
-[Spain’s economy thrives in 2024 due to foreign workers](https://12ft.io/https://news.un.org/en/news/2025/03/01/spains-economy-thrives-in-2024-due-to-foreign-workers/)
-
-[Sudanese military escalates fight affecting many children](https://12ft.io/https://news.un.org/en/news/2025/03/01/sudanese-military-escalates-fight-affecting-many-children/)
-
-[Ramadan preparations surge with sweets and health checks in Morocco](https://12ft.io/https://news.un.org/en/news/2025/03/01/ramadan-preparations-surge-with-sweets-and-health-checks-in-morocco/)
-
-[Over 60,000 fleeing conflict in DRC seek safety in Burundi](https://12ft.io/https://news.un.org/en/news/2025/03/01/over-60000-fleeing-conflict-in-drc-seek-safety-in-burundi/)
-
-[Trump and Zelensky clash at meeting in Washington](https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-and-zelensky-clash-at-meeting-in-washington/)
-
-[UN permits evacuation of families of Burundi staff amid DRC violence](https://12ft.io/https://news.un.org/en/news/2025/02/28/un-permits-evacuation-of-families-of-burundi-staff-amid-drc-violence/)
-
-[Namibia: Supreme Court throws out challenge to presidential election result](https://12ft.io/https://news.un.org/en/news/2025/02/28/namibia-supreme-court-throws-out-challenge-to-presidential-election-result/)
-
-[Opening of FIFA talent academy marks a new era for Mauritania football](https://12ft.io/https://news.un.org/en/news/2025/02/28/opening-of-fifa-talent-academy-marks-a-mew-era-for-mauritania-football/)
-
-[Sudan: UNICEF ramps up response to cholera outbreak](https://12ft.io/https://news.un.org/en/news/2025/02/28/sudan-unicef-ramps-up-response-to-cholera-outbreak/)
-
-[Rio’s ‘Suburban Madness’ Carnival Fosters Inclusion Through Samba](https://12ft.io/https://news.un.org/en/news/2025/02/28/rios-suburban-madness-carnival-fosters-inclusion-through-samba/)
-
-[Muslims in Cairo stock up on provisions for Ramadan](https://12ft.io/https://news.un.org/en/news/2025/02/28/muslims-in-cairo-stock-up-on-provisions-for-ramadan/)
-
-[Sudanese military escalates fight affecting many children](https://12ft.io/https://news.un.org/en/news/2025/03/01/sudanese-military-escalates-fight-affecting-many-children/)
-
-[Over 60,000 fleeing conflict in DRC seek safety in Burundi](https://12ft.io/https://news.un.org/en/news/2025/03/01/over-60000-fleeing-conflict-in-drc-seek-safety-in-burundi/)
-
-[Zelenskyy insists that Kyiv wants a peace deal](https://12ft.io/https://news.un.org/en/news/2025/03/01/zelenskyy-insists-that-kyiv-wants-a-peace-deal/)
-
-[featured11:05Can aid be reimagined to deliver meaningful value? {Business Africa}](https://12ft.io/https://news.un.org/en/news/2025/02/27/can-aid-be-reimagined-to-deliver-meaningful-value-business-africa/)
-
-[featured11:02Senegal’s Debt and Deficit: A Harsh Economic Reality [Business Africa]](https://12ft.io/https://news.un.org/en/news/2025/02/20/senegals-debt-and-deficit-a-harsh-economic-reality-business-africa/)
-
-[featured11:04How AI is breaking language barriers in Africa {Business Africa}](https://12ft.io/https://news.un.org/en/news/2025/02/13/how-ai-is-breaking-language-barriers-in-africa-business-africa/)
-
-[featured11:03Five years later, is the AfCFTA already failing? {Business Africa}](https://12ft.io/https://news.un.org/en/news/2025/02/06/five-years-later-is-the-afcfta-already-failing-business-africa/)
-
-[Ramadan preparations surge with sweets and health checks in Morocco](https://12ft.io/https://news.un.org/en/news/2025/03/01/ramadan-preparations-surge-with-sweets-and-health-checks-in-morocco/)
-
-[Ethiopia and Somalia hold talks aimed at reaffirming ties](https://12ft.io/https://news.un.org/en/news/2025/02/28/ethiopia-and-somalia-hold-talks-aimed-at-reaffirming-ties/)
-
-[DR Congo's Goma faces economic and financial crisis following M23 takeover](https://12ft.io/https://news.un.org/en/news/2025/02/28/dr-congos-goma-faces-economic-and-financial-crisis-following-m23-takeover/)
-
-[DRC: Malaria cited as cause of deaths, and infections in Equateur province](https://12ft.io/https://news.un.org/en/news/2025/02/28/drc-malaria-cited-as-cause-of-deaths-and-infections-in-equateur-province/)
-
-[New study explains why is Mars red](https://12ft.io/https://news.un.org/en/news/2025/02/26/new-study-explains-why-is-mars-red/)
-
-[Abigail Kwartekaa Quartey: Breaking Barriers in Ghanaian Boxing](https://12ft.io/https://news.un.org/en/news/2025/02/24/abigail-kwartekaa-quartey-breaking-barriers-in-ghanaian-boxing/)
-
-[Why have Rwanda-backed rebels seized 2 Congolese cities and is there an end ...](https://12ft.io/https://news.un.org/en/news/2025/02/18/why-have-rwanda-backed-rebels-seized-2-congolese-cities-and-is-there-an-end-in-sight/)
-
-[This is what happens to the body when HIV drugs are stopped for millions ...](https://12ft.io/https://news.un.org/en/news/2025/02/13/this-is-what-happens-to-the-body-when-hiv-drugs-are-stopped-for-millions-of-people/)
-
-[Spain’s economy thrives in 2024 due to foreign workers](https://12ft.io/https://news.un.org/en/news/2025/03/01/spains-economy-thrives-in-2024-due-to-foreign-workers/)
-
-[While the U.S. tightens its border policies, Spain embraces migrant labour, with businesses relying heavily on foreign workers](https://12ft.io/https://news.un.org/en/news/2025/03/01/spains-economy-thrives-in-2024-due-to-foreign-workers/)
-
-[Trump and Zelensky clash at meeting in Washington](https://12ft.io/https://news.un.org/en/news/2025/02/28/trump-and-zelensky-clash-at-meeting-in-washington/)
-
-[UN permits evacuation of families of Burundi staff amid DRC violence](https://12ft.io/https://news.un.org/en/news/2025/02/28/un-permits-evacuation-of-families-of-burundi-staff-amid-drc-violence/)
-
-[Namibia: Supreme Court throws out challenge to presidential election result](https://12ft.io/https://news.un.org/en/news/2025/02/28/namibia-supreme-court-throws-out-challenge-to-presidential-election-result/)
-
-[Pics of the day: February 20, 2025](https://12ft.io/https://news.un.org/en/news/2025/02/21/pics-of-the-day-february-20-2025/)
-
-[Pics of the day: February 20, 2025](https://12ft.io/https://news.un.org/en/news/2025/02/20/pics-of-the-day-february-20-2025/)
-
-[Pics of the day: January 31, 2025](https://12ft.io/https://news.un.org/en/news/2025/01/31/pics-of-the-day-january-31-2025/)
-
-[Pics of the day: January 30, 2025](https://12ft.io/https://news.un.org/en/news/2025/01/30/pics-of-the-day-january-30-2025/)
-
-[Can aid be reimagined to deliver meaningful value? {Business Africa}](https://12ft.io/https://news.un.org/en/news/2025/02/27/can-aid-be-reimagined-to-deliver-meaningful-value-business-africa/)
-
-[Massive aid cuts announced by Washington have prompted panic in African capitals, but also questions on whether foreign aid has transformed low-income ...](https://12ft.io/https://news.un.org/en/news/2025/02/27/can-aid-be-reimagined-to-deliver-meaningful-value-business-africa/)
-
-[Botswana secures enhanced 10-year diamond deal with De Beers](https://12ft.io/https://news.un.org/en/news/2025/02/26/botswana-secures-enhanced-10-year-diamond-deal-with-de-beers/)
-
-[Nigeria's GDP growth accelerates to 3.84% in fourth quarter of 2024](https://12ft.io/https://news.un.org/en/news/2025/02/26/nigerias-gdp-growth-accelerates-to-384-in-fourth-quarter-of-2024/)
-
-[Senegal’s Debt and Deficit: A Harsh Economic Reality [Business Africa]](https://12ft.io/https://news.un.org/en/news/2025/02/20/senegals-debt-and-deficit-a-harsh-economic-reality-business-africa/)
-
-[Go to videoClashes at mass protest in Athens on deadly train crash anniversary28/02 - 15:23](https://12ft.io/https://news.un.org/en/news/2025/02/28/clashes-at-mass-protest-in-athens-on-deadly-train-crash-anniversary/)
-
-[Go to videoProtests erupt as Iowa bill threatens gender identity protections28/02 - 11:26](https://12ft.io/https://news.un.org/en/news/2025/02/28/protests-erupt-as-iowa-bill-threatens-gender-identity-protections/)
-
-[Go to videoHorse rescued from freezing pond in New York by police and neighbours27/02 - 11:40](https://12ft.io/https://news.un.org/en/news/2025/02/27/horse-rescued-from-freezing-pond-in-new-york-by-police-and-neighbours/)
-
-[Go to videoColombian man arrested for hiding cocaine under toupee at Cartagena airport26/02 - 11:55](https://12ft.io/https://news.un.org/en/news/2025/02/26/colombian-man-arrested-for-hiding-cocaine-under-toupee-at-cartagena-airport/)
-
-[Go to videoAid enters Gaza through Rafah as Palestinians struggle to access supplies25/02 - 13:43](https://12ft.io/https://news.un.org/en/news/2025/02/25/aid-enters-gaza-through-rafah-as-palestinians-struggle-to-access-supplies/)
-
-[Go to videoFlying car developed by Alef Aeronautics completes test, with production planned soon25/02 - 11:38](https://12ft.io/https://news.un.org/en/news/2025/02/25/flying-car-developed-by-alef-aeronautics-completes-test-with-production-planned-soon/)
-
-[Opening of FIFA talent academy marks a new era for Mauritania football](https://12ft.io/https://news.un.org/en/news/2025/02/28/opening-of-fifa-talent-academy-marks-a-mew-era-for-mauritania-football/)
-
-[Tuesday marked a significant milestone for Mauritania, as the nation commemorated two pivotal advancements in its football journey.](https://12ft.io/https://news.un.org/en/news/2025/02/28/opening-of-fifa-talent-academy-marks-a-mew-era-for-mauritania-football/)
-
-[Rain washes out Champions Trophy game between South Africa and Australia](https://12ft.io/https://news.un.org/en/news/2025/02/25/rain-washes-out-champions-trophy-game-between-south-africa-and-australia/)
-
-[Coach says Liverpool trophy haul will help Mo Salah's Ballon d'Or bid](https://12ft.io/https://news.un.org/en/news/2025/02/25/coach-says-liverpool-trophy-haul-will-help-mo-salahs-ballon-dor-bid/)
-
-[Galatasaray accuses Jose Mourinho of racist comments](https://12ft.io/https://news.un.org/en/news/2025/02/25/galatasaray-accuses-jose-mourinho-of-racist-comments/)
-
-[Pan-African film festival in Ouagadougou showcases bold cinema](https://12ft.io/https://news.un.org/en/news/2025/03/01/pan-african-film-festival-in-ouagadougou-showcases-bold-cinema/)
-
-[Bold, creative cinema takes centre stage at 29th Pan-African Film Festival
-in Ouagadougou, amid heavy security](https://12ft.io/https://news.un.org/en/news/2025/03/01/pan-african-film-festival-in-ouagadougou-showcases-bold-cinema/)
-
-[Rio’s ‘Suburban Madness’ Carnival Fosters Inclusion Through Samba](https://12ft.io/https://news.un.org/en/news/2025/02/28/rios-suburban-madness-carnival-fosters-inclusion-through-samba/)
-
-[Nigeria’s museum to oversee return of Benin bronzes](https://12ft.io/https://news.un.org/en/news/2025/02/26/nigerias-museum-to-oversee-return-of-benin-bronzes/)
-
-[Unidos de Padre Miguel: More than a Samba school, a lifeline for its community](https://12ft.io/https://news.un.org/en/news/2025/02/25/unidos-de-padre-miguel-more-than-a-samba-school-a-lifeline-for-its-community/)
-
-[Trump says Microsoft is one of the companies eyeing TikTok](https://12ft.io/https://news.un.org/en/news/2025/01/28/trump-says-microsoft-is-one-of-the-companies-eyeing-tiktok/)
-
-[President Donald Trump said Monday evening that Microsoft is among the U.S. companies looking to take control of TikTok to help the popular app ...](https://12ft.io/https://news.un.org/en/news/2025/01/28/trump-says-microsoft-is-one-of-the-companies-eyeing-tiktok/)
-
-[What is DeepSeek, the Chinese AI company upending the stock market?](https://12ft.io/https://news.un.org/en/news/2025/01/28/what-is-deepseek-the-chinese-ai-company-upending-the-stock-market/)
-
-[Africa in 2024: Battling Climate Extremes and Seeking Global Action](https://12ft.io/https://news.un.org/en/news/2024/12/20/africa-in-2024-battling-climate-extremes-and-seeking-global-action/)
-
-[South Africa's refurbished Digital Dome set to open in February 2025](https://12ft.io/https://news.un.org/en/news/2024/11/14/south-africas-refurbished-digital-dome-set-to-open-in-february-2025/)
-
-[Brics more relevant than ever, summit host Brazil says amid Trump tariff threatsThe best response for ‘the crisis of multilateralism is more multilateralism’, according to Brazilian Foreign Minister Mauro Vieira.](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3300141/brics-more-relevant-ever-summit-host-brazil-says-amid-trumps-tariff-threats)
-
-[How DeepSeek could give China the soft power edge it’s looking for](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3299018/deepseek-may-give-china-soft-power-edge-its-looking-particularly-global-south)
-
-[Brics summit to tackle AI governance, global health and financial reform: Brazil](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3298605/brics-summit-tackle-ai-governance-global-health-and-financial-reform-brazil)
-
-[Brics beckons: would the Philippines joining mend its ties with China?A senator is urging Manila to join the bloc and adopt a more balanced foreign policy amid the ‘inevitable’ march to a more multipolar world.](https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3297899/philippines-brics-would-joining-mend-ties-china)
-
-[Why Panama’s belt and road exit is just the start of Trump’s ‘weak link’ planInstead of direct confrontation, the US may target frameworks involving China, such as Brics, to preserve its global power, say analysts.](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3297834/why-panamas-belt-and-road-exit-just-start-trumps-weak-link-plan-china)
-
-[Opinion|How Trump is creating a more peaceful and cooperative multipolar worldWhile Trump escalates tensions with friends and foes alike, global realities could force his hand towards cooperation.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3297132/how-trump-creating-more-peaceful-and-cooperative-multipolar-world)
-
-[China and India agree to resume direct flights and deepen river cooperationAfter Sun Weidong and Vikram Misri meet in Beijing, Asian neighbours say they will negotiate to resume Indian pilgrimages to Tibet.](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3296548/china-india-agree-resume-direct-flights-and-deepen-river-cooperation-amid-dam-tension)
-
-[Opinion|Trump’s America will be forced to grapple with a rising BricsBrics has become an alternative power base outside the reach of the US and its allies, and a rising counterweight to US influence globally.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3296226/trumps-america-will-be-forced-grapple-rising-brics)
-
-[Opinion|In the global marathon for tech supremacy, Brics’ size mattersCollaborative, flexible Brics gives leading members China and Russia a significant advantage over the increasingly defensive and restrictive West.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3294902/global-marathon-tech-supremacy-brics-size-matters)
-
-[Opinion|As the rules-based order declines, hegemony takes on a new formFrom new development models to shifting norms, global power is now increasingly shared and contested across different regions and actors.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3295126/rules-based-order-declines-hegemony-takes-new-form)
-
-[Opinion|In joining Brics, Indonesia is showing itself to be strategic trailblazerWhat Indonesia has gained is strategic autonomy, clout with the US and within Asean, and a bigger voice on the global stage.](https://12ft.io/https://news.un.org/en/news/opinion/asia-opinion/article/3294760/joining-brics-indonesia-not-suddenly-anti-us-or-pro-china)
-
-[Closer India-China ties: an unintended consequence of Trump’s tariffs threats?A shared economic adversary could drive the two Asian giants to strengthen their Brics ties, but the way forward is far from clear.](https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3295260/closer-india-china-ties-unintended-consequence-trumps-tariffs-threats)
-
-[Russia, Iran to boost military and trade ties in ‘real breakthrough’ pactBoth countries signed a broad cooperation pact in the face of stinging Western sanctions.](https://12ft.io/https://news.un.org/en/news/news/world/russia-central-asia/article/3295273/russia-iran-boost-military-and-trade-ties-real-breakthrough-pact)
-
-[Opinion|Why Southeast Asia’s participation in Brics mattersWith Indonesia joining the grouping and Malaysia and Thailand as partner countries, Brics has acquired not just mineral-rich members but also key Asean voices.](https://12ft.io/https://news.un.org/en/news/opinion/asia-opinion/article/3294105/indonesia-brics-adding-southeast-asia-its-power-base)
-
-[Indonesia to keep pushing for South China Sea code, expand defence tiesForeign minister Sugiono outlined Jakarta’s diplomatic agenda that included peaceful conflict resolution and continued support for Gaza.](https://12ft.io/https://news.un.org/en/news/news/asia/southeast-asia/article/3294211/indonesia-keep-pushing-south-china-sea-code-conduct-expand-defence-ties)
-
-[US urged to bolster Global South ties to counter China-Russia partnershipWashington must build up relations with ‘global swing states’ and offer a more ‘affirmative and assertive’ trade policy, say authors.](https://12ft.io/https://news.un.org/en/news/news/china/article/3293979/us-urged-bolster-global-south-ties-counter-china-russia-partnership)
-
-[Is Indonesia’s Brics entry a ‘strategic hedge’ or challenge to US interests?The move, championed by Prabowo, reflects a bid to elevate Indonesia’s global standing – but could complicate ties with the US under Trump.](https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3293828/indonesia-brics-strategic-hedge-or-challenge-us-interests)
-
-[Indonesia joins Brics as newest full member: Brazil foreign ministryAddition of world’s fourth-most populous nation to group of major emerging national economies hailed as ‘deepening’ Global South cooperation.](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3293658/indonesia-joins-brics-newest-full-member-brazil-foreign-ministry-says)
-
-[Macroscope|Rising ‘United States of Eurasia’ will need a development bank to support itFrom Eurasia’s vast potential to growing new development banks, emerging market economies are carrying more weight in a global economy.](https://12ft.io/https://news.un.org/en/news/opinion/china-opinion/article/3293195/rising-united-states-eurasia-will-need-development-bank-support-it)
-
-[Opinion|How Global South can resist US hegemony and its isolationismOpen engagement is key to countering both Donald Trump’s transactional nationalism and the US establishment’s drive for global hegemony.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3293002/how-global-south-can-resist-us-hegemony-and-its-isolationism)
-
-[Vietnam’s hesitation on Brics highlights delicate US ties, economic considerationVietnam’s delay in joining Brics reflects its balance between strengthening ties with the US and the potential benefits of aligning with a bloc seen as a US counterweight.](https://12ft.io/https://news.un.org/en/news/week-asia/politics/article/3293207/vietnams-strategic-hesitation-brics-highlights-delicate-us-ties-and-economic-considerations)
-
-[My Take|How America ended up creating the adversarial Brics of todayWhat began as a newfangled investment theme for emerging economies now holds hope for those trying to flee US financial coercion and abuse.](https://12ft.io/https://news.un.org/en/news/opinion/article/3293041/how-america-ended-creating-adversarial-brics-today)
-
-[Trump’s pick of Rubio as top US diplomat leaves Latin America bracingLong-time outspoken China critic raises concerns in region he might press governments to choose sides between Washington and Beijing.](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3292807/donald-trumps-choice-marco-rubio-top-us-diplomat-leaves-latin-america-bracing)
-
-[Opinion|Trump’s threats won’t hold back Brics push to de-dollariseUS dominance is pervasive but not infallible, and a divided Brics can still find common ground in the pursuit of a multipolar global order.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3292754/trumps-threats-wont-hold-back-brics-push-de-dollarise)
-
-[Opinion|Besides the border, 4 issues obstruct warmer China-India tiesBoth nations share similarities but also sharp differences in how they see the international order, its future, multipolarity and the Global South.](https://12ft.io/https://news.un.org/en/news/opinion/asia-opinion/article/3291770/besides-border-4-issues-obstruct-warmer-china-india-ties)
-
-[Asian Angle|Why Asean’s neutrality is our greatest asset in a divided worldAs Malaysia prepares to assume the 2025 Asean chair, its trade minister argues for a unified approach to navigate the US-China rivalry.](https://12ft.io/https://news.un.org/en/news/week-asia/opinion/article/3290622/why-aseans-neutrality-our-greatest-asset-divided-world)
-
-[Xi Jinping tells Medvedev China seeks political solution to Ukraine crisisChina’s president says two countries should ‘promote the development of the international order in a more just and reasonable direction’.](https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3290562/china-russia-ties-xi-jinping-tells-medvedev-beijing-seeks-political-solution-ukraine)
-
-[Outside In|Trump’s destructive impact on world trade could take decades to unravelThe president-elect is doubling down on policies that did not serve the US well during his first term in the White House.](https://12ft.io/https://news.un.org/en/news/opinion/world-opinion/article/3289614/trumps-destructive-impact-world-trade-could-take-decades-unravel)
+170 - <a href='https://www.google.com/search?q=Xi+Jinping+tells+Medvedev+China+seeks+political+solution+to+Ukraine+crisisChina%E2%80%99s+president+says+two+countries+should+%E2%80%98promote+the+development+of+the+international+order+in+a+more+just+and+reasonable+direction%E2%80%99.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://news.un.org/en/news/news/china/diplomacy/article/3290562/china-russia-ties-xi-jinping-tells-medvedev-beijing-seeks-political-solution-ukraine' target='_blank' rel='noopener noreferrer'>Xi Jinping tells Medvedev China seeks political solution to Ukraine crisisChina’s president says two countries should ‘promote the development of the international order in a more just and reasonable direction’.</a>
 
 </details>
 
@@ -631,137 +362,221 @@ in Ouagadougou, amid heavy security](https://12ft.io/https://news.un.org/en/news
 <summary>View Articles</summary>
 <br>
 
-[Zelenskyy meets with Starmer at Downing Street](https://12ft.io/https://abcnews.go.com/International/zelenskyy-receives-warm-british-prime-minister-day-after/story?id=119330505)
+1 - <a href='https://www.google.com/search?q=Trump+blasts+Zelenskyy+for+saying+peace+is+%27far%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/zelenskyy-us-support-after-week-tough-diplomacy-urges/story?id=119376839' target='_blank' rel='noopener noreferrer'>Trump blasts Zelenskyy for saying peace is 'far'</a>
 
-[Pope resting after respiratory condition worsens](https://12ft.io/https://abcnews.go.com/International/pope-francis-resting-after-respiratory-condition-suddenly-worsens/story?id=119319218)
+2 - <a href='https://www.google.com/search?q=2+dead+after+vehicle+drives+into+crowd' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/police-operation-german-city-mannheim/story?id=119198884' target='_blank' rel='noopener noreferrer'>2 dead after vehicle drives into crowd</a>
 
-[The Latest: Zelenskyy moves on after Oval Office blowout with Trump](https://12ft.io/https://abcnews.go.com/International/wireStory/latest-zelenskyy-moves-after-oval-office-blowout-trump-119320013)
+3 - <a href='https://www.google.com/search?q=Pope+suffers+2+episodes+of+respiratory+failure' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/pope-francis-rested-17th-night-hospital-vatican/story?id=119376369' target='_blank' rel='noopener noreferrer'>Pope suffers 2 episodes of respiratory failure</a>
 
-[Satellite images show new structures at Guantanamo](https://12ft.io/https://abcnews.go.com/International/satellite-analysis-shows-rapid-dash-house-migrants-guantanamo/story?id=119266840)
+4 - <a href='https://www.google.com/search?q=The+move+by+former+slaves+still+celebrated+today' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/effort-resettle-enslaved-black-americans-created-liberia/story?id=119207251' target='_blank' rel='noopener noreferrer'>The move by former slaves still celebrated today</a>
 
-[Ukraine parliament affirms no wartime elections](https://12ft.io/https://abcnews.go.com/International/ukraine-parliament-affirms-elections-wartime-rebuff-trump/story?id=116193627)
+5 - <a href='https://www.google.com/search?q=British+PM+announces+framework+for+peace+plan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/zelenskyy-set-european-summit-london-after-trump-showdown/story?id=119338966' target='_blank' rel='noopener noreferrer'>British PM announces framework for peace plan</a>
 
-[Andrew Tate and brother land in Florida](https://12ft.io/https://abcnews.go.com/International/andrew-tristan-tate-travel-restrictions-lifted-romanian-officials/story?id=119243973)
+6 - <a href='https://www.google.com/search?q=Fire+at+key+Russian+oil+facility+amid+drone+attack' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/fire-erupts-key-oil-facility-deep-inside-russia/story?id=119378261' target='_blank' rel='noopener noreferrer'>Fire at key Russian oil facility amid drone attack</a>
 
-[Macron fact-checks Trump at the White House](https://12ft.io/https://abcnews.go.com/International/macron-warns-trump-careful-ukraine-fact-checks-white/story?id=119157061)
+7 - <a href='https://www.google.com/search?q=Ukraine+parliament+affirms+no+wartime+elections' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/ukraine-parliament-affirms-elections-wartime-rebuff-trump/story?id=116193627' target='_blank' rel='noopener noreferrer'>Ukraine parliament affirms no wartime elections</a>
 
-[Family of US marine veteran killed in Ukraine tells funeral in Kyiv he died fighting for freedom](https://12ft.io/https://abcnews.go.com/International/wireStory/family-us-marine-veteran-killed-ukraine-tells-funeral-119290280)
+8 - <a href='https://www.google.com/search?q=Andrew+Tate+and+brother+land+in+Florida' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/andrew-tristan-tate-travel-restrictions-lifted-romanian-officials/story?id=119243973' target='_blank' rel='noopener noreferrer'>Andrew Tate and brother land in Florida</a>
 
-[USAID cuts are already hitting countries around the world. Here are 20 projects that have closed](https://12ft.io/https://abcnews.go.com/International/wireStory/usaid-cuts-hitting-countries-world-20-projects-closed-119320908)
+9 - <a href='https://www.google.com/search?q=Without+US+help%2C+Zelenskyy+has+few+options+except+to+repair+his+relationship+with+the+White+House' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/us-zelenskyy-options-except-repair-relationship-white-house-119400702' target='_blank' rel='noopener noreferrer'>Without US help, Zelenskyy has few options except to repair his relationship with the White House</a>
 
-[Brian Snyder/ReutersTrump, Zelenskyy meeting shocks Europe, delights Russia: AnalysisEuropean leaders and top officials are already rallying behind Zelenskyy.February 28, 2025](https://12ft.io/https://abcnews.go.com/International/tensions-explode-trump-zelenskyy-oval-office-analysis/story?id=119308899)
+10 - <a href='https://www.google.com/search?q=The+Associated+PressPhilippines+confident+Trump+will+uphold+sea+patrols+vs+ChinaThe+Philippines%E2%80%99+top+diplomat+to+the+United+States+expressed+confidence+Monday+that+President+Donald+Trump%E2%80%99s+new+administration+would+continue+military+patrols+in+the+disputed+South+China+Sea+and+move+ahead+with+an+agreed+expansion+of+the+U.S.+military...March+03%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/philippines-confident-trump-continue-military-patrols-china-check-119377552' target='_blank' rel='noopener noreferrer'>The Associated PressPhilippines confident Trump will uphold sea patrols vs ChinaThe Philippines’ top diplomat to the United States expressed confidence Monday that President Donald Trump’s new administration would continue military patrols in the disputed South China Sea and move ahead with an agreed expansion of the U.S. military...March 03, 2025</a>
 
-[3 American women found dead at Belize beach resort: PoliceThe women, ages 23 through 26, were found dead at the Royal Kahal Beach Resort.February 25, 2025](https://12ft.io/https://abcnews.go.com/International/3-american-women-found-dead-belize-beach-resort/story?id=119174519)
+11 - <a href='https://www.google.com/search?q=Starmer+and+Macron+step+up+to+shape+European+security+as+Trump+roils+relationsThe+leaders+of+Britain+and+France+are+spearheading+a+desperate+diplomatic+drive+to+shore+up+Europe%E2%80%99s+security%2C+bolster+Ukraine%E2%80%99s+defenses+and+ensure+the+Trump+administration+doesn%E2%80%99t+seek+a+ceasefire+on+terms+that+reward+Moscow+for+invading+its+neighborMarch+03%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/starmer-macron-step-shape-european-security-trump-roils-119397283' target='_blank' rel='noopener noreferrer'>Starmer and Macron step up to shape European security as Trump roils relationsThe leaders of Britain and France are spearheading a desperate diplomatic drive to shore up Europe’s security, bolster Ukraine’s defenses and ensure the Trump administration doesn’t seek a ceasefire on terms that reward Moscow for invading its neighborMarch 03, 2025</a>
 
-[What the potential outcomes of ending the Ukraine-Russia war might look likeUkraine has been put in an "uncomfortable" position, an analyst says.February 21, 2025](https://12ft.io/https://abcnews.go.com/International/russia-ukraine-war-peace-talks-settlement/story?id=118798577)
+12 - <a href='https://www.google.com/search?q=The+Latest%3A+Zelenskyy+moves+on+after+Oval+Office+blowout+with+TrumpUkrainian+President+Volodymyr+Zelenskyy+has+thanked+the+American+people+and+leadership+and+voiced+hope+for+%E2%80%9Cstrong+relations%2C%E2%80%9D+a+day+after+an+astonishing+Oval+Office+blowout+with+U.S.+President+Donald+Trump+that+left+many+uncertain+where+the+once+staun...March+01%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/latest-zelenskyy-moves-after-oval-office-blowout-trump-119320013' target='_blank' rel='noopener noreferrer'>The Latest: Zelenskyy moves on after Oval Office blowout with TrumpUkrainian President Volodymyr Zelenskyy has thanked the American people and leadership and voiced hope for “strong relations,” a day after an astonishing Oval Office blowout with U.S. President Donald Trump that left many uncertain where the once staun...March 01, 2025</a>
 
-[He lost dozens of family members. Now he wants to leave Gaza behindFadi Rafiq Assaf, 35, told ABC News he wants "to get out of Gaza by any means."March 01, 2025](https://12ft.io/https://abcnews.go.com/International/he-lost-dozens-family-members-now-wants-leave-gaza/story?id=119199442)
+13 - <a href='https://www.google.com/search?q=Macron+pushes+back+on+Trump+claims+at+White+House+meet%2C+warns+him+to+%27be+careful%27The+French+leader+interrupted+Trump+while+he+repeated+grievances+about+U.S.+aid.February+25%2C+2025' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/macron-warns-trump-careful-ukraine-fact-checks-white/story?id=119157061' target='_blank' rel='noopener noreferrer'>Macron pushes back on Trump claims at White House meet, warns him to 'be careful'The French leader interrupted Trump while he repeated grievances about U.S. aid.February 25, 2025</a>
 
-[Zelenskyy receives warm welcome from British PM, a day after White House blowup](https://12ft.io/https://abcnews.go.com/International/zelenskyy-receives-warm-british-prime-minister-day-after/story?id=119330505)
+14 - <a href='https://www.google.com/search?q=Israel+cuts+all+aid+coming+into+Gaza' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/israel-cuts-aid-coming-gaza-119407199' target='_blank' rel='noopener noreferrer'>Israel cuts all aid coming into Gaza</a>
 
-[Ukrainian parliament member reacts to blowout between Zelenskyy and Trump](https://12ft.io/https://abcnews.go.com/International/video/ukrainian-parliament-member-reacts-blowout-zelenskyy-trump-119330526)
+15 - <a href='https://www.google.com/search?q=Lawmakers+in+Ghana+reintroduce+an+anti-LGBTQ%2B+bill+that+sparked+criticism' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/lawmakers-ghana-reintroduce-anti-lgbtq-bill-sparked-criticism-119397795' target='_blank' rel='noopener noreferrer'>Lawmakers in Ghana reintroduce an anti-LGBTQ+ bill that sparked criticism</a>
 
-[Ferragamo pops red with a Milan collection inspired by the world of dance](https://12ft.io/https://abcnews.go.com/International/wireStory/ferragamo-pops-red-milan-collection-inspired-world-dance-119328356)
+16 - <a href='https://www.google.com/search?q=Pope+presented+%272+episodes+of+acute+respiratory+failure%27%3A+Vatican' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/pope-presented-2-episodes-acute-respiratory-failure-vatican-119392987' target='_blank' rel='noopener noreferrer'>Pope presented '2 episodes of acute respiratory failure': Vatican</a>
 
-[Zelenskyy embraced by British prime minister a day after White House blowout](https://12ft.io/https://abcnews.go.com/International/wireStory/zelenskyy-embraced-british-prime-minister-day-after-white-119328081)
+17 - <a href='https://www.google.com/search?q=Israel-Hamas+ceasefire+%E2%80%98exceptionally+fragile%E2%80%99%3A+Former+NATO+ambassador' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/israel-hamas-ceasefire-exceptionally-fragile-former-nato-ambassador-119391787' target='_blank' rel='noopener noreferrer'>Israel-Hamas ceasefire ‘exceptionally fragile’: Former NATO ambassador</a>
 
-[Pope Francis remains stable after coughing attack worsened respiratory condition](https://12ft.io/https://abcnews.go.com/International/pope-francis-resting-after-respiratory-condition-suddenly-worsens/story?id=119319218)
+18 - <a href='https://www.google.com/search?q=2+dead%2C+several+injured+after+vehicle+drives+into+crowd' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/2-dead-injured-after-vehicle-drives-crowd-119391803' target='_blank' rel='noopener noreferrer'>2 dead, several injured after vehicle drives into crowd</a>
 
-[Turkey's Kurds wary of path to peace after PKK declares ceasefire](https://12ft.io/https://abcnews.go.com/International/wireStory/turkeys-kurds-wary-path-peace-after-pkk-declares-119326972)
+19 - <a href='https://www.google.com/search?q=Families%2C+revelers+party+side-by-side+in+traditional+Carnival+in+Sao+Paulo+town' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/families-revelers-party-side-side-traditional-carnival-sao-119391800' target='_blank' rel='noopener noreferrer'>Families, revelers party side-by-side in traditional Carnival in Sao Paulo town</a>
 
-[Guyana's president denounces Venezuelan incursion in offshore oil field operated by ExxonMobil](https://12ft.io/https://abcnews.go.com/International/wireStory/guyanas-president-denounces-venezuelan-incursion-offshore-oil-field-119325990)
+20 - <a href='https://www.google.com/search?q=France%27s+prime+minister+tears+into+Trump%27s+attack+on+Zelenskyy+as+a+staggering+show+of+%27brutality%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/frances-prime-minister-tears-trumps-attack-zelenskyy-staggering-119391042' target='_blank' rel='noopener noreferrer'>France's prime minister tears into Trump's attack on Zelenskyy as a staggering show of 'brutality'</a>
 
-[USAID cuts are already hitting countries around the world. Here are 20 projects that have closed](https://12ft.io/https://abcnews.go.com/International/wireStory/usaid-cuts-hitting-countries-world-20-projects-closed-119320908)
+21 - <a href='https://www.google.com/search?q=Kremlin+%E2%80%98happy%E2%80%99+with+fiery+Oval+Office+meeting%3A+Ukraine+lawmaker' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/kremlin-happy-fiery-oval-office-meeting-ukraine-lawmaker-119390395' target='_blank' rel='noopener noreferrer'>Kremlin ‘happy’ with fiery Oval Office meeting: Ukraine lawmaker</a>
 
-[He lost dozens of family members. Now he wants to leave Gaza behind](https://12ft.io/https://abcnews.go.com/International/he-lost-dozens-family-members-now-wants-leave-gaza/story?id=119199442)
+22 - <a href='https://www.google.com/search?q=International+headlines+from+ABC+News' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/international-headlines-abc-news-97831817' target='_blank' rel='noopener noreferrer'>International headlines from ABC News</a>
 
-[Palestinian man finds his Gaza home in ruins](https://12ft.io/https://abcnews.go.com/International/video/palestinian-man-finds-gaza-home-ruins-119320568)
+23 - <a href='https://www.google.com/search?q=A+South+African+woman+goes+on+trial+charged+with+kidnapping+and+selling+her+daughter' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/south-african-woman-trial-charged-kidnapping-selling-daughter-119386359' target='_blank' rel='noopener noreferrer'>A South African woman goes on trial charged with kidnapping and selling her daughter</a>
 
-[The Latest: Zelenskyy moves on after Oval Office blowout with Trump](https://12ft.io/https://abcnews.go.com/International/wireStory/latest-zelenskyy-moves-after-oval-office-blowout-trump-119320013)
+24 - <a href='https://www.google.com/search?q=Pope+Francis+%27rested+well%27+on+17th+night+in+hospital%2C+Vatican+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/pope-francis-rested-17th-night-hospital-vatican-119383442' target='_blank' rel='noopener noreferrer'>Pope Francis 'rested well' on 17th night in hospital, Vatican says</a>
 
-[The Latest: A day inside Brazil's wild Carnival parties](https://12ft.io/https://abcnews.go.com/International/wireStory/latest-day-inside-brazils-wild-carnival-parties-119319921)
+25 - <a href='https://www.google.com/search?q=King+Charles+III+welcomes+Canada%27s+Trudeau+for+private+talks+at+royal+residence' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/king-charles-iii-welcomes-canadas-trudeau-private-talks-119385001' target='_blank' rel='noopener noreferrer'>King Charles III welcomes Canada's Trudeau for private talks at royal residence</a>
 
-[Satellite analysis shows rapid dash to house migrants at Guantanamo Bay](https://12ft.io/https://abcnews.go.com/International/satellite-analysis-shows-rapid-dash-house-migrants-guantanamo/story?id=119266840)
+26 - <a href='https://www.google.com/search?q=1+dead%2C+several+injured+after+vehicle+drives+into+crowd' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/1-dead-injured-after-vehicle-drives-crowd-119383444' target='_blank' rel='noopener noreferrer'>1 dead, several injured after vehicle drives into crowd</a>
 
-[Hamas says there's been 'no progress' on second ceasefire phase in indirect talks with Israel](https://12ft.io/https://abcnews.go.com/International/wireStory/hamas-progress-ceasefire-phase-indirect-talks-israel-119319439)
+27 - <a href='https://www.google.com/search?q=Japan+fights+forest+fire+that%27s+damaged+dozens+of+homes%2C+caused+hundreds+to+evacuate' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/japan-fights-forest-fire-damaged-dozens-homes-caused-119382053' target='_blank' rel='noopener noreferrer'>Japan fights forest fire that's damaged dozens of homes, caused hundreds to evacuate</a>
 
-[At least 4 construction workers are killed in an avalanche in northern India](https://12ft.io/https://abcnews.go.com/International/wireStory/4-construction-workers-killed-avalanche-northern-india-119319142)
+28 - <a href='https://www.google.com/search?q=Kenya+court+allows+police+to+hold+suspects+linked+to+British+man%27s+death' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/kenya-court-allows-police-hold-suspects-linked-british-119380487' target='_blank' rel='noopener noreferrer'>Kenya court allows police to hold suspects linked to British man's death</a>
 
-[Thousands attend funeral for senior Taliban-linked cleric slain in Pakistan's northwest](https://12ft.io/https://abcnews.go.com/International/wireStory/thousands-attend-funeral-senior-taliban-linked-cleric-slain-119319029)
+29 - <a href='https://www.google.com/search?q=UN+rights+chief+laments+%27shift+in+direction%27+in+United+States' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/rights-chief-laments-shift-direction-united-states-119380030' target='_blank' rel='noopener noreferrer'>UN rights chief laments 'shift in direction' in United States</a>
 
-[Pope rests after setback in recovery — a bronchial spasm requiring further ventilation](https://12ft.io/https://abcnews.go.com/International/wireStory/pope-rests-after-setback-recovery-bronchial-spasm-requiring-119318935)
+30 - <a href='https://www.google.com/search?q=Man+who+saved+2.4+million+babies+by+donating+blood+dies+at+88' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/man-saved-24-million-babies-donating-blood-dies-119378159' target='_blank' rel='noopener noreferrer'>Man who saved 2.4 million babies by donating blood dies at 88</a>
 
-[Kurdish militants declare ceasefire in 40-year insurgency in Turkey](https://12ft.io/https://abcnews.go.com/International/wireStory/kurdish-militants-declare-ceasefire-40-year-insurgency-turkey-119318833)
+31 - <a href='https://www.google.com/search?q=Inflation+eases+to+2.4%25+in+Europe%2C+supporting+likely+central+bank+rate+cut' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/inflation-eases-24-europe-supporting-central-bank-rate-119378031' target='_blank' rel='noopener noreferrer'>Inflation eases to 2.4% in Europe, supporting likely central bank rate cut</a>
 
-[Life imitates art as Pope Francis fights pneumonia while 'Conclave' heads into Academy Awards](https://12ft.io/https://abcnews.go.com/International/wireStory/life-imitates-art-pope-francis-fights-pneumonia-conclave-119318436)
+32 - <a href='https://www.google.com/search?q=Austria%27s+new+government+takes+office+after+a+5-month+wait+for+a+new+administration' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/austrias-new-government-takes-office-after-5-month-119377762' target='_blank' rel='noopener noreferrer'>Austria's new government takes office after a 5-month wait for a new administration</a>
 
-[Boats collide on river in southern China, killing at least 11 people](https://12ft.io/https://abcnews.go.com/International/wireStory/boats-collide-river-southern-china-killing-11-people-119315824)
+33 - <a href='https://www.google.com/search?q=What+to+watch+for+at+China%E2%80%99s+major+political+event+this+week' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/watch-chinas-major-political-event-week-119377553' target='_blank' rel='noopener noreferrer'>What to watch for at China’s major political event this week</a>
 
-[Millions of Muslims in Indonesia mark the start of the holy month of Ramadan](https://12ft.io/https://abcnews.go.com/International/wireStory/millions-muslims-indonesia-mark-start-holy-month-ramadan-119313365)
+34 - <a href='https://www.google.com/search?q=West+African+mission+sent+to+Guinea-Bissau+to+resolve+dispute+leaves+after+threats' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/west-african-mission-guinea-bissau-resolve-dispute-leaves-119377550' target='_blank' rel='noopener noreferrer'>West African mission sent to Guinea-Bissau to resolve dispute leaves after threats</a>
 
-[After Oval Office blowout, Ukrainians rally around Zelenskyy as defender of Ukraine's interests](https://12ft.io/https://abcnews.go.com/International/wireStory/after-oval-office-blowout-ukrainians-rally-zelenskyy-defender-119313364)
+35 - <a href='https://www.google.com/search?q=Pope+appears+to+be+overcoming+a+setback+in+his+recovery+from+pneumonia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/pope-appears-overcoming-setback-recovery-pneumonia-119376552' target='_blank' rel='noopener noreferrer'>Pope appears to be overcoming a setback in his recovery from pneumonia</a>
 
-[Versace struts confident collection as rumors swirl that the Milan fashion mainstay is on the market](https://12ft.io/https://abcnews.go.com/International/wireStory/versace-struts-confident-collection-rumors-swirl-milan-fashion-119312805)
+36 - <a href='https://www.google.com/search?q=Asylum+cases+in+Europe+fell+11%25+last+year.+Here%27s+a+look+at+the+numbers' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/asylum-cases-europe-fell-11-year-numbers-119376359' target='_blank' rel='noopener noreferrer'>Asylum cases in Europe fell 11% last year. Here's a look at the numbers</a>
 
-[European leaders pledge to stand by Ukraine after confrontational Oval Office meeting with Trump](https://12ft.io/https://abcnews.go.com/International/wireStory/european-leaders-pledge-stand-ukraine-after-confrontational-oval-119311634)
+37 - <a href='https://www.google.com/search?q=Myanmar%27s+head+of+military+government+travels+to+ally+Russia+for+talks+with+Putin' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/myanmars-head-military-government-travels-ally-russia-talks-119376179' target='_blank' rel='noopener noreferrer'>Myanmar's head of military government travels to ally Russia for talks with Putin</a>
 
-[Trump, Zelenskyy meeting shocks Europe, delights Russia: Analysis](https://12ft.io/https://abcnews.go.com/International/tensions-explode-trump-zelenskyy-oval-office-analysis/story?id=119308899)
+38 - <a href='https://www.google.com/search?q=Australian+navy+rescues+adventurer+who+hit+a+cyclone+while+rowing+across+the+Pacific+Ocean' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/australian-navy-rescues-adventurer-hit-cyclone-rowing-pacific-119375892' target='_blank' rel='noopener noreferrer'>Australian navy rescues adventurer who hit a cyclone while rowing across the Pacific Ocean</a>
 
-[Pope Francis has 'sudden worsening' of respiratory condition: Vatican](https://12ft.io/https://abcnews.go.com/International/pope-showing-improvement-continues-recover-hospital/story?id=119282546)
+39 - <a href='https://www.google.com/search?q=%27Wildlife+corridors%27+are+encouraged+to+support+Kenya%27s+recovering+animal+populations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/wildlife-corridors-encouraged-support-kenyas-recovering-animal-populations-119375410' target='_blank' rel='noopener noreferrer'>'Wildlife corridors' are encouraged to support Kenya's recovering animal populations</a>
 
-[Pope Francis has 'sudden worsening' of respiratory condition: Vatican](https://12ft.io/https://abcnews.go.com/International/video/pope-francis-sudden-worsening-respiratory-condition-vatican-119303597)
+40 - <a href='https://www.google.com/search?q=Cartel-plagued+Mexican+city+pins+hopes+on+Trump%27s+anti-drug+trafficking+pressure' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/cartel-plagued-mexican-city-pins-hopes-trumps-anti-119374194' target='_blank' rel='noopener noreferrer'>Cartel-plagued Mexican city pins hopes on Trump's anti-drug trafficking pressure</a>
 
-[China strongly opposes Trump’s tariff threat](https://12ft.io/https://abcnews.go.com/International/video/china-strongly-opposes-trumps-tariff-threat-119293876)
+41 - <a href='https://www.google.com/search?q=UK+prime+minister+announces+framework+for+peace+plan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/uk-prime-minister-announces-framework-peace-plan-119352010' target='_blank' rel='noopener noreferrer'>UK prime minister announces framework for peace plan</a>
 
-[Zelenskyy must ‘use his charm’ in meeting with Trump](https://12ft.io/https://abcnews.go.com/International/video/zelenskyy-charm-meeting-trump-119293892)
+42 - <a href='https://www.google.com/search?q=Firefly%27s+Blue+Ghost+has+successful+moon+landing' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/fireflys-blue-ghost-successful-moon-landing-119351609' target='_blank' rel='noopener noreferrer'>Firefly's Blue Ghost has successful moon landing</a>
 
-[International headlines from ABC News](https://12ft.io/https://abcnews.go.com/International/video/international-headlines-abc-news-97831817)
+43 - <a href='https://www.google.com/search?q=Trudeau+to+bring+up+Trump%27s+threat+to+annex+Canada+in+meeting+with+King+Charles' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/trudeau-bring-trumps-threat-annex-canada-meeting-king-119351296' target='_blank' rel='noopener noreferrer'>Trudeau to bring up Trump's threat to annex Canada in meeting with King Charles</a>
 
-[A Myanmar online news site says its jailed journalist is tortured for revealing abuses of prisoners](https://12ft.io/https://abcnews.go.com/International/wireStory/myanmar-online-news-site-jailed-journalist-tortured-revealing-119292549)
+44 - <a href='https://www.google.com/search?q=Vatican+says+Pope+Francis+remains+%27stable%27' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/vatican-pope-francis-remains-stable-119349004' target='_blank' rel='noopener noreferrer'>Vatican says Pope Francis remains 'stable'</a>
 
-[German election winner Merz and center-left rivals start sounding out a possible coalition](https://12ft.io/https://abcnews.go.com/International/wireStory/german-election-winner-merz-center-left-rivals-start-119290565)
+45 - <a href='https://www.google.com/search?q=Zelenskyy+meets+with+European+leaders+to+discuss+peace+plan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/zelenskyy-meets-european-leaders-discuss-peace-plan-119349011' target='_blank' rel='noopener noreferrer'>Zelenskyy meets with European leaders to discuss peace plan</a>
 
-[Pope showing 'improvement' as he continues to recover in hospital](https://12ft.io/https://abcnews.go.com/International/video/pope-showing-improvement-continues-recover-hospital-119289599)
+46 - <a href='https://www.google.com/search?q=Israel+block+on+Gaza+aid+coordinated+with+Trump+administration%2C+Israeli+source+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/israel-blocks-aid-gaza-hamas-ceasefire-phase-1/story?id=119338884' target='_blank' rel='noopener noreferrer'>Israel block on Gaza aid coordinated with Trump administration, Israeli source says</a>
 
-[What’s next as phase one of the Israel-Hamas ceasefire is set to end?](https://12ft.io/https://abcnews.go.com/International/video/whats-phase-israel-hamas-ceasefire-set-end-119289604)
+47 - <a href='https://www.google.com/search?q=Israel+has+cut+off+all+supplies+to+Gaza.+Here%27s+what+that+means' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/israel-cut-off-supplies-gaza-means-119349009' target='_blank' rel='noopener noreferrer'>Israel has cut off all supplies to Gaza. Here's what that means</a>
 
-[Family of US marine veteran killed in Ukraine tells funeral in Kyiv he died fighting for freedom](https://12ft.io/https://abcnews.go.com/International/wireStory/family-us-marine-veteran-killed-ukraine-tells-funeral-119290280)
+48 - <a href='https://www.google.com/search?q=Pope+Francis%27+condition+remains+%27stable%2C%27+Vatican+says' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/pope-francis-quiet-night-hospital-vatican/story?id=119339072' target='_blank' rel='noopener noreferrer'>Pope Francis' condition remains 'stable,' Vatican says</a>
 
-[Just 1 voter backed AfD in Germany's smallest town](https://12ft.io/https://abcnews.go.com/International/wireStory/1-voter-backed-afd-germanys-smallest-town-119290276)
+49 - <a href='https://www.google.com/search?q=Israel+blocks+all+aid+to+Gaza%3A+Netanyahu%27s+office' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/israel-blocks-aid-gaza-netanyahus-office-119346209' target='_blank' rel='noopener noreferrer'>Israel blocks all aid to Gaza: Netanyahu's office</a>
 
-[Turkey seeks dissolution of PKK-linked groups in Syria and Iraq, following leader's peace plea](https://12ft.io/https://abcnews.go.com/International/wireStory/turkey-seeks-dissolution-pkk-linked-groups-syria-iraq-119289565)
+50 - <a href='https://www.google.com/search?q=Prominent+Lebanese+Druze+leader+says+he+will+visit+Syria+soon+as+tensions+with+Israel+simmer' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/prominent-lebanese-druze-leader-visit-syria-tensions-israel-119345519' target='_blank' rel='noopener noreferrer'>Prominent Lebanese Druze leader says he will visit Syria soon as tensions with Israel simmer</a>
 
-[UK's international development minister quits after foreign aid cut](https://12ft.io/https://abcnews.go.com/International/wireStory/uks-international-development-minister-quits-after-foreign-aid-119285846)
+51 - <a href='https://www.google.com/search?q=Rocky+the+bear+rescued+from+abuse+and+relocated+for+medical+treatment' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/rocky-bear-rescued-abuse-pakistans-east-relocated-capital-119340860' target='_blank' rel='noopener noreferrer'>Rocky the bear rescued from abuse and relocated for medical treatment</a>
 
-[Mourners bury one of the last hostages released from Gaza](https://12ft.io/https://abcnews.go.com/International/wireStory/mourners-bury-hostages-released-gaza-talks-start-ceasefire-119284566)
+52 - <a href='https://www.google.com/search?q=A+samba+school+rises+to+Rio+Carnival%27s+top+league%2C+bringing+an+economic+boom+to+its+poor+residents' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/samba-school-rises-rio-carnivals-top-league-bringing-119340691' target='_blank' rel='noopener noreferrer'>A samba school rises to Rio Carnival's top league, bringing an economic boom to its poor residents</a>
 
-[Cyclone Garance hits French Indian Ocean island of Reunion, residents urged to stay indoors](https://12ft.io/https://abcnews.go.com/International/wireStory/cyclone-garance-hits-french-indian-ocean-island-reunion-119283832)
+53 - <a href='https://www.google.com/search?q=The+Latest%3A+Britain+is+hosting+a+summit+of+European+leaders+to+shore+up+support+for+Zelenskyy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/latest-britain-hosting-summit-european-leaders-shore-support-119339530' target='_blank' rel='noopener noreferrer'>The Latest: Britain is hosting a summit of European leaders to shore up support for Zelenskyy</a>
 
-[Takeaways from Keir Starmer's trip to Washington](https://12ft.io/https://abcnews.go.com/International/wireStory/good-rapport-mixed-signals-ukraine-takeaways-keir-starmers-119283383)
+54 - <a href='https://www.google.com/search?q=US+aircraft+carrier+arrives+in+South+Korea+days+after+North+Korea+test-fired+missiles' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/wireStory/us-aircraft-carrier-arrives-south-korea-days-after-119338883' target='_blank' rel='noopener noreferrer'>US aircraft carrier arrives in South Korea days after North Korea test-fired missiles</a>
 
-[Suicide bomb at a seminary in northwest Pakistan kills top cleric and 5 others ahead of Ramadan](https://12ft.io/https://abcnews.go.com/International/wireStory/suicide-bomb-seminary-northwest-pakistan-kills-top-cleric-119283059)
+55 - <a href='https://www.google.com/search?q=The+seesaw+relationship+between+North+Korea+and+the+US' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/photos/seesaw-relationship-north-korea-united-states-47617657' target='_blank' rel='noopener noreferrer'>The seesaw relationship between North Korea and the US</a>
 
-[At least 41 workers are trapped after being swept away by an avalanche in northern India](https://12ft.io/https://abcnews.go.com/International/wireStory/41-workers-trapped-after-swept-avalanche-northern-india-119282881)
+56 - <a href='https://www.google.com/search?q=Dramatic+images+from+the+Hong+Kong+protests' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/photos/protests-bring-hong-kong-standstill-64948712' target='_blank' rel='noopener noreferrer'>Dramatic images from the Hong Kong protests</a>
 
-[Pope reaches 2-week mark at hospital with pneumonia and doctors suggest he's overcome the worst](https://12ft.io/https://abcnews.go.com/International/wireStory/pope-reaches-2-week-mark-hospital-pneumonia-doctors-119282730)
+57 - <a href='https://www.google.com/search?q=US+forces+kill+senior+terrorist+leader+in+Syria' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://abcnews.go.com/International/video/us-forces-kill-senior-terrorist-leader-syria-85840385' target='_blank' rel='noopener noreferrer'>US forces kill senior terrorist leader in Syria</a>
 
-[Meet Bernd das Brot, a depressed German loaf of bread that's spent 25 years as a TV cult classic](https://12ft.io/https://abcnews.go.com/International/wireStory/meet-bernd-das-brot-depressed-german-loaf-bread-119282236)
+</details>
 
-[As anger mounts over rail disaster in Greece, workers strike and thousands are expected to protest](https://12ft.io/https://abcnews.go.com/International/wireStory/anger-mounts-rail-disaster-greece-workers-strike-thousands-119282057)
+# NDTV
 
-[A Christian town in Syria keeps the biblical language of Aramaic alive. But it fears for its future](https://12ft.io/https://abcnews.go.com/International/wireStory/christian-town-syria-biblical-language-aramaic-alive-fears-119281223)
+<details>
+<summary>View Articles</summary>
+<br>
 
-[Panama, Costa Rica turning into a 'black hole' for deportees from US, observers warn](https://12ft.io/https://abcnews.go.com/International/wireStory/panama-costa-rica-turning-black-hole-migrants-deportees-119281219)
+1 - <a href='https://www.google.com/search?q=NDTV+World+-+US+Stream' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world/live-tv-ndtv24x7-usa#pfrom=home-nav' target='_blank' rel='noopener noreferrer'>NDTV World - US Stream</a>
 
-[Tens of thousands of Palestinians seek shelter after Israeli assaults across the West Bank](https://12ft.io/https://abcnews.go.com/International/wireStory/tens-thousands-palestinians-seek-shelter-after-israeli-assaults-119280768)
+2 - <a href='https://www.google.com/search?q=NDTV+World+-+UK+Stream' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world/live-tv-ndtv24x7-uk#pfrom=home-nav' target='_blank' rel='noopener noreferrer'>NDTV World - UK Stream</a>
 
-[Russian tourist dies after being attacked by sharks in Philippine diving spot, another drowns](https://12ft.io/https://abcnews.go.com/International/wireStory/russian-tourist-dies-after-attacked-sharks-philippine-diving-119279096)
+3 - <a href='https://www.google.com/search?q=Woman+From+UP%2C+On+Death+Row+For+Killing+A+Child%2C+Executed+In+UAE' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/woman-from-up-on-death-row-for-killing-a-child-executed-in-uae-7837674#pfrom=home-ndtvworld_world_top_scroll' target='_blank' rel='noopener noreferrer'>Woman From UP, On Death Row For Killing A Child, Executed In UAE</a>
 
-[The seesaw relationship between North Korea and the US](https://12ft.io/https://abcnews.go.com/International/photos/seesaw-relationship-north-korea-united-states-47617657)
+4 - <a href='https://www.google.com/search?q=Car+Drives+Into+Pedestrians+in+Germany%27s+Mannheim+Weeks+After+Munich+Attack' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/car-drives-into-pedestrians-in-germanys-mannheim-weeks-after-munich-attack-7838404#pfrom=home-ndtvworld_world_top_scroll' target='_blank' rel='noopener noreferrer'>Car Drives Into Pedestrians in Germany's Mannheim Weeks After Munich Attack</a>
 
-[Dramatic images from the Hong Kong protests](https://12ft.io/https://abcnews.go.com/International/photos/protests-bring-hong-kong-standstill-64948712)
+5 - <a href='https://www.google.com/search?q=Zelensky%27s+%22Gratitude%22+Video+Message+After+Trump%27s+%22Not+Thankful%22+Charge' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/volodymyr-zelenskys-gratitude-video-message-after-donald-trump-jd-vance-not-thankful-charge-in-argument-at-white-house-oval-office-7833950#pfrom=home-ndtvworld_world_top_scroll' target='_blank' rel='noopener noreferrer'>Zelensky's "Gratitude" Video Message After Trump's "Not Thankful" Charge</a>
 
-[US forces kill senior terrorist leader in Syria](https://12ft.io/https://abcnews.go.com/International/video/us-forces-kill-senior-terrorist-leader-syria-85840385)
+6 - <a href='https://www.google.com/search?q=Indian+Man+Shot+Dead+Trying+To+Cross+Into+Israel+From+Jordan' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/thomas-gabriel-perera-indian-shot-dead-while-trying-to-cross-into-israel-from-jordan-7834619#pfrom=home-ndtvworld_world_top_scroll' target='_blank' rel='noopener noreferrer'>Indian Man Shot Dead Trying To Cross Into Israel From Jordan</a>
+
+7 - <a href='https://www.google.com/search?q=How+Canada%27s+New+Visa+Rules+Are+Becoming+Nightmare+For+Indian+Students' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/how-canadas-new-visa-rules-are-becoming-nightmare-for-indian-students-permit-cancellations-financial-burden-7836384#pfrom=home-ndtvworld_world_top_scroll' target='_blank' rel='noopener noreferrer'>How Canada's New Visa Rules Are Becoming Nightmare For Indian Students</a>
+
+8 - <a href='https://www.google.com/search?q=Video%3AUS+Firefighters+Tackle+Wildfires+In+Carolinas+Amid+Dry%2C+Gusty+Winds' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/video-us-firefighters-tackle-devastating-wildfires-in-carolinas-amid-dry-air-gusty-winds-7835685#pfrom=home-ndtvworld_world_top_scroll' target='_blank' rel='noopener noreferrer'>Video:US Firefighters Tackle Wildfires In Carolinas Amid Dry, Gusty Winds</a>
+
+9 - <a href='https://www.google.com/search?q=Trump+Tariffs+On+Canada%2C+Mexico+To+Go+Live+Tomorrow%2C+But+They+May+Not+Be+25%25' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/trump-tariffs-on-canada-mexico-to-go-live-on-tuesday-but-they-may-not-be-25-7837042#pfrom=home-ndtvworld_world_top_news' target='_blank' rel='noopener noreferrer'>Trump Tariffs On Canada, Mexico To Go Live Tomorrow, But They May Not Be 25%</a>
+
+10 - <a href='https://www.google.com/search?q=After+Trump-Zelensky+Spat%2C+Oscars+Presenter+Daryl+Hannah+says+%22Slava+Ukraine%22' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/oscars-presenter-daryl-hannah-says-slava-ukraine-after-trump-zelensky-spat-7836289#pfrom=home-ndtvworld_world_top_news' target='_blank' rel='noopener noreferrer'>After Trump-Zelensky Spat, Oscars Presenter Daryl Hannah says "Slava Ukraine"</a>
+
+11 - <a href='https://www.google.com/search?q=Pope+Francis%27s+Condition+Stable+But+Complex' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/pope-franciss-condition-stable-but-complex-7833964#pfrom=home-ndtvworld_world_top_news' target='_blank' rel='noopener noreferrer'>Pope Francis's Condition Stable But Complex</a>
+
+12 - <a href='https://www.google.com/search?q=Canadian+Surgeons+Put+%27Tooth%27+In+Blind+Woman%27s+Eye+To+Restore+Her+Vision' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/canadian-surgeons-put-tooth-in-blind-womans-eye-to-restore-her-vision-7836031#pfrom=home-ndtvworld_world_top_news' target='_blank' rel='noopener noreferrer'>Canadian Surgeons Put 'Tooth' In Blind Woman's Eye To Restore Her Vision</a>
+
+13 - <a href='https://www.google.com/search?q=JFK%27s+Shorts+Auctioned+For+Rs+7.95+Lakh%2C+Steve+Jobs%27+Bow+Tie+Draws+4x+Money' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/jfks-shorts-auctioned-for-rs-7-95-lakh-steve-jobs-bow-tie-draws-4x-money-7835829#pfrom=home-ndtvworld_world_top_news' target='_blank' rel='noopener noreferrer'>JFK's Shorts Auctioned For Rs 7.95 Lakh, Steve Jobs' Bow Tie Draws 4x Money</a>
+
+14 - <a href='https://www.google.com/search?q=USAID+Official+Warns+Of+%22Preventable+Deaths%22+From+Trump%27s+Foreign+Aid+Block' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/usaid-official-warns-of-preventable-deaths-from-donald-trumps-foreign-aid-block-7833956#pfrom=home-ndtvworld_world_top_news' target='_blank' rel='noopener noreferrer'>USAID Official Warns Of "Preventable Deaths" From Trump's Foreign Aid Block</a>
+
+15 - <a href='https://www.google.com/search?q=Paddington+Bear+Statue+Stolen+And+Smashed+In+Half%2C+Police+Arrest+Two' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/paddington-bear-statue-stolen-and-smashed-in-half-police-arrest-two-7837493#pfrom=home-ndtvworld_world_featured_articles' target='_blank' rel='noopener noreferrer'>Paddington Bear Statue Stolen And Smashed In Half, Police Arrest Two</a>
+
+16 - <a href='https://www.google.com/search?q=Melting+Ice+Could+Slow+World%27s+Strongest+Ocean+Current%3A+Study' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/global-warming-melting-ice-could-slow-worlds-strongest-ocean-antarctic-current-study-7836383#pfrom=home-ndtvworld_world_featured_articles' target='_blank' rel='noopener noreferrer'>Melting Ice Could Slow World's Strongest Ocean Current: Study</a>
+
+17 - <a href='https://www.google.com/search?q=%22Humour+Fails+When...%22%3A+Musk+As+SNL+Mocks+Him+In+Trump-Zelensky+Clash+Video' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/elon-musk-as-snl-mocks-him-in-donald-trump-volodymyr-zelenskyy-white-house-clash-video-7835844#pfrom=home-ndtvworld_world_featured_articles' target='_blank' rel='noopener noreferrer'>"Humour Fails When...": Musk As SNL Mocks Him In Trump-Zelensky Clash Video</a>
+
+18 - <a href='https://www.google.com/search?q=In+Case+You+Missed+It' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news#pfrom=home-ndtvworld_icymi' target='_blank' rel='noopener noreferrer'>In Case You Missed It</a>
+
+19 - <a href='https://www.google.com/search?q=%22India+Even+More+Beautiful+From+Ground%22%3A+Ex+NASA+Astronaut+Visits+Taj+Mahal' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/india-even-more-beautiful-from-ground-ex-nasa-astronaut-brian-greene-visits-taj-mahal-7832459#pfrom=home-ndtvworld_world_featured_window' target='_blank' rel='noopener noreferrer'>"India Even More Beautiful From Ground": Ex NASA Astronaut Visits Taj Mahal</a>
+
+20 - <a href='https://www.google.com/search?q=Become+aStudent+ReporterforFind+a+Story%2CRecord+It%2CShare+With+Us' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world/user-generated-content' target='_blank' rel='noopener noreferrer'>Become aStudent ReporterforFind a Story,Record It,Share With Us</a>
+
+21 - <a href='https://www.google.com/search?q=US+Spaceship+Hours+Away+From+Daring+Moon+Landing+Attempt' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/firefly-aerospace-blue-ghost-mission-1-us-spaceship-hours-away-from-daring-moon-landing-attempt-near-mons-latreille-7827544#pfrom=home-ndtvworld_world_science&knowledge' target='_blank' rel='noopener noreferrer'>US Spaceship Hours Away From Daring Moon Landing Attempt</a>
+
+22 - <a href='https://www.google.com/search?q=Watch%3A+Stunning+Moment+Lava+Meets+Snow+In+Mount+Etna+Eruption' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/watch-stunning-moment-lava-meets-snow-in-mount-etna-eruption-7763625#pfrom=home-ndtvworld_world_science&knowledge' target='_blank' rel='noopener noreferrer'>Watch: Stunning Moment Lava Meets Snow In Mount Etna Eruption</a>
+
+23 - <a href='https://www.google.com/search?q=Hidden+Cost+Of+COVID-19+Jabs%3F+Study+Links+Vaccine+To+Mysterious+Condition' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/hidden-cost-of-covid-19-jabs-new-study-links-vaccine-to-mysterious-condition-7776787#pfrom=home-ndtvworld_world_science&knowledge' target='_blank' rel='noopener noreferrer'>Hidden Cost Of COVID-19 Jabs? Study Links Vaccine To Mysterious Condition</a>
+
+24 - <a href='https://www.google.com/search?q=US-Funded+NGOs+May+Be+%22Biggest+Scam+Ever%22%3A+Elon+Musk%27s+Big+Charge' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/elon-musk-doge-us-funded-ngos-may-be-biggest-scam-ever-elon-musks-big-charge-7830007#pfrom=home-ndtvworld_india global ' target='_blank' rel='noopener noreferrer'>US-Funded NGOs May Be "Biggest Scam Ever": Elon Musk's Big Charge</a>
+
+25 - <a href='https://www.google.com/search?q=In+India-EU+Talks%2C+Free+Trade+Pact+Gets+Deadline%2C+Europe+Corridor+Gets+Push' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/in-india-eu-talks-free-trade-pact-gets-deadline-europe-corridor-gets-push-7816463#pfrom=home-ndtvworld_india global ' target='_blank' rel='noopener noreferrer'>In India-EU Talks, Free Trade Pact Gets Deadline, Europe Corridor Gets Push</a>
+
+26 - <a href='https://www.google.com/search?q=%27Work+Paused+On+Asian+Highway+Due+To+Myanmar+Situation%27%3A+S+Jaishankar' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/work-paused-on-game-changer-india-myanmar-thailand-highway-due-to-myanmar-situation-says-s-jaishankar-7794510#pfrom=home-ndtvworld_india global ' target='_blank' rel='noopener noreferrer'>'Work Paused On Asian Highway Due To Myanmar Situation': S Jaishankar</a>
+
+27 - <a href='https://www.google.com/search?q=Donald+Trump+Launches+Gold+Card+Visa+Scheme+But+Billionaires+Are+Not+Amused' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/donald-trump-launches-gold-card-visa-scheme-but-billionaires-are-not-amused-7839878#pfrom=home-ndtvworld_world_unitedstates ' target='_blank' rel='noopener noreferrer'>Donald Trump Launches Gold Card Visa Scheme But Billionaires Are Not Amused</a>
+
+28 - <a href='https://www.google.com/search?q=US+Health+Agency+Now+Says+Employees+Must+Respond+To+DOGE+Mails' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/us-health-agency-now-says-employees-must-respond-to-doge-mails-7839594#pfrom=home-ndtvworld_world_unitedstates ' target='_blank' rel='noopener noreferrer'>US Health Agency Now Says Employees Must Respond To DOGE Mails</a>
+
+29 - <a href='https://www.google.com/search?q=Mexico+President+Says+Have+Backup+Plans+If+Trump+Imposes+Tariffs' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/mexico-president-says-have-backup-plans-if-trump-imposes-tariffs-7839361#pfrom=home-ndtvworld_world_unitedstates ' target='_blank' rel='noopener noreferrer'>Mexico President Says Have Backup Plans If Trump Imposes Tariffs</a>
+
+30 - <a href='https://www.google.com/search?q=UK+PM+Announces+%242+Billion+Deal+To+Fund+Air-Defence+Missiles+For+Ukraine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/russia-ukraine-war-uk-pm-keir-starmer-announces-2-billion-deal-to-fund-air-defence-missiles-for-ukraine-7837161#pfrom=home-ndtvworld_world_unitedkingdom ' target='_blank' rel='noopener noreferrer'>UK PM Announces $2 Billion Deal To Fund Air-Defence Missiles For Ukraine</a>
+
+31 - <a href='https://www.google.com/search?q=UK+Police+Discover+Remains+In+Search+For+Woman+Murdered+By+Husband+In+2013' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/uk-police-discover-remains-in-search-for-woman-murdered-by-husband-in-2013-7834462#pfrom=home-ndtvworld_world_unitedkingdom ' target='_blank' rel='noopener noreferrer'>UK Police Discover Remains In Search For Woman Murdered By Husband In 2013</a>
+
+32 - <a href='https://www.google.com/search?q=Israel+PM+Netanyahu+Says+It%27s+Time+To+Give+Gazans+%22Freedom+To+Leave%22' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/israel-pm-benjamin-netanyahu-says-its-time-to-give-gazans-freedom-to-leave-7840141#pfrom=home-ndtvworld_world_middleeast ' target='_blank' rel='noopener noreferrer'>Israel PM Netanyahu Says It's Time To Give Gazans "Freedom To Leave"</a>
+
+33 - <a href='https://www.google.com/search?q=In+A+First+Since+Gaza+Ceasefire%2C+1+Dead+In+Stabbing+Attack+In+Israel' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/in-a-first-since-gaza-ceasefire-1-dead-in-stabbing-attack-in-israel-7838258#pfrom=home-ndtvworld_world_middleeast ' target='_blank' rel='noopener noreferrer'>In A First Since Gaza Ceasefire, 1 Dead In Stabbing Attack In Israel</a>
+
+34 - <a href='https://www.google.com/search?q=Germany+Urges+Israel+To+%22Immediately%22+Stop+Blocking+Gaza+Aid' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/israel-hamas-war-germany-urges-israel-to-immediately-stop-blocking-gaza-aid-7838059#pfrom=home-ndtvworld_world_middleeast ' target='_blank' rel='noopener noreferrer'>Germany Urges Israel To "Immediately" Stop Blocking Gaza Aid</a>
+
+35 - <a href='https://www.google.com/search?q=Russia+Permanently+Bans+Japan%27s+Foreign+Minister+From+Entering+Country' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/russia-permanently-bans-japans-foreign-minister-8-others-from-entering-country-7840042#pfrom=home-ndtvworld_world_asia ' target='_blank' rel='noopener noreferrer'>Russia Permanently Bans Japan's Foreign Minister From Entering Country</a>
+
+36 - <a href='https://www.google.com/search?q=From+US+To+Europe%3A+World%27s+Stand+On+Ending+Russia+Ukraine+War' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/russia-ukraine-war-what-the-world-is-saying-7838010#pfrom=home-ndtvworld_world_asia ' target='_blank' rel='noopener noreferrer'>From US To Europe: World's Stand On Ending Russia Ukraine War</a>
+
+37 - <a href='https://www.google.com/search?q=Taiwan+Was+On+Verge+Of+Becoming+Nuclear+Power.+Then+This+Agent+Alerted+US' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/chang-hsein-yi-almost-made-taiwan-a-nuclear-power-and-then-alerted-the-us-7835278#pfrom=home-ndtvworld_world_asia ' target='_blank' rel='noopener noreferrer'>Taiwan Was On Verge Of Becoming Nuclear Power. Then This Agent Alerted US</a>
+
+38 - <a href='https://www.google.com/search?q=Hours+Before+Trump+Showdown%2C+Zelensky+Was+Warned+Not+To+%22Take+The+Bait%22' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/trump-zelensky-dont-take-the-bait-what-volodymyr-zelensky-was-warned-before-clash-with-donald-trump-7829054#pfrom=home-ndtvworld_world_asia ' target='_blank' rel='noopener noreferrer'>Hours Before Trump Showdown, Zelensky Was Warned Not To "Take The Bait"</a>
+
+39 - <a href='https://www.google.com/search?q=Europe%27s+Ariane+6+Rocket+Called+Off+Minutes+Before+Launch+Due+To+%22Anomaly%22' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/europes-ariane-6-rocket-called-off-minutes-before-launch-due-to-anomaly-7840272#pfrom=home-ndtvworld_world_europe ' target='_blank' rel='noopener noreferrer'>Europe's Ariane 6 Rocket Called Off Minutes Before Launch Due To "Anomaly"</a>
+
+40 - <a href='https://www.google.com/search?q=%22Ready+To+Admit%22%3A+French+Surgeon+On+Trial+For+Abusing+300+Patients' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/ready-to-admit-french-surgeon-on-trial-for-sexually-abusing-almost-300-patients-7839521#pfrom=home-ndtvworld_world_europe ' target='_blank' rel='noopener noreferrer'>"Ready To Admit": French Surgeon On Trial For Abusing 300 Patients</a>
+
+41 - <a href='https://www.google.com/search?q=2+Killed+As+Car+Drives+Into+Crowd+In+Germany%27s+Mannheim' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/car-drives-into-pedestrians-in-germanys-mannheim-weeks-after-munich-attack-7838404#pfrom=home-ndtvworld_world_europe ' target='_blank' rel='noopener noreferrer'>2 Killed As Car Drives Into Crowd In Germany's Mannheim</a>
+
+42 - <a href='https://www.google.com/search?q=Earth%27s+Strongest+Ocean+Current+Is+Slowing+Down%2C+Risking+Dire+Consequences' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/earths-strongest-ocean-current-is-slowing-down-and-it-could-have-devastating-consequences-7839207#pfrom=home-ndtvworld_world_australia ' target='_blank' rel='noopener noreferrer'>Earth's Strongest Ocean Current Is Slowing Down, Risking Dire Consequences</a>
+
+43 - <a href='https://www.google.com/search?q=%22Wasn%27t+Nice%22%3A+Woman+After+Flying+With+Corpse+On+Qatar+Airways+Flight' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/wasnt-nice-woman-after-flying-with-corpse-on-qatar-airways-flight-7798689#pfrom=home-ndtvworld_world_australia ' target='_blank' rel='noopener noreferrer'>"Wasn't Nice": Woman After Flying With Corpse On Qatar Airways Flight</a>
+
+44 - <a href='https://www.google.com/search?q=Why+An+African+Nation+Is+Sending+Samples+To+%22Doomsday%22+Vault+In+The+Arctic' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/why-an-african-nation-is-sending-samples-to-doomsday-vault-in-the-arctic-7793195#pfrom=home-ndtvworld_world_africa ' target='_blank' rel='noopener noreferrer'>Why An African Nation Is Sending Samples To "Doomsday" Vault In The Arctic</a>
+
+45 - <a href='https://www.google.com/search?q=At+Least+48+people+killed+As+Goldmine+Collapses+In+Mali' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/at-least-48-people-killed-as-goldmine-collapses-in-mali-7722553#pfrom=home-ndtvworld_world_africa ' target='_blank' rel='noopener noreferrer'>At Least 48 people killed As Goldmine Collapses In Mali</a>
+
+46 - <a href='https://www.google.com/search?q=Bodies+Of+28+Migrants+Found+In+Mass+Grave+In+Libya' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/bodies-of-28-migrants-found-in-mass-grave-in-libya-7673261#pfrom=home-ndtvworld_world_africa ' target='_blank' rel='noopener noreferrer'>Bodies Of 28 Migrants Found In Mass Grave In Libya</a>
+
+47 - <a href='https://www.google.com/search?q=%22On+Brink+Of+Catastrophe%22%3A+80+Killed+In+Southern+Sudan+Violence%2C+Says+UN' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://www.ndtv.com/world-news/on-brink-of-catastrophe-80-killed-in-southern-sudan-violence-says-un-7648605#pfrom=home-ndtvworld_world_africa ' target='_blank' rel='noopener noreferrer'>"On Brink Of Catastrophe": 80 Killed In Southern Sudan Violence, Says UN</a>
 
 </details>
 
@@ -771,217 +586,151 @@ in Ouagadougou, amid heavy security](https://12ft.io/https://news.un.org/en/news
 <summary>View Articles</summary>
 <br>
 
-[Back to Foreign Policy Magazine home page](https://12ft.io/https://foreignpolicy.com/)
+1 - <a href='https://www.google.com/search?q=Back+to+Foreign+Policy+Magazine+home+page' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/' target='_blank' rel='noopener noreferrer'>Back to Foreign Policy Magazine home page</a>
 
-[Back to Foreign Policy Magazine home page](https://12ft.io/https://foreignpolicy.com/)
+2 - <a href='https://www.google.com/search?q=What+Is+America%E2%80%99s+China+Policy%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/live/trump-america-china-policy/?tpcc=recirc_expanded_nav111523' target='_blank' rel='noopener noreferrer'>What Is America’s China Policy?</a>
 
-[What Is America’s China Policy?](https://12ft.io/https://foreignpolicy.com/live/trump-america-china-policy/?tpcc=recirc_expanded_nav111523)
+3 - <a href='https://www.google.com/search?q=Illustration+with+Adam+Tooze+headshot+on+a+green+background+with+the+text+Ones+%26+ToozeOnes+and+Tooze' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/podcasts/ones-and-tooze/' target='_blank' rel='noopener noreferrer'>Illustration with Adam Tooze headshot on a green background with the text Ones & ToozeOnes and Tooze</a>
 
-[Illustration with Adam Tooze headshot on a green background with the text Ones & ToozeOnes and Tooze](https://12ft.io/https://foreignpolicy.com/podcasts/ones-and-tooze/)
+4 - <a href='https://www.google.com/search?q=Illustration+with+a+male+spy+headshot+and+the+text+I+SpyI+Spy' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/podcasts/ispy/' target='_blank' rel='noopener noreferrer'>Illustration with a male spy headshot and the text I SpyI Spy</a>
 
-[Illustration with a male spy headshot and the text I SpyI Spy](https://12ft.io/https://foreignpolicy.com/podcasts/ispy/)
+5 - <a href='https://www.google.com/search?q=FP+Live+podcast+logoForeign+Policy+Live' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/podcasts/foreign-policy-live/' target='_blank' rel='noopener noreferrer'>FP Live podcast logoForeign Policy Live</a>
 
-[FP Live podcast logoForeign Policy Live](https://12ft.io/https://foreignpolicy.com/podcasts/foreign-policy-live/)
+6 - <a href='https://www.google.com/search?q=FP+at+NATO%E2%80%99s+76th+Summit' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/events/fp-at-natos-76th-summit/?tpcc=recirc_expanded_nav111523' target='_blank' rel='noopener noreferrer'>FP at NATO’s 76th Summit</a>
 
-[FP at NATO’s 76th Summit](https://12ft.io/https://foreignpolicy.com/events/fp-at-natos-76th-summit/?tpcc=recirc_expanded_nav111523)
+7 - <a href='https://www.google.com/search?q=TRUMP%E2%80%99S+SECOND+TERM%3AFP%E2%80%99s+ongoing+updates+from+staff+and+contributors.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/projects/trump-presidency-personnel-cabinet-policy-issues/' target='_blank' rel='noopener noreferrer'>TRUMP’S SECOND TERM:FP’s ongoing updates from staff and contributors.</a>
 
-[TRUMP’S SECOND TERM:FP’s ongoing updates from staff and contributors.](https://12ft.io/https://foreignpolicy.com/projects/trump-presidency-personnel-cabinet-policy-issues/)
+8 - <a href='https://www.google.com/search?q=Could+Trump%E2%80%99s+Favorite+Word+Double+as+Climate+Policy%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/trump-carbon-tariff-china-climate-policy/' target='_blank' rel='noopener noreferrer'>Could Trump’s Favorite Word Double as Climate Policy?</a>
 
-[The Perils of a Reality TV Presidency](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-television-presidency-diplomacy/)
+9 - <a href='https://www.google.com/search?q=Ukraine%E2%80%99s+Minerals+Won%E2%80%99t+Solve+U.S.+Supply+Chain+Problems' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/ukraine-critical-minerals-trump-supply-chains-russia-war/' target='_blank' rel='noopener noreferrer'>Ukraine’s Minerals Won’t Solve U.S. Supply Chain Problems</a>
 
-[Read Trump and Zelensky’s Fiery Oval Office Exchange](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-meeting-transcript-full-text-video-oval-office/)
+10 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Concert+of+Kingpins+Won%E2%80%99t+Work' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/trumps-concert-of-kingpins-wont-work/' target='_blank' rel='noopener noreferrer'>Trump’s Concert of Kingpins Won’t Work</a>
 
-[Trump’s Angry Meeting With Zelensky Prompts Reactions Worldwide](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-white-house-meeting-ukraine-global-reaction/)
+11 - <a href='https://www.google.com/search?q=Containment+Can%E2%80%99t+Win+the+U.S-China+Tech+Race+Alone' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/artificial-intelligence-ai-us-china-competition-deepseek-containment/' target='_blank' rel='noopener noreferrer'>Containment Can’t Win the U.S-China Tech Race Alone</a>
 
-[A Grand Bargain With Russia Would Be a Disaster](https://12ft.io/https://foreignpolicy.com/2025/02/20/trump-china-russia-grand-bargain-nixon/)
+12 - <a href='https://www.google.com/search?q=Documentary+on+West+Bank+Evictions+Wins+Big+at+Oscars' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/west-bank-israel-no-other-land-oscars/?tpcc=recirc_latest062921' target='_blank' rel='noopener noreferrer'>Documentary on West Bank Evictions Wins Big at Oscars</a>
 
-[Shooting an Elephant in Botswana](https://12ft.io/https://foreignpolicy.com/2025/02/28/botswana-elephant-hunting-trophy-wildlife-conservation/)
+13 - <a href='https://www.google.com/search?q=Europe+Proposes+Unified+Position+to+Support+Ukraine' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/starmer-macron-ukraine-russia-nato-security-trump-zelensky/?tpcc=recirc_latest062921' target='_blank' rel='noopener noreferrer'>Europe Proposes Unified Position to Support Ukraine</a>
 
-[AI Is Fighting Modern Slavery, for Better or Worse](https://12ft.io/https://foreignpolicy.com/2025/02/28/ai-slavery-sex-crime-trafficking-santander/?tpcc=recirc_latest062921)
+14 - <a href='https://www.google.com/search?q=Trump+Is+Trying+to+Remake+the+United+Nations' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/trump-united-nations-multilateralism-diplomacy/?tpcc=recirc_latest062921' target='_blank' rel='noopener noreferrer'>Trump Is Trying to Remake the United Nations</a>
 
-[How Democrats Can Win Arab American Voters Back](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-harris-gaza-arab-vote-michigan-2024/?tpcc=recirc_latest062921)
+15 - <a href='https://www.google.com/search?q=Mexico+Tariffs+Put+Guacamole+on+the+Chopping+Block' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/mexico-tariffs-trump-groceries-avocado-food/?tpcc=recirc_latest062921' target='_blank' rel='noopener noreferrer'>Mexico Tariffs Put Guacamole on the Chopping Block</a>
 
-[Will Trump Try to Tip the Scales in Latin America?](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-latin-america-elections-brazil-musk-lawsuit/?tpcc=recirc_latest062921)
+16 - <a href='https://www.google.com/search?q=Three+Years+On%2C+What%E2%80%99s+Next+for+Europe+and+Ukraine%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/21/russia-urkaine-war-anniversary-trump-putin-deal-peace-zelensky-nato-europe-negotiations/' target='_blank' rel='noopener noreferrer'>Three Years On, What’s Next for Europe and Ukraine?</a>
 
-[Three Years On, What’s Next for Europe and Ukraine?](https://12ft.io/https://foreignpolicy.com/2025/02/21/russia-urkaine-war-anniversary-trump-putin-deal-peace-zelensky-nato-europe-negotiations/)
+17 - <a href='https://www.google.com/search?q=Now+That+Trump+Is+Done+With+Europe%2C+Will+Germany+Step+Up%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/21/trump-europe-germany-election-afd/' target='_blank' rel='noopener noreferrer'>Now That Trump Is Done With Europe, Will Germany Step Up?</a>
 
-[Now That Trump Is Done With Europe, Will Germany Step Up?](https://12ft.io/https://foreignpolicy.com/2025/02/21/trump-europe-germany-election-afd/)
+18 - <a href='https://www.google.com/search?q=Is+the+United+States+Europe%E2%80%99s+Ally+or+Adversary%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/21/trump-vance-ukraine-putin-zelensky-munich-speech-ukraine-peace/' target='_blank' rel='noopener noreferrer'>Is the United States Europe’s Ally or Adversary?</a>
 
-[Is the United States Europe’s Ally or Adversary?](https://12ft.io/https://foreignpolicy.com/2025/02/21/trump-vance-ukraine-putin-zelensky-munich-speech-ukraine-peace/)
+19 - <a href='https://www.google.com/search?q=What+It+Means+for+Europe+to+Go+It+Alone' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/20/europe-trump-nato-hegseth-vance-munich-defense-spending/' target='_blank' rel='noopener noreferrer'>What It Means for Europe to Go It Alone</a>
 
-[What It Means for Europe to Go It Alone](https://12ft.io/https://foreignpolicy.com/2025/02/20/europe-trump-nato-hegseth-vance-munich-defense-spending/)
+20 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Europe+Shock+Creates+an+Opening+for+China' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/20/trump-europe-china-tariffs-defense-spending/' target='_blank' rel='noopener noreferrer'>Trump’s Europe Shock Creates an Opening for China</a>
 
-[Trump’s Europe Shock Creates an Opening for China](https://12ft.io/https://foreignpolicy.com/2025/02/20/trump-europe-china-tariffs-defense-spending/)
+21 - <a href='https://www.google.com/search?q=A+Grand+Bargain+With+Russia+Would+Be+a+Disaster' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/20/trump-china-russia-grand-bargain-nixon/' target='_blank' rel='noopener noreferrer'>A Grand Bargain With Russia Would Be a Disaster</a>
 
-[A Grand Bargain With Russia Would Be a Disaster](https://12ft.io/https://foreignpolicy.com/2025/02/20/trump-china-russia-grand-bargain-nixon/)
+22 - <a href='https://www.google.com/search?q=The+New+Meaning+of+%E2%80%98Munich%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/19/europe-trump-vance-munich-security-conference-russia-ukraine/' target='_blank' rel='noopener noreferrer'>The New Meaning of ‘Munich’</a>
 
-[The New Meaning of ‘Munich’](https://12ft.io/https://foreignpolicy.com/2025/02/19/europe-trump-vance-munich-security-conference-russia-ukraine/)
+23 - <a href='https://www.google.com/search?q=Myanmar+Knows+Xi%E2%80%99s+World+Order+Is+a+Con' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/27/myanmar-civil-war-china-xi-jinping-bri-intervention/' target='_blank' rel='noopener noreferrer'>Myanmar Knows Xi’s World Order Is a Con</a>
 
-[Myanmar Knows Xi’s World Order Is a Con](https://12ft.io/https://foreignpolicy.com/2025/02/27/myanmar-civil-war-china-xi-jinping-bri-intervention/)
+24 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Approach+to+Afghanistan+Is+Already+Limited' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/26/afghanistan-trump-taliban-military-weapons/' target='_blank' rel='noopener noreferrer'>Trump’s Approach to Afghanistan Is Already Limited</a>
 
-[Trump’s Approach to Afghanistan Is Already Limited](https://12ft.io/https://foreignpolicy.com/2025/02/26/afghanistan-trump-taliban-military-weapons/)
+25 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Next+Deal+Should+Be+With+Kim+Jong+Un' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/26/trump-kim-north-korea-nuclear-diplomacy-deal/' target='_blank' rel='noopener noreferrer'>Trump’s Next Deal Should Be With Kim Jong Un</a>
 
-[Trump’s Next Deal Should Be With Kim Jong Un](https://12ft.io/https://foreignpolicy.com/2025/02/26/trump-kim-north-korea-nuclear-diplomacy-deal/)
+26 - <a href='https://www.google.com/search?q=Jack+Ma+Is+Back%2C+but+Beijing+Is+in+Control' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/19/jack-ma-alibaba-ai-cloud-xi-china/' target='_blank' rel='noopener noreferrer'>Jack Ma Is Back, but Beijing Is in Control</a>
 
-[Jack Ma Is Back, but Beijing Is in Control](https://12ft.io/https://foreignpolicy.com/2025/02/19/jack-ma-alibaba-ai-cloud-xi-china/)
+27 - <a href='https://www.google.com/search?q=As+Trump+Abandons+Allies%2C+How+Will+China+Respond%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/25/china-trump-strategy-europe-russia-ukraine-alliances/' target='_blank' rel='noopener noreferrer'>As Trump Abandons Allies, How Will China Respond?</a>
 
-[As Trump Abandons Allies, How Will China Respond?](https://12ft.io/https://foreignpolicy.com/2025/02/25/china-trump-strategy-europe-russia-ukraine-alliances/)
+28 - <a href='https://www.google.com/search?q=Xi+Sends+Message+to+China%E2%80%99s+Private+Sector' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/18/china-xi-jinping-ceos-meeting-private-sector-economy/' target='_blank' rel='noopener noreferrer'>Xi Sends Message to China’s Private Sector</a>
 
-[Xi Sends Message to China’s Private Sector](https://12ft.io/https://foreignpolicy.com/2025/02/18/china-xi-jinping-ceos-meeting-private-sector-economy/)
+29 - <a href='https://www.google.com/search?q=What+Trump%E2%80%99s+Steel+Tariffs+Mean+for+China' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/11/china-tariffs-aluminum-steel-trump-industry/' target='_blank' rel='noopener noreferrer'>What Trump’s Steel Tariffs Mean for China</a>
 
-[What Trump’s Steel Tariffs Mean for China](https://12ft.io/https://foreignpolicy.com/2025/02/11/china-tariffs-aluminum-steel-trump-industry/)
+30 - <a href='https://www.google.com/search?q=Rwanda%E2%80%99s+Attack+on+Congo+Could+Plunge+Africa+Into+War' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/rwanda-congo-invasion-africa-conflict/' target='_blank' rel='noopener noreferrer'>Rwanda’s Attack on Congo Could Plunge Africa Into War</a>
 
-[Rwanda’s Attack on Congo Could Plunge Africa Into War](https://12ft.io/https://foreignpolicy.com/2025/02/28/rwanda-congo-invasion-africa-conflict/)
+31 - <a href='https://www.google.com/search?q=South+Africa+VAT+Spat+Delays+Budget' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/26/south-africa-trump-musk-vat-budget-da-anc-eff-coalition/' target='_blank' rel='noopener noreferrer'>South Africa VAT Spat Delays Budget</a>
 
-[South Africa VAT Spat Delays Budget](https://12ft.io/https://foreignpolicy.com/2025/02/26/south-africa-trump-musk-vat-budget-da-anc-eff-coalition/)
+32 - <a href='https://www.google.com/search?q=Israel%E2%80%99s+Actions+Strike+at+the+Foundations+of+International+Law' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/25/israel-war-crimes-trump-international-criminal-court/' target='_blank' rel='noopener noreferrer'>Israel’s Actions Strike at the Foundations of International Law</a>
 
-[Israel’s Actions Strike at the Foundations of International Law](https://12ft.io/https://foreignpolicy.com/2025/02/25/israel-war-crimes-trump-international-criminal-court/)
+33 - <a href='https://www.google.com/search?q=Sudan%E2%80%99s+Army+Is+Part+of+the+Problem%2C+Not+the+Solution' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/20/sudan-rsf-saf-burhan-hemeti-democracy-activists/' target='_blank' rel='noopener noreferrer'>Sudan’s Army Is Part of the Problem, Not the Solution</a>
 
-[Sudan’s Army Is Part of the Problem, Not the Solution](https://12ft.io/https://foreignpolicy.com/2025/02/20/sudan-rsf-saf-burhan-hemeti-democracy-activists/)
+34 - <a href='https://www.google.com/search?q=Europe+Is+Now+Led+by+Its+North' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/europe-led-north-baltics-nordics-ukraine/' target='_blank' rel='noopener noreferrer'>Europe Is Now Led by Its North</a>
 
-[‘September 5’ and the Pitfalls of German Idealism](https://12ft.io/https://foreignpolicy.com/2025/02/27/september-5-film-review-oscars-munich-attacks-germany-military-security/)
+35 - <a href='https://www.google.com/search?q=Read+Trump+and+Zelensky%E2%80%99s+Fiery+Oval+Office+Exchange' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-meeting-transcript-full-text-video-oval-office/' target='_blank' rel='noopener noreferrer'>Read Trump and Zelensky’s Fiery Oval Office Exchange</a>
 
-[Trump’s Proposed Economic Rapprochement With Russia is Wrongheaded](https://12ft.io/https://foreignpolicy.com/2025/02/26/trump-russia-putin-sanctions-ukraine-war/)
+36 - <a href='https://www.google.com/search?q=Trump%E2%80%99s+Proposed+Economic+Rapprochement+With+Russia+is+Wrongheaded' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/26/trump-russia-putin-sanctions-ukraine-war/' target='_blank' rel='noopener noreferrer'>Trump’s Proposed Economic Rapprochement With Russia is Wrongheaded</a>
 
-[What the U.K. Wants from Apple Will Make Our Phones Less Safe](https://12ft.io/https://foreignpolicy.com/2025/02/25/apple-united-kingdom-adp-back-door-less-safe/)
+37 - <a href='https://www.google.com/search?q=What+the+U.K.+Wants+from+Apple+Will+Make+Our+Phones+Less+Safe' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/25/apple-united-kingdom-adp-back-door-less-safe/' target='_blank' rel='noopener noreferrer'>What the U.K. Wants from Apple Will Make Our Phones Less Safe</a>
 
-[Where Does the U.S.-Ukraine Rare-Earth Deal Stand?](https://12ft.io/https://foreignpolicy.com/2025/02/20/trump-ukraine-rare-earth-critical-mineral-security/)
+38 - <a href='https://www.google.com/search?q=Trump+and+George+W.+Bush%E2%80%99s+Common+Cause' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/03/03/trump-george-w-bush-anti-intellectualism-expertise-war/' target='_blank' rel='noopener noreferrer'>Trump and George W. Bush’s Common Cause</a>
 
-[Latin America Recalibrates After Trump’s Pivot to Russia](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-russia-latin-america-ukraine-talks-brazil-lula-un/)
+39 - <a href='https://www.google.com/search?q=How+Democrats+Can+Win+Arab+American+Voters+Back' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-harris-gaza-arab-vote-michigan-2024/' target='_blank' rel='noopener noreferrer'>How Democrats Can Win Arab American Voters Back</a>
 
-[How Does Uruguay Do It?](https://12ft.io/https://foreignpolicy.com/2025/02/27/uruguay-orsi-inauguration-polarization-populism-democracy-economy/)
+40 - <a href='https://www.google.com/search?q=Latin+America+Recalibrates+After+Trump%E2%80%99s+Pivot+to+Russia' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-russia-latin-america-ukraine-talks-brazil-lula-un/' target='_blank' rel='noopener noreferrer'>Latin America Recalibrates After Trump’s Pivot to Russia</a>
 
-[Trump’s Chaotic Agenda Has a Critical Through Line](https://12ft.io/https://foreignpolicy.com/2025/02/26/trump-rare-earth-critical-mineral-resource-ukraine-greenland-canada/)
+41 - <a href='https://www.google.com/search?q=Will+Trump+Try+to+Tip+the+Scales+in+Latin+America%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-latin-america-elections-brazil-musk-lawsuit/' target='_blank' rel='noopener noreferrer'>Will Trump Try to Tip the Scales in Latin America?</a>
 
-[Trump’s Plan for a Greatly Diminished America](https://12ft.io/https://foreignpolicy.com/2025/02/26/trump-china-russia-virtue-ethics/)
+42 - <a href='https://www.google.com/search?q=America+Is+Locked+in+a+New+Class+War' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/07/class-demographics-trump-harris-election/' target='_blank' rel='noopener noreferrer'>America Is Locked in a New Class War</a>
 
-[America Is Locked in a New Class War](https://12ft.io/https://foreignpolicy.com/2025/01/07/class-demographics-trump-harris-election/)
+43 - <a href='https://www.google.com/search?q=Trump+Is+Ushering+In+a+More+Transactional+World' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/07/trump-transactional-global-system-us-allies-markets-tariffs/' target='_blank' rel='noopener noreferrer'>Trump Is Ushering In a More Transactional World</a>
 
-[Trump Is Ushering In a More Transactional World](https://12ft.io/https://foreignpolicy.com/2025/01/07/trump-transactional-global-system-us-allies-markets-tariffs/)
+44 - <a href='https://www.google.com/search?q=Why+Biden%E2%80%99s+Foreign+Policy+Fell+Short' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/07/biden-foreign-policy-record-failure-success-national-security/' target='_blank' rel='noopener noreferrer'>Why Biden’s Foreign Policy Fell Short</a>
 
-[Why Biden’s Foreign Policy Fell Short](https://12ft.io/https://foreignpolicy.com/2025/01/07/biden-foreign-policy-record-failure-success-national-security/)
+45 - <a href='https://www.google.com/search?q=Isolationism+Won%E2%80%99t+Make+Anyone+Great+Again' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/07/trump-isolationism-globalization-china-competition-manufacturing-tariffs-migration/' target='_blank' rel='noopener noreferrer'>Isolationism Won’t Make Anyone Great Again</a>
 
-[Isolationism Won’t Make Anyone Great Again](https://12ft.io/https://foreignpolicy.com/2025/01/07/trump-isolationism-globalization-china-competition-manufacturing-tariffs-migration/)
+46 - <a href='https://www.google.com/search?q=Does+the+Madman+Theory+Actually+Work%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/07/madman-theory-international-relations-unpredictability/' target='_blank' rel='noopener noreferrer'>Does the Madman Theory Actually Work?</a>
 
-[Does the Madman Theory Actually Work?](https://12ft.io/https://foreignpolicy.com/2025/01/07/madman-theory-international-relations-unpredictability/)
+47 - <a href='https://www.google.com/search?q=How+the+Bulldozer+Became+a+Symbol+of+Modi%E2%80%99s+India' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/07/bulldozer-symbol-modi-india/' target='_blank' rel='noopener noreferrer'>How the Bulldozer Became a Symbol of Modi’s India</a>
 
-[How the Bulldozer Became a Symbol of Modi’s India](https://12ft.io/https://foreignpolicy.com/2025/01/07/bulldozer-symbol-modi-india/)
+48 - <a href='https://www.google.com/search?q=Shooting+an+Elephant+in+Botswana' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/botswana-elephant-hunting-trophy-wildlife-conservation/' target='_blank' rel='noopener noreferrer'>Shooting an Elephant in Botswana</a>
 
-[Samuel Huntington Is Getting His Revenge](https://12ft.io/https://foreignpolicy.com/2025/02/21/samuel-huntington-fukuyama-clash-of-civilizations/)
+49 - <a href='https://www.google.com/search?q=%E2%80%98September+5%E2%80%99+and+the+Pitfalls+of+German+Idealism' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/27/september-5-film-review-oscars-munich-attacks-germany-military-security/' target='_blank' rel='noopener noreferrer'>‘September 5’ and the Pitfalls of German Idealism</a>
 
-[The Bad Economics of Bullying](https://12ft.io/https://foreignpolicy.com/2025/02/21/bad-economics-bullying-diplomacy-tactics-strategy-tariffs/)
+50 - <a href='https://www.google.com/search?q=America%E2%80%99s+Global+Presence+Isn%E2%80%99t+%E2%80%98Soft+Power.%E2%80%99+It%E2%80%99s+a+Superpower.' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/25/usaid-cuts-state-department-doge-ai-us-markets/' target='_blank' rel='noopener noreferrer'>America’s Global Presence Isn’t ‘Soft Power.’ It’s a Superpower.</a>
 
-[Trump and Zelensky Clash at White House](https://12ft.io/https://foreignpolicy.com/projects/trump-presidency-personnel-cabinet-policy-issues/)
+51 - <a href='https://www.google.com/search?q=Trump+Could+Make+China+Great+Again' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/18/trump-us-china-hawks-pivot-asia-pacific-europe-russia-nato/' target='_blank' rel='noopener noreferrer'>Trump Could Make China Great Again</a>
 
-[America’s Global Presence Isn’t ‘Soft Power.’ It’s a Superpower.](https://12ft.io/https://foreignpolicy.com/2025/02/25/usaid-cuts-state-department-doge-ai-us-markets/)
+52 - <a href='https://www.google.com/search?q=What+Trump%E2%80%99s+Gaza+Plan+Means+for+the+World' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/06/trump-gaza-israel-netanyahu-palestinians-egypt-jordan-saudi-arabia/' target='_blank' rel='noopener noreferrer'>What Trump’s Gaza Plan Means for the World</a>
 
-[Trump Could Make China Great Again](https://12ft.io/https://foreignpolicy.com/2025/02/18/trump-us-china-hawks-pivot-asia-pacific-europe-russia-nato/)
+53 - <a href='https://www.google.com/search?q=India+Sees+Opportunities+as+Trump+Jettisons+the+Western+Order' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/18/modi-trump-india-us-china-russia-europe-ukraine/' target='_blank' rel='noopener noreferrer'>India Sees Opportunities as Trump Jettisons the Western Order</a>
 
-[What Trump’s Gaza Plan Means for the World](https://12ft.io/https://foreignpolicy.com/2025/02/06/trump-gaza-israel-netanyahu-palestinians-egypt-jordan-saudi-arabia/)
+54 - <a href='https://www.google.com/search?q=Should+We+Worry+About+DOGE+Controlling+the+U.S.+Payment+System%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/18/doge-musk-us-payment-system-treasury/' target='_blank' rel='noopener noreferrer'>Should We Worry About DOGE Controlling the U.S. Payment System?</a>
 
-[India Sees Opportunities as Trump Jettisons the Western Order](https://12ft.io/https://foreignpolicy.com/2025/02/18/modi-trump-india-us-china-russia-europe-ukraine/)
+55 - <a href='https://www.google.com/search?q=Can+Taiwan%E2%80%99s+Chip+Giant+Make+Nice+With+Trump%3F' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/24/taiwan-tsmc-trump-semiconductors-chips-technology-intel/' target='_blank' rel='noopener noreferrer'>Can Taiwan’s Chip Giant Make Nice With Trump?</a>
 
-[Should We Worry About DOGE Controlling the U.S. Payment System?](https://12ft.io/https://foreignpolicy.com/2025/02/18/doge-musk-us-payment-system-treasury/)
+56 - <a href='https://www.google.com/search?q=FP+Insider+logoSubscribe+for+access+to+exclusive+articles%2C+insights%2C+and+more' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/insider' target='_blank' rel='noopener noreferrer'>FP Insider logoSubscribe for access to exclusive articles, insights, and more</a>
 
-[Can Taiwan’s Chip Giant Make Nice With Trump?](https://12ft.io/https://foreignpolicy.com/2025/02/24/taiwan-tsmc-trump-semiconductors-chips-technology-intel/)
+57 - <a href='https://www.google.com/search?q=A+Short+History+of+Brutalist+Architecture' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/history-architecture-brutalism-world-war-oscars/' target='_blank' rel='noopener noreferrer'>A Short History of Brutalist Architecture</a>
 
-[What Is America’s China Policy?](https://12ft.io/https://foreignpolicy.com/live/trump-america-china-policy/)
+58 - <a href='https://www.google.com/search?q=The+Rise+and+Fall+of+Human+Rights' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/roth-hrw-rise-fall-human-rights/' target='_blank' rel='noopener noreferrer'>The Rise and Fall of Human Rights</a>
 
-[FP Insider logoSubscribe for access to exclusive articles, insights, and more](https://12ft.io/https://foreignpolicy.com/insider)
+59 - <a href='https://www.google.com/search?q=%E2%80%98An+Extraordinary+Act+of+Extortion%E2%80%99' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/25/an-extraordinary-act-of-extortion/' target='_blank' rel='noopener noreferrer'>‘An Extraordinary Act of Extortion’</a>
 
-[A Short History of Brutalist Architecture](https://12ft.io/https://foreignpolicy.com/2025/02/28/history-architecture-brutalism-world-war-oscars/)
+60 - <a href='https://www.google.com/search?q=Samuel+Huntington+Is+Getting+His+Revenge' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/21/samuel-huntington-fukuyama-clash-of-civilizations/' target='_blank' rel='noopener noreferrer'>Samuel Huntington Is Getting His Revenge</a>
 
-[The Rise and Fall of Human Rights](https://12ft.io/https://foreignpolicy.com/2025/02/28/roth-hrw-rise-fall-human-rights/)
+61 - <a href='https://www.google.com/search?q=The+Perils+of+a+Reality+TV+Presidency' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-television-presidency-diplomacy/' target='_blank' rel='noopener noreferrer'>The Perils of a Reality TV Presidency</a>
 
-[‘An Extraordinary Act of Extortion’](https://12ft.io/https://foreignpolicy.com/2025/02/25/an-extraordinary-act-of-extortion/)
+62 - <a href='https://www.google.com/search?q=A+Hopeful+Pope+Francis+Won%E2%80%99t+Be+Silenced' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/14/pope-francis-autobiography-politics-migration-trump-hope-book-review/' target='_blank' rel='noopener noreferrer'>A Hopeful Pope Francis Won’t Be Silenced</a>
 
-[It’s Time for Europe to Do the Unthinkable](https://12ft.io/https://foreignpolicy.com/2025/02/18/europe-eu-nato-us-russia-ukraine/)
+63 - <a href='https://www.google.com/search?q=How+Gaza+Shattered+the+West%E2%80%99s+Mythology' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/07/pankaj-mishra-world-after-gaza-book-israel-war-global-order-history/' target='_blank' rel='noopener noreferrer'>How Gaza Shattered the West’s Mythology</a>
 
-[Samuel Huntington Is Getting His Revenge](https://12ft.io/https://foreignpolicy.com/2025/02/21/samuel-huntington-fukuyama-clash-of-civilizations/)
+64 - <a href='https://www.google.com/search?q=America%E2%80%99s+Economic+Warfare+Is+Sowing+Its+Own+Demise' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/07/chokepoints-edward-fishman-review-us-sanctions-dollar-economic-warfare/' target='_blank' rel='noopener noreferrer'>America’s Economic Warfare Is Sowing Its Own Demise</a>
 
-[How Europe Can Defend Itself](https://12ft.io/https://foreignpolicy.com/2025/02/18/europe-defense-ukraine-trump-vance-munich/)
+65 - <a href='https://www.google.com/search?q=The+Novels+We%E2%80%99re+Reading+in+February' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/07/international-fiction-new-releases-books-ali-smith-gliff-aria-aber-good-girl/' target='_blank' rel='noopener noreferrer'>The Novels We’re Reading in February</a>
 
-[The New Meaning of ‘Munich’](https://12ft.io/https://foreignpolicy.com/2025/02/19/europe-trump-vance-munich-security-conference-russia-ukraine/)
+66 - <a href='https://www.google.com/search?q=How+Great-Power+Rivalry+Hurts+Ordinary+Americans' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/01/31/us-china-rivalry-great-power-competition-economy-democracy/' target='_blank' rel='noopener noreferrer'>How Great-Power Rivalry Hurts Ordinary Americans</a>
 
-[Did America’s Racial Awakening Reach IR Professors?](https://12ft.io/https://foreignpolicy.com/2021/06/25/america-race-racial-justice-george-floyd-protests-international-relations-ir-professors-universities-teaching/)
+67 - <a href='https://www.google.com/search?q=America%E2%80%99s+Zero-Sum+Economics+Doesn%E2%80%99t+Add+Up' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2023/03/24/economy-trade-united-states-china-industry-manufacturing-supply-chains-biden/' target='_blank' rel='noopener noreferrer'>America’s Zero-Sum Economics Doesn’t Add Up</a>
 
-[The Infinite Possibilities of Afrofuturism](https://12ft.io/https://foreignpolicy.com/2023/06/19/afrofuturism-exhibition-dc-smithsonian-museum-nmaahc-review/)
+68 - <a href='https://www.google.com/search?q=Asian+Powers+Set+Their+Strategic+Sights+on+Europe' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2024/07/16/asia-europe-strategy-geopolitics-china-india-russia-ukraine-eu/' target='_blank' rel='noopener noreferrer'>Asian Powers Set Their Strategic Sights on Europe</a>
 
-[The History of Slavery Is All of Our History](https://12ft.io/https://foreignpolicy.com/2022/09/06/ghana-elmina-castle-history-slavery-james-sweet-presentism-controversy/)
+69 - <a href='https://www.google.com/search?q=A+Day+Inside+Putin%E2%80%99s+Surreal+Television+Empire' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2023/05/28/russia-ukraine-war-putin-propaganda-news-media-television/' target='_blank' rel='noopener noreferrer'>A Day Inside Putin’s Surreal Television Empire</a>
 
-[7 Books on Black History and Foreign Policy Everyone Should Read](https://12ft.io/https://foreignpolicy.com/2022/02/01/black-history-foreign-policy-international-relations/)
+70 - <a href='https://www.google.com/search?q=The+China-Russia+Axis+Takes+Shape' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2023/09/11/china-russia-alliance-cooperation-brics-sco-economy-military-war-ukraine-putin-xi/' target='_blank' rel='noopener noreferrer'>The China-Russia Axis Takes Shape</a>
 
-[A Hopeful Pope Francis Won’t Be Silenced](https://12ft.io/https://foreignpolicy.com/2025/02/14/pope-francis-autobiography-politics-migration-trump-hope-book-review/)
+71 - <a href='https://www.google.com/search?q=No%2C+the+World+Is+Not+Multipolar' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2023/09/22/multipolar-world-bipolar-power-geopolitics-business-strategy-china-united-states-india/' target='_blank' rel='noopener noreferrer'>No, the World Is Not Multipolar</a>
 
-[How Gaza Shattered the West’s Mythology](https://12ft.io/https://foreignpolicy.com/2025/02/07/pankaj-mishra-world-after-gaza-book-israel-war-global-order-history/)
+72 - <a href='https://www.google.com/search?q=6+Swing+States+Will+Decide+the+Future+of+Geopolitics' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2023/06/06/geopolitics-global-south-middle-powers-swing-states-india-brazil-turkey-indonesia-saudi-arabia-south-africa/' target='_blank' rel='noopener noreferrer'>6 Swing States Will Decide the Future of Geopolitics</a>
 
-[America’s Economic Warfare Is Sowing Its Own Demise](https://12ft.io/https://foreignpolicy.com/2025/02/07/chokepoints-edward-fishman-review-us-sanctions-dollar-economic-warfare/)
-
-[The Novels We’re Reading in February](https://12ft.io/https://foreignpolicy.com/2025/02/07/international-fiction-new-releases-books-ali-smith-gliff-aria-aber-good-girl/)
-
-[How Great-Power Rivalry Hurts Ordinary Americans](https://12ft.io/https://foreignpolicy.com/2025/01/31/us-china-rivalry-great-power-competition-economy-democracy/)
-
-[Don’t Talk About the War](https://12ft.io/https://foreignpolicy.com/2025/01/24/germany-olaf-scholz-war-strategy-russia-ukraine-nato/)
-
-[America’s Zero-Sum Economics Doesn’t Add Up](https://12ft.io/https://foreignpolicy.com/2023/03/24/economy-trade-united-states-china-industry-manufacturing-supply-chains-biden/)
-
-[Asian Powers Set Their Strategic Sights on Europe](https://12ft.io/https://foreignpolicy.com/2024/07/16/asia-europe-strategy-geopolitics-china-india-russia-ukraine-eu/)
-
-[A Day Inside Putin’s Surreal Television Empire](https://12ft.io/https://foreignpolicy.com/2023/05/28/russia-ukraine-war-putin-propaganda-news-media-television/)
-
-[The China-Russia Axis Takes Shape](https://12ft.io/https://foreignpolicy.com/2023/09/11/china-russia-alliance-cooperation-brics-sco-economy-military-war-ukraine-putin-xi/)
-
-[No, the World Is Not Multipolar](https://12ft.io/https://foreignpolicy.com/2023/09/22/multipolar-world-bipolar-power-geopolitics-business-strategy-china-united-states-india/)
-
-[6 Swing States Will Decide the Future of Geopolitics](https://12ft.io/https://foreignpolicy.com/2023/06/06/geopolitics-global-south-middle-powers-swing-states-india-brazil-turkey-indonesia-saudi-arabia-south-africa/)
-
-[The Mood on the Front Line, Three Years On](https://12ft.io/https://foreignpolicy.com/2025/02/19/ukraine-russia-war-trump-peace-negotiations-minerals/)
-
-[Trump’s Angry Meeting With Zelensky Prompts Reactions Worldwide](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-white-house-meeting-ukraine-global-reaction/?tpcc=recirc_latest062921)
-
-[White House Talks Between Trump, Zelensky Collapse](https://12ft.io/https://foreignpolicy.com/2025/02/28/zelensky-trump-oval-office-meeting-critical-minerals-peace-talks-russia-ukraine-war/?tpcc=recirc_latest062921)
-
-[Shooting an Elephant in Botswana](https://12ft.io/https://foreignpolicy.com/2025/02/28/botswana-elephant-hunting-trophy-wildlife-conservation/?tpcc=recirc_latest062921)
-
-[Read Trump and Zelensky’s Fiery Oval Office Exchange](https://12ft.io/https://foreignpolicy.com/2025/02/28/trump-zelensky-meeting-transcript-full-text-video-oval-office/?tpcc=recirc_latest062921)
-
-[Back to Foreign Policy Magazine home page](https://12ft.io/https://foreignpolicy.com/)
-
-</details>
-
-# Euronews
-
-<details>
-<summary>View Articles</summary>
-<br>
-
-[Radio SchumanThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with relevant news, insights, and behind-the-scenes from Brussels and beyond.](https://12ft.io/https://www.euronews.com/my-europe/europe-news/radio-schuman)
-
-[My Wildest PredictionDare to imagine the future with business and tech visionaries](https://12ft.io/https://www.euronews.com/business/business-series/my-wildest-prediction)
-
-[The Big QuestionDeep dive conversations with business leaders](https://12ft.io/https://www.euronews.com/business/business-series/the-big-question)
-
-[Euronews Tech TalksEuronews Tech Talks goes beyond discussions to explore the impact of new technologies on our lives. With explanations, engaging Q&As, and lively conversations, the podcast provides valuable insights into the intersection of technology and society.](https://12ft.io/https://www.euronews.com/next/next-series/euronews-tech-talks)
-
-[Water MattersEurope's water is under increasing pressure. Pollution, droughts, floods are taking their toll on our drinking water, lakes, rivers and coastlines. Join us on a journey around Europe to see why protecting ecosystems matters, how our wastewater can be better managed, and to discover some of the best water solutions.   Video reports, an animated explainer series and live debate - find out why Water Matters, from Euronews.](https://12ft.io/https://www.euronews.com/green/green-series/water-matters)
-
-[Climate NowWe give you the latest climate facts from the world’s leading source, analyse the trends and explain how our planet is changing. We meet the experts on the front line of climate change who explore new strategies to mitigate and adapt.](https://12ft.io/https://www.euronews.com/green/green-series/climate-now)
-
-[Italy – Heritage & Horizons](https://12ft.io/https://www.euronews.com/partnercontent/enit/italy-heritage-and-horizons/EN-index.html)
-
-[Radio SchumanThis is Radio Schuman, your new go-to podcast to spice up your weekday mornings with relevant news, insights, and behind-the-scenes from Brussels and beyond.](https://12ft.io/https://www.euronews.com/my-europe/europe-news/radio-schuman)
-
-[My Wildest PredictionDare to imagine the future with business and tech visionaries](https://12ft.io/https://www.euronews.com/business/business-series/my-wildest-prediction)
-
-[The Big QuestionDeep dive conversations with business leaders](https://12ft.io/https://www.euronews.com/business/business-series/the-big-question)
-
-[Euronews Tech TalksEuronews Tech Talks goes beyond discussions to explore the impact of new technologies on our lives. With explanations, engaging Q&As, and lively conversations, the podcast provides valuable insights into the intersection of technology and society.](https://12ft.io/https://www.euronews.com/next/next-series/euronews-tech-talks)
-
-[Water MattersEurope's water is under increasing pressure. Pollution, droughts, floods are taking their toll on our drinking water, lakes, rivers and coastlines. Join us on a journey around Europe to see why protecting ecosystems matters, how our wastewater can be better managed, and to discover some of the best water solutions.   Video reports, an animated explainer series and live debate - find out why Water Matters, from Euronews.](https://12ft.io/https://www.euronews.com/green/green-series/water-matters)
-
-[Climate NowWe give you the latest climate facts from the world’s leading source, analyse the trends and explain how our planet is changing. We meet the experts on the front line of climate change who explore new strategies to mitigate and adapt.](https://12ft.io/https://www.euronews.com/green/green-series/climate-now)
-
-[Italy – Heritage & Horizons](https://12ft.io/https://www.euronews.com/partnercontent/enit/italy-heritage-and-horizons/EN-index.html)
+73 - <a href='https://www.google.com/search?q=The+Mood+on+the+Front+Line%2C+Three+Years+On' target='_blank' rel='noopener noreferrer'>Search - </a> <a href='https://12ft.io/https://foreignpolicy.com/2025/02/19/ukraine-russia-war-trump-peace-negotiations-minerals/' target='_blank' rel='noopener noreferrer'>The Mood on the Front Line, Three Years On</a>
 
 </details>
 
