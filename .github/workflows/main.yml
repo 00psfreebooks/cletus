@@ -43,6 +43,8 @@ jobs:
       - name: Deploy Hugo Site to Published Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
+          personal_token: ${{ secrets.BUILD_TOKEN }}
+          external_repository: 00psfreebooks/cletus
           publish_dir: ./public
           publish_branch: published
 
