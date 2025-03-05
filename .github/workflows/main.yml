@@ -93,6 +93,7 @@ jobs:
       - name: Deploy posts to links branch to use as history
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.BUILD_TOKEN }}
+          external_repository: 00psfreebooks/cletus
           publish_dir: ./content/posts/
           publish_branch: links
