@@ -30,8 +30,8 @@ jobs:
 
       - name: Set Morning or Evening Variable
         run: |
-          HOUR_UTC=$(date -u +"%H")
-          HOUR_EST=$(( (HOUR_UTC - 5 + 24) % 24 ))  # Convert UTC to EST (UTC-5)
+          # Set the timezone to EST (or EDT during daylight savings)
+          HOUR_EST=$(TZ="America/New_York" date +"%H")
           if [ "$HOUR_EST" -lt 12 ]; then
             echo "MORNING_RUN=true" >> $GITHUB_ENV
           else
