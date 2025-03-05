@@ -6,10 +6,10 @@ To-do:
 	- [x] basic parsing check
 	- [ ] availability check (response code)
 	- [x] blacklist check
-	- [ ] history check
+	- [x] history check
 - [ ] make website
 	- [x] categories
 	- [x] website drop downs
 	- [x] option to search headline
 	- [ ] website search  
-- [ ] blacklist helper
+- [x] blacklist helper
