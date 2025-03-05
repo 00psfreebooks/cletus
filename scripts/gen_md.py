@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 from datetime import datetime
 
 # Define the function to generate markdown files from json data
-def generate_markdown_from_json(mor_prefix, json_dir, output_dir):
+def generate_markdown_from_json(morning_run, json_dir, output_dir):
     # Get all json files from the directory
     json_files = [f for f in os.listdir(json_dir) if f.endswith('.json')]
 
@@ -21,10 +21,13 @@ def generate_markdown_from_json(mor_prefix, json_dir, output_dir):
         # Get today's date
         today_date = datetime.today().strftime('%Y-%m-%d')
 
+        # Determine if articles are from the mornin or evening
+        title_mor_suffix = "MOR" if morning_run else "EVE"
+
         # Initialize the markdown content
         markdown_content = f"+++ \n" \
                            f"author = \"cletus\"\n" \
-                           f"title = \"{category} - {today_date}\"\n" \
+                           f"title = \"{category} - {today_date} - {title_mor_suffix}\"\n" \
                            f"date = \"{today_date}\"\n" \
                            f"description = \"{category} news for today\"\n" \
                            f"tags = [\n" \
@@ -62,6 +65,7 @@ def generate_markdown_from_json(mor_prefix, json_dir, output_dir):
         os.makedirs(output_dir, exist_ok=True)
         
         # Create the output markdown file with UTF-8 encoding
+        mor_prefix = "mor_" if morning_run else "eve_"
         output_file_path = os.path.join(output_dir, f"{mor_prefix}{category}_{today_date}.md")
         with open(output_file_path, 'w', encoding='utf-8') as output_file:
             output_file.write(markdown_content)

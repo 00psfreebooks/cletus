@@ -14,7 +14,6 @@ from history_handle import history_check, clean_history
 # Get the MORNING_RUN environment variable
 # export MORNING_RUN=$( [ $(date +%H) -lt 12 ] && echo "true" || echo "false" )
 morning_run = os.getenv("MORNING_RUN", "false").lower() == "true"
-mor_prefix = "mor_" if morning_run else "eve_"
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -214,7 +213,7 @@ def main():
     print("\n\nGenerating markdown files...")
     json_directory = 'tmp_json'
     output_directory = 'content/posts'
-    generate_markdown_from_json(mor_prefix, json_directory, output_directory)
+    generate_markdown_from_json(morning_run, json_directory, output_directory)
     print("Markdown files generated successfully!")
         
 if __name__ == "__main__":
