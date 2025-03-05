@@ -11,7 +11,6 @@ FILENAME_PATTERN = re.compile(r".*_(\d{4})_(\d{2})_(\d{2})\.md")
 # Define how many days old a file should be before deletion
 DAYS_THRESHOLD = 10
 
-
 def history_check(search_string):
     """Searches for a string in all markdown files in POSTS_DIR.
     

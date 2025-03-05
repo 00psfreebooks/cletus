@@ -38,6 +38,29 @@ jobs:
             echo "MORNING_RUN=false" >> $GITHUB_ENV
           fi
 
+      - name: Download published branch
+        uses: wei/wget@v1
+        with:
+          args: https://github.com/00psfreebooks/cletus/archive/refs/heads/links.zip
+        continue-on-error: true
+
+      - name: Check if download succeeded
+        run: |
+          if [ ! -f links.zip ]; then
+            echo "Download failed, skipping extraction."
+            exit 0  # Exit the step, but don't stop the whole action
+          fi
+
+      - name: Unzip published branch
+        run: |
+            unzip -q links.zip
+        continue-on-error: true  # This ensures the action continues even if unzip fails
+
+      - name: Move links to content/posts/ dir 
+        run: |
+          mkdir -p content/posts/
+          mv cletus-links/*.md content/posts/
+
       - name: Run get_links.py
         run: python scripts/get_links.py  # Generates JSON files in tmp_json/
         env:
@@ -62,3 +85,10 @@ jobs:
           external_repository: 00psfreebooks/cletus
           publish_dir: ./public
           publish_branch: published
+
+      - name: Deploy posts to links branch to use as history
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./content/posts/
+          publish_branch: links
