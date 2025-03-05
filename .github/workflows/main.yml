@@ -58,8 +58,12 @@ jobs:
 
       - name: Move links to content/posts/ dir 
         run: |
-          mkdir -p content/posts/
-          mv cletus-links/*.md content/posts/
+          mkdir -p content/posts/  # Ensure the content/posts/ directory exists
+          if [ -d "cletus-links" ]; then
+            mv cletus-links/*.md content/posts/  # Move .md files from the extracted folder
+          else
+            echo "Directory 'cletus-links' does not exist, skipping move."
+          fi
 
       - name: Run get_links.py
         run: python scripts/get_links.py  # Generates JSON files in tmp_json/
