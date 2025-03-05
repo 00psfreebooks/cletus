@@ -67,7 +67,7 @@ def generate_markdown_from_json(morning_run, json_dir, output_dir):
         # Create the output markdown file with UTF-8 encoding
         mor_prefix = "mor_" if morning_run else "eve_"
         output_file_path = os.path.join(output_dir, f"{mor_prefix}{category}_{today_date}.md")
-        if not os.file.exists(output_file_path):
+        if not os.path.exists(output_file_path):
             with open(output_file_path, 'w', encoding='utf-8') as output_file:
                 output_file.write(markdown_content)
         else:

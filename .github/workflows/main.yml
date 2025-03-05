@@ -54,7 +54,7 @@ jobs:
       - name: Unzip published branch
         run: |
             unzip -q links.zip
-        continue-on-error: true  # This ensures the action continues even if unzip fails
+        continue-on-error: true
 
       - name: Move links to content/posts/ dir 
         run: |
