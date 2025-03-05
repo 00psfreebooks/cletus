@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 from datetime import datetime
 
 # Define the function to generate markdown files from json data
-def generate_markdown_from_json(json_dir, output_dir):
+def generate_markdown_from_json(mor_prefix, json_dir, output_dir):
     # Get all json files from the directory
     json_files = [f for f in os.listdir(json_dir) if f.endswith('.json')]
 
@@ -60,9 +60,9 @@ def generate_markdown_from_json(json_dir, output_dir):
 
         # Ensure the output directory exists
         os.makedirs(output_dir, exist_ok=True)
-
+        
         # Create the output markdown file with UTF-8 encoding
-        output_file_path = os.path.join(output_dir, f"{category}.md")
+        output_file_path = os.path.join(output_dir, f"{mor_prefix}{category}_{today_date}.md")
         with open(output_file_path, 'w', encoding='utf-8') as output_file:
             output_file.write(markdown_content)
 

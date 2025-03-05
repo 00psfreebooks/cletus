@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '45 9,21 * * *'  # 9:45 AM and 9:45 PM UTC every day (5:45am and pm EST)
+    - cron: '45 9,21 * * *'  # 9:45 AM and 9:45 PM UTC every day (5:45 AM and 5:45 PM EST)
 
 jobs:
   deploy:
@@ -28,8 +28,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
+      - name: Set Morning or Evening Variable
+        run: |
+          HOUR_UTC=$(date -u +"%H")
+          HOUR_EST=$(( (HOUR_UTC - 5 + 24) % 24 ))  # Convert UTC to EST (UTC-5)
+          if [ "$HOUR_EST" -lt 12 ]; then
+            echo "MORNING_RUN=true" >> $GITHUB_ENV
+          else
+            echo "MORNING_RUN=false" >> $GITHUB_ENV
+          fi
+
       - name: Run get_links.py
         run: python scripts/get_links.py  # Generates JSON files in tmp_json/
+        env:
+          MORNING_RUN: ${{ env.MORNING_RUN }}
+
+      - name: Cleanup Temporary Folders
+        run: rm -rf tmp_json tmp_html
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -47,29 +62,3 @@ jobs:
           external_repository: 00psfreebooks/cletus
           publish_dir: ./public
           publish_branch: published
-
-      - name: Commit JSON Files to Links History Branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.BUILD_TOKEN }}
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-
-          # Ensure branch exists
-          git fetch origin links_history || git checkout -b links_history
-          git checkout links_history
-
-          # Copy generated JSON files
-          mkdir -p json_temp
-          cp tmp_json/*.json . 2>/dev/null || echo "No JSON files found."
-
-          # Force add JSON files even if ignored
-          git add -f *.json
-          git commit -m "Update JSON files in links_history" || echo "No changes to commit"
-
-          # Set remote to use token authentication
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/00psfreebooks/cletus.git
-          git push origin links_history
-
-      - name: Cleanup Temporary Folders
-        run: rm -rf tmp_json tmp_html

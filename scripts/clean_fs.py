@@ -11,13 +11,13 @@ def clean_fs():
         for d in paths_to_remove:
             dir_path = os.path.join(root, d)
             if os.path.isdir(dir_path):
-                #print(f"Deleting directory: {dir_path}")
+                print(f"Deleting directory: {dir_path}")
                 shutil.rmtree(dir_path, ignore_errors=True)
         
         # Remove matching file
         file_path = os.path.join(root, file_to_remove)
         if os.path.isfile(file_path):
-            #print(f"Deleting file: {file_path}")
+            print(f"Deleting file: {file_path}")
             os.remove(file_path)
 
 if __name__ == "__main__":

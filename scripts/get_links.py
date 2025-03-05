@@ -8,6 +8,13 @@ from datetime import datetime, timedelta
 from links_dicts import link_dictionaries  # Importing link dictionaries from links_dict.py
 from gen_md import generate_markdown_from_json
 from handle_blacklists import is_blacklisted, clean_blacklists
+from history_handle import history_check, clean_history
+
+
+# Get the MORNING_RUN environment variable
+# export MORNING_RUN=$( [ $(date +%H) -lt 12 ] && echo "true" || echo "false" )
+morning_run = os.getenv("MORNING_RUN", "false").lower() == "true"
+mor_prefix = "mor_" if morning_run else "eve_"
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -99,6 +106,9 @@ def extract_hyperlinks(filename, base_url, links, blacklists_dir):
                     if is_blacklisted(href, blacklists_dir):  # Check if the link is in the blacklist
                         continue  # Skip blacklisted links
 
+                    if history_check(href) or history_check(text): # check if link exists in history (older markdown files)
+                        continue
+
                     # Add the link
                     links_data[name].append({
                         "date": datetime.now().strftime("%Y-%m-%d"),
@@ -158,9 +168,19 @@ def save_links(links_data, category_name):
 skipped_sources = []
 
 def main():
+
+    if morning_run:
+        print("Running in the Morning...")
+    else:
+        print("Running in the Evening...")
+
     print("Cleaning blacklists...")
     clean_blacklists
     print("Blacklist cleaned...")
+
+    print("Cleaning old history...")
+    clean_history
+    print("Old history cleaned...")
 
     os.makedirs('tmp_json', exist_ok=True)
     # Loop through the link dictionaries imported from links_dict.py
@@ -194,7 +214,7 @@ def main():
     print("\n\nGenerating markdown files...")
     json_directory = 'tmp_json'
     output_directory = 'content/posts'
-    generate_markdown_from_json(json_directory, output_directory)
+    generate_markdown_from_json(mor_prefix, json_directory, output_directory)
     print("Markdown files generated successfully!")
         
 if __name__ == "__main__":
