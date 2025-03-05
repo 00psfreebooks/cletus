@@ -44,13 +44,6 @@ jobs:
           args: https://github.com/00psfreebooks/cletus/archive/refs/heads/links.zip
         continue-on-error: true
 
-      - name: Check if download succeeded
-        run: |
-          if [ ! -f links.zip ]; then
-            echo "Download failed, skipping extraction."
-            exit 0  # Exit the step, but don't stop the whole action
-          fi
-
       - name: Unzip published branch
         run: |
             unzip -q links.zip

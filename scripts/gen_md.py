@@ -71,7 +71,7 @@ def generate_markdown_from_json(morning_run, json_dir, output_dir):
             with open(output_file_path, 'w', encoding='utf-8') as output_file:
                 output_file.write(markdown_content)
         else:
-            print(f"Skipping {output_file}, exists...")
+            print(f"Skipping {output_file_path}, exists...")
 
 # Set the paths to your json directory and output markdown directory
 json_directory = 'tmp_json'
